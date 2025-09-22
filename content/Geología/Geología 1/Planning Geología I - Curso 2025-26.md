@@ -1,5 +1,16 @@
 ---
-dg-publish: true
+title: "Planificación Geología I - Curso 2025-26"
+draft: false
+tags:
+    - geologia-1
+    - primero-1-geologia-1
+    - importancia-5
+    - nivel-basico
+    - concepto-central
+    - planificacion
+    - cronograma
+    - organizacion
+---
 
 ## 🎯 Fechas de Examen
 
