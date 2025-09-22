@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **icebergs** son **bloques de [[hielo]] flotante** que se desprenden de [[glaciares]] o plataformas heladas (calving).
 

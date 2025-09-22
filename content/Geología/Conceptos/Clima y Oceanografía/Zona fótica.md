@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **zona fótica** es la capa superficial de océanos, mares y lagos donde penetra la **[[Luz solar]]** suficiente para permitir la [[fotosíntesis]].
 

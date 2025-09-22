@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **plumas mantélicas** son columnas ascendentes de rocas calientes que se originan en profundidad, desde la [[capa D”]], atravesando el [[manto]] hasta la [[litosfera]].
 

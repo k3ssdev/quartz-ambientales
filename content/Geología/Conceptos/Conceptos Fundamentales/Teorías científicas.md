@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Una **teoría científica** es una explicación fundamentada de fenómenos naturales, basada en observaciones, experimentación y validación repetida.
 

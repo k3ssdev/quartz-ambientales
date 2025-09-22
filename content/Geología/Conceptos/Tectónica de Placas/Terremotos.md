@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **terremotos** son movimientos bruscos de la [[Litosfera]] producidos por liberación de energía acumulada en fallas. Características:
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **agujeros negros** son regiones del espacio-tiempo con una gravedad tan intensa que nada puede escapar, ni siquiera la luz.
 

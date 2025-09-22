@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 title: "Tectónica de placas"
 aliases: ["Teoría de placas tectónicas", "Tectónica global"]

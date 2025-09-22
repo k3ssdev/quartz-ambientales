@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **corteza continental** es la parte de la [[Corteza]] que forma los [[Continentes]]. Características:
 

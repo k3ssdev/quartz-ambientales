@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La división del **[[tiempo geológico]]** se organiza de forma **jerárquica** en intervalos que permiten ubicar los principales acontecimientos de la [[Historia geológica]] y de la [[Evolución de la vida]].
 

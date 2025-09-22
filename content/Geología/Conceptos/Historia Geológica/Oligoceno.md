@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Oligoceno** es la tercera **época del [[Paleógeno]]**, que abarca desde **34 Ma hasta 23 Ma**.
 Marca el inicio del enfriamiento cenozoico y importantes cambios faunísticos.

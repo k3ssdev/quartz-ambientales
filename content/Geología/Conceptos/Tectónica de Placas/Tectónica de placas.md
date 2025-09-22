@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **tectónica de placas** es la teoría científica moderna que explica la dinámica de la [[Litosfera]]. Ideas clave:
 

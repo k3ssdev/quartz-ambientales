@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Devónico** es el cuarto **período del [[Paleozoico]]**, que abarca desde **419 Ma hasta 359 Ma**.
 Conocido como la "Edad de los Peces" por la gran diversificación de vertebrados acuáticos.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **manto superior** es la capa del [[manto]] situada entre la [[corteza]] y ~660 km de profundidad.
 

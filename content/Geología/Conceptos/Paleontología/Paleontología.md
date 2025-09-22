@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **paleontología** estudia los [[Fósiles]] y la [[Evolución de la vida]]. Utilidad:
 

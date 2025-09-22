@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **gabro** es una [[Roca ígnea]] **intrusiva**, equivalente al [[Basalto]] pero formado en profundidad.
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **estratos** son capas horizontales de [[Rocas sedimentarias]] depositadas a lo largo del tiempo. Principios:
 

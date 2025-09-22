@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **corteza** es la capa más superficial de la [[Geosfera]].
 

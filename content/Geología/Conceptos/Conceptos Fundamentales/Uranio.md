@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **uranio** es un elemento radiactivo fundamental para la [[datación absoluta]]. ##Isótopos principales
 

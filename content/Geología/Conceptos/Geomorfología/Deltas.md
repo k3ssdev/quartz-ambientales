@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Un **delta** es una **formación sedimentaria** triangular que se crea en la desembocadura de un [[Río]] cuando los sedimentos transportados se acumulan al entrar en un [[Océano]], [[Mar]] o [[Lago]].
 

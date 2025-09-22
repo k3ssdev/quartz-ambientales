@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **montes oceánicos** son elevaciones submarinas aisladas, generadas por [[Volcanismo]] en el fondo de los [[Océanos]].
 

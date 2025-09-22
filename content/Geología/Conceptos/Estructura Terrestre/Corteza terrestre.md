@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **corteza terrestre** es la capa externa sólida de la [[Tierra]], la más delgada de sus capas, situada sobre el [[Manto]].
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **cambio climático** se refiere a las variaciones a largo plazo en el clima de la [[Tierra]], muchas veces aceleradas por la actividad humana (uso de combustibles fósiles, deforestación). ## Consecuencias geológicas y ambientales
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **llanuras abisales** son las zonas más extensas y planas del fondo de los [[Océanos]].
 

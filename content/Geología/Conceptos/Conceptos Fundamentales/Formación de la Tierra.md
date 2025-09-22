@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **formación de la [[Tierra]]** ocurrió hace unos **4.600 millones de años** a partir del colapso de una [[nebulosa]] solar. ##Procesos clave
 

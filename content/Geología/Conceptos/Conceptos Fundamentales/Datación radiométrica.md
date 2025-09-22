@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **datación radiométrica** es un método de [[datación absoluta]] que determina la edad de rocas y restos midiendo la desintegración de [[Isótopos radiactivos]]. ##Principio
 

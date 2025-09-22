@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El principio de **sucesión faunística** establece que los distintos grupos de [[Fósiles]] aparecen y se extinguen en un orden definido y reconocible en las capas de [[Estratos]].
 

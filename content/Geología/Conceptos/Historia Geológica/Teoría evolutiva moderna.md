@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **teoría evolutiva moderna** (o **síntesis evolutiva moderna**) une la [[Evolución biológica]] por **selección natural** propuesta por [[Charles Darwin]] con los descubrimientos de la [[genética]] del siglo XX.
 

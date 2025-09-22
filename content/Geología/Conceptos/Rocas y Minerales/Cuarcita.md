@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **cuarcita** es una [[Roca metamórfica]] de origen no foliado, formada por la **recristalización de [[arenisca]] cuarzosa**.
 

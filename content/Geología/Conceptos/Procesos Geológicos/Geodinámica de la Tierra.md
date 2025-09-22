@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 --- La **geodinámica de la Tierra** comprende todos los procesos que modifican la [[superficie terrestre]] y su interior. Se divide en: ##Geodinámica interna
 

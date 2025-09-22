@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **hielo** es agua en estado sólido que desempeña un papel clave como agente geológico.
 

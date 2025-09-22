@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **núcleo** es la capa más interna de la [[Geosfera]], formado principalmente por hierro y níquel.
 

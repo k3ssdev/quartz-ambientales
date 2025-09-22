@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **astronomía** es la ciencia que estudia los cuerpos celestes, su dinámica y evolución.
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **convección mantélica** es el movimiento lento pero constante del [[manto]] sólido debido a la transferencia de [[calor]] desde el [[núcleo]] hacia la superficie.
 

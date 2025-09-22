@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **hematita** es un [[Minerales]] compuesto por óxido de hierro (Fe₂O₃).
 

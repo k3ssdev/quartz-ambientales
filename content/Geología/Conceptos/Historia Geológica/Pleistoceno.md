@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Pleistoceno** es la primera época del [[Cuaternario]], dentro del [[Cenozoico]], que transcurrió entre **2,58 Ma y 11.700 años**.
 

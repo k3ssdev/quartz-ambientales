@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **feldespatos** son un grupo de **[[Minerales]] silicatos** que forman aproximadamente el **60 % de la [[Corteza terrestre]]**.
 

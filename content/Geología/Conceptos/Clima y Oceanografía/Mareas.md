@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **mareas** son oscilaciones periódicas del nivel del mar, generadas por la atracción gravitatoria del [[Sol]] y la [[Luna]]. Tipos:
 

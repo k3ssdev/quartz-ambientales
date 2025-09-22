@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Paleoceno** es la primera **época del [[Paleógeno]]**, que abarca desde **66 Ma hasta 56 Ma**.
 Representa la recuperación inicial de la vida tras la extinción K-Pg.

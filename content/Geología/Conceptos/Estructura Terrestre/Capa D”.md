@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **capa D”** es una delgada zona de transición en la base del [[manto]], justo sobre el [[núcleo externo]].
 

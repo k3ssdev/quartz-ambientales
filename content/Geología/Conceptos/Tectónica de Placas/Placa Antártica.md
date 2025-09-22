@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **placa Antártica** es una gran [[Placas tectónicas]] que cubre el continente de la Antártida y parte del océano circundante.
 

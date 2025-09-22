@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **meandros** son curvas pronunciadas en el curso de un [[Río]], formadas por la [[Erosión fluvial]] en un margen y la deposición de [[Sedimentos]] en el opuesto.
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **corteza oceánica** forma el fondo de los [[Océanos]].
 

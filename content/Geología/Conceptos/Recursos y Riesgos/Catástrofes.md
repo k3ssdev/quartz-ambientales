@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **catástrofes** son eventos naturales abruptos y de gran magnitud que producen cambios drásticos en el [[medio ambiente]]. ##Ejemplos
 

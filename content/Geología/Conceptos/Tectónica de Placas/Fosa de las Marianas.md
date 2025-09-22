@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **fosa de las Marianas** es la depresión oceánica más profunda de la [[Tierra]], situada en el noroeste del [[Océano Pacífico]].
 

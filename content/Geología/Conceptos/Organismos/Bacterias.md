@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **bacterias** constituyen uno de los tres dominios de la vida, formado por microorganismos procariotas ubicuos y fundamentales para los ecosistemas terrestres.###Estructura celular
 - **Procariotas**: sin núcleo definido.

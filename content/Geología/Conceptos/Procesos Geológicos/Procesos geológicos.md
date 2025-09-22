@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **procesos geológicos** son los fenómenos naturales que modifican la estructura, forma y dinámica de la [[Tierra]], tanto en su interior como en la superficie.
 

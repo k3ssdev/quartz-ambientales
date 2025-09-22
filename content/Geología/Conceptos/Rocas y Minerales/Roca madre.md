@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **roca madre** es el material geológico a partir del cual se forma el [[Suelo]] mediante los [[procesos pedogenéticos]].
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Conjunto de la vida que habita la [[Tierra]]. Se distribuye en atmósfera, [[Hidrosfera]] y [[Geosfera]]. Relación:
 - Cambia el [[Ciclo del carbono]]. - Afecta a la meteorización de rocas. - Está condicionada por [[Riesgos naturales]] y cambios climáticos.

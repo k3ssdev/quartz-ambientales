@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **rocas metamórficas** son aquellas que resultan de la **transformación de rocas preexistentes** (ígneas, sedimentarias o incluso metamórficas previas) bajo condiciones de **temperatura, presión y/o fluidos**, sin llegar a la fusión.
 

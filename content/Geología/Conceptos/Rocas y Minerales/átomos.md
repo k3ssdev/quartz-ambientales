@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **átomos** son las unidades básicas de la materia, compuestos por:
 

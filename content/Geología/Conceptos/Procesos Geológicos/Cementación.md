@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **cementación** es un proceso de **diagénesis** que ocurre cuando **minerales disueltos en agua precipitan entre los granos de sedimento**, uniendo las partículas para formar [[Roca sedimentaria]].
 

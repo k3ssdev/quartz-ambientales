@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Doctrina geológica de los siglos XVII-XVIII. Sostenía que las formas terrestres (montañas, valles) se habían originado por **grandes catástrofes rápidas y violentas**. Ejemplos: creación del relieve en diluvios o grandes erupciones. Contraste: [[Uniformismo]].
 

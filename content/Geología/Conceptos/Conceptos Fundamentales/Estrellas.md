@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **estrellas** son cuerpos celestes formados principalmente por [[hidrógeno]] y [[Helio]], que generan energía a través de **fusión nuclear**.
 

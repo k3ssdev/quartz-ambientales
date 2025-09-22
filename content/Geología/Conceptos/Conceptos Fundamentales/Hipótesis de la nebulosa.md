@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **hipótesis de la nebulosa** explica la [[formación del sistema solar]] y de la [[Tierra]]. ##Proceso
 

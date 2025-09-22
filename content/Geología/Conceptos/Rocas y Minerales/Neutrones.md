@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **neutrones** son partículas subatómicas sin carga, presentes en el núcleo de los [[átomos]].
 

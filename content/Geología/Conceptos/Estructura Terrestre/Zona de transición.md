@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **zona de transición** es la región situada entre el [[Manto superior]] y el [[Manto inferior]], a profundidades aproximadas de 410–660 km.
 

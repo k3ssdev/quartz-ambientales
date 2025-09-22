@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **supernovas** son explosiones estelares que marcan el final de la vida de estrellas masivas.
 

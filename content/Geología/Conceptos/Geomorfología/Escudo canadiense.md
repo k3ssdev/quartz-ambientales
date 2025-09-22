@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **escudo canadiense** es una región de la [[Corteza continental]] muy antigua situada en Canadá. Características:
 

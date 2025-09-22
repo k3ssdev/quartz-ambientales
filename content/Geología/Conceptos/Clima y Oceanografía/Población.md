@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **población** hace referencia al conjunto de individuos de una especie que ocupan un mismo espacio en un determinado tiempo. ##En geología y medio ambiente
 

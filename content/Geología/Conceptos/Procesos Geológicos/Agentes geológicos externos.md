@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **agentes geológicos externos** son las fuerzas y procesos que actúan en la [[Superficie terrestre]], impulsados por la [[Energía solar]] y la [[Gravedad]].
 

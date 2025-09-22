@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **fallas** son **fracturas en la [[Corteza terrestre]]** donde ha existido desplazamiento relativo de los bloques rocosos.
 

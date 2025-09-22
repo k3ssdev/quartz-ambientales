@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **basalto** es una roca [[Roca ígnea]] **extrusiva**, formada en la superficie por enfriamiento rápido del [[Magma]]. Características:
 

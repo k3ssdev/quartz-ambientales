@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **historia geológica** es la reconstrucción del pasado de la [[Tierra]], basada en el estudio de los [[Estratos]], los [[Fósiles]] y el [[Tiempo geológico]].
 

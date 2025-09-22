@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **nebulosas** son grandes nubes de gas y polvo interestelar, restos de [[supernovas]] o regiones de formación estelar.
 

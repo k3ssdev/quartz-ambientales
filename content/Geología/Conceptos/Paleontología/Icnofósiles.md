@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **icnofósiles** son [[Fósiles]] que preservan evidencia de la actividad biológica de organismos antiguos, no sus restos corporales. ##Definición y características ###Concepto
 - **Fósiles de comportamiento**: huellas, madrigueras, coprolitos.

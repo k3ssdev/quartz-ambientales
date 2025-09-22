@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Conjunto de toda el agua de la [[Tierra]]. Incluye: océanos (97 %), ríos, lagos, glaciares, aguas subterráneas. Rol clave en el [[Ciclo del agua]] y regulación climática. Interaccionando con: [[Atmósfera]] (lluvia), [[Geosfera]] (erosión), [[Biosfera]] (organismos).
 

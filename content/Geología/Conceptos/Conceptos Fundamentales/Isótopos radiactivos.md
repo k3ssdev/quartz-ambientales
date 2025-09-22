@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **isótopos radiactivos** son variantes inestables de un [[elemento químico]] que se transforman emitiendo radiación y partículas. ##Ejemplos
 

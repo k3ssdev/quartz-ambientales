@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Precámbrico** es el supereón más antiguo del [[Tiempo geológico]], que abarca desde la formación de la [[Tierra]] (~4.600 Ma) hasta el inicio del [[Paleozoico]] (~541 Ma). Representa casi el **88 % de la historia geológica**. ####División del Precámbrico
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **erosión fluvial** es la acción del [[Agua]] de los [[ríos]] desgastando y excavando el relieve.
 

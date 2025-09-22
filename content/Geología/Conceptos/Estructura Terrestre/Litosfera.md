@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **Litosfera** comprende la [[Corteza]] y la parte superior rígida del [[Manto]].
 

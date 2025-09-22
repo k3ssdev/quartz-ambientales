@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **manto inferior** se extiende aproximadamente entre los 660 km y 2900 km de profundidad, hasta la [[capa D”]].
 

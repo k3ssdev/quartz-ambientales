@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La [[Tierra]] está diferenciada en capas según: ###Capas químicas
 

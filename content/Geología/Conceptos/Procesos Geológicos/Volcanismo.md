@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **vulcanismo** es el conjunto de procesos ligados a la salida de [[Magma]] desde el interior de la [[Tierra]] hacia la superficie o fondo oceánico. Incluye:
 

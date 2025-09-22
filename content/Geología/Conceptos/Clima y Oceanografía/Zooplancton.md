@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **zooplancton** está formado por organismos animales microscópicos que flotan libremente en los [[océanos]] y forman parte de la [[cadena trófica marina]].
 

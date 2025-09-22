@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **plancton** son organismos microscópicos que flotan libremente en el [[Agua]], especialmente en [[Océanos]] y [[Mar]]es.
 

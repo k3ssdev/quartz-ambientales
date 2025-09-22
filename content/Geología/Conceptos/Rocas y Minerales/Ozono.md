@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **ozono (O₃)** es una forma alotrópica del [[oxígeno]], formada por tres átomos de O. ##En la atmósfera
 

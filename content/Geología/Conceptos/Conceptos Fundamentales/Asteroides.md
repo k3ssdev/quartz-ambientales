@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **asteroides** son cuerpos rocosos menores, restos del [[sistema solar primitivo]], localizados sobre todo en el **cinturón de asteroides** entre Marte y Júpiter.
 

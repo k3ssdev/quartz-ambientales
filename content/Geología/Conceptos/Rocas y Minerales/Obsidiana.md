@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **obsidiana** es un [[vidrio volcánico]] natural formado por el enfriamiento rápido de lava [[félsica]] rica en sílice.###Composición
 - **Sílice (SiO₂)**: 65-80%.

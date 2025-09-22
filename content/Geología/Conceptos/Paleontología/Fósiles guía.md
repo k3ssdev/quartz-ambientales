@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **fósiles guía** son aquellos [[Fósiles]] que permiten identificar y correlacionar [[Estratos]] en diferentes regiones.
 

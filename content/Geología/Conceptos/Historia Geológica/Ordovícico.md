@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Ordovícico** es el segundo **período del [[Paleozoico]]**, que abarca desde **485 Ma hasta 444 Ma**.
 Se caracteriza por una gran diversificación de la vida marina y importantes cambios paleogeográficos.

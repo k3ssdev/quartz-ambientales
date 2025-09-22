@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Carbonífero** es un **periodo del [[Paleozoico]]** que abarca entre **359 Ma y 299 Ma**. Su nombre proviene de los extensos **depósitos de carbón** formados por grandes bosques de plantas vasculares.
 

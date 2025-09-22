@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **fósiles** son restos o huellas de organismos que vivieron en el pasado, conservados en [[Rocas sedimentarias]].
 

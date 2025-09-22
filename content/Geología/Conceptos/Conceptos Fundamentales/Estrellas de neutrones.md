@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **estrellas de neutrones** son restos ultradensos del colapso de estrellas masivas que no llegaron a formar [[agujeros negros]].
 

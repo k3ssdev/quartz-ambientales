@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **placa de Nazca** es una [[Placa oceánica]] situada en el sureste del [[Océano Pacífico]].
 

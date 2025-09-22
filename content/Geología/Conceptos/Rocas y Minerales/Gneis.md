@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **gneis** es una [[Roca metamórfica]] de alto grado, con **bandas alternas claras y oscuras** (minerales félsicos y máficos).
 

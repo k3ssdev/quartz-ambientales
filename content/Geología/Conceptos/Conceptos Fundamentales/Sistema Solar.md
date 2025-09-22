@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Sistema Solar** se formó hace unos 4.600 Ma a partir de una **nebulosa primitiva** de gas y polvo.
 

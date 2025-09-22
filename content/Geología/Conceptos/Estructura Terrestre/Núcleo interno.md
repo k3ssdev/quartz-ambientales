@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **núcleo interno** es la capa sólida central de la [[Tierra]], ubicada dentro del [[Núcleo]] y rodeada por el [[Núcleo externo]].
 

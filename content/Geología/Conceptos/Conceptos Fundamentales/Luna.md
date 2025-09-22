@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **Luna** es el satélite natural de la [[Tierra]].
 

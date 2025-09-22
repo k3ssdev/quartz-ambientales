@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **inundaciones** son fenómenos naturales en los que grandes volúmenes de [[Agua]] cubren zonas normalmente secas de la [[Superficie terrestre]]. ####Causas principales
 

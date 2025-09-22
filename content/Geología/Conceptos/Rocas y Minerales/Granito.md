@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **granito** es una roca [[Roca ígnea]] **intrusiva**, formada por solidificación lenta del [[Magma]] en profundidad. Características:
 

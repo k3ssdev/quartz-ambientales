@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **potasio-40** es un isótopo radiactivo natural que se desintegra en [[Argón-40]] y [[Calcio-40]].
 

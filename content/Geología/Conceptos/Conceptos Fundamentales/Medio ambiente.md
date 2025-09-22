@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **medio ambiente** es el conjunto de factores físicos, químicos y biológicos que rodean e influyen en los [[Organismos]] vivos. ##Componentes principales ###Factores abióticos
 - **Clima**: temperatura, precipitación, humedad.

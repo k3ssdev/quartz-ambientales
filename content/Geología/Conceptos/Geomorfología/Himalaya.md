@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Himalaya** es la cordillera más alta del planeta, donde se encuentra el Everest. Formación: colisión de la **placa India** contra la **placa Euroasiática**. Características:
 

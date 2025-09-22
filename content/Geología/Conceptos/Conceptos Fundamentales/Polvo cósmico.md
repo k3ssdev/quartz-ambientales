@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **polvo cósmico** está formado por diminutas partículas sólidas de [[minerales]] y compuestos químicos en el espacio interestelar.
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Procesos naturales que, al interactuar con sociedades humanas, causan daños.
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **torio** es otro elemento radiactivo usado en [[datación absoluta]].
 

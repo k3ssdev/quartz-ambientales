@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **carbonato cálcico** (CaCO₃) es un compuesto químico presente de forma natural en muchos [[Minerales]] y [[Rocas sedimentarias]].
 

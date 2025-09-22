@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **plataforma continental** es la franja de [[Corteza continental]] sumergida bajo el mar, que se extiende desde la costa hasta el [[Talud continental]]. Características:
 

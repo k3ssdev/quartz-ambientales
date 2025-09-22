@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **Astenosfera** es la capa del [[Manto]] situada bajo la [[Litosfera]], aproximadamente desde los 100 hasta los 700 km de profundidad.
 

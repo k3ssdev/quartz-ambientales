@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **pesca** es la actividad de extracción de organismos acuáticos, principalmente peces, que forman parte del [[ecosistema marino]] y de aguas continentales (ríos, lagos).
 

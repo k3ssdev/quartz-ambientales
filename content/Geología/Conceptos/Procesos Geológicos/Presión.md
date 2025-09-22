@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **presión** en geología actúa junto con la [[Temperatura]] como factor determinante de la transformación de las rocas.
 

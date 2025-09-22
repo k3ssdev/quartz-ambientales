@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **agua (H₂O)** es la molécula más abundante en la [[hidrosfera]] y esencial para la [[vida]]. ##Estados
 

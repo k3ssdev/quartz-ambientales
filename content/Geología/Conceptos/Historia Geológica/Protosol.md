@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **protosol** fue el estadio temprano del [[Sol]] durante la [[Formación del sistema solar]].
 

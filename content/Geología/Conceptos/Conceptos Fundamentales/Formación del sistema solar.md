@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **sistema solar** se formó hace unos **4.600 millones de años** a partir de una [[Nebulosas]] de [[polvo cósmico]] y gas interestelar. ##Procesos
 

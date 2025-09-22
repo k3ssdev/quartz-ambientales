@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **moléculas** son estructuras químicas formadas por la unión de **[[átomos]]** mediante enlaces químicos (iónicos, covalentes, metálicos).
 

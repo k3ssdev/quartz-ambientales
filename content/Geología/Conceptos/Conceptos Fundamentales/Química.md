@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **química** estudia la composición, estructura y transformaciones de la [[Materia]].
 

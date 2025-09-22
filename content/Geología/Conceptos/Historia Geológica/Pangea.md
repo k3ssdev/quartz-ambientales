@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 **Pangea** fue un **supercontinente** que existió durante el final del [[Paleozoico]] y principios del [[Mesozoico]] (~300–200 Ma).
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **argón-40** es el principal producto gaseoso de la desintegración del [[Potasio-40]].
 

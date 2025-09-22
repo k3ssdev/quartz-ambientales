@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **riolita** es una [[Rocas volcánicas|roca volcánica]] [[félsica]] de composición ácida, equivalente volcánico del [[granito]].###Composición
 - **Sílice (SiO₂)**: >70% (muy ácida).

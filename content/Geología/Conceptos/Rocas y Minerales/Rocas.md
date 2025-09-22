@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **rocas** son agregados naturales de [[minerales]] que constituyen la [[corteza terrestre]] y forman parte de la [[geosfera]].
 

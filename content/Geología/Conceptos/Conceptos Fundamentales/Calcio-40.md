@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **calcio-40** es un isótopo estable producto de la desintegración del [[Potasio-40]].
 

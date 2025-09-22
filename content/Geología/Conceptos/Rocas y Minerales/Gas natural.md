@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **gas natural** es un **combustible fósil** formado principalmente por **metano (CH₄)** y pequeñas cantidades de otros hidrocarburos.
 

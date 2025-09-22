@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **metamorfismo** es el proceso por el cual una [[Roca ígnea]], [[Roca sedimentaria]] o incluso otra [[Roca metamórfica]] se transforma bajo condiciones de alta [[Temperatura]], [[Presión]] y fluidos químicos, sin llegar a fundirse.
 

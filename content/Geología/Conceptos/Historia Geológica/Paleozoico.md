@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Paleozoico** es una **era geológica** del [[Fanerozoico]] que se extiende entre **541 Ma y 252 Ma**. Sigue al [[Precámbrico]] y precede al [[Mesozoico]]. ####División
 

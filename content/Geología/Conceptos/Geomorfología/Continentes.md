@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **continentes** son las grandes masas de tierra emergida de la [[Tierra]].
 

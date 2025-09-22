@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **esquisto** es una [[Roca metamórfica]] foliada de grado medio, formada por la metamorfosis de [[Arcillas]] o [[Lutitas]].
 

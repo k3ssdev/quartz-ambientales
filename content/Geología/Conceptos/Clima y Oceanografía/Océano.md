@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Un **océano** es una vasta masa de [[Agua]] salada que cubre más del 70 % de la [[Superficie terrestre]].
 

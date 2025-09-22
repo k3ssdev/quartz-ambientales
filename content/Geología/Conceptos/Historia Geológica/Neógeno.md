@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Neógeno** es el segundo **período del [[Cenozoico]]**, que abarca desde **23 Ma hasta 2,6 Ma**.
 Se caracteriza por el enfriamiento global y la evolución hacia la fauna moderna.

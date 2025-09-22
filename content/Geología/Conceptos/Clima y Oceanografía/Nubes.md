@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **nubes** son acumulaciones visibles de **gotas de [[agua]] líquida o cristales de [[hielo]]** suspendidos en la [[atmósfera]]. ##Formación
 

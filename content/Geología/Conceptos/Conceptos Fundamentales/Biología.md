@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **biología** es la ciencia que estudia la [[vida]] y sus procesos.
 

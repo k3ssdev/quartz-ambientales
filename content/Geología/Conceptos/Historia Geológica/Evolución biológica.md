@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **evolución biológica** es el proceso de cambio de las especies a lo largo del tiempo, resultado de variación genética y selección natural.
 

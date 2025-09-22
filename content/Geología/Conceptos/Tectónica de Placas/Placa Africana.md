@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **placa Africana** es una gran [[Placas tectónicas]] que incluye el continente africano y parte de los [[Océanos]] circundantes.
 

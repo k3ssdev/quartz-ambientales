@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **tsunamis** son grandes olas marinas causadas por [[Terremotos]] submarinos, [[Deslizamientos]] o erupciones de [[Volcanes submarinos]]. Características:
 

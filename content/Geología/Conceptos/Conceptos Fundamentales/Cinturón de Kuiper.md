@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **cinturón de Kuiper** es una región del [[sistema solar]] situada más allá de [[Neptuno]], entre ~30 y 50 UA del [[Sol]].
 

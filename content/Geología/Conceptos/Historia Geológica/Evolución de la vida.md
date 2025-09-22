@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **evolución de la vida** está registrada en [[Fósiles]] distribuidos en la [[Escala del tiempo geológico]]. Ejemplos:
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **rocas volcánicas** son un tipo de [[rocas ígneas]] formadas por el enfriamiento y solidificación rápida de la [[lava]] en la superficie terrestre.
 

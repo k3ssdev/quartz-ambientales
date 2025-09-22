@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **enanas blancas** son el estado final de estrellas de masa baja o media (como el [[Sol]]) tras agotar su combustible nuclear.
 

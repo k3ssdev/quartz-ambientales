@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **carbón** es una [[Roca sedimentaria]] de origen orgánico, formada por la acumulación y compactación de restos vegetales en ambientes pantanosos. Se originó en grandes cantidades durante el [[Carbonífero]].
 

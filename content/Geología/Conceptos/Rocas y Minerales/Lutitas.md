@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **lutitas** son [[Rocas sedimentarias]] detríticas de grano fino, compuestas principalmente por [[Arcillas]] y limos.
 

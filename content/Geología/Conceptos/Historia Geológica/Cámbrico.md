@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Cámbrico** es el primer periodo del [[Paleozoico]], entre **541–485 Ma**.
 

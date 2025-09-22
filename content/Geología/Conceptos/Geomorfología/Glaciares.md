@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **glaciares** son masas de hielo en movimiento, formadas por acumulación y compactación de nieve. Acciones:
 

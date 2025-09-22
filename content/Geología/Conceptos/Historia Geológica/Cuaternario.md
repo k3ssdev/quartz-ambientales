@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Cuaternario** es la última era del [[Cenozoico]], iniciada hace ~2,58 Ma y que continúa hasta hoy.
 

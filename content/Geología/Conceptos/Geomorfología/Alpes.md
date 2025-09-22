@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **Alpes** son una cordillera del sur de Europa, formada mayoritariamente durante la **orogenia alpina** hace unos 65 Ma. Características:
 

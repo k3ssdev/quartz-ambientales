@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **CO₂** es un gas compuesto por un átomo de carbono y dos de oxígeno. Forma parte esencial de la [[atmósfera]] terrestre, los [[océanos]] y los [[Ciclos biogeoquímicos]].
 

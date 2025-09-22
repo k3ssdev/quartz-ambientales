@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **protoplanetas** son cuerpos planetarios en formación, surgidos de la fusión de [[planetesimales]] en el [[sistema solar primitivo]].
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **océano Atlántico** es el segundo más grande del planeta, con ≈ 106 millones de km².
 

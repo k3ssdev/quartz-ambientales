@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **andesita** es una [[Rocas volcánicas|roca volcánica]] de composición intermedia, rica en [[plagioclasa]] y minerales máficos.
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## 🎯 Fechas de Examen
 
 | Convocatoria | Fecha | Hora |

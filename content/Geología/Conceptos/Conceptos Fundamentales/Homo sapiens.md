@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 **Homo sapiens** es la especie humana actual, aparecida en África hace ≈300.000 años, en el [[Pleistoceno]], dentro del [[Cuaternario]].
 

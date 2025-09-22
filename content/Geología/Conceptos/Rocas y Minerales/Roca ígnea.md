@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **rocas ígneas** son aquellas formadas por la **solidificación y cristalización del [[Magma]]**.
 

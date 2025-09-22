@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Proterozoico** es el tercer **eón del [[Precámbrico]]**, que abarca desde **2.500 Ma hasta 541 Ma**.
 Es el eón más largo de la historia de la Tierra y marca importantes cambios en la atmósfera, océanos y vida.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **manto** es la capa intermedia de la [[Geosfera]], situada entre la [[Corteza]] y el [[Núcleo]].
 

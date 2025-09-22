@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **masa** es la magnitud física que mide la cantidad de materia en un cuerpo.
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **paleontología estratigráfica** es la rama de la [[Paleontología]] que estudia los [[Fósiles]] con el objetivo de establecer la edad y correlación de los [[Estratos]].
 

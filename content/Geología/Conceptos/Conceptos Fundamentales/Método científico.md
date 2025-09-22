@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **método científico** es el procedimiento sistemático que guía la investigación en ciencia, incluida la [[Geología]]. ##Etapas fundamentales
 

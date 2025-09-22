@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **evaporación** es el paso del [[agua]] líquida a estado gaseoso por efecto del [[Calor]]. ##Procesos
 

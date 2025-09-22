@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **alimentos** son sustancias que los seres vivos consumen para obtener energía y nutrientes esenciales para mantener la [[vida]].
 

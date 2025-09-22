@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **energía solar** es la radiación procedente del [[Sol]] que llega a la [[Tierra]] y constituye la fuente primaria de energía para la [[Geodinámica externa]] y la [[Vida]]. ####Funciones en geología y clima
 

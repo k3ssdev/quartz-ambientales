@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **torio-232** (²³²Th) es un [[Isótopos radiactivos|isótopo radiactivo]] del [[Torio]], elemento clave en [[datación radiométrica]] y fuente de [[energía interna de la Tierra]].
 

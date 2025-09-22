@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **océano Pacífico** es el de mayor tamaño del planeta, cubriendo más de un tercio de la superficie de la [[Tierra]].
 

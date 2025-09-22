@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **materia** es todo aquello que tiene [[masa]] y ocupa espacio. ##Niveles de organización
 

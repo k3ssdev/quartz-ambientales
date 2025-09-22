@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **cánones submarinos** son valles profundos excavados en el [[Talud continental]], parecidos a cañones terrestres.
 

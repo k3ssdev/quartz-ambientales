@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **expansión oceánica** es el proceso por el cual se genera nueva [[corteza oceánica]] en las [[dorsales oceánicas]] debido a la [[convección mantélica]].
 

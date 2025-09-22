@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **recursos naturales geológicos** incluyen:
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Cenozoico** es la era más reciente del [[Fanerozoico]], desde hace 66 Ma hasta la actualidad.
 

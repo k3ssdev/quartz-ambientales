@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **erupciones volcánicas masivas** son eventos [[Catástrofes|catastróficos]] que liberan enormes volúmenes de magma, gases y cenizas, causando impactos globales.###Erupciones de traps de basalto
 - **Provincias ígneas grandes** (LIPs): extensas coladas de [[basalto]].

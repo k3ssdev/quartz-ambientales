@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **pumita** (o piedra pómez) es una [[Rocas volcánicas|roca volcánica]] extremadamente porosa y liviana, formada durante [[erupciones explosivas]].###Composición
 - **Sílice (SiO₂)**: 60-75% (composición [[félsica]]).

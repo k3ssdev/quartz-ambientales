@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **efecto invernadero** es un fenómeno natural en el que ciertos gases de la [[atmósfera]] absorben radiación infrarroja y retienen calor, manteniendo habitable la [[Tierra]]. ##Principales gases
 

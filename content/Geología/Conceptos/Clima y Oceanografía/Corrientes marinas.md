@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **corrientes marinas** son movimientos masivos de [[Agua]] dentro de los [[Océanos]], generados por viento, diferencias de temperatura/salinidad y la rotación terrestre.
 

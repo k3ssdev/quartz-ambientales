@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Un **planetesimal** es un cuerpo sólido en el [[sistema solar primitivo]], formado por la aglomeración de [[polvo cósmico]], [[silicatos]], [[hielo]] y metales.
 

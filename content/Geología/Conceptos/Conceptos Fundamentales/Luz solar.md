@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **luz solar** es la energía radiante procedente del [[Sol]], fuente principal de la [[energía solar]] que impulsa los procesos de la [[geodinámica externa]].
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **placas tectónicas** son fragmentos rígidos de la [[Litosfera]] que flotan sobre la [[Astenosfera]]. Tipos de límites:
 

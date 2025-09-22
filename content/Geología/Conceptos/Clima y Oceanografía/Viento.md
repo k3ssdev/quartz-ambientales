@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **viento** es un agente de [[Erosión]] y [[Transporte]] de materiales en zonas áridas y costeras.
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **talud continental** es la zona que conecta la [[Plataforma continental]] con las [[Llanuras abisales]]. Características:
 

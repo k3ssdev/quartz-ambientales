@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 aliases: ["Planeta Tierra", "Mundo"]
 ---
 

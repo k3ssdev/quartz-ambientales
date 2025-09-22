@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Holoceno** es la **época actual del [[Cuaternario]]**, que abarca desde **11.700 años hasta el presente**.
 Representa el período interglacial actual y el desarrollo de la civilización humana.

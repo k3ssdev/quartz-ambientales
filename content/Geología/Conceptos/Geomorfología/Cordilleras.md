@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **cordilleras** son grandes cadenas de montañas formadas por procesos de [[Orogenia]]. Tipos:
 

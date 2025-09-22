@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **genética** es la ciencia que estudia la herencia y la variación en los organismos.
 

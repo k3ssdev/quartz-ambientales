@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La parte sólida de la [[Tierra]]. Incluye la [[Corteza]], el [[Manto]] y el [[Núcleo]]. Procesos clave: [[Tectónica de placas]], formación de montañas, volcanismo. Interacciona constantemente con la [[Atmósfera]], [[Hidrosfera]] y [[Biosfera]].
 

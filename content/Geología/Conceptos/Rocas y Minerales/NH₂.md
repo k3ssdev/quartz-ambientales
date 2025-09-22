@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **NH₂** es el radical químico **amino**, derivado del [[Nitrógeno]].
 

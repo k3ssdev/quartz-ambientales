@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **meteorización física** es el proceso de fragmentación de la [[Roca madre]] en partículas más pequeñas **sin alterar su composición química**. ##Agentes principales
 

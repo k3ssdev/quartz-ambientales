@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **placa Norteamericana** es una de las mayores [[Placas tectónicas]], que cubre Norteamérica, parte del Atlántico y llega hasta Siberia.
 

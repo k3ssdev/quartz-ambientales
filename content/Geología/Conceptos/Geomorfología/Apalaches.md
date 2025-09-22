@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **Apalaches** son una [[Cordilleras]] situada en el este de Norteamérica.
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **energía interna** proviene principalmente de:
 

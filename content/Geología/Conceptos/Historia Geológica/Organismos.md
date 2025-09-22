@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **organismos** son seres vivos, constituidos por una o más [[Células]], capaces de realizar funciones vitales (nutrición, relación, reproducción).
 

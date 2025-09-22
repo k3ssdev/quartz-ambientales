@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **esferas terrestres** son los grandes componentes del sistema Tierra, interconectados dinámicamente.
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **níquel** es un elemento metálico muy abundante en el universo y en la [[Tierra]].
 

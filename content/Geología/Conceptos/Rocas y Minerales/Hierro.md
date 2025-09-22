@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **hierro** es un elemento metálico muy abundante en la [[Tierra]] y el universo. ##Origen cósmico
 

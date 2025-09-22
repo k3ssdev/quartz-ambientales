@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **impacto de meteoritos** son eventos [[Catástrofes|catastróficos]] causados por la colisión de asteroides o cometas con la Tierra, capaces de provocar [[extinciones masivas]]. ##Mecanismo de impacto ###Proceso físico
 - **Energía cinética**: E = ½mv² (velocidades ~20-70 km/s).

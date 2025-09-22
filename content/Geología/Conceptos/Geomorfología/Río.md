@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Un **río** es una corriente de [[Agua]] que fluye de zonas más altas a más bajas hasta desembocar en un [[Mar]], [[Océano]] o [[Lago]].
 

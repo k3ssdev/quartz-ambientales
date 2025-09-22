@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 # Fichas de Estudio - Tema 1: Introducción a la Geología
 

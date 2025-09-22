@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **física** es la ciencia que estudia las leyes fundamentales de la energía, la materia y sus interacciones.
 

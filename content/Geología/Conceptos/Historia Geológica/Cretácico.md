@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Cretácico** es el tercer y último **período del [[Mesozoico]]**, que abarca desde **145 Ma hasta 66 Ma**.
 Termina con la famosa extinción que acabó con los dinosaurios no avianos.

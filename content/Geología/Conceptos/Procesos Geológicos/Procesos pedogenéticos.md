@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **procesos pedogenéticos** son el conjunto de transformaciones físicas, químicas y biológicas que dan lugar a la formación y evolución del **[[Suelo]]** a partir de la [[Roca madre]]. ##Factores clave
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Jurásico** es el segundo **período del [[Mesozoico]]**, que abarca desde **201 Ma hasta 145 Ma**.
 Representa el apogeo de los dinosaurios y importantes cambios paleogeográficos.

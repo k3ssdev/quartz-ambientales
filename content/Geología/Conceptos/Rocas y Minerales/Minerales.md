@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **minerales** son **sólidos naturales, inorgánicos, de composición química definida y estructura cristalina ordenada**.
 

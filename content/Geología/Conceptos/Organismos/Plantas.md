@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **plantas** constituyen un reino de [[Organismos]] eucariotas, autótrofos fotosintéticos, fundamentales para la vida en la Tierra.###Estructura celular
 - **[[Células]] eucariotas**: núcleo definido.

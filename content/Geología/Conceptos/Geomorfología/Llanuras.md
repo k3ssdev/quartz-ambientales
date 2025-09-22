@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **llanuras** son extensiones de [[Relieve]] casi plano o suavemente ondulado.
 

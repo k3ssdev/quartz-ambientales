@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Mioceno** es la primera **época del [[Neógeno]]**, que abarca desde **23 Ma hasta 5,3 Ma**.
 Se caracteriza por la diversificación de mamíferos modernos y la expansión de praderas.

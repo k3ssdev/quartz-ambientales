@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **hidrógeno** es el elemento químico más ligero y abundante del universo.
 

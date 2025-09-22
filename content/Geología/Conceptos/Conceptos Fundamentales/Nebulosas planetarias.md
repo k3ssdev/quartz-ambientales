@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **nebulosas planetarias** son nubes de gas y polvo expulsadas por estrellas de masa media al final de su vida, cuando se transforman en [[enanas blancas]].
 

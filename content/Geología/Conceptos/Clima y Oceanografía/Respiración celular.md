@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **respiración celular** es el proceso biológico mediante el cual los seres vivos obtienen energía a partir de la degradación de moléculas orgánicas (como la **glucosa**) en presencia de [[oxígeno]], liberando **CO₂, H₂O y energía** en forma de ATP.
 

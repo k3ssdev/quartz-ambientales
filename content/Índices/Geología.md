@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # 📚 Índice Temático
 
 ## 🔗 Enlaces Más Importantes

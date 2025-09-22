@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **calor** es la transferencia de **energía térmica** entre sistemas debido a diferencias de [[temperatura]]. ##En la Tierra
 

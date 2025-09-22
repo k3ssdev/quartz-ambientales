@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **glaciaciones** son periodos prolongados en la [[Historia geológica]] en los que grandes áreas de la [[Superficie terrestre]] estuvieron cubiertas de [[Glaciares]].
 

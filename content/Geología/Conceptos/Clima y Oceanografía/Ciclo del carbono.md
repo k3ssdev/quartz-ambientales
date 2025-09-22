@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **ciclo del carbono** es el intercambio constante de carbono entre la [[Atmósfera]], la [[Hidrosfera]], la [[Biosfera]] y la [[Geosfera]]. Flujos principales: - Respiración y descomposición → atmósfera. - Fotosíntesis → absorción de CO₂. - Disolución y liberación en [[Océanos]]. - Volcanismo y subducción → aporte desde la [[Geosfera]]. Influye en el [[Cambio climático]].
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **fotosíntesis** es el proceso biológico mediante el cual organismos como [[fitoplancton]], algas y plantas transforman energía solar en energía química. ##Ecuación general
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **dorsal atlántica** es una extensa [[Dorsales oceánicas]] situada en el centro del [[Océano Atlántico]].
 

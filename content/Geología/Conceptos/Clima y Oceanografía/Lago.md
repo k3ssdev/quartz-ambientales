@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Un **lago** es una depresión de la [[Superficie terrestre]] rellena de [[Agua]] dulce o salobre.
 

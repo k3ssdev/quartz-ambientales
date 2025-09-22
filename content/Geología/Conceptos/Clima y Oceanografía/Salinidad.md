@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **salinidad** es la concentración de sales disueltas, principalmente cloruros, en el [[agua]] de [[océanos]] y [[Mar]]es.
 

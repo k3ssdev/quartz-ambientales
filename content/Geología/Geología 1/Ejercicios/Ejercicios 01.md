@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 # Ejercicios Tema 1 - Introducción a la Geología
 *Respuestas completas con enlaces internos*

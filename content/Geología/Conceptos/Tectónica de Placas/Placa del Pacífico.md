@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **placa del Pacífico** es la mayor de todas las [[Placas tectónicas]]. Caracterizada por ocupar la mayor parte del [[Océano Pacífico]] y estar rodeada casi en su totalidad por zonas de subducción y límites activos.
 

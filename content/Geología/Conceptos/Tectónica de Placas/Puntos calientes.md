@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **puntos calientes** son zonas del interior de la [[Tierra]] donde columnas de magma ascienden de forma fija. Características:
 

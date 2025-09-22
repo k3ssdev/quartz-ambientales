@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Se originan por acumulación, compactación y cementación de sedimentos. Tipos:
 - **Detríticas** (arena, arcilla → arenisca, lutita). - **Químicas/biogénicas** (por precipitación química o restos biológicos → caliza). Cubren la mayor parte de la superficie terrestre. Clave en la [[Geología Histórica]] por contener [[Fósiles]].

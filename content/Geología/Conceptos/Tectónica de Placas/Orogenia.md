@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **orogenia** es el conjunto de procesos geológicos que originan [[Cordilleras]]. Causas:
 

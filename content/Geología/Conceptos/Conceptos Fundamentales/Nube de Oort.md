@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **nube de Oort** es una región esférica hipotética en el límite exterior del [[sistema solar]], a ~50.000–100.000 UA del [[Sol]].
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 En geología, el **transporte** es el desplazamiento de materiales arrancados por la [[Erosión]] desde un lugar de origen hasta una cuenca de sedimentación.
 

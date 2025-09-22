@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Cinturón de Fuego del Pacífico** es una franja que rodea el [[Océano Pacífico]] caracterizada por intensa actividad sísmica y [[Volcanismo]].
 

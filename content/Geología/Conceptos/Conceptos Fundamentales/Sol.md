@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Sol** es una estrella de tipo G2 que constituye el 99,8 % de la masa del [[Sistema Solar]]. Funciones:
 

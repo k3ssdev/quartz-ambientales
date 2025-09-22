@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Una **cordillera joven** es una cadena montañosa formada recientemente en términos de [[Tiempo geológico]]. Características:
 

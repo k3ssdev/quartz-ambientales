@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **cometas** son cuerpos helados formados por [[agua]], [[CO₂]], [[NH₂]] y polvo.
 

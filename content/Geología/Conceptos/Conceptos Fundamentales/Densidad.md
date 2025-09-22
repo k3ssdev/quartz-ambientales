@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **densidad** es la relación entre la **masa** de un cuerpo y el **volumen** que ocupa:
 

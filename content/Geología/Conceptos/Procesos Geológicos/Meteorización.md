@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **meteorización** es el proceso de **descomposición y alteración de rocas in situ**, sin transporte.
 

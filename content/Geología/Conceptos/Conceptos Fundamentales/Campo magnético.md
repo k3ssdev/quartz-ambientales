@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **campo magnético** terrestre se origina en el [[Núcleo externo]], donde el movimiento de hierro fundido genera corrientes eléctricas (efecto dinamo). Funciones:
 

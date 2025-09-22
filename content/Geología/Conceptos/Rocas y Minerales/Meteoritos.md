@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **meteoritos** son fragmentos de [[Asteroides]] o [[Cometas]] que alcanzan la superficie de la [[Tierra]] tras atravesar la [[atmósfera]].
 

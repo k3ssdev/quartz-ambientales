@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **formación de montañas** ocurre principalmente por procesos de [[Orogenia]] debido a la [[Tectónica de placas]]. Mecanismos:
 

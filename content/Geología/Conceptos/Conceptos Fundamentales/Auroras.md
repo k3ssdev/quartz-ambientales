@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **auroras** (boreales y australes) son fenómenos luminosos en la alta [[Atmósfera]], producidos por la interacción del [[Campo magnético]] terrestre con partículas cargadas del viento solar.
 

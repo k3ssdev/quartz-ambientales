@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **óxido nitroso (N₂O)** es un gas con potente efecto de calentamiento atmosférico. ##Origen
 

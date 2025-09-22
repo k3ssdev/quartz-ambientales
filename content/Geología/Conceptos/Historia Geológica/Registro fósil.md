@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **registro fósil** es el conjunto de restos o huellas de [[vida]] preservados en el [[sedimentos]] y rocas de la [[corteza terrestre]].
 

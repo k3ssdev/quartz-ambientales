@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **caliza** es una [[Roca sedimentaria]] de origen químico o bioquímico, compuesta principalmente por **carbonato cálcico** (CaCO₃). ####Formación
 

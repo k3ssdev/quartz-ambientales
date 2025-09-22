@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **historia de la vida** describe la evolución de los [[Organismos]] desde sus orígenes en el [[precámbrico]] hasta la actualidad. ##Principales etapas
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **petróleo** es un **combustible fósil** líquido compuesto por una mezcla de hidrocarburos.
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **dorsales oceánicas** son largas cordilleras submarinas (más de 70.000 km de extensión) donde se forma nueva [[Corteza oceánica]].
 

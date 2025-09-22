@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 La **superficie terrestre** es la capa externa de la [[Tierra]] donde interactúan los [[Agentes geológicos externos]]: [[Agua]], [[Viento]], [[Gravedad]], [[Glaciares]].
 

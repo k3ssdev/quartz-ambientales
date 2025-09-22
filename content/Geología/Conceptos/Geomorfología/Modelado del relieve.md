@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **modelado del relieve** es el conjunto de procesos que dan forma a la [[Superficie terrestre]].
 

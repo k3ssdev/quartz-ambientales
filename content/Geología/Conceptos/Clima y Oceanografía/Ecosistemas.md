@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Un **ecosistema** es la interacción entre comunidades de [[vida]] (seres vivos) y el medio físico que los rodea (suelo, agua, aire).
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **Fanerozoico** es el eón más reciente del [[Tiempo geológico]], que abarca desde hace ~541 Ma hasta la actualidad.
 

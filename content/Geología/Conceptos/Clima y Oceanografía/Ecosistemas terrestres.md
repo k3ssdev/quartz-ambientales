@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **ecosistemas terrestres** son comunidades de [[vida]] que se desarrollan en la superficie de la [[tierra]], dependiendo de factores como el [[Suelo]], el [[agua]], el [[clima global]] y la [[luz solar]].
 

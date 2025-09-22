@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Los **sedimentos** son fragmentos de rocas, minerales o restos orgánicos transportados por agentes externos ([[Agua]], [[Viento]], [[Glaciares]], [[Gravedad]]) y depositados en cuencas de acumulación.
 

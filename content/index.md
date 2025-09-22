@@ -1,7 +1,6 @@
 ---
 title: "Ciencias Ambientales - Base de Conocimientos UNED"
 ---
-# 🌿 Ciencias Ambientales - Base de Conocimientos UNED
 
 ## 🎓 Navegación por Curso
 

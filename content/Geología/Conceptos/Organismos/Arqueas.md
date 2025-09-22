@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Las **arqueas** constituyen uno de los tres dominios de la vida, junto con [[Bacterias]] y eucariotas, formado por microorganismos procariotas extremófilos.###Estructura celular
 - **Procariotas**: sin núcleo definido.

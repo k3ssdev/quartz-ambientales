@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 El **argón** es un gas noble, inerte, abundante en la [[atmósfera]] (~1%). ##Isótopos importantes
 
