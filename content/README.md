@@ -1,6 +1,16 @@
+---
+title: "Base de Conocimientos - Ciencias Ambientales UNED"
+tags:
+  - documentacion
+  - sistema
+  - ciencias-ambientales
+  - uned
+  - metodologia
+---
+
 # 🌿 Base de Conocimientos - Ciencias Ambientales UNED
 
-Sistema automatizado de gestión de conocimientos para el Grado en Ciencias Ambientales, con etiquetado semántico compatible con Obsidian.
+Sistema automatizado de gestión de conocimientos para el Grado en Ciencias Ambientales, con etiquetado semántico compatible con Quartz.
 
 ## 🧠 Metodología de Generación de Contenido
 
@@ -42,7 +52,7 @@ BASE_CONOCIMIENTOS/
 │   ├── analizar_cumplimiento.py
 │   ├── generar_indice_obsidian.py
 │   └── migrar_asignaturas.py
-├── index.md           # Índice principal de todas las asignaturas
+├── index.md               # Índice principal de todas las asignaturas
 ├── SISTEMA_ETIQUETADO.md  # Documentación del sistema de tags
 └── README.md              # Este archivo
 ```
@@ -64,37 +74,48 @@ BASE_CONOCIMIENTOS/
 
 ```markdown
 ---
-dg-publish: true
+title: "Tectónica de placas"
 aliases: ["Teoría de placas tectónicas"]
+tags:
+  - tectonica-placas
+  - importancia-5
+  - concepto-central
+  - nivel-intermedio
 ---
 
-La **tectónica de placas** es la teoría científica moderna... ##Enlaces relacionados
+La **tectónica de placas** es la teoría científica moderna...
+
+## Enlaces relacionados
 - [[Placas tectónicas]] - Fragmentos de litosfera
 - [[Subducción]] - Proceso de hundimiento
+```
 
---- #tectonica-placas #importancia-5 #concepto-central #nivel-intermedio
-``` ##🔍 Búsquedas en Obsidian ###**Por Importancia**
-```
-tag:#importancia-5
-``` ###**Por Categoría**
-```
-tag:#tectonica-placas
-``` ###**Combinadas**
-```
-tag:#concepto-central AND tag:#nivel-basico
-``` ###**Dataview Queries**
-```dataview
-LIST
-#clima-oceanografia #concepto-central #concepto-estructura #concepto-evento #concepto-proceso #estructura-terrestre #geomorfologia #historia-geologica #importancia-1 #importancia-2 #importancia-3 #importancia-4 #importancia-5 #nivel-avanzado #nivel-basico #nivel-intermedio #recursos-riesgos #rocas-minerales #tectonica-placas
-SORT file.mtime DESC
-``` ##✅ Ventajas del Sistema
+## 🔍 Búsquedas en Quartz
 
-- ✅ **Compatible 100% con Obsidian nativo**
-- ✅ **Frontmatter minimalista** (solo aliases y dg-publish)
-- ✅ **Tags aparecen en el panel lateral** de Obsidian
-- ✅ **Búsquedas naturales** con el sistema de tags
-- ✅ **Graph view mejorado** con filtros por tags
-- ✅ **Compatible con plugins** populares de Obsidian
+### **Por Importancia**
+Usa el explorador de etiquetas para filtrar por:
+- `importancia-5` - Conceptos críticos
+- `importancia-4` - Conceptos importantes  
+- `importancia-3` - Conceptos intermedios
+
+### **Por Categoría**
+- `tectonica-placas` - Tectónica de placas
+- `rocas-minerales` - Rocas y minerales
+- `geomorfologia` - Geomorfología
+
+### **Por Nivel**
+- `nivel-basico` - Conceptos básicos
+- `nivel-intermedio` - Nivel estándar
+- `nivel-avanzado` - Conceptos especializados
+
+## ✅ Ventajas del Sistema
+
+- ✅ **Compatible 100% con Quartz**
+- ✅ **Frontmatter estructurado** con title, aliases y tags
+- ✅ **Tags organizados** en formato YAML
+- ✅ **Búsquedas naturales** con el sistema de etiquetas
+- ✅ **Navegación fluida** con wikilinks
+- ✅ **Renderizado web** estático y rápido
 - ✅ **Generación automática** del Índice Temático
 - ✅ **Escalable** - crece automáticamente con nuevos archivos
 - ✅ **Asistencia IA continua** para mantener calidad y coherencia
@@ -147,4 +168,4 @@ El sistema genera automáticamente:
 
 ---
 
-*Sistema desarrollado para maximizar la compatibilidad con Obsidian*
+*Sistema desarrollado para maximizar la compatibilidad con Quartz*

@@ -1,6 +1,14 @@
 ---
-dg-publish: true
---- ---
+title: "Arcilla"
+tags:
+  - concepto-central
+  - importancia-3
+  - nivel-basico
+  - primero-1-geologia-1
+  - rocas-minerales
+  - ruta-materiales
+---
 
+# Arcilla
 
-#concepto-central #importancia-3 #nivel-basico #primero-1-geologia-1 #rocas-minerales #ruta-materiales
+*[Contenido pendiente de desarrollo]*

@@ -1,6 +1,11 @@
 ---
-dg-publish: true
-dg-home: true
+title: "Ciencias Ambientales - Base de Conocimientos UNED"
+tags:
+  - navegacion
+  - ciencias-ambientales
+  - uned
+  - indice-general
+---
 
 # 🌿 Ciencias Ambientales - Base de Conocimientos UNED
 
@@ -91,5 +96,3 @@ dg-home: true
 - **Sistema de tags**: 93.8% cumplimiento
 
 *Última actualización: 21/09/2025*
-
-#navegacion #ciencias-ambientales #uned #indice-general

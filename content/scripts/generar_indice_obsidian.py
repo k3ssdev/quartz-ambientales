@@ -340,7 +340,14 @@ class GeneradorIndiceObsidian:
         fecha_actual = datetime.now().strftime("%Y-%m-%d")
         
         contenido = f"""---
-dg-publish: true
+title: "Índice Temático - Geología"
+tags:
+  - navegacion
+  - sistema-enlaces
+  - mapa-conceptual
+  - herramienta
+  - obsidian
+---
 
 # 📚 Índice Temático
 
@@ -360,8 +367,6 @@ dg-publish: true
 
 *Sistema generado automáticamente basado en análisis de tags de Obsidian*
 *Última actualización: {fecha_actual}*
-
-#navegacion #sistema-enlaces #mapa-conceptual #herramienta #obsidian
 """
         
         return contenido

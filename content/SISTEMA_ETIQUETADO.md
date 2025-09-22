@@ -1,26 +1,93 @@
-#🏷️ Sistema de Etiquetado Semántico Compatible con Obsidian ##Estructura de Frontmatter Minimalista
+---
+title: "Sistema de Etiquetado Semántico"
+tags:
+  - documentacion
+  - sistema-etiquetado
+  - metodologia
+  - tags
+  - organizacion
+---
+
+# 🏷️ Sistema de Etiquetado Semántico Compatible con Quartz
+
+## Estructura de Frontmatter
 
 ```yaml
 ---
-dg-publish: true
+title: "Título del concepto"
 aliases: ["Alias1", "Alias2"]
+tags:
+  - categoria-principal
+  - importancia-X
+  - nivel-X
+  - concepto-tipo
 ---
-``` ##Sistema de Tags Semánticos con ####Tags de Categoría
-```markdown #clima-oceanografia #geomorfologia #rocas-minerales #tectonica-placas #historia-geologica #estructura-terrestre #procesos-geologicos #recursos-riesgos
-``` ###Tags de Importancia
-```markdown #importancia-5 #importancia-4 #importancia-3 #importancia-2 #importancia-1
-``` ###Tags de Tipo de Proceso
-```markdown #proceso-fundamental #proceso-dinamico #proceso-estructural #proceso-historico
-``` ###Tags de Tipo de Concepto
-```markdown #concepto-central #concepto-proceso #concepto-estructura #concepto-evento #concepto-personaje #concepto-herramienta
-``` ###Tags de Nivel de Aprendizaje
-```markdown #nivel-basico #nivel-intermedio #nivel-avanzado
-``` ###Tags de Rutas de Aprendizaje
-```markdown #ruta-fundamentos #ruta-procesos-dinamicos #ruta-materiales #ruta-tiempo-evolucion
-``` ##Categorías Principales ###🌊 Clima y Oceanografía
+```
+
+## Sistema de Tags Semánticos
+
+### Tags de Categoría
+```markdown
+- clima-oceanografia
+- geomorfologia  
+- rocas-minerales
+- tectonica-placas
+- historia-geologica
+- estructura-terrestre
+- procesos-geologicos
+- recursos-riesgos
+```
+
+### Tags de Importancia
+```markdown
+- importancia-5  # Crítico
+- importancia-4  # Muy importante
+- importancia-3  # Importante
+- importancia-2  # Moderado
+- importancia-1  # Básico
+```
+
+### Tags de Tipo de Proceso
+```markdown
+- proceso-fundamental
+- proceso-dinamico
+- proceso-estructural
+- proceso-historico
+```
+
+### Tags de Tipo de Concepto
+```markdown
+- concepto-central
+- concepto-proceso
+- concepto-estructura
+- concepto-evento
+- concepto-personaje
+- concepto-herramienta
+```
+
+### Tags de Nivel de Aprendizaje
+```markdown
+- nivel-basico
+- nivel-intermedio
+- nivel-avanzado
+```
+
+### Tags de Rutas de Aprendizaje
+```markdown
+- ruta-fundamentos
+- ruta-procesos-dinamicos
+- ruta-materiales
+- ruta-tiempo-evolucion
+```
+
+## Categorías Principales
+
+### 🌊 Clima y Oceanografía
 - **Clave**: `clima-oceanografia`
 - **Conceptos centrales**: cambio-climatico, oceanos, clima-global
-- **Procesos**: ciclos-biogeoquimicos, dinamica-oceanica ###🏔️ Geomorfología
+- **Procesos**: ciclos-biogeoquimicos, dinamica-oceanica
+
+### 🏔️ Geomorfología
 - **Clave**: `geomorfologia` 
 - **Conceptos centrales**: relieve, cordilleras, valles
 - **Procesos**: erosion, meteorizacion, modelado ###🪨 Rocas y Minerales
@@ -86,24 +153,46 @@ La **tectónica de placas** es la teoría científica moderna que explica la din
 - [[Subducción]] - Proceso de hundimiento
 - [[Orogenia]] - Formación de montañas
 
---- #tectonica-placas #importancia-5 #proceso-fundamental #concepto-central #nivel-intermedio #ruta-fundamentos #ruta-procesos-dinamicos
-``` ##Ventajas del Sistema Obsidian-Friendly ###✅ **Compatible con Obsidian nativo**
-- Tags aparecen en el tag panel
-- Funciona con queries nativas de Obsidian
-- Compatible con plugins populares ###✅ **Busquedas naturales**
+## Ventajas del Sistema Compatible con Quartz
+
+### ✅ **Frontmatter estructurado**
+- Metadatos claros: `title`, `aliases` y `tags`
+- Tags organizados en formato YAML
+- Fácil de mantener y expandir
+
+### ✅ **Búsquedas naturales**
+Utiliza el explorador de etiquetas de Quartz para filtrar por:
+- Importancia: `importancia-5`
+- Categoría: `tectonica-placas`
+- Nivel: `nivel-basico`
+
+### ✅ **Navegación mejorada**
+- Enlaces bidireccionales automáticos
+- Renderizado web estático
+- Búsqueda de texto completo integrada
+
+### ✅ **Compatible con automatización**
+- Scripts Python para análisis de tags
+- Generación automática de índices
+- Estadísticas de contenido
+
+## Ejemplo de Implementación
+
 ```markdown
-tag:#importancia-5
-tag:#tectonica-placas
-tag:#concepto-central AND tag:#nivel-basico
-``` ###✅ **Graph view mejorado**
-- Los tags se muestran como nodos
-- Agrupación visual por categorías
-- Filtrado por importancia/nivel ###✅ **Queries de Dataview**
-```dataview
-LIST
-#clima-oceanografia #concepto-central #concepto-estructura #concepto-evento #concepto-herramienta #concepto-personaje #concepto-proceso #estructura-terrestre #geomorfologia #historia-geologica #importancia-1 #importancia-2 #importancia-3 #importancia-4 #importancia-5 #nivel- #nivel-avanzado #nivel-basico #nivel-intermedio #proceso-dinamico #proceso-estructural #proceso-fundamental #proceso-historico #recursos-riesgos #rocas-minerales #tectonica-placas
-SORT file.mtime DESC
-``` ###✅ **Frontmatter minimalista**
-- Solo lo esencial: `dg-publish` y `aliases`
-- Toda la semántica en tags
-- Más fácil de mantener
+---
+title: "Tectónica de placas"
+aliases: ["Teoría de placas", "Deriva continental"]
+tags:
+  - tectonica-placas
+  - importancia-5
+  - concepto-central
+  - nivel-intermedio
+  - ruta-fundamentos
+---
+
+La **tectónica de placas** es...
+```
+
+---
+
+*Sistema optimizado para Quartz - Generación estática de sitios web*

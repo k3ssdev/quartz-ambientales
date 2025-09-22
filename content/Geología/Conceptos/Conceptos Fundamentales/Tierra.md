@@ -1,6 +1,15 @@
 ---
-dg-publish: true
+title: "Tierra"
 aliases: ["Planeta Tierra", "Mundo"]
+tags:
+  - concepto-central
+  - conceptos-fundamentales
+  - importancia-5
+  - nivel-basico
+  - primero-1-geologia-1
+  - proceso-dinamico-fundamental
+  - ruta-fundamentos
+  - geologia1-tema-01
 ---
 
 La **Tierra** es el tercer planeta desde el [[Sol]], con una antigüedad de 4.600 Ma.
@@ -21,6 +30,3 @@ La **Tierra** es el tercer planeta desde el [[Sol]], con una antigüedad de 4.60
 - [[Sistema solar]] - Contexto astronómico
 - [[Geosfera]] - Sistema de rocas y minerales
 - [[Luna]] - Satélite natural
-
-
-#concepto-central #conceptos-fundamentales #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-dinamico-fundamental #ruta-fundamentos #geologia1-tema-01
