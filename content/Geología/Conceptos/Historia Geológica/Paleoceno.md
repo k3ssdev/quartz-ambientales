@@ -1,3 +1,16 @@
+---
+title: "Paleoceno"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Paleoceno** es la primera **época del [[Paleógeno]]**, que abarca desde **66 Ma hasta 56 Ma**.
 Representa la recuperación inicial de la vida tras la extinción K-Pg.
@@ -23,8 +36,3 @@ Representa la recuperación inicial de la vida tras la extinción K-Pg.
 - Fundamental para entender la recuperación post-extinción.
 - Base de la [[Evolución de la vida]] del Terciario.
 - Transición entre el [[Cretácico]] y el [[Eoceno]].
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-fundamental #ruta-tiempo-evolucion

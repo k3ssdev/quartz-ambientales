@@ -1,3 +1,16 @@
+---
+title: "Energía solar"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - concepto-evento
+  - clima-oceanografia
+---
 
 La **energía solar** es la radiación procedente del [[Sol]] que llega a la [[Tierra]] y constituye la fuente primaria de energía para la [[Geodinámica externa]] y la [[Vida]]. ####Funciones en geología y clima
 
@@ -7,8 +20,3 @@ La **energía solar** es la radiación procedente del [[Sol]] que llega a la [[T
 
 - Su interacción con la [[Gravedad]] (especialmente la [[Luna]]) regula fenómenos como las [[Mareas]].
 - Contrasta con la [[Geología/Conceptos/Procesos Geológicos/Energía interna de la Tierra]], que impulsa la [[Geodinámica interna]] ([[Tectónica de placas]], [[Volcanismo]], [[Orogenia]]).
-
----
-
----
-#clima-oceanografia #concepto-evento #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos #geologia1-tema-01

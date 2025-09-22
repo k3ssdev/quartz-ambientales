@@ -1,3 +1,14 @@
+---
+title: "Caliza"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - concepto-central
+---
 
 La **caliza** es una [[Roca sedimentaria]] de origen químico o bioquímico, compuesta principalmente por **carbonato cálcico** (CaCO₃). ####Formación
 
@@ -11,8 +22,3 @@ La **caliza** es una [[Roca sedimentaria]] de origen químico o bioquímico, com
 - Forma paisajes kársticos (cuevas, dolinas) por [[Meteorización química]] (disolución).
 - Recurso natural para la construcción (cemento, cal) y la industria.
 - Registra la [[Vida]] marina y el [[Clima global]] pasado.
-
----
-
----
-#concepto-central #importancia-3 #nivel-basico #primero-1-geologia-1 #rocas-minerales #ruta-materiales

@@ -1,3 +1,17 @@
+---
+title: "Historia geológica"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 La **historia geológica** es la reconstrucción del pasado de la [[Tierra]], basada en el estudio de los [[Estratos]], los [[Fósiles]] y el [[Tiempo geológico]].
 
@@ -19,8 +33,3 @@ La **historia geológica** es la reconstrucción del pasado de la [[Tierra]], ba
 
 - Permite comprender cómo procesos como la [[Formación de montañas]], [[Volcanismo]], [[Cambio climático]] y [[Tectónica de placas]] han modelado la superficie terrestre.
 - Es la base de la [[Geología Histórica]].
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion #geologia1-tema-01

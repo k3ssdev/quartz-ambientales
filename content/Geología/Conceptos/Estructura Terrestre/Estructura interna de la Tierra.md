@@ -1,3 +1,13 @@
+---
+title: "Estructura interna de la Tierra"
+draft: false
+tags:
+  - ruta-estructura-terrestre
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - concepto-central
+---
 
 La [[Tierra]] está diferenciada en capas según: ###Capas químicas
 
@@ -14,6 +24,3 @@ La [[Tierra]] está diferenciada en capas según: ###Capas químicas
 - [[Núcleo interno]] (sólido).
 
 **Importancia**: el estudio de la **sismicidad** y la [[densidad]] revela esta estructura sin observarla directamente.
-
----
-#concepto-central #importancia-5 #nivel-basico #primero-1-geologia-1 #ruta-estructura-terrestre

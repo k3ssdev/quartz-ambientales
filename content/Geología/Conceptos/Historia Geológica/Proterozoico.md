@@ -1,3 +1,15 @@
+---
+title: "Proterozoico"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - historia-geologica
+  - concepto-central
+---
 
 El **Proterozoico** es el tercer **eón del [[Precámbrico]]**, que abarca desde **2.500 Ma hasta 541 Ma**.
 Es el eón más largo de la historia de la Tierra y marca importantes cambios en la atmósfera, océanos y vida.
@@ -22,8 +34,3 @@ Es el eón más largo de la historia de la Tierra y marca importantes cambios en
 - Establecimiento de las bases para la [[Explosión del Cámbrico]].
 - Formación de importantes yacimientos minerales.
 - Clave para entender la [[Evolución de la vida]] compleja.
-
----
-
----
-#concepto-central #historia-geologica #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

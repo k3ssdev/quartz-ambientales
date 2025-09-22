@@ -1,3 +1,17 @@
+---
+title: "Arqueas"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-dinamico
+  - procariotas
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - extrem
+  - dominio
+  - arqueas
+---
 
 Las **arqueas** constituyen uno de los tres dominios de la vida, junto con [[Bacterias]] y eucariotas, formado por microorganismos procariotas extremófilos.###Estructura celular
 - **Procariotas**: sin núcleo definido.
@@ -33,6 +47,3 @@ Las **arqueas** constituyen uno de los tres dominios de la vida, junto con [[Bac
 - **Astrobiología**: modelos para vida extraterrestre.
 
 ófilos #origen-vida
-
----
-#arqueas #dominio #extrem #importancia-5 #nivel-intermedio #primero-1-geologia-1 #procariotas #proceso-dinamico #ruta-tiempo-evolucion

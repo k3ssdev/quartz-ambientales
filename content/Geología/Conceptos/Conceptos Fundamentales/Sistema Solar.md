@@ -1,3 +1,16 @@
+---
+title: "Sistema Solar"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-fundamentos
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - conceptos-fundamentales
+  - concepto-herramienta
+  - concepto-central
+---
 
 El **Sistema Solar** se formó hace unos 4.600 Ma a partir de una **nebulosa primitiva** de gas y polvo.
 
@@ -15,6 +28,3 @@ El [[Sistema Solar]] incluye:
 - Satélites, asteroides, cometas.
 
 Origen de la [[Tierra]] y de sus capas internas.
-
----
-#concepto-central #concepto-herramienta #conceptos-fundamentales #importancia-5 #nivel-intermedio #primero-1-geologia-1 #ruta-fundamentos #geologia1-tema-01

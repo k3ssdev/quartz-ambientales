@@ -1,3 +1,17 @@
+---
+title: "Fallas"
+draft: false
+tags:
+  - tectonica-placas
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - fallas
+  - deformacion
+  - concepto-evento
+---
 
 Las **fallas** son **fracturas en la [[Corteza terrestre]]** donde ha existido desplazamiento relativo de los bloques rocosos.
 
@@ -14,6 +28,3 @@ Las **fallas** son **fracturas en la [[Corteza terrestre]]** donde ha existido d
 - Crean estructuras y relieves característicos.
 
 **Relaciones:** [[Tectónica de placas]], [[Geodinámica interna]], [[Terremotos]].
-
----
-#concepto-evento #deformacion #fallas #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos #tectonica-placas

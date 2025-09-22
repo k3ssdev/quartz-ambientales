@@ -1,3 +1,14 @@
+---
+title: "Glaciaciones"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - historia-geologica
+---
 
 Las **glaciaciones** son periodos prolongados en la [[Historia geológica]] en los que grandes áreas de la [[Superficie terrestre]] estuvieron cubiertas de [[Glaciares]].
 
@@ -16,8 +27,3 @@ Las **glaciaciones** son periodos prolongados en la [[Historia geológica]] en l
 - Modelan el [[Relieve]].
 - Afectan al [[Nivel del mar]].
 - Regulan ciclos de [[Vida]] y migraciones.
-
----
-
----
-#historia-geologica #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-tiempo-evolucion

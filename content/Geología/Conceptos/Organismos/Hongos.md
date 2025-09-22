@@ -1,3 +1,17 @@
+---
+title: "Hongos"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - reino
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - hongos
+  - heter
+  - eucariotas
+---
 
 Los **hongos** constituyen un reino de [[Organismos]] eucariotas, heterótrofos, que incluye levaduras, mohos y setas.###Estructura celular
 - **[[Células]] eucariotas**: núcleo definido.
@@ -43,6 +57,3 @@ Los **hongos** constituyen un reino de [[Organismos]] eucariotas, heterótrofos,
 - **Diversidad**: ~100,000 [[Especies]] descritas.
 
 ótrofos #descomponedores
-
----
-#eucariotas #heter #hongos #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #reino #ruta-tiempo-evolucion

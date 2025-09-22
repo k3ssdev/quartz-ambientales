@@ -1,3 +1,15 @@
+---
+title: "Elemento químico"
+draft: false
+tags:
+  - ruta-fundamentos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - elemento-qu
+  - conceptos-fundamentales
+---
 
 Un **elemento químico** es una sustancia pura formada por átomos que tienen el mismo número de protones en su núcleo (número atómico).###Propiedades atómicas
 - **Número atómico (Z)**: cantidad de protones.
@@ -40,6 +52,3 @@ Un **elemento químico** es una sustancia pura formada por átomos que tienen el
 - **Alteración**: meteorización química.
 
 ímico #tabla-periódica #isótopos #minerales #geoquímica
-
----
-#conceptos-fundamentales #elemento-qu #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-fundamentos

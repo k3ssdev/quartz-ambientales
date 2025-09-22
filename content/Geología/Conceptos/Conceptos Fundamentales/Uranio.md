@@ -1,3 +1,17 @@
+---
+title: "Uranio"
+draft: false
+tags:
+  - uranio
+  - ruta-fundamentos
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - dataci
+  - conceptos-fundamentales
+  - concepto-herramienta
+  - concepto-central
+---
 
 El **uranio** es un elemento radiactivo fundamental para la [[datación absoluta]]. ##Isótopos principales
 
@@ -8,6 +22,3 @@ El **uranio** es un elemento radiactivo fundamental para la [[datación absoluta
 - Ha permitido calcular la **edad de la Tierra** (~4.600 Ma).
 
 ón #tiempo-geológico #isótopos
-
----
-#concepto-central #concepto-herramienta #conceptos-fundamentales #dataci #importancia-5 #nivel-basico #primero-1-geologia-1 #ruta-fundamentos #uranio

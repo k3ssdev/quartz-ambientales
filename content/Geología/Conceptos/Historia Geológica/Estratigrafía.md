@@ -1,3 +1,17 @@
+---
+title: "Estratigrafía"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-avanzado
+  - importancia-5
+  - historia-geologica
+  - geologia1-tema-01
+  - concepto-herramienta
+  - concepto-central
+---
 
 La **estratigrafía** es la rama de la [[Geología/Conceptos/Conceptos Fundamentales/Geología]] que estudia los [[Estratos]] de [[Rocas sedimentarias]] y la disposición temporal de los materiales de la [[Tierra]].
 
@@ -18,8 +32,3 @@ La **estratigrafía** es la rama de la [[Geología/Conceptos/Conceptos Fundament
 
 - Base de la [[Datación relativa]].
 - Fundamental para estudios de [[Paleontología]], [[Recursos naturales]] (petróleo, carbón) y reconstrucción de la [[Evolución de la vida]].
-
----
-
----
-#concepto-central #concepto-herramienta #geologia1-tema-01 #historia-geologica #importancia-5 #nivel-avanzado #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

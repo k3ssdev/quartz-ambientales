@@ -1,3 +1,15 @@
+---
+title: "Recursos naturales"
+draft: false
+tags:
+  - geologia1-tema-01
+  - recursos-riesgos
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - concepto-evento
+  - concepto-central
+---
 
 Los **recursos naturales geológicos** incluyen:
 
@@ -7,8 +19,3 @@ Los **recursos naturales geológicos** incluyen:
 - Recursos hídricos: acuíferos y aguas superficiales.
 
 Su extracción provoca impactos ambientales (contaminación, erosión, agotamiento).
-
----
-
----
-#concepto-central #concepto-evento #importancia-5 #nivel-basico #primero-1-geologia-1 #recursos-riesgos #geologia1-tema-01

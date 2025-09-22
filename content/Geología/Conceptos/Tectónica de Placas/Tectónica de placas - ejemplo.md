@@ -1,3 +1,16 @@
+---
+title: "Tectónica de placas - ejemplo"
+draft: false
+tags:
+  - teoria
+  - tectonica-placas
+  - ruta-procesos-dinamicos
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - concepto-evento
+  - concepto-central
+---
 
 title: "Tectónica de placas"
 aliases: ["Teoría de placas tectónicas", "Tectónica global"]
@@ -26,6 +39,3 @@ La **tectónica de placas** es la teoría científica moderna que explica la din
 - [[Fósiles]] similares en continentes separados
 - [[Paleomagnestismo]] en rocas oceánicas
 - Topografía del fondo oceánico
-
----
-#concepto-central #concepto-evento #importancia-5 #nivel-intermedio #primero-1-geologia-1 #ruta-procesos-dinamicos #tectonica-placas #teoria

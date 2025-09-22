@@ -1,3 +1,17 @@
+---
+title: "Evaporación"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - energia-solar
+  - concepto-proceso
+  - clima-oceanografia
+  - ciclo-agua
+---
 
 La **evaporación** es el paso del [[agua]] líquida a estado gaseoso por efecto del [[Calor]]. ##Procesos
 
@@ -7,6 +21,3 @@ La **evaporación** es el paso del [[agua]] líquida a estado gaseoso por efecto
 - Regula la [[salinidad]] en [[océanos]].
 - Conecta la [[hidrosfera]] con la [[atmósfera]].
 - Influye en la formación de [[Nubes]] y [[precipitación]].
-
----
-#ciclo-agua #clima-oceanografia #concepto-proceso #energia-solar #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos

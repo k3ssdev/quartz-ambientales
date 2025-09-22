@@ -1,3 +1,16 @@
+---
+title: "Cretácico"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Cretácico** es el tercer y último **período del [[Mesozoico]]**, que abarca desde **145 Ma hasta 66 Ma**.
 Termina con la famosa extinción que acabó con los dinosaurios no avianos.
@@ -23,8 +36,3 @@ Termina con la famosa extinción que acabó con los dinosaurios no avianos.
 - Fundamental para entender las **extinciones masivas**.
 - Clave en la [[Estratigrafía]] y exploración de hidrocarburos.
 - Conexión entre el [[Jurásico]] y el [[Paleógeno]].
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

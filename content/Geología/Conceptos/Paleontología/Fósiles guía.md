@@ -1,3 +1,16 @@
+---
+title: "Fósiles guía"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-tiempo-evolucion
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-intermedio
+  - importancia-3
+  - historia-geologica
+  - concepto-central
+---
 
 Los **fósiles guía** son aquellos [[Fósiles]] que permiten identificar y correlacionar [[Estratos]] en diferentes regiones.
 
@@ -15,8 +28,3 @@ Los **fósiles guía** son aquellos [[Fósiles]] que permiten identificar y corr
 - Foraminíferos (Cenozoico).
 
 Importancia clave en → [[Estratigrafía]], [[Paleontología estratigráfica]].
-
----
-
----
-#concepto-central #historia-geologica #importancia-3 #nivel-intermedio #organismos-evolucion #primero-1-geologia-1 #ruta-tiempo-evolucion #geologia1-tema-01

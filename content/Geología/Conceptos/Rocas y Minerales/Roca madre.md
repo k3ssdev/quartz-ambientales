@@ -1,3 +1,18 @@
+---
+title: "Roca madre"
+draft: false
+tags:
+  - suelo
+  - ruta-materiales
+  - roca-madre
+  - procesos-pedogeneticos
+  - procesos-geologicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-3
+  - concepto-proceso
+---
 
 La **roca madre** es el material geológico a partir del cual se forma el [[Suelo]] mediante los [[procesos pedogenéticos]].
 
@@ -8,6 +23,3 @@ La **roca madre** es el material geológico a partir del cual se forma el [[Suel
 - Determina la composición mineral y química del [[Suelo]] resultante.
 - Influyente en la fertilidad → aporte de [[minerales]].
 - Relacionada con [[meteorización física]] y [[meteorización química]].
-
----
-#concepto-proceso #importancia-3 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #procesos-geologicos #procesos-pedogeneticos #roca-madre #ruta-materiales #suelo

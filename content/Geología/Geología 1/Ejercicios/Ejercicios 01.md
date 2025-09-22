@@ -1,3 +1,7 @@
+---
+title: "Ejercicios 01"
+draft: false
+---
 
 # Ejercicios Tema 1 - Introducción a la Geología
 *Respuestas completas con enlaces internos*

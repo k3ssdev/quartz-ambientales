@@ -1,3 +1,16 @@
+---
+title: "Eoceno"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-avanzado
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Eoceno** es la segunda **época del [[Paleógeno]]**, que abarca desde **56 Ma hasta 34 Ma**.
 Conocido por el máximo térmico del Cenozoico y la gran diversificación mamífera.
@@ -29,8 +42,3 @@ Conocido por el máximo térmico del Cenozoico y la gran diversificación mamíf
 - Clave para entender el [[Cambio climático]] geológico.
 - Fundamental en la [[Evolución de la vida]] cenozoica.
 - Transición entre el [[Paleoceno]] y el [[Oligoceno]].
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-avanzado #primero-1-geologia-1 #proceso-fundamental #ruta-tiempo-evolucion

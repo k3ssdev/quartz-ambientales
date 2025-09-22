@@ -1,3 +1,14 @@
+---
+title: "Rocas"
+draft: false
+tags:
+  - ruta-materiales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-2
+  - historia-geologica
+---
 
 Las **rocas** son agregados naturales de [[minerales]] que constituyen la [[corteza terrestre]] y forman parte de la [[geosfera]].
 
@@ -8,6 +19,3 @@ Las **rocas** son agregados naturales de [[minerales]] que constituyen la [[cort
 - Archivo de la [[historia geológica]] y el [[tiempo geológico]].
 - Fuente de [[minerales]], [[combustibles fósiles]] y materiales de construcción.
 - Clave en los [[procesos pedogenéticos]] (formación del [[suelo]]).
-
----
-#historia-geologica #importancia-2 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-materiales

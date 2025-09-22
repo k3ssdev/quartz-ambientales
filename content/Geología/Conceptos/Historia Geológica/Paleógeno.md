@@ -1,3 +1,16 @@
+---
+title: "Paleógeno"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Paleógeno** es el primer **período del [[Cenozoico]]**, que abarca desde **66 Ma hasta 23 Ma**.
 Marca la recuperación y diversificación de la vida tras la extinción K-Pg.
@@ -21,8 +34,3 @@ Marca la recuperación y diversificación de la vida tras la extinción K-Pg.
 - Base de la [[Evolución de la vida]] cenozoica.
 - Importante en la [[Estratigrafía]] del Terciario.
 - Conexión entre el [[Cretácico]] y el [[Neógeno]].
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-fundamental #ruta-tiempo-evolucion

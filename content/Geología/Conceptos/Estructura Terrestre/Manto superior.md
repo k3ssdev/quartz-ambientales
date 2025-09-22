@@ -1,3 +1,16 @@
+---
+title: "Manto superior"
+draft: false
+tags:
+  - ruta-estructura-terrestre
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - manto-superior
+  - importancia-3
+  - geodin
+  - astenosfera
+---
 
 El **manto superior** es la capa del [[manto]] situada entre la [[corteza]] y ~660 km de profundidad.
 
@@ -8,6 +21,3 @@ El **manto superior** es la capa del [[manto]] situada entre la [[corteza]] y ~6
 - Fuente de [[magma]] que alimentan [[volcanismo]].
 
 ámica-interna #silicatos
-
----
-#astenosfera #geodin #importancia-3 #manto-superior #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-estructura-terrestre

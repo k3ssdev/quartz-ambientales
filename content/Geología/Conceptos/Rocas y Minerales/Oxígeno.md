@@ -1,3 +1,17 @@
+---
+title: "Oxígeno"
+draft: false
+tags:
+  - ruta-materiales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-avanzado
+  - importancia-5
+  - historia-geologica
+  - concepto-proceso
+  - clima-oceanografia
+---
 
 El **oxígeno (O₂)** es un elemento químico esencial en la [[atmósfera]], la [[vida]] y la [[Geodinámica de la Tierra]].
 
@@ -24,8 +38,3 @@ El **oxígeno (O₂)** es un elemento químico esencial en la [[atmósfera]], la
 - **[[Gran Oxidación]] (~2.400 Ma, Proterozoico)** → acumulación inicial de O₂, creación de la capa de ozono (O₃).
 - **[[Fotosíntesis]]** → principal fuente actual de oxígeno atmosférico.
 - **Reacciones de oxidación** → transformaciones químicas, [[erosión]] y alteración mineral.
-
----
-
----
-#clima-oceanografia #concepto-proceso #historia-geologica #importancia-5 #nivel-avanzado #organismos-evolucion #primero-1-geologia-1 #proceso-dinamico #ruta-materiales

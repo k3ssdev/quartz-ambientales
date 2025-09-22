@@ -1,3 +1,15 @@
+---
+title: "Esquisto"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-3
+  - concepto-proceso
+  - concepto-central
+---
 
 El **esquisto** es una [[Roca metamórfica]] foliada de grado medio, formada por la metamorfosis de [[Arcillas]] o [[Lutitas]].
 
@@ -12,8 +24,3 @@ El **esquisto** es una [[Roca metamórfica]] foliada de grado medio, formada por
 - Usado ocasionalmente en construcción, pero menos resistente que [[Gneis]] o [[Cuarcita]].
 
 **Relaciones:** [[Pizarra]], [[Gneis]], [[Rocas metamórficas]].
-
----
-
----
-#concepto-central #concepto-proceso #importancia-3 #nivel-intermedio #primero-1-geologia-1 #rocas-minerales #ruta-materiales

@@ -1,3 +1,15 @@
+---
+title: "Arcillas"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - concepto-proceso
+---
 
 Las **arcillas** son **minerales del grupo de los filosilicatos**, formados por la meteorización de [[Feldespato]] y otros minerales.
 
@@ -15,8 +27,3 @@ Las **arcillas** son **minerales del grupo de los filosilicatos**, formados por 
 **Usos:** cerámica, ladrillos, adsorbentes industriales.
 
 **Relaciones:** [[Rocas sedimentarias]], [[Pizarra]], [[Ciclo de las rocas]].
-
----
-
----
-#concepto-proceso #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #rocas-minerales #ruta-materiales

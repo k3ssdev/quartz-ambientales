@@ -1,3 +1,17 @@
+---
+title: "Potasio-40"
+draft: false
+tags:
+  - ruta-fundamentos
+  - proceso-historico
+  - primero-1-geologia-1
+  - potasio40
+  - nivel-basico
+  - importancia-3
+  - dataci
+  - conceptos-fundamentales
+  - concepto-central
+---
 
 El **potasio-40** es un isótopo radiactivo natural que se desintegra en [[Argón-40]] y [[Calcio-40]].
 
@@ -9,6 +23,3 @@ El **potasio-40** es un isótopo radiactivo natural que se desintegra en [[Argó
 - Fechado de erupciones que influyeron en la [[evolución biológica]] (extinciones masivas).
 
 ón-absoluta #tiempo-geológico #rocas
-
----
-#concepto-central #conceptos-fundamentales #dataci #importancia-3 #nivel-basico #potasio40 #primero-1-geologia-1 #proceso-historico #ruta-fundamentos

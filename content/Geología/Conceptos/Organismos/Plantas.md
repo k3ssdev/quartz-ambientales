@@ -1,3 +1,16 @@
+---
+title: "Plantas"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - reino-vegetal
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - plantas
+  - nivel-intermedio
+  - importancia-5
+  - fotos
+---
 
 Las **plantas** constituyen un reino de [[Organismos]] eucariotas, autótrofos fotosintéticos, fundamentales para la vida en la Tierra.###Estructura celular
 - **[[Células]] eucariotas**: núcleo definido.
@@ -57,6 +70,3 @@ Las **plantas** constituyen un reino de [[Organismos]] eucariotas, autótrofos f
 - **Epífitas**: sobre otras plantas.
 
 íntesis #autótrofos #productores-primarios
-
----
-#fotos #importancia-5 #nivel-intermedio #plantas #primero-1-geologia-1 #proceso-dinamico #reino-vegetal #ruta-tiempo-evolucion

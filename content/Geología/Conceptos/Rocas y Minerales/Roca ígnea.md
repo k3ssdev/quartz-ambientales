@@ -1,3 +1,16 @@
+---
+title: "Roca ígnea"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - geologia1-tema-01
+  - concepto-proceso
+  - concepto-central
+---
 
 Las **rocas ígneas** son aquellas formadas por la **solidificación y cristalización del [[Magma]]**.
 
@@ -17,8 +30,3 @@ Las **rocas ígneas** son aquellas formadas por la **solidificación y cristaliz
 - Registra procesos internos de la [[Geodinámica interna]].
 - Fuente de materiales industriales y [[Recursos naturales]] (granito, pórfido, pumita).
 - Relacionadas con fenómenos de [[Volcanismo]] y [[Tectónica de placas]].
-
----
-
----
-#concepto-central #concepto-proceso #geologia1-tema-01 #importancia-5 #nivel-intermedio #primero-1-geologia-1 #rocas-minerales #ruta-materiales

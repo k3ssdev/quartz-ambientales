@@ -1,3 +1,17 @@
+---
+title: "CO₂"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-materiales
+  - quimica
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - clima-oceanografia
+  - atm
+---
 
 El **CO₂** es un gas compuesto por un átomo de carbono y dos de oxígeno. Forma parte esencial de la [[atmósfera]] terrestre, los [[océanos]] y los [[Ciclos biogeoquímicos]].
 
@@ -24,6 +38,3 @@ El **CO₂** es un gas compuesto por un átomo de carbono y dos de oxígeno. For
 	$$ 6 \, CO_{2} + 6 \, H_{2}O + \text{energía solar} \;\longrightarrow\; C_{6}H_{12}O_{6} + 6 \, O_{2} $$ - **Respiración celular:** $$ C_{6}H_{12}O_{6} + 6 \, O_{2} \;\longrightarrow\; 6 \, CO_{2} + 6 \, H_{2}O + \text{energía} $$
 
 ósfera #ciclo-carbono #geodinámica
-
----
-#atm #clima-oceanografia #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #quimica #ruta-materiales #geologia1-tema-01

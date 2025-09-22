@@ -1,3 +1,18 @@
+---
+title: "Temperatura"
+draft: false
+tags:
+  - temperatura
+  - ruta-procesos-dinamicos
+  - procesos-geologicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - parametro
+  - nivel-intermedio
+  - importancia-5
+  - condiciones-fisicas
+  - concepto-proceso
+---
 
 En geología, la **temperatura** es un factor clave que condiciona procesos internos y externos en la [[Tierra]].
 
@@ -8,6 +23,3 @@ En geología, la **temperatura** es un factor clave que condiciona procesos inte
 - Controla la plasticidad de las rocas en el [[Manto]] y la [[Astenosfera]].
 
 **Relaciones:** [[Presión]], [[Metamorfismo]], [[Geología/Conceptos/Procesos Geológicos/Energía interna de la Tierra]].
-
----
-#concepto-proceso #condiciones-fisicas #importancia-5 #nivel-intermedio #parametro #primero-1-geologia-1 #proceso-dinamico #procesos-geologicos #ruta-procesos-dinamicos #temperatura

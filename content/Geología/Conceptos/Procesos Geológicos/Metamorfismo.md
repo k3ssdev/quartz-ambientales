@@ -1,3 +1,18 @@
+---
+title: "Metamorfismo"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - procesos-geologicos
+  - proceso-estructural
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - metamorfismo
+  - importancia-5
+  - concepto-evento
+  - concepto-central
+---
 
 El **metamorfismo** es el proceso por el cual una [[Roca ígnea]], [[Roca sedimentaria]] o incluso otra [[Roca metamórfica]] se transforma bajo condiciones de alta [[Temperatura]], [[Presión]] y fluidos químicos, sin llegar a fundirse.
 
@@ -14,6 +29,3 @@ El **metamorfismo** es el proceso por el cual una [[Roca ígnea]], [[Roca sedime
 - [[Gneis]].
 - [[Mármol]] (a partir de caliza).
 - [[Cuarcita]] (a partir de arenisca).
-
----
-#concepto-central #concepto-evento #importancia-5 #metamorfismo #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #proceso-estructural #procesos-geologicos #ruta-procesos-dinamicos

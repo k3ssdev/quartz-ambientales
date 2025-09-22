@@ -1,3 +1,15 @@
+---
+title: "Valles"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - geomorfologia
+  - concepto-proceso
+---
 
 Un **valle** es una **depresión alargada** modelada por la acción de la [[Erosión]].
 
@@ -9,8 +21,3 @@ Un **valle** es una **depresión alargada** modelada por la acción de la [[Eros
 **Relación con procesos:**
 
 - Son ejemplos clásicos del modelado del relieve por [[Agentes geológicos externos]].
-
----
-
----
-#concepto-proceso #geomorfologia #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos

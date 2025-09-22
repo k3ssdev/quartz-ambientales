@@ -1,3 +1,16 @@
+---
+title: "Plioceno"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-avanzado
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Plioceno** es la segunda **época del [[Neógeno]]**, que abarca desde **5,3 Ma hasta 2,6 Ma**.
 Marca el enfriamiento hacia las glaciaciones cuaternarias y la evolución de homínidos avanzados.
@@ -30,8 +43,3 @@ Marca el enfriamiento hacia las glaciaciones cuaternarias y la evolución de hom
 - Fundamental para entender la **biogeografía** moderna.
 - Clave en la transición hacia el [[Cuaternario]].
 - Importante en la [[Evolución de la vida]] reciente.
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-avanzado #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

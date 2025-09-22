@@ -1,3 +1,17 @@
+---
+title: "Orogenia"
+draft: false
+tags:
+  - tectonica-placas
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - orogenia
+  - nivel-intermedio
+  - importancia-4
+  - formacion-montanas
+  - concepto-evento
+---
 
 La **orogenia** es el conjunto de procesos geológicos que originan [[Cordilleras]]. Causas:
 
@@ -5,6 +19,3 @@ La **orogenia** es el conjunto de procesos geológicos que originan [[Cordillera
 - [[Subducción]] y acreción continental. Ejemplos: [[Andes]], [[Himalaya]].
 
 Relacionado con → [[Formación de montañas]].
-
----
-#concepto-evento #formacion-montanas #importancia-4 #nivel-intermedio #orogenia #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos #tectonica-placas

@@ -1,3 +1,17 @@
+---
+title: "Organismos"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - organismos
+  - nivel-basico
+  - importancia-3
+  - concepto-central
+  - biolog
+---
 
 Los **organismos** son seres vivos, constituidos por una o más [[Células]], capaces de realizar funciones vitales (nutrición, relación, reproducción).
 
@@ -9,6 +23,3 @@ Los **organismos** son seres vivos, constituidos por una o más [[Células]], ca
 - Motor de la [[historia de la vida]] y de la [[evolución biológica]].
 
 ía #registro-fosil
-
----
-#biolog #concepto-central #importancia-3 #nivel-basico #organismos #organismos-evolucion #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

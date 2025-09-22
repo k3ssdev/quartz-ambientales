@@ -1,3 +1,14 @@
+---
+title: "Zona fótica"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - clima-oceanografia
+---
 
 La **zona fótica** es la capa superficial de océanos, mares y lagos donde penetra la **[[Luz solar]]** suficiente para permitir la [[fotosíntesis]].
 
@@ -8,8 +19,3 @@ La **zona fótica** es la capa superficial de océanos, mares y lagos donde pene
 - Produce más del **50 % del [[oxígeno]] atmosférico** gracias a la actividad del [[fitoplancton]].
 - Punto de inicio de la **[[cadena trófica marina]]**.
 - Registra gran parte del intercambio de [[CO₂]] con la [[atmósfera]].
-
----
-
----
-#clima-oceanografia #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos

@@ -1,3 +1,16 @@
+---
+title: "Erosión"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - procesos-geologicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-3
+  - erosion
+  - concepto-proceso
+---
 
 La **erosión** es el proceso geológico mediante el cual los materiales de la [[Superficie terrestre]] son **desgastados, transportados y removidos** por agentes externos. ####Agentes principales:
 
@@ -14,6 +27,3 @@ La **erosión** es el proceso geológico mediante el cual los materiales de la [
 - Genera sedimentos que originarán [[Rocas sedimentarias]].
 
 Relacionado con → [[Cementación]].
-
----
-#concepto-proceso #erosion #importancia-3 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #procesos-geologicos #ruta-procesos-dinamicos

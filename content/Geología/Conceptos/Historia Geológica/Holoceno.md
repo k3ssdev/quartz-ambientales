@@ -1,3 +1,16 @@
+---
+title: "Holoceno"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Holoceno** es la **época actual del [[Cuaternario]]**, que abarca desde **11.700 años hasta el presente**.
 Representa el período interglacial actual y el desarrollo de la civilización humana.
@@ -29,8 +42,3 @@ Representa el período interglacial actual y el desarrollo de la civilización h
 - Fundamental para entender el [[Cambio climático]] actual.
 - Base para estudios de **impacto ambiental** humano.
 - Referencia para la [[Historia geológica]] reciente.
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

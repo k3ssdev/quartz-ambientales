@@ -1,3 +1,17 @@
+---
+title: "Isótopos radiactivos"
+draft: false
+tags:
+  - ruta-fundamentos
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-basico
+  - is
+  - importancia-5
+  - conceptos-fundamentales
+  - concepto-herramienta
+  - concepto-central
+---
 
 Los **isótopos radiactivos** son variantes inestables de un [[elemento químico]] que se transforman emitiendo radiación y partículas. ##Ejemplos
 
@@ -11,6 +25,3 @@ Los **isótopos radiactivos** son variantes inestables de un [[elemento químico
 - Fuente de calor → mantienen la [[energía interna de la Tierra]].
 
 ótopos-radiactivos #radiactividad #tiempo-geológico #geología
-
----
-#concepto-central #concepto-herramienta #conceptos-fundamentales #importancia-5 #is #nivel-basico #primero-1-geologia-1 #proceso-fundamental #ruta-fundamentos

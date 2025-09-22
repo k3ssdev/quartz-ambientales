@@ -341,7 +341,7 @@ class GeneradorIndiceObsidian:
         
         contenido = f"""---
 dg-publish: true
----
+
 # 📚 Índice Temático
 
 {self.generar_seccion_enlaces_importantes()}

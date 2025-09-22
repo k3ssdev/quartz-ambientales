@@ -1,3 +1,17 @@
+---
+title: "Carbono"
+draft: false
+tags:
+  - ruta-materiales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-intermedio
+  - importancia-4
+  - elemento
+  - ciclos-biogeoquimicos
+  - carbono
+---
 
 El **carbono (C)** es un elemento químico fundamental para la [[vida]], presente en la [[atmósfera]], [[hidrosfera]], [[biosfera]] y [[geosfera]]. ##Reservorios principales
 
@@ -8,6 +22,3 @@ El **carbono (C)** es un elemento químico fundamental para la [[vida]], present
 
 - Base del [[ciclo del carbono]].
 - Forma macromoléculas orgánicas esenciales para la vida.
-
----
-#carbono #ciclos-biogeoquimicos #elemento #importancia-4 #nivel-intermedio #organismos-evolucion #primero-1-geologia-1 #proceso-dinamico #ruta-materiales

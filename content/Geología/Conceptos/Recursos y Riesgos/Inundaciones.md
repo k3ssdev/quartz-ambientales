@@ -1,3 +1,13 @@
+---
+title: "Inundaciones"
+draft: false
+tags:
+  - recursos-riesgos
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - concepto-central
+---
 
 Las **inundaciones** son fenómenos naturales en los que grandes volúmenes de [[Agua]] cubren zonas normalmente secas de la [[Superficie terrestre]]. ####Causas principales
 
@@ -12,8 +22,3 @@ Las **inundaciones** son fenómenos naturales en los que grandes volúmenes de [
 
 - Registro en [[Estratigrafía]] como capas de sedimentos de inundación.
 - Explican parte del [[Modelado del relieve]] en ambientes fluviales y costeros.
-
----
-
----
-#concepto-central #importancia-3 #nivel-basico #primero-1-geologia-1 #recursos-riesgos

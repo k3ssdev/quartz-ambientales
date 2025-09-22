@@ -1,3 +1,15 @@
+---
+title: "Nivel del mar"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - concepto-proceso
+  - clima-oceanografia
+---
 
 El **nivel del mar** es la altura media de los [[Océanos]] respecto a un punto de referencia en la [[Superficie terrestre]].
 
@@ -11,8 +23,3 @@ El **nivel del mar** es la altura media de los [[Océanos]] respecto a un punto 
 
 - Determina la posición de las [[Costas]], [[Deltas]] y [[Llanuras de inundación]].
 - Afecta directamente a ecosistemas y asentamientos humanos.
-
----
-
----
-#clima-oceanografia #concepto-proceso #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos

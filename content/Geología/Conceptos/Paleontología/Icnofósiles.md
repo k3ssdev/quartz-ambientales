@@ -1,3 +1,15 @@
+---
+title: "Icnofósiles"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - icnof
+  - concepto-central
+---
 
 Los **icnofósiles** son [[Fósiles]] que preservan evidencia de la actividad biológica de organismos antiguos, no sus restos corporales. ##Definición y características ###Concepto
 - **Fósiles de comportamiento**: huellas, madrigueras, coprolitos.
@@ -42,6 +54,3 @@ Los **icnofósiles** son [[Fósiles]] que preservan evidencia de la actividad bi
 - **Profundidad**: batimetría, energía del medio.
 
 ósiles #fósiles-comportamiento #huellas #madrigueras #paleontología
-
----
-#concepto-central #icnof #importancia-3 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

@@ -1,3 +1,16 @@
+---
+title: "Biología"
+draft: false
+tags:
+  - ruta-fundamentos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-intermedio
+  - importancia-4
+  - conceptos-fundamentales
+  - biolog
+---
 
 La **biología** es la ciencia que estudia la [[vida]] y sus procesos.
 
@@ -6,6 +19,3 @@ La **biología** es la ciencia que estudia la [[vida]] y sus procesos.
 - Enlace con [[ciclos biogeoquímicos]] (carbono, nitrógeno, fósforo…).
 
 ía #geología #fósiles
-
----
-#biolog #conceptos-fundamentales #importancia-4 #nivel-intermedio #organismos-evolucion #primero-1-geologia-1 #proceso-dinamico #ruta-fundamentos

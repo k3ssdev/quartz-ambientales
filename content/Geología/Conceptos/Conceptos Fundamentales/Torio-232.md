@@ -1,3 +1,16 @@
+---
+title: "Torio-232"
+draft: false
+tags:
+  - torio232
+  - ruta-fundamentos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - dataci
+  - conceptos-fundamentales
+---
 
 El **torio-232** (²³²Th) es un [[Isótopos radiactivos|isótopo radiactivo]] del [[Torio]], elemento clave en [[datación radiométrica]] y fuente de [[energía interna de la Tierra]].
 
@@ -25,6 +38,3 @@ El **torio-232** (²³²Th) es un [[Isótopos radiactivos|isótopo radiactivo]] 
 - **Rocas sedimentarias**: arcillas ricas en torio.
 
 ón-radiométrica #calor-radiogénico #geocronología #isótopos
-
----
-#conceptos-fundamentales #dataci #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-fundamentos #torio232

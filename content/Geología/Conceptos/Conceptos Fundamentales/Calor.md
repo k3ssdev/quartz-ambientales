@@ -1,3 +1,19 @@
+---
+title: "Calor"
+draft: false
+tags:
+  - temperatura
+  - ruta-fundamentos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - geodinamica
+  - energia
+  - conceptos-fundamentales
+  - concepto-evento
+  - calor
+---
 
 El **calor** es la transferencia de **energía térmica** entre sistemas debido a diferencias de [[temperatura]]. ##En la Tierra
 
@@ -6,6 +22,3 @@ El **calor** es la transferencia de **energía térmica** entre sistemas debido 
 
 - Causa cambios de fase → fusión de [[rocas]], evaporación de [[agua]].
 - Factor esencial de [[metamorfismo]].
-
----
-#calor #concepto-evento #conceptos-fundamentales #energia #geodinamica #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-fundamentos #temperatura

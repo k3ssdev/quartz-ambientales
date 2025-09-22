@@ -1,3 +1,14 @@
+---
+title: "Gneis"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+---
 
 El **gneis** es una [[Roca metamórfica]] de alto grado, con **bandas alternas claras y oscuras** (minerales félsicos y máficos).
 
@@ -14,10 +25,3 @@ El **gneis** es una [[Roca metamórfica]] de alto grado, con **bandas alternas c
 ## Relaciones
 
 [[Rocas metamórficas]], [[Esquisto]], [[Ciclo de las rocas]]
-
----
-
----
-
----
-#importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #rocas-minerales #ruta-materiales

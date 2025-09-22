@@ -1,3 +1,15 @@
+---
+title: "Astronomía"
+draft: false
+tags:
+  - ruta-fundamentos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - conceptos-fundamentales
+  - astronom
+---
 
 La **astronomía** es la ciencia que estudia los cuerpos celestes, su dinámica y evolución.
 
@@ -6,6 +18,3 @@ La **astronomía** es la ciencia que estudia los cuerpos celestes, su dinámica 
 - Influencia en la [[geodinámica externa]] → [[energía solar]].
 
 ía #universo #ciencia #formación-solar
-
----
-#astronom #conceptos-fundamentales #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-fundamentos

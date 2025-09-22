@@ -1,3 +1,14 @@
+---
+title: "Plumas mantélicas"
+draft: false
+tags:
+  - ruta-estructura-terrestre
+  - primero-1-geologia-1
+  - plumas-mant
+  - nivel-basico
+  - importancia-3
+  - concepto-central
+---
 
 Las **plumas mantélicas** son columnas ascendentes de rocas calientes que se originan en profundidad, desde la [[capa D”]], atravesando el [[manto]] hasta la [[litosfera]].
 
@@ -8,6 +19,3 @@ Las **plumas mantélicas** son columnas ascendentes de rocas calientes que se or
 - Explican volcanismo intraplaca (no en límites de placas).
 
 élicas #manto #geodinámica-interna #litosfera
-
----
-#concepto-central #importancia-3 #nivel-basico #plumas-mant #primero-1-geologia-1 #ruta-estructura-terrestre

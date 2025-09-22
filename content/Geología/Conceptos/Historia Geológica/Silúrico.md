@@ -1,3 +1,16 @@
+---
+title: "Silúrico"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Silúrico** es el tercer **período del [[Paleozoico]]**, que abarca desde **444 Ma hasta 419 Ma**.
 Marca la recuperación tras la extinción del Ordovícico y la colonización inicial de la tierra firme.
@@ -23,8 +36,3 @@ Marca la recuperación tras la extinción del Ordovícico y la colonización ini
 - Fundamental para la [[Evolución de la vida]] en tierra.
 - Importante en la [[Estratigrafía]] del Paleozoico.
 - Conexión entre el [[Ordovícico]] y el [[Devónico]].
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

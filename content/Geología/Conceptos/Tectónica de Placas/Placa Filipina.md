@@ -1,3 +1,16 @@
+---
+title: "Placa Filipina"
+draft: false
+tags:
+  - tectonica-placas
+  - ruta-procesos-dinamicos
+  - primero-1-geologia-1
+  - placas-individuales
+  - nivel-basico
+  - importancia-5
+  - concepto-evento
+  - concepto-central
+---
 
 La **placa Filipina** es una [[Placas tectónicas]] de tamaño intermedio situada al este de Filipinas y al sur de Japón.
 
@@ -11,6 +24,3 @@ Importancia:
 
 - Parte central del [[Cinturón de Fuego del Pacífico]].
 - Área de los terremotos y tsunamis más destructivos del planeta (ejemplo: Japón 2011).
-
----
-#concepto-central #concepto-evento #importancia-5 #nivel-basico #placas-individuales #primero-1-geologia-1 #ruta-procesos-dinamicos #tectonica-placas

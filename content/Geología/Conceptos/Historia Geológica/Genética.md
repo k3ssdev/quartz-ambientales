@@ -1,3 +1,17 @@
+---
+title: "Genética"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-basico
+  - importancia-3
+  - gen
+  - concepto-evento
+  - concepto-central
+---
 
 La **genética** es la ciencia que estudia la herencia y la variación en los organismos.
 
@@ -6,6 +20,3 @@ La **genética** es la ciencia que estudia la herencia y la variación en los or
 - Permite reconstruir linajes, relojes moleculares y eventos de diversificación.
 
 ética #biología #evolución #ciencia
-
----
-#concepto-central #concepto-evento #gen #importancia-3 #nivel-basico #organismos-evolucion #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

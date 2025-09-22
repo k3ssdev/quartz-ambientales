@@ -1,3 +1,15 @@
+---
+title: "Lutitas"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-3
+  - concepto-proceso
+  - concepto-central
+---
 
 Las **lutitas** son [[Rocas sedimentarias]] detríticas de grano fino, compuestas principalmente por [[Arcillas]] y limos.
 
@@ -13,8 +25,3 @@ Las **lutitas** son [[Rocas sedimentarias]] detríticas de grano fino, compuesta
 - Son rocas madre en la generación de [[Petróleo]] y [[Gas natural]].
 
 **Relaciones:** [[Arcillas]], [[Rocas sedimentarias]], [[Pizarra]].
-
----
-
----
-#concepto-central #concepto-proceso #importancia-3 #nivel-intermedio #primero-1-geologia-1 #rocas-minerales #ruta-materiales

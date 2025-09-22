@@ -1,3 +1,18 @@
+---
+title: "Homo sapiens"
+draft: false
+tags:
+  - ruta-fundamentos
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-intermedio
+  - importancia-3
+  - evolucion
+  - conceptos-fundamentales
+  - concepto-evento
+  - concepto-central
+  - clima-oceanografia
+---
 
 **Homo sapiens** es la especie humana actual, aparecida en África hace ≈300.000 años, en el [[Pleistoceno]], dentro del [[Cuaternario]].
 
@@ -11,6 +26,3 @@
 
 - Se convirtió en un **agente geológico** capaz de transformar el [[Relieve]] y el [[Clima global]].
 - Algunos autores proponen el **Antropoceno** como época geológica marcada por su impacto.
-
----
-#clima-oceanografia #concepto-central #concepto-evento #conceptos-fundamentales #evolucion #importancia-3 #nivel-intermedio #organismos-evolucion #primero-1-geologia-1 #ruta-fundamentos

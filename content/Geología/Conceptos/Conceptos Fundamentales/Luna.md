@@ -1,3 +1,15 @@
+---
+title: "Luna"
+draft: false
+tags:
+  - ruta-fundamentos
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - conceptos-fundamentales
+  - concepto-evento
+  - concepto-central
+---
 
 La **Luna** es el satélite natural de la [[Tierra]].
 
@@ -16,6 +28,3 @@ La **Luna** es el satélite natural de la [[Tierra]].
 - Estudia procesos de formación planetaria.
 - Registra restos del [[Sistema Solar]] primitivo.
 - Su interacción estabiliza el eje de rotación terrestre → afecta al [[Clima]].
-
----
-#concepto-central #concepto-evento #conceptos-fundamentales #importancia-5 #nivel-intermedio #primero-1-geologia-1 #ruta-fundamentos

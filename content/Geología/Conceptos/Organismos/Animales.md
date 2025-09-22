@@ -1,3 +1,18 @@
+---
+title: "Animales"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - reino-animal
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-avanzado
+  - multicelulares
+  - importancia-3
+  - heter
+  - concepto-central
+  - animales
+---
 
 Los **animales** constituyen un reino de [[Organismos]] multicelulares, eucariotas, heterótrofos y con capacidad de movimiento.###Estructura celular
 - **[[Células]] eucariotas**: núcleo definido.
@@ -32,6 +47,3 @@ Los **animales** constituyen un reino de [[Organismos]] multicelulares, eucariot
 - **Ingenieros ecosistémicos**: modifican el [[medio ambiente]].
 
 ótrofos #evolución
-
----
-#animales #concepto-central #heter #importancia-3 #multicelulares #nivel-avanzado #primero-1-geologia-1 #proceso-fundamental #reino-animal #ruta-tiempo-evolucion

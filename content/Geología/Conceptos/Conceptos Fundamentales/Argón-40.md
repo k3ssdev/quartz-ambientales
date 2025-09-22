@@ -1,3 +1,15 @@
+---
+title: "Argón-40"
+draft: false
+tags:
+  - ruta-fundamentos
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - conceptos-fundamentales
+  - concepto-central
+  - arg
+---
 
 El **argón-40** es el principal producto gaseoso de la desintegración del [[Potasio-40]].
 
@@ -8,6 +20,3 @@ El **argón-40** es el principal producto gaseoso de la desintegración del [[Po
 - Permite fechar [[Rocas volcánicas]] y eventos geológicos con millones de años.
 
 ón40 #potasio40 #datación-radiométrica #geología
-
----
-#arg #concepto-central #conceptos-fundamentales #importancia-3 #nivel-basico #primero-1-geologia-1 #ruta-fundamentos

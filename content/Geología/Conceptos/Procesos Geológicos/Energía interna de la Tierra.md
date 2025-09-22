@@ -1,3 +1,18 @@
+---
+title: "Energía interna de la Tierra"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - procesos-geologicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - geodinamica-interna
+  - fuente
+  - energia
+  - concepto-evento
+---
 
 La **energía interna de la Tierra** es el calor almacenado en el interior del planeta, heredado de su formación y mantenido por la **desintegración radiactiva** de elementos. ####Origen
 
@@ -11,6 +26,3 @@ La **energía interna de la Tierra** es el calor almacenado en el interior del p
 - Complementa a la [[Energía solar]], que gobierna la [[Geodinámica externa]].
 - Juntos explican el [[Modelado del relieve]] y la [[Historia geológica]].
 - Motor de la renovación de la [[Litosfera]] (creación en [[Dorsales oceánicas]], destrucción en [[Subducción]]).
-
----
-#concepto-evento #energia #fuente #geodinamica-interna #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #procesos-geologicos #ruta-procesos-dinamicos

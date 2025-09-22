@@ -1,3 +1,14 @@
+---
+title: "Petróleo"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-3
+  - concepto-central
+---
 
 El **petróleo** es un **combustible fósil** líquido compuesto por una mezcla de hidrocarburos.
 
@@ -12,8 +23,3 @@ El **petróleo** es un **combustible fósil** líquido compuesto por una mezcla 
 - Emisiones → gran contribución al [[Cambio climático]].
 
 **Relaciones:** [[Gas natural]], [[Combustibles fósiles]], [[Recursos naturales]].
-
----
-
----
-#concepto-central #importancia-3 #nivel-intermedio #primero-1-geologia-1 #rocas-minerales #ruta-materiales

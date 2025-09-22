@@ -1,3 +1,18 @@
+---
+title: "Hidrógeno"
+draft: false
+tags:
+  - universo
+  - ruta-materiales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-intermedio
+  - importancia-5
+  - hidrogeno
+  - energia
+  - elemento
+---
 
 El **hidrógeno** es el elemento químico más ligero y abundante del universo.
 
@@ -11,6 +26,3 @@ El **hidrógeno** es el elemento químico más ligero y abundante del universo.
 
 - Uso como **energía limpia** → “hidrógeno verde” como vector energético.
 - Relacionado con [[CH₄]] (metano) y procesos de combustión.
-
----
-#elemento #energia #hidrogeno #importancia-5 #nivel-intermedio #organismos-evolucion #primero-1-geologia-1 #proceso-dinamico #ruta-materiales #universo

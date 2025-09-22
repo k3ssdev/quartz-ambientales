@@ -1,3 +1,18 @@
+---
+title: "Presión"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - procesos-geologicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - presion
+  - parametro
+  - nivel-intermedio
+  - importancia-3
+  - condiciones-fisicas
+  - concepto-evento
+---
 
 La **presión** en geología actúa junto con la [[Temperatura]] como factor determinante de la transformación de las rocas.
 
@@ -13,6 +28,3 @@ La **presión** en geología actúa junto con la [[Temperatura]] como factor det
 - Influye en la densidad y estructura de minerales (ej. grafito ↔ diamante).
 
 **Relaciones:** [[Temperatura]], [[Metamorfismo regional]], [[Colisión de placas tectónicas]].
-
----
-#concepto-evento #condiciones-fisicas #importancia-3 #nivel-intermedio #parametro #presion #primero-1-geologia-1 #proceso-dinamico #procesos-geologicos #ruta-procesos-dinamicos

@@ -1,3 +1,14 @@
+---
+title: "Rocas metamórficas"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - concepto-central
+---
 
 Las **rocas metamórficas** son aquellas que resultan de la **transformación de rocas preexistentes** (ígneas, sedimentarias o incluso metamórficas previas) bajo condiciones de **temperatura, presión y/o fluidos**, sin llegar a la fusión.
 
@@ -35,8 +46,3 @@ Este proceso se denomina **[[Metamorfismo]]**.
 - Integradas en el **[[Ciclo de las rocas]]** como una fase de transformación.
 
 Relacionado con → [[Roca metamórfica]].
-
----
-
----
-#concepto-central #importancia-5 #nivel-intermedio #primero-1-geologia-1 #rocas-minerales #ruta-materiales

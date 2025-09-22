@@ -1,3 +1,12 @@
+---
+title: "Densidad"
+draft: false
+tags:
+  - ruta-fundamentos
+  - f
+  - densidad
+  - conceptos-fundamentales
+---
 
 La **densidad** es la relación entre la **masa** de un cuerpo y el **volumen** que ocupa:
 
@@ -10,6 +19,3 @@ $$ ##importancia-3 en geología
 - Clave en [[corrientes marinas]] → afecta por [[salinidad]] y [[temperatura]].
 
 ísica #geosfera #océanos #concepto-central #importancia-5 #nivel-basico #primero-1-geologia-1
-
----
-#conceptos-fundamentales #densidad #f #ruta-fundamentos

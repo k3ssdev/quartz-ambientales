@@ -1,3 +1,15 @@
+---
+title: "Planetas"
+draft: false
+tags:
+  - ruta-fundamentos
+  - primero-1-geologia-1
+  - planetas
+  - nivel-basico
+  - importancia-5
+  - conceptos-fundamentales
+  - concepto-central
+---
 
 Los **planetas** son cuerpos celestes que orbitan una estrella(en nuestro caso, el [[Sol]]) y cumplen los siguientes criterios según la UAI:
 
@@ -8,6 +20,3 @@ Los **planetas** son cuerpos celestes que orbitan una estrella(en nuestro caso, 
 - **Rocosos** → [[Mercurio]], [[Venus]], [[Tierra]], [[Marte]].
 - **Gaseosos** → [[Júpiter]], [[Saturno]].
 - **Helados** → [[Urano]], [[Neptuno]].
-
----
-#concepto-central #conceptos-fundamentales #importancia-5 #nivel-basico #planetas #primero-1-geologia-1 #ruta-fundamentos

@@ -1,3 +1,16 @@
+---
+title: "Neógeno"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Neógeno** es el segundo **período del [[Cenozoico]]**, que abarca desde **23 Ma hasta 2,6 Ma**.
 Se caracteriza por el enfriamiento global y la evolución hacia la fauna moderna.
@@ -28,8 +41,3 @@ Se caracteriza por el enfriamiento global y la evolución hacia la fauna moderna
 - Fundamental en la **evolución humana** y de primates.
 - Importante en la [[Estratigrafía]] del Cenozoico tardío.
 - Conexión entre el [[Paleógeno]] y el [[Cuaternario]].
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-fundamental #ruta-tiempo-evolucion

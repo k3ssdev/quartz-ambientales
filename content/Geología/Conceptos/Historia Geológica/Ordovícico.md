@@ -1,3 +1,16 @@
+---
+title: "Ordovícico"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Ordovícico** es el segundo **período del [[Paleozoico]]**, que abarca desde **485 Ma hasta 444 Ma**.
 Se caracteriza por una gran diversificación de la vida marina y importantes cambios paleogeográficos.
@@ -23,8 +36,3 @@ Se caracteriza por una gran diversificación de la vida marina y importantes cam
 - Clave en la [[Evolución de la vida]] marina temprana.
 - Importante para entender las **extinciones masivas**.
 - Conexión entre el [[Cámbrico]] y el [[Silúrico]].
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-fundamental #ruta-tiempo-evolucion

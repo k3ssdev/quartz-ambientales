@@ -1,3 +1,14 @@
+---
+title: "Agujeros negros"
+draft: false
+tags:
+  - ruta-fundamentos
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - concepto-central
+---
 
 Los **agujeros negros** son regiones del espacio-tiempo con una gravedad tan intensa que nada puede escapar, ni siquiera la luz.
 
@@ -9,10 +20,3 @@ Los **agujeros negros** son regiones del espacio-tiempo con una gravedad tan int
 
 - Horizonte de sucesos → límite de no retorno
 - Pueden fusionarse y emitir ondas gravitacionales
-
----
-
----
-
----
-#concepto-central #importancia-3 #nivel-basico #primero-1-geologia-1 #proceso-fundamental #ruta-fundamentos

@@ -1,3 +1,16 @@
+---
+title: "Uranio-238"
+draft: false
+tags:
+  - uranio238
+  - ruta-fundamentos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - dataci
+  - conceptos-fundamentales
+---
 
 El **uranio-238** (²³⁸U) es el [[Isótopos radiactivos|isótopo radiactivo]] más abundante del [[Uranio]] y el más importante en [[datación radiométrica]] geológica.
 
@@ -34,6 +47,3 @@ El **uranio-238** (²³⁸U) es el [[Isótopos radiactivos|isótopo radiactivo]]
 - **Ambientes redox**: indicador geoquímico.
 
 ón-U-Pb #calor-radiogénico #geocronología #circón
-
----
-#conceptos-fundamentales #dataci #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-fundamentos #uranio238

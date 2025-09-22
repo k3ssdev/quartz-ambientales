@@ -1,3 +1,18 @@
+---
+title: "Agricultura"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - importancia-4
+  - historia-geologica
+  - estructura-terrestre
+  - concepto-evento
+  - clima-oceanografia
+---
 
 La **agricultura** es la actividad humana destinada al cultivo de plantas y la producción de [[alimentos]], fibras y materias primas a partir del aprovechamiento del [[Suelo]], el [[agua]] y la energía solar (a través de la [[fotosíntesis]]).
 
@@ -32,10 +47,3 @@ La **agricultura** es la actividad humana destinada al cultivo de plantas y la p
 - Depende de [[Procesos pedogenéticos]] (formación del [[Suelo]] a partir de [[meteorización]] y [[erosión]])
 - Relacionada con el [[ciclo del carbono]] y el [[ciclo del agua]]
 - Base de la alimentación humana y de la [[biosfera]] terrestre
-
----
-
----
-
----
-#clima-oceanografia #concepto-evento #estructura-terrestre #historia-geologica #importancia-4 #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos

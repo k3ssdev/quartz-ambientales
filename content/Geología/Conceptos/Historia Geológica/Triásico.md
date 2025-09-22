@@ -1,3 +1,16 @@
+---
+title: "Triásico"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Triásico** es el primer **período del [[Mesozoico]]**, que abarca desde **252 Ma hasta 201 Ma**.
 Marca la recuperación de la vida tras la gran extinción del Pérmico y el inicio de la era de los reptiles.
@@ -23,8 +36,3 @@ Marca la recuperación de la vida tras la gran extinción del Pérmico y el inic
 - Base para entender la [[Evolución de la vida]] mesozoica.
 - Importante en la [[Estratigrafía]] del Mesozoico.
 - Conexión entre el [[Pérmico]] y el [[Jurásico]].
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

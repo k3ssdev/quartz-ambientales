@@ -1,3 +1,13 @@
+---
+title: "Rocas volcánicas"
+draft: false
+tags:
+  - ruta-materiales
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - concepto-central
+---
 
 Las **rocas volcánicas** son un tipo de [[rocas ígneas]] formadas por el enfriamiento y solidificación rápida de la [[lava]] en la superficie terrestre.
 
@@ -9,6 +19,3 @@ Las **rocas volcánicas** son un tipo de [[rocas ígneas]] formadas por el enfri
 - Aportan material para [[datación radiométrica]] (ej. método K–Ar).
 - Dan pistas sobre la composición del [[manto]].
 - Están asociadas a [[volcanismo]] y [[tectónica de placas]].
-
----
-#concepto-central #importancia-3 #nivel-basico #primero-1-geologia-1 #ruta-materiales

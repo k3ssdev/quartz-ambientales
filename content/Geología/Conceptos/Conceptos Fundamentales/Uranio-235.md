@@ -1,3 +1,16 @@
+---
+title: "Uranio-235"
+draft: false
+tags:
+  - uranio235
+  - ruta-fundamentos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - dataci
+  - conceptos-fundamentales
+---
 
 El **uranio-235** (²³⁵U) es un [[Isótopos radiactivos|isótopo radiactivo]] del [[Uranio]], único isótopo fisionable natural y clave en [[datación radiométrica]].
 
@@ -31,6 +44,3 @@ El **uranio-235** (²³⁵U) es un [[Isótopos radiactivos|isótopo radiactivo]]
 - **Implicaciones**: para la evolución de la Tierra primitiva.
 
 ón-U-Pb #fisión-nuclear #geocronología #isótopos
-
----
-#conceptos-fundamentales #dataci #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-fundamentos #uranio235

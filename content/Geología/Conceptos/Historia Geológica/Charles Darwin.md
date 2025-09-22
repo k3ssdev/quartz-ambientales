@@ -1,3 +1,14 @@
+---
+title: "Charles Darwin"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - concepto-central
+---
 
 **Charles Darwin** (1809–1882) fue un naturalista británico. ##Aportación principal
 
@@ -7,6 +18,3 @@
 - Su teoría se apoya en el [[registro fósil]].
 - Fundamenta el vínculo entre [[historia geológica]] y [[vida]].
 - Integrado en la [[Teoría evolutiva moderna]] con la [[genética]].
-
----
-#concepto-central #importancia-3 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

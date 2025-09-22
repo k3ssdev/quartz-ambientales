@@ -1,3 +1,17 @@
+---
+title: "Paleontología estratigráfica"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-intermedio
+  - importancia-4
+  - historia-geologica
+  - concepto-herramienta
+  - concepto-central
+---
 
 La **paleontología estratigráfica** es la rama de la [[Paleontología]] que estudia los [[Fósiles]] con el objetivo de establecer la edad y correlación de los [[Estratos]].
 
@@ -19,8 +33,3 @@ La **paleontología estratigráfica** es la rama de la [[Paleontología]] que es
 - Trilobites (Paleozoico).
 - Ammonites (Mesozoico).
 - Foraminíferos (Cenozoico).
-
----
-
----
-#concepto-central #concepto-herramienta #historia-geologica #importancia-4 #nivel-intermedio #organismos-evolucion #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

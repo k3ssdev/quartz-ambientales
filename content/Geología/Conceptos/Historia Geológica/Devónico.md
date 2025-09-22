@@ -1,3 +1,16 @@
+---
+title: "Devónico"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-avanzado
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Devónico** es el cuarto **período del [[Paleozoico]]**, que abarca desde **419 Ma hasta 359 Ma**.
 Conocido como la "Edad de los Peces" por la gran diversificación de vertebrados acuáticos.
@@ -23,8 +36,3 @@ Conocido como la "Edad de los Peces" por la gran diversificación de vertebrados
 - Fundamental para entender la **transición** agua-tierra.
 - Importante en la [[Estratigrafía]] y exploración petrolera.
 - Conexión entre el [[Silúrico]] y el [[Carbonífero]].
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-avanzado #primero-1-geologia-1 #proceso-fundamental #ruta-tiempo-evolucion

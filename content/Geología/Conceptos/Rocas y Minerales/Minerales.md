@@ -1,3 +1,15 @@
+---
+title: "Minerales"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-materiales
+  - rocas-minerales
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - concepto-central
+---
 
 Los **minerales** son **sólidos naturales, inorgánicos, de composición química definida y estructura cristalina ordenada**.
 
@@ -20,8 +32,3 @@ Los **minerales** son **sólidos naturales, inorgánicos, de composición quími
 - Fuente de [[Recursos naturales]] y explotaciones mineras.
 
 Relacionado con → [[Combustibles fósiles]]., [[Roca metamórfica]], [[Rocas metamórficas]]
-
----
-
----
-#concepto-central #importancia-5 #nivel-intermedio #primero-1-geologia-1 #rocas-minerales #ruta-materiales #geologia1-tema-01

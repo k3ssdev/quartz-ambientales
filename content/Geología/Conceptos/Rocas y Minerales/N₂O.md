@@ -1,3 +1,17 @@
+---
+title: "N₂O"
+draft: false
+tags:
+  - ruta-materiales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - n2o
+  - importancia-4
+  - efecto-invernadero
+  - ciclo-nitrogeno
+  - atm
+---
 
 El **óxido nitroso (N₂O)** es un gas con potente efecto de calentamiento atmosférico. ##Origen
 
@@ -8,6 +22,3 @@ El **óxido nitroso (N₂O)** es un gas con potente efecto de calentamiento atmo
 - También contribuye a la destrucción del [[Ozono]] (O₃).
 
 ósfera
-
----
-#atm #ciclo-nitrogeno #efecto-invernadero #importancia-4 #n2o #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-materiales

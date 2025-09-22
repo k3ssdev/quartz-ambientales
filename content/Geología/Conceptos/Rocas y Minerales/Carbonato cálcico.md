@@ -1,3 +1,15 @@
+---
+title: "Carbonato cálcico"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - concepto-proceso
+---
 
 El **carbonato cálcico** (CaCO₃) es un compuesto químico presente de forma natural en muchos [[Minerales]] y [[Rocas sedimentarias]].
 
@@ -15,8 +27,3 @@ El **carbonato cálcico** (CaCO₃) es un compuesto químico presente de forma n
 - Material fundamental en la deposición de [[Sedimentos]] marinos.
 - Base de la formación de [[Caliza]], que a su vez generan [[Mármol]] por [[Metamorfismo]].
 - Interviene en el [[Ciclo del carbono]] → fijación y liberación de CO₂.
-
----
-
----
-#concepto-proceso #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #rocas-minerales #ruta-materiales

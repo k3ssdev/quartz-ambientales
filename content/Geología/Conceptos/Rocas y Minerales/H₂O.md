@@ -1,3 +1,18 @@
+---
+title: "H₂O"
+draft: false
+tags:
+  - ruta-materiales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-intermedio
+  - importancia-4
+  - hidrosfera
+  - concepto-proceso
+  - ciclo-agua
+  - atm
+---
 
 El **agua (H₂O)** es la molécula más abundante en la [[hidrosfera]] y esencial para la [[vida]]. ##Estados
 
@@ -13,6 +28,3 @@ El **agua (H₂O)** es la molécula más abundante en la [[hidrosfera]] y esenci
 - Gas de [[efecto invernadero]] natural.
 
 ósfera
-
----
-#atm #ciclo-agua #concepto-proceso #hidrosfera #importancia-4 #nivel-intermedio #organismos-evolucion #primero-1-geologia-1 #proceso-dinamico #ruta-materiales

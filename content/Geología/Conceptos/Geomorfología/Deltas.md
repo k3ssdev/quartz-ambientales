@@ -1,3 +1,14 @@
+---
+title: "Deltas"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-2
+  - geomorfologia
+  - concepto-central
+---
 
 Un **delta** es una **formación sedimentaria** triangular que se crea en la desembocadura de un [[Río]] cuando los sedimentos transportados se acumulan al entrar en un [[Océano]], [[Mar]] o [[Lago]].
 
@@ -10,8 +21,3 @@ Un **delta** es una **formación sedimentaria** triangular que se crea en la des
 
 - Zonas fértiles y densamente pobladas.
 - Archivos de [[Estratigrafía]] y [[Cambio climático]].
-
----
-
----
-#concepto-central #geomorfologia #importancia-2 #nivel-basico #primero-1-geologia-1 #ruta-procesos-dinamicos

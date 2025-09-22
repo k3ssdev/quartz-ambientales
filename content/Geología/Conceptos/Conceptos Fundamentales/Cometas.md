@@ -1,3 +1,14 @@
+---
+title: "Cometas"
+draft: false
+tags:
+  - ruta-fundamentos
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-basico
+  - importancia-5
+  - concepto-central
+---
 
 Los **cometas** son cuerpos helados formados por [[agua]], [[CO₂]], [[NH₂]] y polvo.
 
@@ -11,10 +22,3 @@ Los **cometas** son cuerpos helados formados por [[agua]], [[CO₂]], [[NH₂]] 
 
 - Testigos del [[sistema solar primitivo]]
 - Posibles aportes de [[agua]] y moléculas orgánicas a la [[Tierra]]
-
----
-
----
-
----
-#concepto-central #importancia-5 #nivel-basico #organismos-evolucion #primero-1-geologia-1 #ruta-fundamentos

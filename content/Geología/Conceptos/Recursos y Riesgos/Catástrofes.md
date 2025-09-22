@@ -1,3 +1,13 @@
+---
+title: "Catástrofes"
+draft: false
+tags:
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - concepto-evento
+---
 
 Las **catástrofes** son eventos naturales abruptos y de gran magnitud que producen cambios drásticos en el [[medio ambiente]]. ##Ejemplos
 
@@ -9,6 +19,3 @@ Las **catástrofes** son eventos naturales abruptos y de gran magnitud que produ
 - Grandes catástrofes han marcado la [[Historia de la vida]] (ej. extinciones masivas).
 - Reflejadas en el [[registro fósil]].
 - Interaccionan con [[tectónica de placas]] y [[ciclos globales]].
-
----
-#concepto-evento #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico

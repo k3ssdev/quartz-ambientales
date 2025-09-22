@@ -1,3 +1,18 @@
+---
+title: "Luz solar"
+draft: false
+tags:
+  - ruta-fundamentos
+  - procesos-geologicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - fotosintesis
+  - energia-solar
+  - energia
+  - conceptos-fundamentales
+---
 
 La **luz solar** es la energía radiante procedente del [[Sol]], fuente principal de la [[energía solar]] que impulsa los procesos de la [[geodinámica externa]].
 
@@ -8,6 +23,3 @@ La **luz solar** es la energía radiante procedente del [[Sol]], fuente principa
 - Define la productividad de los [[Ecosistema marino]] y terrestres.
 - Su variación a lo largo del tiempo geológico influyó en [[glaciaciones]] y en la [[evolución de la vida]].
 - Complementa la [[Geología/Conceptos/Procesos Geológicos/Energía interna de la Tierra]], siendo los dos grandes motores del planeta.
-
----
-#conceptos-fundamentales #energia #energia-solar #fotosintesis #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #procesos-geologicos #ruta-fundamentos

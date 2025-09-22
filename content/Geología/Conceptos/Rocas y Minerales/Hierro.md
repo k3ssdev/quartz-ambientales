@@ -1,3 +1,19 @@
+---
+title: "Hierro"
+draft: false
+tags:
+  - supernovas
+  - ruta-materiales
+  - primero-1-geologia-1
+  - nivel-basico
+  - minerales
+  - importancia-5
+  - hierro
+  - geosfera
+  - elemento
+  - concepto-proceso
+  - concepto-central
+---
 
 El **hierro** es un elemento metálico muy abundante en la [[Tierra]] y el universo. ##Origen cósmico
 
@@ -6,6 +22,3 @@ El **hierro** es un elemento metálico muy abundante en la [[Tierra]] y el unive
 - Núcleo de la [[Tierra]] → responsable del [[campo magnético]].
 - Componente de [[minerales]] como [[hematita]] y magnetita.
 - Base industrial → siderurgia, construcción.
-
----
-#concepto-central #concepto-proceso #elemento #geosfera #hierro #importancia-5 #minerales #nivel-basico #primero-1-geologia-1 #ruta-materiales #supernovas

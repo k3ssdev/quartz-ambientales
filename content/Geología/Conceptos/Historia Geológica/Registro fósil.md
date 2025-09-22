@@ -1,3 +1,16 @@
+---
+title: "Registro fósil"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - f
+  - concepto-herramienta
+  - concepto-central
+---
 
 El **registro fósil** es el conjunto de restos o huellas de [[vida]] preservados en el [[sedimentos]] y rocas de la [[corteza terrestre]].
 
@@ -9,6 +22,3 @@ El **registro fósil** es el conjunto de restos o huellas de [[vida]] preservado
 - Esencial para reconstruir la [[historia geológica]].
 
 ósiles #registro-fosil #geología #evolución
-
----
-#concepto-central #concepto-herramienta #f #importancia-3 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

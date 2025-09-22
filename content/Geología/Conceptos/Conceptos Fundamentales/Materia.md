@@ -1,3 +1,13 @@
+---
+title: "Materia"
+draft: false
+tags:
+  - ruta-fundamentos
+  - quimica
+  - materia
+  - f
+  - conceptos-fundamentales
+---
 
 La **materia** es todo aquello que tiene [[masa]] y ocupa espacio. ##Niveles de organización
 
@@ -10,6 +20,3 @@ La **materia** es todo aquello que tiene [[masa]] y ocupa espacio. ##Niveles de 
 - Ciclos de la **materia** (agua, carbono, nitrógeno, fósforo) sostienen la [[vida]] y los [[ecosistemas]].
 
 ísica #geología #importancia-5 #nivel-intermedio #organismos-evolucion #proceso-dinamico #primero-1-geologia-1
-
----
-#conceptos-fundamentales #f #materia #quimica #ruta-fundamentos

@@ -1,3 +1,16 @@
+---
+title: "Erosión fluvial"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - procesos-geologicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-3
+  - erosion
+  - concepto-proceso
+---
 
 La **erosión fluvial** es la acción del [[Agua]] de los [[ríos]] desgastando y excavando el relieve.
 
@@ -8,6 +21,3 @@ La **erosión fluvial** es la acción del [[Agua]] de los [[ríos]] desgastando 
 - Depósitos finales en [[Deltas]] y [[Mar]]].
 
 Relacionado con → [[Cementación]].
-
----
-#concepto-proceso #erosion #importancia-3 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #procesos-geologicos #ruta-procesos-dinamicos

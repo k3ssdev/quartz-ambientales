@@ -1,3 +1,16 @@
+---
+title: "Datación radiométrica"
+draft: false
+tags:
+  - ruta-fundamentos
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - dataci
+  - conceptos-fundamentales
+  - concepto-herramienta
+  - concepto-central
+---
 
 La **datación radiométrica** es un método de [[datación absoluta]] que determina la edad de rocas y restos midiendo la desintegración de [[Isótopos radiactivos]]. ##Principio
 
@@ -14,6 +27,3 @@ La **datación radiométrica** es un método de [[datación absoluta]] que deter
 - Reconstruir la [[historia geológica]] y la [[Historia de la vida]].
 
 ón-radiométrica #geocronología #tiempo-geológico
-
----
-#concepto-central #concepto-herramienta #conceptos-fundamentales #dataci #importancia-5 #nivel-basico #primero-1-geologia-1 #ruta-fundamentos

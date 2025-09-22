@@ -1,3 +1,17 @@
+---
+title: "NH₂"
+draft: false
+tags:
+  - ruta-materiales
+  - quimica
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-intermedio
+  - nitr
+  - nh2
+  - importancia-5
+---
 
 El **NH₂** es el radical químico **amino**, derivado del [[Nitrógeno]].
 
@@ -6,6 +20,3 @@ El **NH₂** es el radical químico **amino**, derivado del [[Nitrógeno]].
 - Conecta el [[ciclo del nitrógeno]] con la [[vida]].
 
 ógeno #origen
-
----
-#importancia-5 #nh2 #nitr #nivel-intermedio #organismos-evolucion #primero-1-geologia-1 #proceso-dinamico #quimica #ruta-materiales

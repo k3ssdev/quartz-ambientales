@@ -1,3 +1,14 @@
+---
+title: "Océano Pacífico"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - concepto-central
+  - clima-oceanografia
+---
 
 El **océano Pacífico** es el de mayor tamaño del planeta, cubriendo más de un tercio de la superficie de la [[Tierra]].
 
@@ -15,8 +26,3 @@ Importancia:
 - Zona clave de [[Recursos naturales]] (pesca, petróleo, minerales).
 
 Relacionado con → [[Océano]].
-
----
-
----
-#clima-oceanografia #concepto-central #importancia-5 #nivel-intermedio #primero-1-geologia-1 #ruta-procesos-dinamicos

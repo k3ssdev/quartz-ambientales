@@ -1,3 +1,16 @@
+---
+title: "Cámbrico"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-2
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Cámbrico** es el primer periodo del [[Paleozoico]], entre **541–485 Ma**.
 
@@ -11,8 +24,3 @@ El **Cámbrico** es el primer periodo del [[Paleozoico]], entre **541–485 Ma**
 
 - Marca el inicio del [[Fanerozoico]].
 - Fundamenta el estudio de la [[Paleontología estratigráfica]].
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-2 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

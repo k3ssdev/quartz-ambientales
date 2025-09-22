@@ -1,3 +1,17 @@
+---
+title: "Geodinámica interna"
+draft: false
+tags:
+  - teoria
+  - ruta-procesos-dinamicos
+  - procesos-geologicos
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - geodinamica
+  - concepto-evento
+  - concepto-central
+---
 
 La **geodinámica interna** estudia los procesos que ocurren en el interior de la [[Tierra]], impulsados por el calor interno. Incluye:
 
@@ -5,6 +19,3 @@ La **geodinámica interna** estudia los procesos que ocurren en el interior de l
 - [[Volcanismo]].
 - [[Terremotos]].
 - [[Formación de montañas]].
-
----
-#concepto-central #concepto-evento #geodinamica #importancia-5 #nivel-intermedio #primero-1-geologia-1 #procesos-geologicos #ruta-procesos-dinamicos #teoria

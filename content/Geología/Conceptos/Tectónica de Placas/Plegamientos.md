@@ -1,3 +1,17 @@
+---
+title: "Plegamientos"
+draft: false
+tags:
+  - tectonica-placas
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - plegamientos
+  - nivel-intermedio
+  - importancia-4
+  - deformacion
+  - concepto-evento
+---
 
 Los **plegamientos** son deformaciones **dúctiles** de la [[Corteza terrestre]] en las que los estratos se ondulan en pliegues, sin fracturarse como en [[Fallas]].
 
@@ -13,6 +27,3 @@ Los **plegamientos** son deformaciones **dúctiles** de la [[Corteza terrestre]]
 - Asociados a [[Orogenia]] y creación de [[Cordilleras]].
 
 **Relaciones:** [[Fallas]], [[Orogenia]], [[Geodinámica interna]], [[Metamorfismo regional]].
-
----
-#concepto-evento #deformacion #importancia-4 #nivel-intermedio #plegamientos #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos #tectonica-placas

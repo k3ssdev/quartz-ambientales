@@ -1,3 +1,15 @@
+---
+title: "Núcleo interno"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-estructura-terrestre
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - estructura-terrestre
+  - concepto-central
+---
 
 El **núcleo interno** es la capa sólida central de la [[Tierra]], ubicada dentro del [[Núcleo]] y rodeada por el [[Núcleo externo]].
 
@@ -12,8 +24,3 @@ El **núcleo interno** es la capa sólida central de la [[Tierra]], ubicada dent
 
 - Influye en la dinámica del [[Núcleo externo]].
 - Clave para la [[Geodinámica interna]].
-
----
-
----
-#concepto-central #estructura-terrestre #importancia-5 #nivel-basico #primero-1-geologia-1 #ruta-estructura-terrestre #geologia1-tema-01

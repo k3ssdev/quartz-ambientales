@@ -1,3 +1,16 @@
+---
+title: "Aristóteles"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-fundamentos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - conceptos-fundamentales
+  - concepto-evento
+---
 
 Aristóteles (384–322 a.C.) fue uno de los primeros en intentar explicar fenómenos de la [[Tierra]], aunque desde un enfoque filosófico más que científico. Ejemplos de sus ideas:
 
@@ -7,8 +20,3 @@ Aristóteles (384–322 a.C.) fue uno de los primeros en intentar explicar fenó
 Aunque equivocados, fueron el inicio de la reflexión sobre procesos naturales.
 
 Relacionado con → [[Catastrofismo]]
-
----
-
----
-#concepto-evento #conceptos-fundamentales #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-fundamentos #geologia1-tema-01

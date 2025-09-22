@@ -1,3 +1,17 @@
+---
+title: "Manto inferior"
+draft: false
+tags:
+  - ruta-estructura-terrestre
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-basico
+  - manto-inferior
+  - importancia-5
+  - geologia1-tema-01
+  - geodin
+  - concepto-central
+---
 
 El **manto inferior** se extiende aproximadamente entre los 660 km y 2900 km de profundidad, hasta la [[capa D”]].
 
@@ -9,6 +23,3 @@ El **manto inferior** se extiende aproximadamente entre los 660 km y 2900 km de 
 - Papel en el reciclaje de [[litosfera]] subducida.
 
 ámica #silicatos #tierra-interna
-
----
-#concepto-central #geodin #geologia1-tema-01 #importancia-5 #manto-inferior #nivel-basico #primero-1-geologia-1 #proceso-fundamental #ruta-estructura-terrestre

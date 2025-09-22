@@ -1,3 +1,18 @@
+---
+title: "Procesos geológicos"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - rocas
+  - relieve
+  - procesos-geologicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - geodinamica-interna
+  - concepto-evento
+---
 
 Los **procesos geológicos** son los fenómenos naturales que modifican la estructura, forma y dinámica de la [[Tierra]], tanto en su interior como en la superficie.
 
@@ -7,6 +22,3 @@ Los **procesos geológicos** son los fenómenos naturales que modifican la estru
 - Explican la evolución de la [[superficie terrestre]].
 - Transforman [[rocas]], [[minerales]] y generan [[relieve]].
 - Base para comprender el [[tiempo geológico]].
-
----
-#concepto-evento #geodinamica-interna #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #procesos-geologicos #relieve #rocas #ruta-procesos-dinamicos

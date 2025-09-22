@@ -1,3 +1,19 @@
+---
+title: "Procesos pedogenéticos"
+draft: false
+tags:
+  - suelo
+  - ruta-procesos-dinamicos
+  - procesos-geologicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-intermedio
+  - meteorizacion
+  - importancia-5
+  - erosi
+  - concepto-proceso
+---
 
 Los **procesos pedogenéticos** son el conjunto de transformaciones físicas, químicas y biológicas que dan lugar a la formación y evolución del **[[Suelo]]** a partir de la [[Roca madre]]. ##Factores clave
 
@@ -18,6 +34,3 @@ Los **procesos pedogenéticos** son el conjunto de transformaciones físicas, qu
 - Son parte de la [[geodinámica externa]] de la [[Tierra]].
 
 ón #ciclo-agua #ecosistemas
-
----
-#concepto-proceso #erosi #importancia-5 #meteorizacion #nivel-intermedio #organismos-evolucion #primero-1-geologia-1 #proceso-dinamico #procesos-geologicos #ruta-procesos-dinamicos #suelo

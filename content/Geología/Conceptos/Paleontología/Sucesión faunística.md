@@ -1,3 +1,17 @@
+---
+title: "Sucesión faunística"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-tiempo-evolucion
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-intermedio
+  - importancia-3
+  - historia-geologica
+  - concepto-herramienta
+  - concepto-central
+---
 
 El principio de **sucesión faunística** establece que los distintos grupos de [[Fósiles]] aparecen y se extinguen en un orden definido y reconocible en las capas de [[Estratos]].
 
@@ -14,8 +28,3 @@ El principio de **sucesión faunística** establece que los distintos grupos de 
 - Ha sido fundamental para construir la [[Escala del tiempo geológico]].
 
 **Ejemplo:** Si un [[Fósiles]] característico (ej: trilobites) se encuentra en varios [[Estratos]], se puede correlacionar que esas capas tienen aproximadamente la misma antigüedad, incluso si están separadas por grandes distancias.
-
----
-
----
-#concepto-central #concepto-herramienta #historia-geologica #importancia-3 #nivel-intermedio #organismos-evolucion #primero-1-geologia-1 #ruta-tiempo-evolucion #geologia1-tema-01

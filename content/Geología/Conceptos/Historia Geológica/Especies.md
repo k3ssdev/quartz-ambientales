@@ -1,3 +1,16 @@
+---
+title: "Especies"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-3
+  - especies
+  - concepto-central
+  - biolog
+---
 
 Una **especie** es la unidad básica de clasificación biológica, definida como un grupo de organismos que pueden cruzarse y producir descendencia fértil.
 
@@ -9,6 +22,3 @@ Una **especie** es la unidad básica de clasificación biológica, definida como
 - Cambios de [[clima]], [[tectónica de placas]] y [[Catástrofes]] afectan su evolución.
 
 ía #evolución #registro-fosil
-
----
-#biolog #concepto-central #especies #importancia-3 #nivel-intermedio #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

@@ -1,3 +1,18 @@
+---
+title: "Nebulosas planetarias"
+draft: false
+tags:
+  - universo
+  - tiempo-geologico
+  - ruta-fundamentos
+  - primero-1-geologia-1
+  - nivel-basico
+  - nebulosas
+  - importancia-3
+  - estrellas
+  - conceptos-fundamentales
+  - concepto-central
+---
 
 Las **nebulosas planetarias** son nubes de gas y polvo expulsadas por estrellas de masa media al final de su vida, cuando se transforman en [[enanas blancas]].
 
@@ -6,6 +21,3 @@ Las **nebulosas planetarias** son nubes de gas y polvo expulsadas por estrellas 
 
 - Enriquecen el medio interestelar con elementos químicos.
 - Etapa previa a la formación de [[enanas blancas]].
-
----
-#concepto-central #conceptos-fundamentales #estrellas #importancia-3 #nebulosas #nivel-basico #primero-1-geologia-1 #ruta-fundamentos #tiempo-geologico #universo

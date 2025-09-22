@@ -1,3 +1,16 @@
+---
+title: "Física"
+draft: false
+tags:
+  - ruta-fundamentos
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - f
+  - conceptos-fundamentales
+  - concepto-central
+---
 
 La **física** es la ciencia que estudia las leyes fundamentales de la energía, la materia y sus interacciones.
 
@@ -6,6 +19,3 @@ La **física** es la ciencia que estudia las leyes fundamentales de la energía,
 - [[Calor]], [[Energía interna de la Tierra]], [[convección mantélica]].
 
 ísica #ciencia #geología #energía
-
----
-#concepto-central #conceptos-fundamentales #f #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-fundamental #ruta-fundamentos

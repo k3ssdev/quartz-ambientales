@@ -1,3 +1,16 @@
+---
+title: "Mioceno"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Mioceno** es la primera **época del [[Neógeno]]**, que abarca desde **23 Ma hasta 5,3 Ma**.
 Se caracteriza por la diversificación de mamíferos modernos y la expansión de praderas.
@@ -30,8 +43,3 @@ Se caracteriza por la diversificación de mamíferos modernos y la expansión de
 - Fundamental para la **evolución humana** temprana.
 - Importante en la [[Evolución de la vida]] reciente.
 - Transición entre el [[Oligoceno]] y el [[Plioceno]].
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-fundamental #ruta-tiempo-evolucion

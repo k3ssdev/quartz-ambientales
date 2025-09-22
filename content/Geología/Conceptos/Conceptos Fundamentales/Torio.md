@@ -1,3 +1,16 @@
+---
+title: "Torio"
+draft: false
+tags:
+  - torio
+  - ruta-fundamentos
+  - primero-1-geologia-1
+  - nivel-basico
+  - is
+  - importancia-5
+  - conceptos-fundamentales
+  - concepto-central
+---
 
 El **torio** es otro elemento radiactivo usado en [[datación absoluta]].
 
@@ -8,6 +21,3 @@ El **torio** es otro elemento radiactivo usado en [[datación absoluta]].
 - Contribuye a la **energía interna de la Tierra** por desintegración radiactiva.
 
 ótopos #datación-absoluta #geodinámica
-
----
-#concepto-central #conceptos-fundamentales #importancia-5 #is #nivel-basico #primero-1-geologia-1 #ruta-fundamentos #torio

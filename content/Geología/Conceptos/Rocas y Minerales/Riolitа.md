@@ -1,3 +1,15 @@
+---
+title: "Riolitа"
+draft: false
+tags:
+  - ruta-materiales
+  - roca-volc
+  - riolita
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-3
+---
 
 La **riolita** es una [[Rocas volcánicas|roca volcánica]] [[félsica]] de composición ácida, equivalente volcánico del [[granito]].###Composición
 - **Sílice (SiO₂)**: >70% (muy ácida).
@@ -29,6 +41,3 @@ La **riolita** es una [[Rocas volcánicas|roca volcánica]] [[félsica]] de comp
 - **Indicador geológico**: ambientes tectónicos específicos.
 
 ánica #félsica #granito #explosiva
-
----
-#importancia-3 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #riolita #roca-volc #ruta-materiales

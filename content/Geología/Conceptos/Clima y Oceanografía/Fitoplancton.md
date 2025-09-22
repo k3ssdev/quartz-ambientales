@@ -1,3 +1,18 @@
+---
+title: "Fitoplancton"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - oxigeno
+  - organismos-evolucion
+  - nivel-intermedio
+  - importancia-4
+  - ecosistemas
+  - clima-oceanografia
+  - ciclo-carbono
+---
 
 El **fitoplancton** es el conjunto de organismos microscópicos vegetales que flotan en el [[agua]] de océanos y lagos.
 
@@ -8,6 +23,3 @@ El **fitoplancton** es el conjunto de organismos microscópicos vegetales que fl
 - Producen más del **50 % del [[oxígeno]] atmosférico actual** mediante [[Fotosíntesis]].
 - Fijan CO₂ → papel fundamental en el [[ciclo del carbono]].
 - Al morir, sus restos forman [[sedimentos]] → origen de [[caliza]], [[creta]] y [[combustibles fósiles]] (ej. [[petróleo]], [[gas natural]]).
-
----
-#ciclo-carbono #clima-oceanografia #ecosistemas #importancia-4 #nivel-intermedio #organismos-evolucion #oxigeno #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos

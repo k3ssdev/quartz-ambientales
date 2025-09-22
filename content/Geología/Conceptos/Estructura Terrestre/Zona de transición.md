@@ -1,3 +1,18 @@
+---
+title: "Zona de transición"
+draft: false
+tags:
+  - geologia1-tema-01
+  - tierra-interna
+  - ruta-estructura-terrestre
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-basico
+  - manto
+  - importancia-5
+  - geodin
+  - concepto-central
+---
 
 La **zona de transición** es la región situada entre el [[Manto superior]] y el [[Manto inferior]], a profundidades aproximadas de 410–660 km.
 
@@ -8,6 +23,3 @@ La **zona de transición** es la región situada entre el [[Manto superior]] y e
 - Reguladora del transporte de [[agua]] en el interior de la [[Tierra]].
 
 ámica #minerales
-
----
-#concepto-central #geodin #importancia-5 #manto #nivel-basico #primero-1-geologia-1 #proceso-fundamental #ruta-estructura-terrestre #tierra-interna #geologia1-tema-01

@@ -1,3 +1,15 @@
+---
+title: "Células"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-avanzado
+  - importancia-3
+  - concepto-central
+  - c
+---
 
 Las **células** son las unidades estructurales y funcionales básicas de todos los [[Organismos]] vivos, desde [[Bacterias]] hasta [[Animales]] complejos.###Propiedades fundamentales
 - **Membrana plasmática**: barrera selectiva.
@@ -37,6 +49,3 @@ Las **células** son las unidades estructurales y funcionales básicas de todos 
 - **Schleiden y Schwann**: teoría celular.
 
 élulas #unidad-básica #procariotas #eucariotas #teoría-celular
-
----
-#c #concepto-central #importancia-3 #nivel-avanzado #primero-1-geologia-1 #proceso-fundamental #ruta-tiempo-evolucion

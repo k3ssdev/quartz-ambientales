@@ -1,3 +1,17 @@
+---
+title: "Cenozoico"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Cenozoico** es la era más reciente del [[Fanerozoico]], desde hace 66 Ma hasta la actualidad.
 
@@ -17,8 +31,3 @@ El **Cenozoico** es la era más reciente del [[Fanerozoico]], desde hace 66 Ma h
 
 - Era actual, clave para el estudio del [[Cambio climático]].
 - Coincide con el máximo desarrollo de la [[Vida]] compleja y del hombre.
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion #geologia1-tema-01

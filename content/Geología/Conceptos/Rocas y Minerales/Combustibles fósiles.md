@@ -1,3 +1,16 @@
+---
+title: "Combustibles fósiles"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-materiales
+  - rocas-minerales
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - concepto-evento
+  - concepto-central
+---
 
 Los **combustibles fósiles** son recursos energéticos originados por la descomposición y transformación de restos orgánicos acumulados en la [[Historia geológica]].
 
@@ -18,8 +31,3 @@ Los **combustibles fósiles** son recursos energéticos originados por la descom
 - Contribuyen al [[Cambio climático]] por emisiones de CO₂.
 
 **Relaciones:** [[Recursos naturales]], [[Rocas sedimentarias]], [[Ciclo del carbono]].
-
----
-
----
-#concepto-central #concepto-evento #importancia-5 #nivel-intermedio #primero-1-geologia-1 #rocas-minerales #ruta-materiales #geologia1-tema-01

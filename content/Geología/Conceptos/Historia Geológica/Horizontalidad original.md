@@ -1,3 +1,17 @@
+---
+title: "Horizontalidad original"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-tiempo-evolucion
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-avanzado
+  - importancia-4
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El principio de **horizontalidad original** fue formulado por **Nicolás Steno** (siglo XVII), considerado uno de los padres de la [[Estratigrafía]].
 
@@ -19,8 +33,3 @@ El principio de **horizontalidad original** fue formulado por **Nicolás Steno**
 
 - Aplica principalmente a sedimentos depositados en agua o atmósfera.
 - No siempre es válido en formaciones volcánicas o depósitos de gravedad (ej. [[Deslizamientos]]).
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-4 #nivel-avanzado #primero-1-geologia-1 #proceso-fundamental #ruta-tiempo-evolucion #geologia1-tema-01

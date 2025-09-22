@@ -1,3 +1,16 @@
+---
+title: "Meteorización"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - procesos-geologicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - meteorizacion
+  - importancia-3
+  - concepto-proceso
+---
 
 La **meteorización** es el proceso de **descomposición y alteración de rocas in situ**, sin transporte.
 
@@ -11,6 +24,3 @@ La **meteorización** es el proceso de **descomposición y alteración de rocas 
 
 - Meteorización: descomposición en el lugar.
 - Erosión: arranque + transporte de materiales.
-
----
-#concepto-proceso #importancia-3 #meteorizacion #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #procesos-geologicos #ruta-procesos-dinamicos

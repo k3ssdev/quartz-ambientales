@@ -1,3 +1,15 @@
+---
+title: "Pesca"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-3
+  - concepto-evento
+  - concepto-central
+  - clima-oceanografia
+---
 
 La **pesca** es la actividad de extracción de organismos acuáticos, principalmente peces, que forman parte del [[ecosistema marino]] y de aguas continentales (ríos, lagos).
 
@@ -24,8 +36,3 @@ La **pesca** es la actividad de extracción de organismos acuáticos, principalm
 
 - Depende de la **productividad primaria** en la [[zona fótica]] (controlada por [[fitoplancton]] y [[luz solar]]).
 - Influyen factores geológicos como [[corrientes marinas]], [[plataforma continental]] y [[nivel del mar]].
-
----
-
----
-#clima-oceanografia #concepto-central #concepto-evento #importancia-3 #nivel-intermedio #primero-1-geologia-1 #ruta-procesos-dinamicos

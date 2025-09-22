@@ -1,3 +1,20 @@
+---
+title: "Protosol"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-tiempo-evolucion
+  - protosol
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - origen
+  - nivel-basico
+  - nebulosa
+  - importancia-3
+  - conceptos-fundamentales
+  - concepto-central
+  - astronom
+---
 
 El **protosol** fue el estadio temprano del [[Sol]] durante la [[Formación del sistema solar]].
 
@@ -9,6 +26,3 @@ El **protosol** fue el estadio temprano del [[Sol]] durante la [[Formación del 
 - Marcó el paso hacia la formación de los planetas interiores y exteriores.
 
 ía
-
----
-#astronom #concepto-central #conceptos-fundamentales #importancia-3 #nebulosa #nivel-basico #origen #primero-1-geologia-1 #proceso-fundamental #protosol #ruta-tiempo-evolucion #geologia1-tema-01

@@ -1,3 +1,16 @@
+---
+title: "Oligoceno"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Oligoceno** es la tercera **época del [[Paleógeno]]**, que abarca desde **34 Ma hasta 23 Ma**.
 Marca el inicio del enfriamiento cenozoico y importantes cambios faunísticos.
@@ -29,8 +42,3 @@ Marca el inicio del enfriamiento cenozoico y importantes cambios faunísticos.
 - Clave para entender la evolución de **ecosistemas abiertos**.
 - Importante en la [[Evolución de la vida]] de mamíferos.
 - Conexión entre el [[Eoceno]] y el [[Mioceno]].
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

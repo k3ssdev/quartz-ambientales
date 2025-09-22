@@ -1,3 +1,18 @@
+---
+title: "Erupciones volcánicas masivas"
+draft: false
+tags:
+  - vulcanismo
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - extinciones
+  - erupciones-masivas
+  - concepto-evento
+  - concepto-central
+  - cat
+---
 
 Las **erupciones volcánicas masivas** son eventos [[Catástrofes|catastróficos]] que liberan enormes volúmenes de magma, gases y cenizas, causando impactos globales.###Erupciones de traps de basalto
 - **Provincias ígneas grandes** (LIPs): extensas coladas de [[basalto]].
@@ -18,6 +33,3 @@ Las **erupciones volcánicas masivas** son eventos [[Catástrofes|catastróficos
 - Mecanismo: estrés ambiental múltiple.
 
 ástrofes #LIPs
-
----
-#cat #concepto-central #concepto-evento #erupciones-masivas #extinciones #importancia-3 #nivel-basico #primero-1-geologia-1 #proceso-historico #vulcanismo

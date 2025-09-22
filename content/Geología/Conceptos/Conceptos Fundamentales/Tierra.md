@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases: ["Planeta Tierra", "Mundo"]
 ---
 
@@ -21,5 +22,5 @@ La **Tierra** es el tercer planeta desde el [[Sol]], con una antigüedad de 4.60
 - [[Geosfera]] - Sistema de rocas y minerales
 - [[Luna]] - Satélite natural
 
----
+
 #concepto-central #conceptos-fundamentales #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-dinamico-fundamental #ruta-fundamentos #geologia1-tema-01

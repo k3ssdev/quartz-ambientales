@@ -1,3 +1,15 @@
+---
+title: "Relieve"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - geomorfologia
+  - concepto-evento
+  - concepto-central
+---
 
 El **relieve** es el conjunto de formas que presenta la [[Superficie terrestre]], resultante de la interacción entre procesos internos y externos.
 
@@ -10,8 +22,3 @@ El **relieve** es el conjunto de formas que presenta la [[Superficie terrestre]]
 
 - Relieve continental → [[Cordilleras]], [[Valles]], [[Llanuras]].
 - Relieve submarino → [[Dorsales oceánicas]], [[Cánones submarinos]], [[Fosas oceánicas]].
-
----
-
----
-#concepto-central #concepto-evento #geomorfologia #importancia-5 #nivel-intermedio #primero-1-geologia-1 #ruta-procesos-dinamicos

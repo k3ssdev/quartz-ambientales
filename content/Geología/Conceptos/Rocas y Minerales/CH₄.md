@@ -1,3 +1,17 @@
+---
+title: "CH₄"
+draft: false
+tags:
+  - ruta-materiales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - metano
+  - importancia-4
+  - efecto-invernadero
+  - ciclo-carbono
+  - atm
+---
 
 El **metano (CH₄)** es un gas incoloro e inodoro, formado por un átomo de carbono y cuatro de [[Hidrógeno]]. ##Origen natural
 
@@ -9,6 +23,3 @@ El **metano (CH₄)** es un gas incoloro e inodoro, formado por un átomo de car
 - Relacionado con el [[ciclo del carbono]].
 
 ósfera
-
----
-#atm #ciclo-carbono #efecto-invernadero #importancia-4 #metano #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-materiales

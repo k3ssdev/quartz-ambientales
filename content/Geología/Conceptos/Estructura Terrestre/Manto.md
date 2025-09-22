@@ -1,3 +1,15 @@
+---
+title: "Manto"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-estructura-terrestre
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - estructura-terrestre
+  - concepto-central
+---
 
 El **manto** es la capa intermedia de la [[Geosfera]], situada entre la [[Corteza]] y el [[Núcleo]].
 
@@ -8,8 +20,3 @@ Características:
 - Divisiones: manto superior (incluye la [[Astenosfera]]) y manto inferior.
 
 Fuente principal del [[Magmatismo]].
-
----
-
----
-#concepto-central #estructura-terrestre #importancia-5 #nivel-basico #primero-1-geologia-1 #ruta-estructura-terrestre #geologia1-tema-01

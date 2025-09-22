@@ -1,3 +1,15 @@
+---
+title: "Pumita"
+draft: false
+tags:
+  - ruta-materiales
+  - roca-volc
+  - pumita
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-3
+---
 
 La **pumita** (o piedra pómez) es una [[Rocas volcánicas|roca volcánica]] extremadamente porosa y liviana, formada durante [[erupciones explosivas]].###Composición
 - **Sílice (SiO₂)**: 60-75% (composición [[félsica]]).
@@ -25,6 +37,3 @@ La **pumita** (o piedra pómez) es una [[Rocas volcánicas|roca volcánica]] ext
 - **Limpieza**: remoción de callosidades.
 
 ánica #vesicular #explosiva #abrasivo
-
----
-#importancia-3 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #pumita #roca-volc #ruta-materiales

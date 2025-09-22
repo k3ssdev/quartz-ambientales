@@ -1,3 +1,15 @@
+---
+title: "Esferas terrestres"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-estructura-terrestre
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - estructura-terrestre
+  - concepto-central
+---
 
 Las **esferas terrestres** son los grandes componentes del sistema Tierra, interconectados dinámicamente.
 
@@ -7,8 +19,3 @@ Las **esferas terrestres** son los grandes componentes del sistema Tierra, inter
 - **[[Biosfera]]** → conjunto de [[Vida]] y ecosistemas que interactúan con las demás esferas.
 
 **Nota:** Estas esferas funcionan gracias a **dos fuentes de energía**: [[Energía solar]] y [[Geología/Conceptos/Procesos Geológicos/Energía interna de la Tierra]].
-
----
-
----
-#concepto-central #estructura-terrestre #importancia-5 #nivel-intermedio #primero-1-geologia-1 #ruta-estructura-terrestre #geologia1-tema-01

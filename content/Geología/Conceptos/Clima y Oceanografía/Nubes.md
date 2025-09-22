@@ -1,3 +1,17 @@
+---
+title: "Nubes"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nubes
+  - nivel-intermedio
+  - importancia-4
+  - concepto-proceso
+  - ciclo-agua
+  - atm
+---
 
 Las **nubes** son acumulaciones visibles de **gotas de [[agua]] líquida o cristales de [[hielo]]** suspendidos en la [[atmósfera]]. ##Formación
 
@@ -10,6 +24,3 @@ Las **nubes** son acumulaciones visibles de **gotas de [[agua]] líquida o crist
 - Etapa esencial del [[ciclo del agua]] y la [[precipitación]].
 
 ósfera
-
----
-#atm #ciclo-agua #concepto-proceso #importancia-4 #nivel-intermedio #nubes #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos

@@ -1,3 +1,17 @@
+---
+title: "Impacto de meteoritos"
+draft: false
+tags:
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - impacto-meteoritos
+  - extinciones
+  - concepto-evento
+  - chicxulub
+  - cat
+---
 
 El **impacto de meteoritos** son eventos [[Catástrofes|catastróficos]] causados por la colisión de asteroides o cometas con la Tierra, capaces de provocar [[extinciones masivas]]. ##Mecanismo de impacto ###Proceso físico
 - **Energía cinética**: E = ½mv² (velocidades ~20-70 km/s).
@@ -22,6 +36,3 @@ El **impacto de meteoritos** son eventos [[Catástrofes|catastróficos]] causado
 - Evidencia menos concluyente.
 
 ástrofes #K-Pg
-
----
-#cat #chicxulub #concepto-evento #extinciones #impacto-meteoritos #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico

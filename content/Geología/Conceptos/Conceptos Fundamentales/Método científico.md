@@ -1,3 +1,17 @@
+---
+title: "Método científico"
+draft: false
+tags:
+  - ruta-fundamentos
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - m
+  - importancia-3
+  - conceptos-fundamentales
+  - concepto-herramienta
+  - concepto-central
+---
 
 El **método científico** es el procedimiento sistemático que guía la investigación en ciencia, incluida la [[Geología]]. ##Etapas fundamentales
 
@@ -12,6 +26,3 @@ El **método científico** es el procedimiento sistemático que guía la investi
 - Ha permitido desarrollar teorías clave como el [[Uniformismo]], la [[Tectónica de placas]] o la [[Hipótesis de la nebulosa]].
 
 étodo-científico #geología #ciencia #hipótesis #teoría
-
----
-#concepto-central #concepto-herramienta #conceptos-fundamentales #importancia-3 #m #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-fundamentos

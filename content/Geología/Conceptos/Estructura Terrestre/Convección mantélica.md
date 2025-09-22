@@ -1,3 +1,14 @@
+---
+title: "Convección mantélica"
+draft: false
+tags:
+  - ruta-estructura-terrestre
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - convecci
+---
 
 La **convección mantélica** es el movimiento lento pero constante del [[manto]] sólido debido a la transferencia de [[calor]] desde el [[núcleo]] hacia la superficie.
 
@@ -9,6 +20,3 @@ La **convección mantélica** es el movimiento lento pero constante del [[manto]
 - Explica [[Expansión oceánica]] y [[subducción]].
 
 ón #manto #tectónica-de-placas #geodinámica-interna
-
----
-#convecci #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-estructura-terrestre

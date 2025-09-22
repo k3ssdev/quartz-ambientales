@@ -1,3 +1,17 @@
+---
+title: "Hipótesis de la nebulosa"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-fundamentos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - hip
+  - conceptos-fundamentales
+  - concepto-proceso
+---
 
 La **hipótesis de la nebulosa** explica la [[formación del sistema solar]] y de la [[Tierra]]. ##Proceso
 
@@ -11,6 +25,3 @@ La **hipótesis de la nebulosa** explica la [[formación del sistema solar]] y d
 - Es la teoría más aceptada actualmente → amplía la **hipótesis planetesimal**.
 
 ótesis #astronomía #formación
-
----
-#concepto-proceso #conceptos-fundamentales #hip #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-fundamentos #geologia1-tema-01

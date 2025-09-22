@@ -1,3 +1,18 @@
+---
+title: "Helio"
+draft: false
+tags:
+  - universo
+  - ruta-materiales
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - energia
+  - elemento
+  - conceptos-fundamentales
+  - concepto-central
+---
 
 El **helio** es el segundo elemento más abundante del universo, formado por **fusión nuclear de [[hidrógeno]] en [[estrellas]]**.
 
@@ -7,6 +22,3 @@ El **helio** es el segundo elemento más abundante del universo, formado por **f
 
 - Confirma la teoría de fusión en [[estrellas]].
 - Usado en criogenia, industria aeroespacial y superconductores.
-
----
-#concepto-central #conceptos-fundamentales #elemento #energia #importancia-3 #nivel-basico #primero-1-geologia-1 #proceso-fundamental #ruta-materiales #universo

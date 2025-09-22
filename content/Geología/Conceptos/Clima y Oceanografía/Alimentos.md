@@ -1,3 +1,16 @@
+---
+title: "Alimentos"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - importancia-4
+  - historia-geologica
+  - clima-oceanografia
+---
 
 Los **alimentos** son sustancias que los seres vivos consumen para obtener energía y nutrientes esenciales para mantener la [[vida]].
 
@@ -18,12 +31,3 @@ Los **alimentos** son sustancias que los seres vivos consumen para obtener energ
 - **Crecimiento poblacional** → presión sobre [[recursos naturales]]
 - **Cambio climático** → alteración de ecosistemas productivos (sequías, acidificación de [[océanos]])
 - **Sostenibilidad** → transición hacia alimentación más equilibrada y respetuosa con la [[biosfera]]
-
----
-
----
-
----
-
----
-#clima-oceanografia #historia-geologica #importancia-4 #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos

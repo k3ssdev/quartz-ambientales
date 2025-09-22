@@ -1,3 +1,16 @@
+---
+title: "Superposición"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-tiempo-evolucion
+  - primero-1-geologia-1
+  - nivel-avanzado
+  - importancia-2
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El principio de **superposición de estratos** es uno de los principios fundamentales de la [[Estratigrafía]] y la [[Datación relativa]].
 
@@ -15,8 +28,3 @@ El principio de **superposición de estratos** es uno de los principios fundamen
 
 - No se aplica en zonas donde los [[Estratos]] han sido invertidos por [[Tectónica de placas]] o [[Orogenia]].
 - No proporciona una edad absoluta, solo un orden.
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-2 #nivel-avanzado #primero-1-geologia-1 #ruta-tiempo-evolucion #geologia1-tema-01

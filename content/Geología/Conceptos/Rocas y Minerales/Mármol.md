@@ -1,3 +1,15 @@
+---
+title: "Mármol"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - concepto-proceso
+---
 
 El **mármol** es una [[Roca metamórfica]] que se origina a partir de la recristalización de la [[Caliza]] bajo condiciones de alta temperatura y presión.
 
@@ -12,8 +24,3 @@ El **mármol** es una [[Roca metamórfica]] que se origina a partir de la recris
 - Construcción, escultura, decoración.
 
 **Relaciones:** [[Caliza]], [[Geología/Conceptos/Rocas y Minerales/Rocas metamórficas]], [[Ciclo de las rocas]].
-
----
-
----
-#concepto-proceso #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #rocas-minerales #ruta-materiales

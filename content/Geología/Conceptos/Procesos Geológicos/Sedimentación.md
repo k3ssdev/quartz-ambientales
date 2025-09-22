@@ -1,3 +1,16 @@
+---
+title: "Sedimentación"
+draft: false
+tags:
+  - sedimentacion
+  - ruta-procesos-dinamicos
+  - procesos-geologicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-3
+  - concepto-proceso
+---
 
 La **sedimentación** es el proceso por el cual los [[Sedimentos]] transportados por [[Agua]], [[Viento]], [[Glaciares]] o [[Gravedad]] se depositan en una cuenca.
 
@@ -11,6 +24,3 @@ La **sedimentación** es el proceso por el cual los [[Sedimentos]] transportados
 
 - Forma [[Estratos]].
 - Registra la [[Historia geológica]] y cambios en el [[Clima]].
-
----
-#concepto-proceso #importancia-3 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #procesos-geologicos #ruta-procesos-dinamicos #sedimentacion

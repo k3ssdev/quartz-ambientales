@@ -1,3 +1,15 @@
+---
+title: "Arrecifes de coral"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-3
+  - concepto-estructura
+  - clima-oceanografia
+---
 
 # Arrecifes de coral
 
@@ -20,10 +32,3 @@ Los **arrecifes de coral** son ecosistemas marinos formados por la acumulación 
 - **[[Cambio climático]]** y **acidificación oceánica** degradan los arrecifes.
 - Sobrepesca y contaminación.
 - Blanqueamiento del coral por pérdida de algas simbióticas.
-
----
-
----
-
----
-#clima-oceanografia #concepto-estructura #importancia-3 #nivel-intermedio #primero-1-geologia-1 #proceso-fundamental #ruta-procesos-dinamicos

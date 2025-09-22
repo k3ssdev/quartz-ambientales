@@ -1,3 +1,15 @@
+---
+title: "Sistema solar primitivo"
+draft: false
+tags:
+  - ruta-fundamentos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - origen
+  - nivel-intermedio
+  - importancia-5
+  - conceptos-fundamentales
+---
 
 El **sistema solar primitivo** surgió hace unos **4.600 millones de años** a partir de una [[nebulosa]] de [[polvo cósmico]] y gas interestelar.
 
@@ -7,6 +19,3 @@ El **sistema solar primitivo** surgió hace unos **4.600 millones de años** a p
 
 - Escenario de la [[formación de la Tierra]].
 - Fuente de [[agua]] y moléculas prebióticas (aportadas por [[cometas]] y [[meteoritos]]).
-
----
-#conceptos-fundamentales #importancia-5 #nivel-intermedio #origen #primero-1-geologia-1 #proceso-dinamico #ruta-fundamentos

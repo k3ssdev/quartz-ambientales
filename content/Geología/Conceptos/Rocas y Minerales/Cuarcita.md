@@ -1,3 +1,15 @@
+---
+title: "Cuarcita"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - concepto-proceso
+---
 
 La **cuarcita** es una [[Roca metamórfica]] de origen no foliado, formada por la **recristalización de [[arenisca]] cuarzosa**.
 
@@ -10,8 +22,3 @@ La **cuarcita** es una [[Roca metamórfica]] de origen no foliado, formada por l
 **Usos:** construcción, carreteras, piedra decorativa.
 
 **Relaciones:** [[Rocas metamórficas]], [[arenisca]], [[Ciclo de las rocas]].
-
----
-
----
-#concepto-proceso #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #rocas-minerales #ruta-materiales

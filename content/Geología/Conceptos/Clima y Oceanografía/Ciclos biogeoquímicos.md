@@ -1,3 +1,16 @@
+---
+title: "Ciclos biogeoquímicos"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-3
+  - historia-geologica
+  - estructura-terrestre
+  - concepto-proceso
+---
 
 Los **ciclos biogeoquímicos** son procesos naturales mediante los cuales los elementos químicos esenciales (C, N, O, P, H, S) circulan entre la **[[geosfera]]**, la **[[atmósfera]]**, la **[[hidrosfera]]** y la **[[biosfera]]**. La materia se transforma y se recicla, mientras que la **energía fluye** de manera unidireccional (del [[Sol]] hacia los seres vivos y se pierde como calor).
 
@@ -20,8 +33,3 @@ Los **ciclos biogeoquímicos** son procesos naturales mediante los cuales los el
 
 - Los ciclos han cambiado a lo largo del [[tiempo geológico]] (ej. la [[Gran Oxidación]] modificó el ciclo del [[oxígeno]] y del [[Carbono]]).
 - Alterados actualmente por la actividad de la [[población]] humana → [[agricultura]], [[pesca]], uso de [[combustibles fósiles]].
-
----
-
----
-#concepto-proceso #estructura-terrestre #historia-geologica #importancia-3 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos

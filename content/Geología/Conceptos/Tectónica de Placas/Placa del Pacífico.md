@@ -1,3 +1,16 @@
+---
+title: "Placa del Pacífico"
+draft: false
+tags:
+  - tectonica-placas
+  - ruta-procesos-dinamicos
+  - primero-1-geologia-1
+  - placas-individuales
+  - nivel-basico
+  - importancia-5
+  - concepto-evento
+  - concepto-central
+---
 
 La **placa del Pacífico** es la mayor de todas las [[Placas tectónicas]]. Caracterizada por ocupar la mayor parte del [[Océano Pacífico]] y estar rodeada casi en su totalidad por zonas de subducción y límites activos.
 
@@ -12,6 +25,3 @@ Importancia:
 
 - Explica gran parte de los [[Riesgos naturales]] globales.
 - Es clave para entender la [[Tectónica de placas]].
-
----
-#concepto-central #concepto-evento #importancia-5 #nivel-basico #placas-individuales #primero-1-geologia-1 #ruta-procesos-dinamicos #tectonica-placas

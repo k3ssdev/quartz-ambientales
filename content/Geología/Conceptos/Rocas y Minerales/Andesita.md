@@ -1,3 +1,13 @@
+---
+title: "Andesita"
+draft: false
+tags:
+  - ruta-materiales
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - concepto-central
+---
 
 La **andesita** es una [[Rocas volcánicas|roca volcánica]] de composición intermedia, rica en [[plagioclasa]] y minerales máficos.
 
@@ -13,6 +23,3 @@ La **andesita** es una [[Rocas volcánicas|roca volcánica]] de composición int
 - Roca característica de los [[Andes]] (de ahí su nombre).
 - Común en el [[Cinturón de Fuego del Pacífico]].
 - Indicadora de [[tectónica de placas]] activa.
-
----
-#concepto-central #importancia-3 #nivel-basico #primero-1-geologia-1 #ruta-materiales

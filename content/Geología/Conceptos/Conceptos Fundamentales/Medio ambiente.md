@@ -1,3 +1,18 @@
+---
+title: "Medio ambiente"
+draft: false
+tags:
+  - ruta-fundamentos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - medio-ambiente
+  - importancia-4
+  - factores-abi
+  - ecosistemas
+  - conceptos-fundamentales
+  - concepto-evento
+---
 
 El **medio ambiente** es el conjunto de factores físicos, químicos y biológicos que rodean e influyen en los [[Organismos]] vivos. ##Componentes principales ###Factores abióticos
 - **Clima**: temperatura, precipitación, humedad.
@@ -47,6 +62,3 @@ El **medio ambiente** es el conjunto de factores físicos, químicos y biológic
 - **Gestión**: políticas de conservación.
 
 óticos #conservación #cambio-ambiental
-
----
-#concepto-evento #conceptos-fundamentales #ecosistemas #factores-abi #importancia-4 #medio-ambiente #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-fundamentos

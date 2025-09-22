@@ -1,3 +1,15 @@
+---
+title: "Plancton"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-intermedio
+  - importancia-4
+  - historia-geologica
+---
 
 El **plancton** son organismos microscópicos que flotan libremente en el [[Agua]], especialmente en [[Océanos]] y [[Mar]]es.
 
@@ -12,8 +24,3 @@ El **plancton** son organismos microscópicos que flotan libremente en el [[Agua
 - Componentes de [[Caliza]] y otras [[Rocas sedimentarias]].
 
 **Relaciones:** [[Combustibles fósiles]], [[Ciclo del carbono]], [[Carbonato cálcico]].
-
----
-
----
-#historia-geologica #importancia-4 #nivel-intermedio #organismos-evolucion #primero-1-geologia-1 #proceso-dinamico #ruta-tiempo-evolucion

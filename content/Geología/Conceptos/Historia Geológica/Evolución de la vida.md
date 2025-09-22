@@ -1,3 +1,16 @@
+---
+title: "Evolución de la vida"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-intermedio
+  - importancia-3
+  - historia-geologica
+  - concepto-central
+---
 
 La **evolución de la vida** está registrada en [[Fósiles]] distribuidos en la [[Escala del tiempo geológico]]. Ejemplos:
 
@@ -5,8 +18,3 @@ La **evolución de la vida** está registrada en [[Fósiles]] distribuidos en la
 - Paleozoico → expansión de seres marinos.
 - Mesozoico → dominio de dinosaurios.
 - Cenozoico → mamíferos y humanos. Estudiada en [[Paleontología]].
-
----
-
----
-#concepto-central #historia-geologica #importancia-3 #nivel-intermedio #organismos-evolucion #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

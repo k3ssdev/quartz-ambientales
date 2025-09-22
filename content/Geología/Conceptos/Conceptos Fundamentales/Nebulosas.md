@@ -1,3 +1,11 @@
+---
+title: "Nebulosas"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-fundamentos
+  - conceptos-fundamentales
+---
 
 Las **nebulosas** son grandes nubes de gas y polvo interestelar, restos de [[supernovas]] o regiones de formación estelar.
 
@@ -6,6 +14,3 @@ Las **nebulosas** son grandes nubes de gas y polvo interestelar, restos de [[sup
 
 - Semilleros de estrellas y sistemas planetarios.
 - De una nebulosa primitiva nació el [[Sistema Solar]] y la [[formación de la Tierra]]. #concepto-central #importancia-5 #nivel-basico #primero-1-geologia-1
-
----
-#conceptos-fundamentales #ruta-fundamentos #geologia1-tema-01

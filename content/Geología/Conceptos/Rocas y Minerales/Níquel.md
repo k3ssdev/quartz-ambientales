@@ -1,3 +1,15 @@
+---
+title: "Níquel"
+draft: false
+tags:
+  - ruta-materiales
+  - primero-1-geologia-1
+  - nivel-basico
+  - n
+  - importancia-5
+  - elemento
+  - concepto-central
+---
 
 El **níquel** es un elemento metálico muy abundante en el universo y en la [[Tierra]].
 
@@ -10,6 +22,3 @@ El **níquel** es un elemento metálico muy abundante en el universo y en la [[T
 - Presente en [[Meteoritos]] → clave para estudiar la [[formación de la Tierra]].
 
 íquel #geosfera #origen
-
----
-#concepto-central #elemento #importancia-5 #n #nivel-basico #primero-1-geologia-1 #ruta-materiales

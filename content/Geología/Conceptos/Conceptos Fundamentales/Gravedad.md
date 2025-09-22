@@ -1,3 +1,17 @@
+---
+title: "Gravedad"
+draft: false
+tags:
+  - ruta-fundamentos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - fisica-terrestre
+  - fenomenos
+  - conceptos-fundamentales
+  - concepto-proceso
+---
 
 La **gravedad** es la fuerza que impulsa los **movimientos en masa** de materiales en pendientes.
 
@@ -10,6 +24,3 @@ La **gravedad** es la fuerza que impulsa los **movimientos en masa** de material
 **Importancia:**
 
 - Actúa como fuerza constante en todos los demás procesos de [[Erosión]] y [[Modelado del relieve]].
-
----
-#concepto-proceso #conceptos-fundamentales #fenomenos #fisica-terrestre #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-fundamentos

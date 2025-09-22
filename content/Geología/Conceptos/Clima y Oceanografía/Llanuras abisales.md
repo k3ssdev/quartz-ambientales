@@ -1,3 +1,15 @@
+---
+title: "Llanuras abisales"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-procesos-dinamicos
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - concepto-central
+  - clima-oceanografia
+---
 
 Las **llanuras abisales** son las zonas más extensas y planas del fondo de los [[Océanos]].
 
@@ -8,8 +20,3 @@ Características:
 - Contienen [[Volcanes submarinos]] aislados y [[Montes oceánicos]].
 
 Relacionado con → [[Cánones submarinos]]., [[Talud continental]]
-
----
-
----
-#clima-oceanografia #concepto-central #importancia-4 #nivel-intermedio #primero-1-geologia-1 #ruta-procesos-dinamicos #geologia1-tema-01

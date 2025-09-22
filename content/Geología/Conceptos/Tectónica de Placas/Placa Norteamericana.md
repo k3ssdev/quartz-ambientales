@@ -1,3 +1,15 @@
+---
+title: "Placa Norteamericana"
+draft: false
+tags:
+  - tectonica-placas
+  - ruta-procesos-dinamicos
+  - primero-1-geologia-1
+  - placas-individuales
+  - nivel-intermedio
+  - importancia-5
+  - concepto-central
+---
 
 La **placa Norteamericana** es una de las mayores [[Placas tectónicas]], que cubre Norteamérica, parte del Atlántico y llega hasta Siberia.
 
@@ -9,6 +21,3 @@ Características:
 - Contiene parte del Ártico y Groenlandia.
 
 Importancia: fundamental para entender la sismicidad en California y los procesos de la [[Tectónica de placas]] en América del Norte.
-
----
-#concepto-central #importancia-5 #nivel-intermedio #placas-individuales #primero-1-geologia-1 #ruta-procesos-dinamicos #tectonica-placas

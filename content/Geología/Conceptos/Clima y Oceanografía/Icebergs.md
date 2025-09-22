@@ -1,3 +1,16 @@
+---
+title: "Icebergs"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - primero-1-geologia-1
+  - oc
+  - nivel-basico
+  - importancia-3
+  - hielo
+  - glaciares
+  - concepto-central
+---
 
 Los **icebergs** son **bloques de [[hielo]] flotante** que se desprenden de [[glaciares]] o plataformas heladas (calving).
 
@@ -10,6 +23,3 @@ Los **icebergs** son **bloques de [[hielo]] flotante** que se desprenden de [[gl
 - Pueden afectar la navegación.
 
 éanos
-
----
-#concepto-central #glaciares #hielo #importancia-3 #nivel-basico #oc #primero-1-geologia-1 #ruta-procesos-dinamicos

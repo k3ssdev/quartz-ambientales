@@ -1,3 +1,17 @@
+---
+title: "Capa D”"
+draft: false
+tags:
+  - geologia1-tema-01
+  - tierra-interna
+  - ruta-estructura-terrestre
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - n
+  - manto
+  - importancia-5
+---
 
 La **capa D”** es una delgada zona de transición en la base del [[manto]], justo sobre el [[núcleo externo]].
 
@@ -9,6 +23,3 @@ La **capa D”** es una delgada zona de transición en la base del [[manto]], ju
 - Juega un papel en el **ciclo térmico interno** → intercambio de calor entre [[núcleo]] y [[manto]].
 
 úcleo #geodinámica
-
----
-#importancia-5 #manto #n #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-estructura-terrestre #tierra-interna #geologia1-tema-01

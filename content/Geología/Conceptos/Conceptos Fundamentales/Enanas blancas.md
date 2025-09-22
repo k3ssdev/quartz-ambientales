@@ -1,3 +1,18 @@
+---
+title: "Enanas blancas"
+draft: false
+tags:
+  - universo
+  - tiempo-geologico
+  - ruta-fundamentos
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - estrellas
+  - conceptos-fundamentales
+  - concepto-central
+---
 
 Las **enanas blancas** son el estado final de estrellas de masa baja o media (como el [[Sol]]) tras agotar su combustible nuclear.
 
@@ -7,6 +22,3 @@ Las **enanas blancas** son el estado final de estrellas de masa baja o media (co
 
 - Representan el destino evolutivo de muchas [[estrellas]].
 - Sirven como “relojes cósmicos” para medir el [[tiempo geológico]] del universo.
-
----
-#concepto-central #conceptos-fundamentales #estrellas #importancia-3 #nivel-basico #primero-1-geologia-1 #proceso-fundamental #ruta-fundamentos #tiempo-geologico #universo

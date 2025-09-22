@@ -1,3 +1,16 @@
+---
+title: "Paleozoico"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - historia-geologica
+  - concepto-central
+---
 
 El **Paleozoico** es una **era geológica** del [[Fanerozoico]] que se extiende entre **541 Ma y 252 Ma**. Sigue al [[Precámbrico]] y precede al [[Mesozoico]]. ####División
 
@@ -17,8 +30,3 @@ Se divide en **6 periodos principales**:
 - Periodo fundamental para entender la transición del mundo acuático al terrestre.
 - Base de muchos [[Recursos naturales]] como el carbón (del [[Carbonífero]]).
 - Final abrupto con la **extinción del Pérmico**, preludio al [[Mesozoico]].
-
----
-
----
-#concepto-central #historia-geologica #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion #geologia1-tema-01

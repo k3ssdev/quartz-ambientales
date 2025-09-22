@@ -1,3 +1,16 @@
+---
+title: "Masa"
+draft: false
+tags:
+  - ruta-fundamentos
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - masa
+  - importancia-5
+  - f
+  - concepto-central
+---
 
 La **masa** es la magnitud física que mide la cantidad de materia en un cuerpo.
 
@@ -10,6 +23,3 @@ La **masa** es la magnitud física que mide la cantidad de materia en un cuerpo.
 - Una [[estrella]] puede evolucionar en [[Enanas blancas]], [[Estrellas de neutrones]] o [[Agujeros negros]] según su **masa inicial**.
 
 ísica #materia #conceptos-fundamentales #geosfera
-
----
-#concepto-central #f #importancia-5 #masa #nivel-intermedio #primero-1-geologia-1 #proceso-fundamental #ruta-fundamentos

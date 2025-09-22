@@ -1,3 +1,18 @@
+---
+title: "Fosas oceánicas"
+draft: false
+tags:
+  - geologia1-tema-01
+  - tectonica-placas
+  - subduccion
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - fosas-oceanicas
+  - concepto-evento
+---
 
 Las **fosas oceánicas** son depresiones alargadas y profundas en el fondo del océano, asociadas a procesos de **subducción**.
 
@@ -8,6 +23,3 @@ Características:
 - Asociadas a volcanes y terremotos intensos.
 
 Relacionado con → [[Subducción]].
-
----
-#concepto-evento #fosas-oceanicas #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos #subduccion #tectonica-placas #geologia1-tema-01

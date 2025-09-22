@@ -1,3 +1,14 @@
+---
+title: "Historia de la vida"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - concepto-central
+---
 
 La **historia de la vida** describe la evolución de los [[Organismos]] desde sus orígenes en el [[precámbrico]] hasta la actualidad. ##Principales etapas
 
@@ -10,6 +21,3 @@ La **historia de la vida** describe la evolución de los [[Organismos]] desde su
 
 - Reconstruida mediante [[registro fósil]] + [[genética]].
 - Sustento de la [[teoría evolutiva moderna]].
-
----
-#concepto-central #importancia-3 #nivel-basico #primero-1-geologia-1 #proceso-fundamental #ruta-tiempo-evolucion

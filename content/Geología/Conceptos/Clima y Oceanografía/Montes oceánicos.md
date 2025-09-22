@@ -1,3 +1,14 @@
+---
+title: "Montes oceánicos"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - concepto-central
+  - clima-oceanografia
+---
 
 Los **montes oceánicos** son elevaciones submarinas aisladas, generadas por [[Volcanismo]] en el fondo de los [[Océanos]].
 
@@ -5,8 +16,3 @@ Los **montes oceánicos** son elevaciones submarinas aisladas, generadas por [[V
 - A veces emergen y forman islas volcánicas (ej. Hawái).
 
 Relacionado con → [[Llanuras abisales]].
-
----
-
----
-#clima-oceanografia #concepto-central #importancia-4 #nivel-intermedio #primero-1-geologia-1 #ruta-procesos-dinamicos

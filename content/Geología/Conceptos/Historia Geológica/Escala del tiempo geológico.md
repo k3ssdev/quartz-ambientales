@@ -1,3 +1,17 @@
+---
+title: "Escala del tiempo geológico"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-tiempo-evolucion
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 La división del **[[tiempo geológico]]** se organiza de forma **jerárquica** en intervalos que permiten ubicar los principales acontecimientos de la [[Historia geológica]] y de la [[Evolución de la vida]].
 
@@ -26,8 +40,3 @@ Aunque no siempre se divide formalmente como las otras eras, dentro del Precámb
 - **[[Paleozoico]]** (542–251 Ma): - [[Cámbrico]] → “Edad de los invertebrados” → aparición de [[Trilobites]]. - [[Ordovícico]] → cefalópodos dominantes. - [[Silúrico]] → primeras plantas terrestres, peces dominantes. - [[Devónico]] → “Edad de los peces”, primeros insectos y anfibios. - [[Carbonífero]] → “Edad de los anfibios”, grandes pantanos carboníferos → origen de [[carbón]]. - [[Pérmico]] → extinción masiva, desaparición de trilobites.
 - **[[Mesozoico]]** (251–65,5 Ma): “Edad de los reptiles”. - [[Triásico]] → primeros dinosaurios, primeros mamíferos. - [[Jurásico]] → dinosaurios dominantes, primeras [[Aves]]. - [[Cretácico]] → primeras plantas con flor, extinción de dinosaurios.
 - **[[Cenozoico]]** (65,5 Ma – presente): - [[Paleógeno]] → extinción de dinosaurios, radiación de mamíferos. - [[Paleoceno]], [[Eoceno]], [[Oligoceno]]. - [[Neógeno]] → consolidación de la “Edad de los mamíferos”. - [[Mioceno]], [[Plioceno]]. - [[Cuaternario]] → glaciaciones, aparición y expansión de [[Homo sapiens]]. - [[Pleistoceno]] → edad de hielo, megafauna. - [[Holoceno]] → época actual, desarrollo de civilizaciones humanas.
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-fundamental #ruta-tiempo-evolucion #geologia1-tema-01

@@ -1,3 +1,7 @@
+---
+title: "01 - Introducción a la Geología"
+draft: false
+---
 
 ## Definición
 
@@ -125,7 +129,6 @@ Las [[rocas]] se clasifican según su origen:
 - Su **textura** (tamaño, forma y disposición de cristales) refleja el proceso de formación.
 - El [[Ciclo de las rocas]] ilustra las interrelaciones de la [[geodinámica interna]] y [[geodinámica externa]].
 
----
 
 #temas #introduccion #geologia-1 #geologia1-tema-01
 #concepto-evento

@@ -1,3 +1,17 @@
+---
+title: "Gran Oxidación"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - organismos-evolucion
+  - nivel-intermedio
+  - importancia-4
+  - historia-geologica
+  - concepto-central
+  - clima-oceanografia
+---
 
 La **Gran Oxidación** (Great Oxidation Event, GOE) fue un acontecimiento crucial en la [[historia geológica]] ocurrido hace unos **~2.400 millones de años**, en el [[Proterozoico]].
 
@@ -23,8 +37,3 @@ La **Gran Oxidación** (Great Oxidation Event, GOE) fue un acontecimiento crucia
 
 - Marca un punto crítico en la división del [[Precámbrico]].
 - Asociado a cambios en el [[clima global]] (posibles glaciaciones globales en el Proterozoico temprano).
-
----
-
----
-#clima-oceanografia #concepto-central #historia-geologica #importancia-4 #nivel-intermedio #organismos-evolucion #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

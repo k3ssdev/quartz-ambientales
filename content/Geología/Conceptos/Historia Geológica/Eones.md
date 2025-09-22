@@ -1,3 +1,16 @@
+---
+title: "Eones"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - historia-geologica
+  - concepto-herramienta
+  - concepto-central
+---
 
 Los **Eones** son las **divisiones más grandes de la [[Escala del tiempo geológico]]**, que abarcan cientos o miles de millones de años.
 Representan las etapas fundamentales en la evolución de la Tierra y la vida.
@@ -22,8 +35,3 @@ Representan las etapas fundamentales en la evolución de la Tierra y la vida.
 - Base para entender los **procesos terrestres** a gran escala.
 - Contexto para la [[Datación absoluta]] y [[Estratigrafía]].
 - Esencial para comprender el [[Tiempo geológico]].
-
----
-
----
-#concepto-central #concepto-herramienta #historia-geologica #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

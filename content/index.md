@@ -1,12 +1,14 @@
 ---
-title: "Ciencias Ambientales - Base de Conocimientos UNED"
----
+dg-publish: true
+dg-home: true
+
+# 🌿 Ciencias Ambientales - Base de Conocimientos UNED
 
 ## 🎓 Navegación por Curso
 
 ### 📚 Primer Curso
 - **1er Cuatrimestre**
-  - 🗿 [Geología](Índices/Geología.md) - Geología I
+  - 🗿 [[Geología]] - Geología I
   - 🧬 Biología I *(próximamente)*
   - 🔢 Matemáticas I *(próximamente)*
   - ⚛️ Bases Físicas del Medio Ambiente *(próximamente)*
@@ -39,7 +41,7 @@ title: "Ciencias Ambientales - Base de Conocimientos UNED"
 ## 📖 Navegación por Asignatura
 
 ### 🗿 Geología
-- [Geología](Índices/Geología.md) - Índice detallado de conceptos geológicos
+- [[Geología]] - Índice detallado de conceptos geológicos
 - **Estado**: ✅ Completo (349 conceptos)
 - **Tags**: `#primero-1-geologia-1`
 
@@ -90,3 +92,4 @@ title: "Ciencias Ambientales - Base de Conocimientos UNED"
 
 *Última actualización: 21/09/2025*
 
+#navegacion #ciencias-ambientales #uned #indice-general

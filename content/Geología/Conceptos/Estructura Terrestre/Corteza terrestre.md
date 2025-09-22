@@ -1,3 +1,16 @@
+---
+title: "Corteza terrestre"
+draft: false
+tags:
+  - ruta-estructura-terrestre
+  - proceso-estructural
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - estructura-terrestre
+  - concepto-evento
+  - concepto-central
+---
 
 La **corteza terrestre** es la capa externa sólida de la [[Tierra]], la más delgada de sus capas, situada sobre el [[Manto]].
 
@@ -14,10 +27,3 @@ La **corteza terrestre** es la capa externa sólida de la [[Tierra]], la más de
 ## Relaciones
 
 [[Tectónica de placas]], [[Litosfera]], [[Manto]], [[Océanos]], [[Continentes]]
-
----
-
----
-
----
-#concepto-central #concepto-evento #estructura-terrestre #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-estructural #ruta-estructura-terrestre

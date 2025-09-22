@@ -1,3 +1,15 @@
+---
+title: "Pleistoceno"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-2
+  - historia-geologica
+  - concepto-central
+---
 
 El **Pleistoceno** es la primera época del [[Cuaternario]], dentro del [[Cenozoico]], que transcurrió entre **2,58 Ma y 11.700 años**.
 
@@ -12,8 +24,3 @@ El **Pleistoceno** es la primera época del [[Cuaternario]], dentro del [[Cenozo
 
 - Determinante para la [[Historia geológica]] más reciente.
 - Condicionó el origen y expansión de la [[Vida]] humana.
-
----
-
----
-#concepto-central #historia-geologica #importancia-2 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion

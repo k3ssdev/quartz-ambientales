@@ -1,3 +1,14 @@
+---
+title: "Cuaternario"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - historia-geologica
+---
 
 El **Cuaternario** es la última era del [[Cenozoico]], iniciada hace ~2,58 Ma y que continúa hasta hoy.
 
@@ -11,8 +22,3 @@ El **Cuaternario** es la última era del [[Cenozoico]], iniciada hace ~2,58 Ma y
 - Fluctuaciones del [[Clima global]] con ciclos glaciales e interglaciares.
 - Evolución y expansión de [[Homo sapiens]].
 - Modificaciones profundas en la [[Biosfera]] por actividad humana.
-
----
-
----
-#historia-geologica #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-tiempo-evolucion

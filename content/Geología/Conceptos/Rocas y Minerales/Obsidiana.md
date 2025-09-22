@@ -1,3 +1,15 @@
+---
+title: "Obsidiana"
+draft: false
+tags:
+  - vidrio-volc
+  - ruta-materiales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - obsidiana
+  - nivel-intermedio
+  - importancia-3
+---
 
 La **obsidiana** es un [[vidrio volcánico]] natural formado por el enfriamiento rápido de lava [[félsica]] rica en sílice.###Composición
 - **Sílice (SiO₂)**: 65-80%.
@@ -22,6 +34,3 @@ La **obsidiana** es un [[vidrio volcánico]] natural formado por el enfriamiento
 - Investigación arqueológica (datación de fuentes).
 
 ánico #riolita #herramientas #vulcanismo
-
----
-#importancia-3 #nivel-intermedio #obsidiana #primero-1-geologia-1 #proceso-dinamico #ruta-materiales #vidrio-volc

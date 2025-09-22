@@ -1,3 +1,19 @@
+---
+title: "Carbono-14"
+draft: false
+tags:
+  - ruta-fundamentos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - isotopos
+  - importancia-3
+  - geocronologia
+  - datacion-radiometrica
+  - conceptos-fundamentales
+  - carbono14
+  - arqueologia
+---
 
 El **carbono-14** (¹⁴C) es un [[Isótopos radiactivos|isótopo radiactivo]] del [[carbono]] utilizado en [[datación radiométrica]] de materiales orgánicos.
 
@@ -23,6 +39,3 @@ El **carbono-14** (¹⁴C) es un [[Isótopos radiactivos|isótopo radiactivo]] d
 - Solo funciona con materiales orgánicos.
 - Contaminación puede alterar resultados.
 - Variaciones en la producción atmosférica de ¹⁴C.
-
----
-#arqueologia #carbono14 #conceptos-fundamentales #datacion-radiometrica #geocronologia #importancia-3 #isotopos #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-fundamentos

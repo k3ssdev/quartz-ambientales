@@ -1,3 +1,15 @@
+---
+title: "Corteza oceánica"
+draft: false
+tags:
+  - ruta-estructura-terrestre
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - geologia1-tema-01
+  - estructura-terrestre
+  - concepto-central
+---
 
 La **corteza oceánica** forma el fondo de los [[Océanos]].
 
@@ -10,10 +22,3 @@ La **corteza oceánica** forma el fondo de los [[Océanos]].
 ## Dinámica
 
 Se genera en [[Dorsales oceánicas]] y se destruye en [[Fosas oceánicas]].
-
----
-
----
-
----
-#concepto-central #estructura-terrestre #geologia1-tema-01 #importancia-5 #nivel-basico #primero-1-geologia-1 #ruta-estructura-terrestre

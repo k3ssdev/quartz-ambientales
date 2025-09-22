@@ -1,3 +1,15 @@
+---
+title: "Gas natural"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - concepto-proceso
+---
 
 El **gas natural** es un **combustible fósil** formado principalmente por **metano (CH₄)** y pequeñas cantidades de otros hidrocarburos.
 
@@ -14,8 +26,3 @@ El **gas natural** es un **combustible fósil** formado principalmente por **met
 **Relaciones:** [[Combustibles fósiles]], [[Sedimentación]], [[Ciclo del carbono]].
 
 Relacionado con → [[Combustibles fósiles]].
-
----
-
----
-#concepto-proceso #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #rocas-minerales #ruta-materiales

@@ -1,3 +1,16 @@
+---
+title: "Roca metamórfica"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - geologia1-tema-01
+  - concepto-evento
+  - concepto-central
+---
 
 Las **rocas metamórficas** son aquellas que se originan por transformación de [[Rocas ígneas]] o [[Rocas sedimentarias]] bajo condiciones extremas de **presión, temperatura** y acción de fluidos, sin llegar a fundirse.
 
@@ -20,8 +33,3 @@ Las **rocas metamórficas** son aquellas que se originan por transformación de 
 - Utilizadas en construcción, escultura y como materiales industriales.
 
 Relacionado con → [[Rocas metamórficas]].
-
----
-
----
-#concepto-central #concepto-evento #geologia1-tema-01 #importancia-5 #nivel-intermedio #primero-1-geologia-1 #rocas-minerales #ruta-materiales

@@ -1,3 +1,18 @@
+---
+title: "Bacterias"
+draft: false
+tags:
+  - ruta-tiempo-evolucion
+  - proceso-dinamico
+  - procariotas
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - microorganismos
+  - importancia-4
+  - dominio
+  - ciclos-biogeoqu
+  - bacterias
+---
 
 Las **bacterias** constituyen uno de los tres dominios de la vida, formado por microorganismos procariotas ubicuos y fundamentales para los ecosistemas terrestres.###Estructura celular
 - **Procariotas**: sin núcleo definido.
@@ -39,6 +54,3 @@ Las **bacterias** constituyen uno de los tres dominios de la vida, formado por m
 - **Industria**: fermentación, biorremediación.
 
 ímicos
-
----
-#bacterias #ciclos-biogeoqu #dominio #importancia-4 #microorganismos #nivel-intermedio #primero-1-geologia-1 #procariotas #proceso-dinamico #ruta-tiempo-evolucion

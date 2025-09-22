@@ -1,3 +1,17 @@
+---
+title: "Subducción"
+draft: false
+tags:
+  - tectonica-placas
+  - subduccion
+  - ruta-procesos-dinamicos
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - convergencia
+  - concepto-evento
+---
 
 La **subducción** es un proceso de la [[Tectónica de placas]] por el cual una [[Placa oceánica]] se introduce bajo otra placa (oceánica o continental) y desciende al [[Manto]].
 
@@ -8,6 +22,3 @@ La **subducción** es un proceso de la [[Tectónica de placas]] por el cual una 
 - Responsable de la formación de [[Cordilleras]] como los [[Andes]].
 
 Ejemplo: la [[Placa de Nazca]] subduce bajo la [[Placa Sudamericana]].
-
----
-#concepto-evento #convergencia #importancia-4 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-procesos-dinamicos #subduccion #tectonica-placas

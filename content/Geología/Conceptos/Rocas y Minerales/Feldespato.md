@@ -1,3 +1,15 @@
+---
+title: "Feldespato"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - primero-1-geologia-1
+  - nivel-avanzado
+  - importancia-5
+  - concepto-proceso
+  - concepto-central
+---
 
 Los **feldespatos** son un grupo de **[[Minerales]] silicatos** que forman aproximadamente el **60 % de la [[Corteza terrestre]]**.
 
@@ -15,8 +27,3 @@ Los **feldespatos** son un grupo de **[[Minerales]] silicatos** que forman aprox
 
 - Son los **minerales más abundantes en la Tierra**.
 - Usados en cerámica, vidrio, esmaltes.
-
----
-
----
-#concepto-central #concepto-proceso #importancia-5 #nivel-avanzado #primero-1-geologia-1 #rocas-minerales #ruta-materiales

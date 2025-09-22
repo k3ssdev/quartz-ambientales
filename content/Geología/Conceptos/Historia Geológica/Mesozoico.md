@@ -1,3 +1,17 @@
+---
+title: "Mesozoico"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - historia-geologica
+  - concepto-evento
+  - concepto-central
+---
 
 El **Mesozoico** es la **era intermedia del [[Fanerozoico]]**, entre **252 Ma y 66 Ma**, entre el [[Paleozoico]] y el [[Cenozoico]]. Es conocida como la **“era de los dinosaurios”**.
 
@@ -12,8 +26,3 @@ El **Mesozoico** es la **era intermedia del [[Fanerozoico]]**, entre **252 Ma y 
 - Fragmentación del supercontinente [[Pangea]] en continentes actuales.
 - Aparición de aves y mamíferos.
 - Finaliza con la **extinción masiva del Cretácico**, asociada al impacto de un meteorito en Chicxulub (México).
-
----
-
----
-#concepto-central #concepto-evento #historia-geologica #importancia-5 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion #geologia1-tema-01

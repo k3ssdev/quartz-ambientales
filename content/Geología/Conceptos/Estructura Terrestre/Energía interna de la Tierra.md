@@ -1,3 +1,15 @@
+---
+title: "Energía interna de la Tierra"
+draft: false
+tags:
+  - ruta-estructura-terrestre
+  - proceso-dinamico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - energ
+  - concepto-evento
+---
 
 La **energía interna** proviene principalmente de:
 
@@ -10,6 +22,3 @@ La **energía interna** proviene principalmente de:
 - [[Magmatismo]], [[orogenia]], [[terremotos]], [[volcanismo]].
 
 ía-interna #geodinámica-interna #manto
-
----
-#concepto-evento #energ #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #ruta-estructura-terrestre

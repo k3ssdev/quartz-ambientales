@@ -1,3 +1,17 @@
+---
+title: "Teorías científicas"
+draft: false
+tags:
+  - teor
+  - ruta-fundamentos
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - geologia1-tema-01
+  - conceptos-fundamentales
+  - concepto-central
+---
 
 Una **teoría científica** es una explicación fundamentada de fenómenos naturales, basada en observaciones, experimentación y validación repetida.
 
@@ -10,6 +24,3 @@ Una **teoría científica** es una explicación fundamentada de fenómenos natur
 - [[Hipótesis de la nebulosa]].
 
 ías-científicas #ciencia #geología #explicación
-
----
-#concepto-central #conceptos-fundamentales #geologia1-tema-01 #importancia-3 #nivel-basico #primero-1-geologia-1 #proceso-historico #ruta-fundamentos #teor

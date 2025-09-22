@@ -1,3 +1,15 @@
+---
+title: "Cuarzo"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - primero-1-geologia-1
+  - nivel-avanzado
+  - importancia-3
+  - concepto-proceso
+  - concepto-central
+---
 
 El **cuarzo** es un [[Minerales]] formado por **dióxido de silicio (SiO₂)**, el más abundante en la [[Corteza terrestre]].
 
@@ -13,8 +25,3 @@ El **cuarzo** es un [[Minerales]] formado por **dióxido de silicio (SiO₂)**, 
 - Usado en industria del vidrio, electrónica y joyería.
 
 **Relaciones:** [[Minerales]], [[Cuarcita]], [[arenisca]], [[Gneis]], [[Granito]].
-
----
-
----
-#concepto-central #concepto-proceso #importancia-3 #nivel-avanzado #primero-1-geologia-1 #rocas-minerales #ruta-materiales

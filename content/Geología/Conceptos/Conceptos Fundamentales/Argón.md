@@ -1,3 +1,16 @@
+---
+title: "Argón"
+draft: false
+tags:
+  - ruta-fundamentos
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - conceptos-fundamentales
+  - concepto-herramienta
+  - concepto-central
+  - arg
+---
 
 El **argón** es un gas noble, inerte, abundante en la [[atmósfera]] (~1%). ##Isótopos importantes
 
@@ -8,6 +21,3 @@ El **argón** es un gas noble, inerte, abundante en la [[atmósfera]] (~1%). ##I
 - Su acumulación en [[rocas volcánicas]] permite calcular edades geológicas.
 
 ón #isótopos #geocronología #KAr
-
----
-#arg #concepto-central #concepto-herramienta #conceptos-fundamentales #importancia-3 #nivel-basico #primero-1-geologia-1 #ruta-fundamentos

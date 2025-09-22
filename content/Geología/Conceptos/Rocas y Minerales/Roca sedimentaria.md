@@ -1,3 +1,16 @@
+---
+title: "Roca sedimentaria"
+draft: false
+tags:
+  - ruta-materiales
+  - rocas-minerales
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - geologia1-tema-01
+  - concepto-proceso
+  - concepto-central
+---
 
 Las **rocas sedimentarias** se forman a partir de la acumulación, compactación y cementación de **sedimentos** procedentes de la meteorización y erosión de otras rocas.
 
@@ -21,8 +34,3 @@ Las **rocas sedimentarias** se forman a partir de la acumulación, compactación
 - Principales acumulaciones de [[Recursos naturales]] como petróleo, gas y carbón.
 
 Relacionado con → [[Roca metamórfica]]., [[Rocas metamórficas]]
-
----
-
----
-#concepto-central #concepto-proceso #geologia1-tema-01 #importancia-5 #nivel-intermedio #primero-1-geologia-1 #rocas-minerales #ruta-materiales

@@ -1,3 +1,15 @@
+---
+title: "Hawái"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - proceso-fundamental
+  - primero-1-geologia-1
+  - nivel-basico
+  - importancia-3
+  - haw
+  - concepto-central
+---
 
 **Hawái** es un archipiélago volcánico en el Océano Pacífico, ejemplo clásico de [[vulcanismo de punto caliente]] ([[Plumas mantélicas]]).###Formación
 - Originado por una [[pluma mantélica]] estacionaria.
@@ -20,6 +32,3 @@
 - Evidencia de la [[deriva continental]].
 
 ái #punto-caliente #vulcanismo #basalto #pluma-mantélica
-
----
-#concepto-central #haw #importancia-3 #nivel-basico #primero-1-geologia-1 #proceso-fundamental #ruta-procesos-dinamicos

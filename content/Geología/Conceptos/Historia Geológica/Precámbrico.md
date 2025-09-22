@@ -1,3 +1,16 @@
+---
+title: "Precámbrico"
+draft: false
+tags:
+  - geologia1-tema-01
+  - ruta-tiempo-evolucion
+  - proceso-historico
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-5
+  - historia-geologica
+  - concepto-central
+---
 
 El **Precámbrico** es el supereón más antiguo del [[Tiempo geológico]], que abarca desde la formación de la [[Tierra]] (~4.600 Ma) hasta el inicio del [[Paleozoico]] (~541 Ma). Representa casi el **88 % de la historia geológica**. ####División del Precámbrico
 
@@ -8,8 +21,3 @@ El **Precámbrico** es el supereón más antiguo del [[Tiempo geológico]], que 
 - Constituye las raíces geológicas de los [[Continentes]].
 - Aporta evidencias del origen de la [[Vida]] y de la evolución primitiva.
 - Establece el marco para entender los procesos de [[Geodinámica interna]] desde los inicios de la [[Tierra]].
-
----
-
----
-#concepto-central #historia-geologica #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-historico #ruta-tiempo-evolucion #geologia1-tema-01

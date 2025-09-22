@@ -1,3 +1,14 @@
+---
+title: "Llanuras"
+draft: false
+tags:
+  - ruta-procesos-dinamicos
+  - primero-1-geologia-1
+  - nivel-intermedio
+  - importancia-4
+  - geomorfologia
+  - concepto-central
+---
 
 Las **llanuras** son extensiones de [[Relieve]] casi plano o suavemente ondulado.
 
@@ -11,8 +22,3 @@ Las **llanuras** son extensiones de [[Relieve]] casi plano o suavemente ondulado
 
 - Suelos fértiles.
 - Usos agrícolas y gran densidad de población.
-
----
-
----
-#concepto-central #geomorfologia #importancia-4 #nivel-intermedio #primero-1-geologia-1 #ruta-procesos-dinamicos
