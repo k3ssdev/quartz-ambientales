@@ -1,6 +1,7 @@
 
 ---
 title: "Bibliografía"
+weight: 50
 tags:
   - bibliografia
   - recursos

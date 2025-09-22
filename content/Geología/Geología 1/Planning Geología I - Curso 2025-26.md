@@ -1,6 +1,7 @@
 ---
 title: "Planificación Geología I - Curso 2025-26"
 draft: false
+weight: 20
 tags:
     - geologia-1
     - primero-1-geologia-1
@@ -88,5 +89,3 @@ tags:
 - 🧪 **Simulacro**: Semana 17 para detectar debilidades
 
 ---
-
-#planificacion #cronograma #organizacion #geologia-1 #primero-1-geologia-1 #importancia-5 #nivel-basico #concepto-central

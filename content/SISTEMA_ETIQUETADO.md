@@ -1,5 +1,6 @@
 ---
 title: "Sistema de Etiquetado Semántico"
+weight: 3
 tags:
   - documentacion
   - sistema-etiquetado

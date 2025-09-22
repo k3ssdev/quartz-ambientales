@@ -1,6 +1,7 @@
 ---
 title: "Fichas 01"
 draft: false
+weight: 40
 ---
 
 # Fichas de Estudio - Tema 1: Introducción a la Geología

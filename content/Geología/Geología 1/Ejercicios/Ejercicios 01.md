@@ -1,6 +1,7 @@
 ---
 title: "Ejercicios 01"
 draft: false
+weight: 30
 ---
 
 # Ejercicios Tema 1 - Introducción a la Geología

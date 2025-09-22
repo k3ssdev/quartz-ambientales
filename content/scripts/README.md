@@ -1,3 +1,14 @@
+---
+title: "Scripts de Automatización"
+weight: 60
+tags:
+  - scripts
+  - automatizacion
+  - herramientas
+  - python
+  - documentacion
+---
+
 # 🛠️ Scripts de Automatización - Base de Conocimientos UNED
 
 Este directorio contiene los scripts de Python para automatizar el mantenimiento y análisis de la base de conocimientos de Ciencias Ambientales.

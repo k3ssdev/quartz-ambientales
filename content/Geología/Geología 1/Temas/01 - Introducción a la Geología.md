@@ -1,6 +1,17 @@
 ---
 title: "01 - Introducción a la Geología"
 draft: false
+weight: 1
+tags:
+  - temas
+  - introduccion
+  - geologia-1
+  - geologia1-tema-01
+  - concepto-evento
+  - importancia-5
+  - nivel-intermedio
+  - proceso-dinamico
+  - primero-1-geologia-1
 ---
 
 ## Definición
@@ -123,12 +134,7 @@ Las [[rocas]] se clasifican según su origen:
 - **[[Rocas sedimentarias]]** → acumulación, compactación y [[cementación]] de [[sedimentos]].
   - Tipos: detríticas (arenisca, arcilla), químicas (sal gema, [[caliza]]), orgánicas (carbón).
 - **[[Geología/Conceptos/Rocas y Minerales/Rocas metamórficas]]** → transformación de rocas previas bajo calor y presión.
-#importancia-5 #nivel-intermedio #proceso-dinamico #primero-1-geologia-1
 
 - Las [[rocas]] están compuestas de [[minerales]].
 - Su **textura** (tamaño, forma y disposición de cristales) refleja el proceso de formación.
 - El [[Ciclo de las rocas]] ilustra las interrelaciones de la [[geodinámica interna]] y [[geodinámica externa]].
-
-
-#temas #introduccion #geologia-1 #geologia1-tema-01
-#concepto-evento
