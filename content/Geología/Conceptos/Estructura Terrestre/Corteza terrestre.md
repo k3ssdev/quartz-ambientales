@@ -1,0 +1,26 @@
+---
+dg-publish: true
+---
+
+La **corteza terrestre** es la capa externa sólida de la [[Tierra]], la más delgada de sus capas, situada sobre el [[Manto]].
+
+## Tipos
+
+- **Continental** → más gruesa (30-70 km), compuesta por granitos, [[Rocas metamórficas]], [[Sedimentos]]
+- **Oceánica** → más delgada (~5-10 km), compuesta sobre todo por [[Basalto]] y [[Gabro]]
+
+## Importancia
+
+- Aloja continentes, océanos, [[Relieve]] y toda la [[Vida]]
+- Su fracturación produce [[Fallas]], [[Terremotos]] y [[Formación de montañas]]
+
+## Relaciones
+
+[[Tectónica de placas]], [[Litosfera]], [[Manto]], [[Océanos]], [[Continentes]]
+
+---
+
+---
+
+---
+#concepto-central #concepto-evento #estructura-terrestre #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-estructural #ruta-estructura-terrestre

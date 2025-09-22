@@ -1,0 +1,21 @@
+---
+dg-publish: true
+---
+
+La **andesita** es una [[Rocas volcánicas|roca volcánica]] de composición intermedia, rica en [[plagioclasa]] y minerales máficos.
+
+- **Composición**: 52-63% de sílice (SiO₂).
+- **Textura**: Afanítica (cristales microscópicos) con posibles fenocristales.
+- **Color**: Gris oscuro a gris claro.
+- **Minerales principales**: plagioclasa, hornblenda, biotita, piroxeno. ##Formación
+
+- Se forma en [[volcanes]] de [[márgenes convergentes]].
+- Típica de arcos volcánicos y zonas de [[subducción]].
+- Resultado de la fusión parcial de la corteza oceánica subducida.
+
+- Roca característica de los [[Andes]] (de ahí su nombre).
+- Común en el [[Cinturón de Fuego del Pacífico]].
+- Indicadora de [[tectónica de placas]] activa.
+
+---
+#concepto-central #importancia-3 #nivel-basico #primero-1-geologia-1 #ruta-materiales

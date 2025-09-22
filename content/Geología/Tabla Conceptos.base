@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Tabla
+    order:
+      - file.name
+      - file.tags
+      - file.links
+      - file.folder
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: Vista
+    order:
+      - file.name
+      - file.tags
