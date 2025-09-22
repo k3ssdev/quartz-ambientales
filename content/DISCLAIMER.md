@@ -8,9 +8,6 @@ tags:
   - bibliografia
   - legal
 ---
-
-# 📄 Disclaimer - Uso Académico de Imágenes
-
 ## 🎯 Propósito Educativo
 
 Esta base de conocimientos ha sido creada **exclusivamente con fines educativos** para el estudio del **Grado en Ciencias Ambientales de la UNED** y sus asignaturas relacionadas.

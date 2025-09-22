@@ -1,6 +1,7 @@
 ---
 title: "Scripts de Automatización"
 weight: 60
+draft: true
 tags:
   - scripts
   - automatizacion
