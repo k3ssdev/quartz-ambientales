@@ -6,7 +6,6 @@ tags:
   - uned
   - indice-general
 ---
-
 ## 🎓 Navegación por Curso
 
 ### 📚 Primer Curso
