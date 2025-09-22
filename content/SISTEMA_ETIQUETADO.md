@@ -130,29 +130,62 @@ tags:
 - **estructura**: Elementos físicos
 - **evento**: Sucesos temporales
 - **personaje**: Científicos importantes
-- **herramienta**: Métodos y técnicas ##Automatización de Secciones ###Enlaces Más Importantes
-```python #Buscar archivos con #importancia-5 #importancia-4 #concepto-central #Ordenar por número de enlaces entrantes
-``` ###Navegación por Categorías
-```python #Agrupar por tags de categoría (#clima-oceanografia, etc.) #Contar enlaces internos/externos por categoría #Extraer #concepto-central como conceptos clave
-``` ###Enlaces Bidireccionales Recomendados
-```python #Detectar enlaces [[A]] ↔ [[B]] que aparecen en ambos archivos #Agrupar por categorías similares vs. diferentes
-``` ###Rutas de Aprendizaje
-```python #Usar tags #ruta-* y #nivel-* #Ordenar por #nivel-basico → #nivel-intermedio → #nivel-avanzado #Detectar prerequisites automáticamente por enlaces
-``` ##Ejemplo de Archivo Mejorado (Compatible con Obsidian)
+- **herramienta**: Métodos y técnicas
+
+## Automatización de Secciones
+
+### Enlaces Más Importantes
+```python
+# Buscar archivos con #importancia-5 #importancia-4 #concepto-central
+# Ordenar por número de enlaces entrantes
+```
+
+### Navegación por Categorías
+```python
+# Agrupar por tags de categoría (#clima-oceanografia, etc.)
+# Contar enlaces internos/externos por categoría
+# Extraer #concepto-central como conceptos clave
+```
+
+### Enlaces Bidireccionales Recomendados
+```python
+# Detectar enlaces [[A]] ↔ [[B]] que aparecen en ambos archivos
+# Agrupar por categorías similares vs. diferentes
+```
+
+### Rutas de Aprendizaje
+```python
+# Usar tags #ruta-* y #nivel-*
+# Ordenar por #nivel-basico → #nivel-intermedio → #nivel-avanzado
+# Detectar prerequisites automáticamente por enlaces
+```
+
+## Ejemplo de Archivo Mejorado (Compatible con Quartz)
 
 ```markdown
 ---
-dg-publish: true
+title: "Tectónica de placas"
 aliases: ["Teoría de placas tectónicas", "Tectónica global"]
+tags:
+  - tectonica-placas
+  - importancia-5
+  - concepto-central
+  - nivel-intermedio
+  - ruta-fundamentos
 ---
 
-La **tectónica de placas** es la teoría científica moderna que explica la dinámica de la [[Litosfera]]. ##Ideas clave
+La **tectónica de placas** es la teoría científica moderna que explica la dinámica de la [[Litosfera]].
+
+## Ideas clave
 - La [[Litosfera]] está fragmentada en [[Placas tectónicas]]
 - Se mueven sobre la [[Astenosfera]]
-- Explica [[Terremotos]], [[Volcanes]], [[Formación de montañas]] ##Enlaces relacionados
+- Explica [[Terremotos]], [[Volcanes]], [[Formación de montañas]]
+
+## Enlaces relacionados
 - [[Placas tectónicas]] - Fragmentos de litosfera
 - [[Subducción]] - Proceso de hundimiento
 - [[Orogenia]] - Formación de montañas
+```
 
 ## Ventajas del Sistema Compatible con Quartz
 
@@ -176,23 +209,6 @@ Utiliza el explorador de etiquetas de Quartz para filtrar por:
 - Scripts Python para análisis de tags
 - Generación automática de índices
 - Estadísticas de contenido
-
-## Ejemplo de Implementación
-
-```markdown
----
-title: "Tectónica de placas"
-aliases: ["Teoría de placas", "Deriva continental"]
-tags:
-  - tectonica-placas
-  - importancia-5
-  - concepto-central
-  - nivel-intermedio
-  - ruta-fundamentos
----
-
-La **tectónica de placas** es...
-```
 
 ---
 

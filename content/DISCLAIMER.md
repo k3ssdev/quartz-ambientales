@@ -1,5 +1,5 @@
 ---
-title: "Disclaimer - Uso Académico de Imágenes"
+title: Disclaimer
 weight: 70
 tags:
   - disclaimer
