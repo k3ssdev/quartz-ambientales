@@ -169,4 +169,16 @@ El sistema genera automáticamente:
 
 ---
 
+## ⚖️ Uso Académico y Copyright
+
+📄 **[Ver Disclaimer Completo](DISCLAIMER.md)**
+
+Esta base de conocimientos utiliza imágenes y contenido de los libros oficiales de la asignatura bajo las excepciones de **uso académico** establecidas en la legislación española sobre propiedad intelectual.
+
+**Fuentes principales:**
+- Tarbuck, E.J.; Lutgens, F.K. - *Ciencias de la Tierra* (PEARSON-UNED)
+- **Uso exclusivamente educativo** - Sin fines comerciales
+
+---
+
 *Sistema desarrollado para maximizar la compatibilidad con Quartz*
