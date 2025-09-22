@@ -2,7 +2,7 @@
 title: "Nebulosas"
 draft: false
 tags:
-  - geologia1-tema-01
+  - geologia1-tema-00
   - ruta-fundamentos
   - conceptos-fundamentales
 ---

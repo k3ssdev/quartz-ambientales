@@ -7,7 +7,7 @@ tags:
   - primero-1-geologia-1
   - nivel-intermedio
   - importancia-5
-  - geologia1-tema-01
+  - geologia1-tema-00
   - concepto-evento
   - concepto-central
 ---

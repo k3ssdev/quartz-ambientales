@@ -2,7 +2,7 @@
 title: "Hidrosfera"
 draft: false
 tags:
-  - geologia1-tema-01
+  - geologia1-tema-00
   - ruta-estructura-terrestre
   - primero-1-geologia-1
   - nivel-intermedio

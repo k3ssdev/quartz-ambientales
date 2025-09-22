@@ -7,7 +7,7 @@ tags:
   - nivel-intermedio
   - importancia-3
   - hip
-  - geologia1-tema-01
+  - geologia1-tema-00
   - conceptos-fundamentales
   - concepto-central
 ---

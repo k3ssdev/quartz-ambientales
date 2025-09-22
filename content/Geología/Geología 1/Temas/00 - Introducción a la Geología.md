@@ -1,12 +1,12 @@
 ---
-title: "01 - Introducción a la Geología"
+title: "00 - Introducción a la Geología"
 draft: false
 weight: 1
 tags:
   - temas
   - introduccion
   - geologia-1
-  - geologia1-tema-01
+  - geologia1-tema-00
   - concepto-evento
   - importancia-5
   - nivel-intermedio

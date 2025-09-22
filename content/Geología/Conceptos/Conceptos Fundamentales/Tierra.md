@@ -9,7 +9,7 @@ tags:
   - primero-1-geologia-1
   - proceso-dinamico-fundamental
   - ruta-fundamentos
-  - geologia1-tema-01
+  - geologia1-tema-00
 ---
 
 La **Tierra** es el tercer planeta desde el [[Sol]], con una antigüedad de 4.600 Ma.

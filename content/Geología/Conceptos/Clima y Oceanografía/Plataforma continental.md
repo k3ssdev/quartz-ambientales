@@ -6,7 +6,7 @@ tags:
   - primero-1-geologia-1
   - nivel-intermedio
   - importancia-4
-  - geologia1-tema-01
+  - geologia1-tema-00
   - concepto-central
   - clima-oceanografia
 ---

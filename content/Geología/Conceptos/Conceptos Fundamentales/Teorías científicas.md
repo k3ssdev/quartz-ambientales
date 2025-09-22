@@ -8,7 +8,7 @@ tags:
   - primero-1-geologia-1
   - nivel-basico
   - importancia-3
-  - geologia1-tema-01
+  - geologia1-tema-00
   - conceptos-fundamentales
   - concepto-central
 ---

@@ -28,35 +28,35 @@ tags:
 
 | Semana | Fechas | Contenido | Tipo |
 |--------|--------|-----------|------|
-| **1** | 15–21 sep | [[01 - Introducción a la Geología]] | Repaso y consolidación |
-| **2** | 22–28 sep | [[Tema_02]] | Nuevo contenido |
+| **1** | 15–21 sep | [[00 - Introducción a la Geología]] | Repaso y consolidación |
+| **2** | 22–28 sep | [[Tema_01]] | Nuevo contenido |
 
 ### 🍁 Octubre 2025
 
 | Semana | Fechas | Contenido | Tipo |
 |--------|--------|-----------|------|
-| **3** | 29 sep – 5 oct | [[Tema_03]] | Nuevo contenido |
-| **4** | 6–12 oct | [[01 - Introducción a la Geología]]–[[Tema_03]] | 📖 Repaso |
-| **5** | 13–19 oct | [[Tema_04]] | Nuevo contenido |
-| **6** | 20–26 oct | [[Tema_05]] | Nuevo contenido |
-| **7** | 27 oct – 2 nov | [[Tema_06]] | Nuevo contenido |
+| **3** | 29 sep – 5 oct | [[Tema_02]] | Nuevo contenido |
+| **4** | 6–12 oct | [[00 - Introducción a la Geología]]–[[Tema_02]] | 📖 Repaso |
+| **5** | 13–19 oct | [[Tema_03]] | Nuevo contenido |
+| **6** | 20–26 oct | [[Tema_04]] | Nuevo contenido |
+| **7** | 27 oct – 2 nov | [[Tema_05]] | Nuevo contenido |
 
 ### 🍂 Noviembre 2025
 
 | Semana | Fechas | Contenido | Tipo |
 |--------|--------|-----------|------|
-| **8** | 3–9 nov | [[Tema_04]]–[[Tema_06]] | 📖 Repaso |
-| **9** | 10–16 nov | [[Tema_07]] | Nuevo contenido |
-| **10** | 17–23 nov | [[Tema_08]] | Nuevo contenido |
-| **11** | 24–30 nov | [[Tema_09]] | Nuevo contenido |
+| **8** | 3–9 nov | [[Tema_03]]–[[Tema_05]] | 📖 Repaso |
+| **9** | 10–16 nov | [[Tema_06]] | Nuevo contenido |
+| **10** | 17–23 nov | [[Tema_07]] | Nuevo contenido |
+| **11** | 24–30 nov | [[Tema_08]] | Nuevo contenido |
 
 ### ❄️ Diciembre 2025
 
 | Semana | Fechas | Contenido | Tipo |
 |--------|--------|-----------|------|
-| **12** | 1–7 dic | [[Tema_07]]–[[Tema_09]] | 📖 Repaso |
-| **13** | 8–14 dic | [[Tema_23]] (parte 1) | Energía y petróleo |
-| **14** | 15–21 dic | [[Tema_23]] (parte 2) | Minerales, nuclear y renovables |
+| **12** | 1–7 dic | [[Tema_06]]–[[Tema_08]] | 📖 Repaso |
+| **13** | 8–14 dic | [[Tema_09]] - Energía y recursos minerales | Nuevo contenido |
+| **14** | 15–21 dic | [[Tema_10]] - El tiempo geológico | Nuevo contenido |
 | **15** | 22–28 dic | Todo el temario | 🔄 Repaso global |
 
 ### ❄️ Enero 2026
@@ -64,7 +64,7 @@ tags:
 | Semana | Fechas | Contenido | Tipo |
 |--------|--------|-----------|------|
 | **16** | 29 dic – 5 ene | Fichas + dudas clave | 💡 Consolidación |
-| **17** | 6–12 ene | Bloques mezclados | 🧪 Simulacro examen |
+| **17** | 6–12 ene | Bloques mezclados + [[Tema_11]] (opcional) | 🧪 Simulacro + extra |
 | **18** | 13–19 ene | Preguntas + fichas rápidas | ⚡ Repaso intensivo |
 | **19** | 20–23 ene | Tarjetas, resumen de resúmenes | 🚀 Repaso express |
 
@@ -83,9 +83,10 @@ tags:
 
 ## 📝 Notas
 
-- ✅ **Prioridad**: Completar todos los temas antes de diciembre
+- ✅ **Prioridad**: Completar temas 00-10 antes de diciembre
 - 🔄 **Repasos programados**: Cada 3-4 semanas
-- 📚 **Tema 23**: Se estudia en diciembre (tema especial sobre recursos)
+- 📚 **Tema 10**: El tiempo geológico (tema oficial final)
+- 🌟 **Tema 11**: Geología planetaria (opcional/extra si hay tiempo)
 - 🧪 **Simulacro**: Semana 17 para detectar debilidades
 
 ---

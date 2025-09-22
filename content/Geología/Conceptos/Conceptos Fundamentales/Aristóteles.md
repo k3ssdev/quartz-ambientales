@@ -2,7 +2,7 @@
 title: "Aristóteles"
 draft: false
 tags:
-  - geologia1-tema-01
+  - geologia1-tema-00
   - ruta-fundamentos
   - proceso-dinamico
   - primero-1-geologia-1

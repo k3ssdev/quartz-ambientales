@@ -2,7 +2,7 @@
 title: "Superposición"
 draft: false
 tags:
-  - geologia1-tema-01
+  - geologia1-tema-00
   - ruta-tiempo-evolucion
   - primero-1-geologia-1
   - nivel-avanzado

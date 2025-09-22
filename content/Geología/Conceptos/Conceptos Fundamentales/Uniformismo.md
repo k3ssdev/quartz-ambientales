@@ -2,7 +2,7 @@
 title: "Uniformismo"
 draft: false
 tags:
-  - geologia1-tema-01
+  - geologia1-tema-00
   - teorias-geologicas
   - ruta-fundamentos
   - proceso-dinamico

@@ -1,10 +1,10 @@
 ---
-title: "Fichas 01"
+title: "Fichas 00"
 draft: false
 weight: 40
 ---
 
-# Fichas de Estudio - Tema 1: Introducción a la Geología
+# Fichas de Estudio - Tema 0: Introducción a la Geología
 
 ## 1. ¿Qué significa Geología?
 
@@ -172,8 +172,8 @@ Sustancias naturales, inorgánicas y sólidas, con composición química definid
 
 ## 📚 Enlaces de Navegación
 
-← [[Planning Geología I - Curso 2025-26]] | [[01 - Introducción a la Geología]] | [[Ejercicios 01 - Respuestas Completas]] →
+← [[Planning Geología I - Curso 2025-26]] | [[00 - Introducción a la Geología]] | [[Ejercicios 01 - Respuestas Completas]] →
 
 ---
 
-**Tags:** #fichas-estudio #geologia1-tema-01 #introduccion-geologia #repaso #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #concepto-evento
+**Tags:** #fichas-estudio #geologia1-tema-00 #introduccion-geologia #repaso #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #concepto-evento

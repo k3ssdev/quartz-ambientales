@@ -2,7 +2,7 @@
 title: "Minerales"
 draft: false
 tags:
-  - geologia1-tema-01
+  - geologia1-tema-00
   - ruta-materiales
   - rocas-minerales
   - primero-1-geologia-1

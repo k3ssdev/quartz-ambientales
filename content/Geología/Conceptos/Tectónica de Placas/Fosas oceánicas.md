@@ -2,7 +2,7 @@
 title: "Fosas oceánicas"
 draft: false
 tags:
-  - geologia1-tema-01
+  - geologia1-tema-00
   - tectonica-placas
   - subduccion
   - ruta-procesos-dinamicos

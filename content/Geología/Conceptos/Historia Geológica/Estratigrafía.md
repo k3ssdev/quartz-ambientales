@@ -8,7 +8,7 @@ tags:
   - nivel-avanzado
   - importancia-5
   - historia-geologica
-  - geologia1-tema-01
+  - geologia1-tema-00
   - concepto-herramienta
   - concepto-central
 ---

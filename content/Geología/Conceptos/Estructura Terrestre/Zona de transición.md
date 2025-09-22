@@ -2,7 +2,7 @@
 title: "Zona de transición"
 draft: false
 tags:
-  - geologia1-tema-01
+  - geologia1-tema-00
   - tierra-interna
   - ruta-estructura-terrestre
   - proceso-fundamental

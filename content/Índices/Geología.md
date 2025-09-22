@@ -168,7 +168,7 @@ tags:
 - `#importancia-3` (100 archivos)
 - `#concepto-evento` (86 archivos)
 - `#importancia-4` (86 archivos)
-- `#geologia1-tema-01` (72 archivos)
+- `#geologia1-tema-00` (72 archivos)
 - `#ruta-tiempo-evolucion` (68 archivos)
 - `#conceptos-fundamentales` (63 archivos)
 - `#ruta-fundamentos` (62 archivos)

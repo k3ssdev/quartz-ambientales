@@ -8,7 +8,7 @@ tags:
   - nivel-basico
   - manto-inferior
   - importancia-5
-  - geologia1-tema-01
+  - geologia1-tema-00
   - geodin
   - concepto-central
 ---
