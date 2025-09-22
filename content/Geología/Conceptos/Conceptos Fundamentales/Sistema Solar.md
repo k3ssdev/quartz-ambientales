@@ -11,7 +11,6 @@ tags:
   - concepto-herramienta
   - concepto-central
 ---
-
 El **Sistema Solar** se formó hace unos 4.600 Ma a partir de una **nebulosa primitiva** de gas y polvo.
 
 Proceso:
@@ -20,6 +19,8 @@ Proceso:
 2. Condensación y choque de partículas → planetesimales.
 3. Crecimiento por acreción → protoplanetas → planetas.
 4. Diferenciación terrestre → [[Corteza]], [[Manto]], [[Núcleo]].
+
+![[Formación del Sistema Solar.png]]
 
 El [[Sistema Solar]] incluye:
 

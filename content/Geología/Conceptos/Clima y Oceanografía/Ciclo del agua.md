@@ -13,7 +13,6 @@ tags:
   - clima-oceanografia
   - ciclos
 ---
-
 El **ciclo del agua** describe la circulación continua del agua en la [[Hidrosfera]], impulsado por la energía del [[Sol]].
 
 **Etapas:**
@@ -23,5 +22,7 @@ El **ciclo del agua** describe la circulación continua del agua en la [[Hidrosf
 3. **Precipitación** → lluvia, nieve, granizo
 4. **Escorrentía superficial** y **subterránea** hacia mares y ríos
 5. **Infiltración** en el suelo → acuíferos
+
+![[Ciclo de las rocas y Ciclo del agua.png]]
 
 Conectado al [[Ciclo del carbono]], la [[Geosfera]] y la [[Biosfera]]

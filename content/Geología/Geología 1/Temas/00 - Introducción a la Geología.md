@@ -61,6 +61,7 @@ La noción de [[tiempo geológico]] es fundamental en Geología, ya que los proc
 
 ➡️ Resultado: la construcción de la [[Escala del tiempo geológico]], con los principales intervalos → [[Precámbrico]], [[Paleozoico]], [[Mesozoico]] y [[Cenozoico]].
 
+![[Escala de tiempo geológico.png]]
 ## La Tierra como sistema
 
 El planeta se entiende como un **sistema dinámico e interconectado** compuesto por cuatro [[Esferas terrestres]]:
@@ -81,6 +82,8 @@ Estas esferas funcionan a partir de **dos fuentes principales de energía**:
 - [[Ciclo del carbono]] (atmósfera ↔ océanos ↔ biosfera ↔ rocas como [[caliza]] o [[carbón]]).
 - [[Ciclo de las rocas]] (ígneas ↔ sedimentarias ↔ metamórficas).
 
+![[Ciclo de las rocas y Ciclo del agua.png]]
+
 ### Visión ampliada (desde la perspectiva de sistemas)
 
 - **Sistemas cerrados**: solo intercambian energía (no materia).
@@ -100,6 +103,7 @@ Estas esferas funcionan a partir de **dos fuentes principales de energía**:
   - **Interiores** → rocosos, pequeños, densos.
   - **Exteriores** → gigantes gaseosos y helados.
 
+![[Formación del Sistema Solar.png]]
 ### Capas químicas:
 
 - [[Corteza]] (continental y oceánica).
@@ -115,6 +119,8 @@ Estas esferas funcionan a partir de **dos fuentes principales de energía**:
 - [[Núcleo externo]] → hierro y [[níquel]] líquidos → genera el [[campo magnético]].
 - [[Núcleo interno]] → hierro sólido por la enorme presión.
 
+
+![[Estructura interna de la Tierra.png]]
 ## Superficie terrestre
 
 - **[[Continentes]]**: incluyen [[Cordilleras]] jóvenes (Alpes, Andes, Himalaya) y cratones antiguos ([[Escudo canadiense]]).
@@ -125,6 +131,9 @@ Estas esferas funcionan a partir de **dos fuentes principales de energía**:
   - [[Fosas oceánicas]] → zonas de [[subducción]] y destrucción de litosfera (ej. [[fosa de las Marianas]]).
   - [[Llanuras abisales]] → vastas zonas planas y profundas cubiertas de sedimentos.
 
+![[Topografía de la Tierra.png]]
+
+![[Montañas, plataformas y escudos.png]]
 ## Rocas y su ciclo
 
 Las [[rocas]] se clasifican según su origen:
@@ -138,3 +147,5 @@ Las [[rocas]] se clasifican según su origen:
 - Las [[rocas]] están compuestas de [[minerales]].
 - Su **textura** (tamaño, forma y disposición de cristales) refleja el proceso de formación.
 - El [[Ciclo de las rocas]] ilustra las interrelaciones de la [[geodinámica interna]] y [[geodinámica externa]].
+
+![[Ciclo de las rocas y Ciclo del agua.png]]

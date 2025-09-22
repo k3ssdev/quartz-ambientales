@@ -11,13 +11,15 @@ tags:
   - ruta-fundamentos
   - geologia1-tema-00
 ---
-
 La **Tierra** es el tercer planeta desde el [[Sol]], con una antigüedad de 4.600 Ma.
 
 - Diferenciada en [[Corteza]], [[Manto]], [[Núcleo]]
 - Tiene [[Atmósfera]], [[Hidrosfera]], [[Biosfera]]
 - Único planeta conocido con [[Vida]]
-- Dinámicamente activa con [[Tectónica de placas]] ##Estructura interna
+- Dinámicamente activa con [[Tectónica de placas]] 
+
+![[Topografía de la Tierra.png]]
+## Estructura interna
 
 - [[Corteza terrestre]] - Capa externa sólida
 - [[Manto]] - Capa intermedia de silicatos
@@ -30,3 +32,5 @@ La **Tierra** es el tercer planeta desde el [[Sol]], con una antigüedad de 4.60
 - [[Sistema solar]] - Contexto astronómico
 - [[Geosfera]] - Sistema de rocas y minerales
 - [[Luna]] - Satélite natural
+
+![[Estructura interna de la Tierra.png]]
