@@ -7,8 +7,6 @@ tags:
   - indice-general
 ---
 
-# 🌿 Ciencias Ambientales - Base de Conocimientos UNED
-
 ## 🎓 Navegación por Curso
 
 ### 📚 Primer Curso
