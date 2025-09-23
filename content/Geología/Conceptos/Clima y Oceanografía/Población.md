@@ -1,6 +1,6 @@
 ---
-title: "Población"
-aliases: ["Poblacion"]
+title: "Poblacion"
+aliases: ["Poblacion", "Población"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

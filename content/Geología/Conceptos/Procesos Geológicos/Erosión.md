@@ -1,6 +1,6 @@
 ---
-title: "Erosión"
-aliases: ["Erosion"]
+title: "Erosion"
+aliases: ["Erosion", "Erosión"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

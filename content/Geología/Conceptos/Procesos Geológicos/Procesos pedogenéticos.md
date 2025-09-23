@@ -1,6 +1,6 @@
 ---
-title: "Procesos pedogenéticos"
-aliases: ["Procesos pedogeneticos"]
+title: "Procesos pedogeneticos"
+aliases: ["Procesos pedogeneticos", "Procesos pedogenéticos"]
 draft: false
 tags:
   - suelo

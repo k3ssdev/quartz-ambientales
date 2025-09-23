@@ -1,6 +1,6 @@
 ---
-title: "Corteza oceánica"
-aliases: ["Corteza oceanica"]
+title: "Corteza oceanica"
+aliases: ["Corteza oceanica", "Corteza oceánica"]
 draft: false
 tags:
   - ruta-estructura-terrestre

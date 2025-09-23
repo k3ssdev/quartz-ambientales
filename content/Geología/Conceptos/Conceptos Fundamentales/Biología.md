@@ -1,6 +1,6 @@
 ---
-title: "Biología"
-aliases: ["Biologia"]
+title: "Biologia"
+aliases: ["Biologia", "Biología"]
 draft: false
 tags:
   - ruta-fundamentos

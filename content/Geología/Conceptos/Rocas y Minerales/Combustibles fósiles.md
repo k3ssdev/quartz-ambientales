@@ -1,6 +1,6 @@
 ---
-title: "Combustibles fósiles"
-aliases: ["Combustibles fosiles"]
+title: "Combustibles fosiles"
+aliases: ["Combustibles fosiles", "Combustibles fósiles"]
 draft: false
 tags:
   - geologia1-tema-00

@@ -1,6 +1,6 @@
 ---
-title: "Ciclo del oxígeno"
-aliases: ["Ciclo del oxigeno"]
+title: "Ciclo del oxigeno"
+aliases: ["Ciclo del oxigeno", "Ciclo del oxígeno"]
 draft: false
 ---
 

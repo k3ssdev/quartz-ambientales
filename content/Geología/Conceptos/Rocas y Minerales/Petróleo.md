@@ -1,6 +1,6 @@
 ---
-title: "Petróleo"
-aliases: ["Petroleo"]
+title: "Petroleo"
+aliases: ["Petroleo", "Petróleo"]
 draft: false
 tags:
   - ruta-materiales

@@ -1,6 +1,6 @@
 ---
-title: "Gran Oxidación"
-aliases: ["Gran Oxidacion"]
+title: "Gran Oxidacion"
+aliases: ["Gran Oxidacion", "Gran Oxidación"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

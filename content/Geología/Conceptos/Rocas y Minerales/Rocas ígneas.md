@@ -1,6 +1,6 @@
 ---
-title: "Rocas ígneas"
-aliases: ["Rocas igneas"]
+title: "Rocas igneas"
+aliases: ["Rocas igneas", "Rocas ígneas"]
 draft: false
 tags:
   - geologia1-tema-00

@@ -1,6 +1,6 @@
 ---
-title: "Método científico"
-aliases: ["Metodo cientifico"]
+title: "Metodo cientifico"
+aliases: ["Metodo cientifico", "Método científico"]
 draft: false
 tags:
   - ruta-fundamentos

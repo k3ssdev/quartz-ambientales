@@ -1,6 +1,6 @@
 ---
-title: "Llanuras de inundación"
-aliases: ["Llanuras de inundacion"]
+title: "Llanuras de inundacion"
+aliases: ["Llanuras de inundacion", "Llanuras de inundación"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

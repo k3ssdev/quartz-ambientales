@@ -1,6 +1,6 @@
 ---
-title: "átomos"
-aliases: ["atomos"]
+title: "atomos"
+aliases: ["atomos", "átomos"]
 draft: false
 tags:
   - universo

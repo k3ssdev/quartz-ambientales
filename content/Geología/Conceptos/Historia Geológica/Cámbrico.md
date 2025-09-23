@@ -1,6 +1,6 @@
 ---
-title: "Cámbrico"
-aliases: ["Cambrico"]
+title: "Cambrico"
+aliases: ["Cambrico", "Cámbrico"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

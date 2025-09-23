@@ -1,6 +1,6 @@
 ---
-title: "Nitrógeno"
-aliases: ["Nitrogeno"]
+title: "Nitrogeno"
+aliases: ["Nitrogeno", "Nitrógeno"]
 draft: false
 tags:
   - ruta-materiales

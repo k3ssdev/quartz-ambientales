@@ -1,6 +1,6 @@
 ---
-title: "Presión"
-aliases: ["Presion"]
+title: "Presion"
+aliases: ["Presion", "Presión"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

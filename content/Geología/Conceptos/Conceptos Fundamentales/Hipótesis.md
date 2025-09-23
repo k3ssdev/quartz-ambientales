@@ -1,6 +1,6 @@
 ---
-title: "Hipótesis"
-aliases: ["Hipotesis"]
+title: "Hipotesis"
+aliases: ["Hipotesis", "Hipótesis"]
 draft: false
 tags:
   - ruta-fundamentos

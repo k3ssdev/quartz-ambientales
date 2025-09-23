@@ -1,6 +1,6 @@
 ---
-title: "Índice Temático - Geología"
-aliases: ["Geologia"]
+title: "Indice Tematico - Geologia"
+aliases: ["Geologia", "Índice Temático - Geología"]
 weight: 10
 tags:
   - navegacion

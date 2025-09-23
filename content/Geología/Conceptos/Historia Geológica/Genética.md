@@ -1,6 +1,6 @@
 ---
-title: "Genética"
-aliases: ["Genetica"]
+title: "Genetica"
+aliases: ["Genetica", "Genética"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

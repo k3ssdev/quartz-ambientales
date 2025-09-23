@@ -1,6 +1,6 @@
 ---
-title: "Geología"
-aliases: ["Geologia"]
+title: "Geologia"
+aliases: ["Geologia", "Geología"]
 draft: false
 tags:
   - geologia1-tema-00

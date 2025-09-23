@@ -1,6 +1,6 @@
 ---
-title: "Polvo cósmico"
-aliases: ["Polvo cosmico"]
+title: "Polvo cosmico"
+aliases: ["Polvo cosmico", "Polvo cósmico"]
 draft: false
 tags:
   - universo

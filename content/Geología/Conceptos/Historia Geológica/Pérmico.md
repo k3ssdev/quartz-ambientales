@@ -1,6 +1,6 @@
 ---
-title: "Pérmico"
-aliases: ["Permico"]
+title: "Permico"
+aliases: ["Permico", "Pérmico"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

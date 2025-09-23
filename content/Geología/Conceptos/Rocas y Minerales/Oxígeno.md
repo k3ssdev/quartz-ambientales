@@ -1,6 +1,6 @@
 ---
-title: "Oxígeno"
-aliases: ["Oxigeno"]
+title: "Oxigeno"
+aliases: ["Oxigeno", "Oxígeno"]
 draft: false
 tags:
   - ruta-materiales

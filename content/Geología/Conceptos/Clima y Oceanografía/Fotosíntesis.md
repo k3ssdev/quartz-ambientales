@@ -1,6 +1,6 @@
 ---
-title: "Fotosíntesis"
-aliases: ["Fotosintesis"]
+title: "Fotosintesis"
+aliases: ["Fotosintesis", "Fotosíntesis"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

@@ -1,6 +1,6 @@
 ---
-title: "Roca ígnea"
-aliases: ["Roca ignea"]
+title: "Roca ignea"
+aliases: ["Roca ignea", "Roca ígnea"]
 draft: false
 tags:
   - ruta-materiales

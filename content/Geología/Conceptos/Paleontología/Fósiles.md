@@ -1,6 +1,6 @@
 ---
-title: "Fósiles"
-aliases: ["Fosiles"]
+title: "Fosiles"
+aliases: ["Fosiles", "Fósiles"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

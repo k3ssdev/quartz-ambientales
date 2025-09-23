@@ -1,6 +1,6 @@
 ---
-title: "Mármol"
-aliases: ["Marmol"]
+title: "Marmol"
+aliases: ["Marmol", "Mármol"]
 draft: false
 tags:
   - ruta-materiales

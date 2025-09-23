@@ -1,6 +1,6 @@
 ---
-title: "Ciclo del fósforo"
-aliases: ["Ciclo del fosforo"]
+title: "Ciclo del fosforo"
+aliases: ["Ciclo del fosforo", "Ciclo del fósforo"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

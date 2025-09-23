@@ -1,6 +1,6 @@
 ---
-title: "Paleontología"
-aliases: ["Paleontologia"]
+title: "Paleontologia"
+aliases: ["Paleontologia", "Paleontología"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

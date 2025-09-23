@@ -1,6 +1,6 @@
 ---
-title: "Evaporación"
-aliases: ["Evaporacion"]
+title: "Evaporacion"
+aliases: ["Evaporacion", "Evaporación"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

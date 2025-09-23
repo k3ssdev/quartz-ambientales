@@ -1,5 +1,6 @@
 ---
-title: "Scripts de Automatización"
+title: "Scripts de Automatizacion"
+aliases: ["Scripts de Automatización"]
 weight: 60
 draft: true
 tags:

@@ -1,6 +1,6 @@
 ---
-title: "Carbonífero"
-aliases: ["Carbonifero"]
+title: "Carbonifero"
+aliases: ["Carbonifero", "Carbonífero"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

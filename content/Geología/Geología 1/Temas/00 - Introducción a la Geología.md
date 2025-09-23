@@ -1,6 +1,6 @@
 ---
-title: "00 - Introducción a la Geología"
-aliases: ["00 - Introduccion a la Geologia"]
+title: "00 - Introduccion a la Geologia"
+aliases: ["00 - Introducción a la Geología"]
 draft: false
 weight: 1
 tags:

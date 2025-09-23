@@ -1,6 +1,6 @@
 ---
-title: "Formación de la Tierra"
-aliases: ["Formacion de la Tierra"]
+title: "Formacion de la Tierra"
+aliases: ["Formacion de la Tierra", "Formación de la Tierra"]
 draft: false
 tags:
   - universo

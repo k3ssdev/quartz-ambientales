@@ -1,6 +1,6 @@
 ---
-title: "Fósiles guía"
-aliases: ["Fosiles guia"]
+title: "Fosiles guia"
+aliases: ["Fosiles guia", "Fósiles guía"]
 draft: false
 tags:
   - geologia1-tema-00

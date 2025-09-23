@@ -1,6 +1,6 @@
 ---
-title: "Cambio climático"
-aliases: ["Cambio climatico"]
+title: "Cambio climatico"
+aliases: ["Cambio climatico", "Cambio climático"]
 draft: false
 tags:
   - geologia1-tema-00

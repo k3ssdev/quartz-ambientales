@@ -1,6 +1,6 @@
 ---
-title: "Convección mantélica"
-aliases: ["Conveccion mantelica"]
+title: "Conveccion mantelica"
+aliases: ["Conveccion mantelica", "Convección mantélica"]
 draft: false
 tags:
   - ruta-estructura-terrestre

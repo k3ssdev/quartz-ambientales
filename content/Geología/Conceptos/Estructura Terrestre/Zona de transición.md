@@ -1,6 +1,6 @@
 ---
-title: "Zona de transición"
-aliases: ["Zona de transicion"]
+title: "Zona de transicion"
+aliases: ["Zona de transicion", "Zona de transición"]
 draft: false
 tags:
   - geologia1-tema-00

@@ -1,6 +1,6 @@
 ---
-title: "Elemento químico"
-aliases: ["Elemento quimico"]
+title: "Elemento quimico"
+aliases: ["Elemento quimico", "Elemento químico"]
 draft: false
 tags:
   - ruta-fundamentos

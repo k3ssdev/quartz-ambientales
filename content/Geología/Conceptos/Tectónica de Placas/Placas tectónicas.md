@@ -1,6 +1,6 @@
 ---
-title: "Placas tectónicas"
-aliases: ["Placas tectonicas"]
+title: "Placas tectonicas"
+aliases: ["Placas tectonicas", "Placas tectónicas"]
 draft: false
 tags:
   - teoria

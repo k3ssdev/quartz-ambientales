@@ -1,6 +1,6 @@
 ---
-title: "Sedimentación"
-aliases: ["Sedimentacion"]
+title: "Sedimentacion"
+aliases: ["Sedimentacion", "Sedimentación"]
 draft: false
 tags:
   - sedimentacion

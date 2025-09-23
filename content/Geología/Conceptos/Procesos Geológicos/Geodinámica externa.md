@@ -1,6 +1,6 @@
 ---
-title: "Geodinámica externa"
-aliases: ["Geodinamica externa"]
+title: "Geodinamica externa"
+aliases: ["Geodinamica externa", "Geodinámica externa"]
 draft: false
 tags:
   - teoria

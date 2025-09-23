@@ -1,6 +1,6 @@
 ---
-title: "Datación relativa"
-aliases: ["Datacion relativa"]
+title: "Datacion relativa"
+aliases: ["Datacion relativa", "Datación relativa"]
 draft: false
 tags:
   - geologia1-tema-00

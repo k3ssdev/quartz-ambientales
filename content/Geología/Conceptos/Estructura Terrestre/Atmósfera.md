@@ -1,6 +1,6 @@
 ---
-title: "Atmósfera"
-aliases: ["Atmosfera"]
+title: "Atmosfera"
+aliases: ["Atmosfera", "Atmósfera"]
 draft: false
 tags:
   - geologia1-tema-00

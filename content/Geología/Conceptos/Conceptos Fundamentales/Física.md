@@ -1,6 +1,6 @@
 ---
-title: "Física"
-aliases: ["Fisica"]
+title: "Fisica"
+aliases: ["Fisica", "Física"]
 draft: false
 tags:
   - ruta-fundamentos

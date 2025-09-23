@@ -1,6 +1,6 @@
 ---
-title: "Precipitación"
-aliases: ["Precipitacion"]
+title: "Precipitacion"
+aliases: ["Precipitacion", "Precipitación"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

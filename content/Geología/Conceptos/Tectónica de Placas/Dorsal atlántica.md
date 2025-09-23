@@ -1,6 +1,6 @@
 ---
-title: "Dorsal atlántica"
-aliases: ["Dorsal atlantica"]
+title: "Dorsal atlantica"
+aliases: ["Dorsal atlantica", "Dorsal atlántica"]
 draft: false
 tags:
   - tectonica-placas

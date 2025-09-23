@@ -1,6 +1,6 @@
 ---
-title: "Batimetría"
-aliases: ["Batimetria"]
+title: "Batimetria"
+aliases: ["Batimetria", "Batimetría"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

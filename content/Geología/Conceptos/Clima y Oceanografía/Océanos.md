@@ -1,6 +1,6 @@
 ---
-title: "Océanos"
-aliases: ["Oceanos"]
+title: "Oceanos"
+aliases: ["Oceanos", "Océanos"]
 draft: false
 tags:
   - geologia1-tema-00

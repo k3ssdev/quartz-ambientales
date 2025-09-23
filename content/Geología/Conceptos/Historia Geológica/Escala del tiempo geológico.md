@@ -1,6 +1,6 @@
 ---
-title: "Escala del tiempo geológico"
-aliases: ["Escala del tiempo geologico"]
+title: "Escala del tiempo geologico"
+aliases: ["Escala del tiempo geologico", "Escala del tiempo geológico"]
 draft: false
 tags:
   - geologia1-tema-00
@@ -18,7 +18,7 @@ La división del **[[tiempo geológico]]** se organiza de forma **jerárquica** 
 
 ![[Escala de tiempo geológico.png]]
 
-## [[eones]]
+## [[Eones]]
 
 Son las divisiones más amplias.
 
