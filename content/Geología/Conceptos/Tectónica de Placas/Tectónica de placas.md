@@ -33,7 +33,7 @@ Las interacciones en los límites entre las placas son las que causan la mayor p
 
 #### **[[Límites Divergentes]]**
 
-![Imagen de divergent plate boundary](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRGC1j5T_iNmJxT5nQ_oL9vHL-k_hKZXXTmpBLcgQCkMbOyEMLivXoXhbpV52QKizc5sM-TlnBKRvF0rEzTrUosWslnbA9wSBGyUUATCgm0fomCXtg)
+
 
 Con licencia de Google
 
@@ -46,7 +46,7 @@ En estos límites, las placas se **separan**. A medida que se alejan, el magma d
 
 #### **Límites Convergentes**
 
-![Imagen de convergent plate boundary](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRSnN0wMmbyBiB82jmqbulqVuMDKmCZag_OBB5MXnLF1THIbHHkuCW_xnmite2KUvRIFnOUBphdrc0KEgD6a-5HqdW67J42XgrqXV9iFr9ApgsukEU)
+
 
 Con licencia de Google
 
@@ -61,7 +61,7 @@ En estos límites, las placas **colisionan**. La interacción depende del tipo d
 
 #### **Límites Transformantes**
 
-![Imagen de transform plate boundary](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQZrqbmwTuhK_eXYVx7yEZxogVfyOoX8JbXUySfpKB5QLcGPfkiDoJCGEH0QvXSSxBrCSOWSvpDmK8RTYNsTGrIuI9vHOY9ey2I1cG0jcUL98gRRo4)
+
 
 Con licencia de Google
 
