@@ -1,5 +1,6 @@
 ---
 title: "Níquel"
+aliases: ["Niquel"]
 draft: false
 tags:
   - ruta-materiales

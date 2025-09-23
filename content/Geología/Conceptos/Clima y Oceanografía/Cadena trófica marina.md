@@ -1,5 +1,6 @@
 ---
 title: "Cadena trófica marina"
+aliases: ["Cadena trofica marina"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

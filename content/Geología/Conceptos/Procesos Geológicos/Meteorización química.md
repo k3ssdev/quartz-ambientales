@@ -1,5 +1,6 @@
 ---
 title: "Meteorización química"
+aliases: ["Meteorizacion quimica"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

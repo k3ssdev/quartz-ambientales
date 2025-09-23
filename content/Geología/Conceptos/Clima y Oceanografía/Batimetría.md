@@ -1,5 +1,6 @@
 ---
 title: "Batimetría"
+aliases: ["Batimetria"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

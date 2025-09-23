@@ -1,5 +1,6 @@
 ---
 title: "Energía interna de la Tierra"
+aliases: ["Energia interna de la Tierra"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

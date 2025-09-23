@@ -1,5 +1,6 @@
 ---
 title: "Energía solar"
+aliases: ["Energia solar"]
 draft: false
 tags:
   - geologia1-tema-00

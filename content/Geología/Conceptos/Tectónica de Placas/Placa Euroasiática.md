@@ -1,5 +1,6 @@
 ---
 title: "Placa Euroasiática"
+aliases: ["Placa Euroasiatica"]
 draft: false
 tags:
   - tectonica-placas

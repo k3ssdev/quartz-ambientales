@@ -1,5 +1,6 @@
 ---
 title: "Superposición"
+aliases: ["Superposicion"]
 draft: false
 tags:
   - geologia1-tema-00

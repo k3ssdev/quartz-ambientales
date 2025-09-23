@@ -1,5 +1,6 @@
 ---
 title: "Ciclos biogeoquímicos"
+aliases: ["Ciclos biogeoquimicos"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

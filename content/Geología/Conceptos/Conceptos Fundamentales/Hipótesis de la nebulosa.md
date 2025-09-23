@@ -1,5 +1,6 @@
 ---
 title: "Hipótesis de la nebulosa"
+aliases: ["Hipotesis de la nebulosa"]
 draft: false
 tags:
   - geologia1-tema-00

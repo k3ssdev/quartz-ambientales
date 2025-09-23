@@ -1,5 +1,6 @@
 ---
 title: "Aristóteles"
+aliases: ["Aristoteles"]
 draft: false
 tags:
   - geologia1-tema-00

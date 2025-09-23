@@ -1,5 +1,6 @@
 ---
 title: "Hipótesis"
+aliases: ["Hipotesis"]
 draft: false
 tags:
   - ruta-fundamentos

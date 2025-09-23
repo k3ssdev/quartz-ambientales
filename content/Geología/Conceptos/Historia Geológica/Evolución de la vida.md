@@ -1,5 +1,6 @@
 ---
 title: "Evolución de la vida"
+aliases: ["Evolucion de la vida"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

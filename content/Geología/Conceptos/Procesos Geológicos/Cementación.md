@@ -1,5 +1,6 @@
 ---
 title: "Cementación"
+aliases: ["Cementacion"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

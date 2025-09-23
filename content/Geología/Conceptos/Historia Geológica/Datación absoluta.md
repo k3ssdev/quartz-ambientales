@@ -1,5 +1,6 @@
 ---
 title: "Datación absoluta"
+aliases: ["Datacion absoluta"]
 draft: false
 tags:
   - geologia1-tema-00

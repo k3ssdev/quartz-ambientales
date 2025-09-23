@@ -1,5 +1,6 @@
 ---
 title: "Cinturón de Kuiper"
+aliases: ["Cinturon de Kuiper"]
 draft: false
 tags:
   - ruta-fundamentos

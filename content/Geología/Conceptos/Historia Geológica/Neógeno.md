@@ -1,5 +1,6 @@
 ---
 title: "Neógeno"
+aliases: ["Neogeno"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

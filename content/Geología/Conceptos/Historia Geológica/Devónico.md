@@ -1,5 +1,6 @@
 ---
 title: "Devónico"
+aliases: ["Devonico"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

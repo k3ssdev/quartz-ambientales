@@ -1,5 +1,6 @@
 ---
 title: "Roca ígnea"
+aliases: ["Roca ignea"]
 draft: false
 tags:
   - ruta-materiales

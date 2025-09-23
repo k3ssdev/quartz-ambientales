@@ -1,5 +1,6 @@
 ---
 title: "Tectónica de placas"
+aliases: ["Tectonica de placas"]
 draft: false
 tags:
   - teoria

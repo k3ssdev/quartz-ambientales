@@ -1,5 +1,6 @@
 ---
 title: "Paleógeno"
+aliases: ["Paleogeno"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

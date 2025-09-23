@@ -1,5 +1,6 @@
 ---
 title: "Planificación Geología I - Curso 2025-26"
+aliases: ["Planning Geologia I - Curso 2025-26"]
 draft: false
 weight: 20
 tags:

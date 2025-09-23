@@ -1,5 +1,6 @@
 ---
 title: "Nitrógeno"
+aliases: ["Nitrogeno"]
 draft: false
 tags:
   - ruta-materiales

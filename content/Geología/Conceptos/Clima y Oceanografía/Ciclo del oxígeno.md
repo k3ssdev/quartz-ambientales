@@ -1,5 +1,6 @@
 ---
 title: "Ciclo del oxígeno"
+aliases: ["Ciclo del oxigeno"]
 draft: false
 ---
 

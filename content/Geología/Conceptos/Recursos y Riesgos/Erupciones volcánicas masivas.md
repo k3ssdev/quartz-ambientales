@@ -1,5 +1,6 @@
 ---
 title: "Erupciones volcánicas masivas"
+aliases: ["Erupciones volcanicas masivas"]
 draft: false
 tags:
   - vulcanismo

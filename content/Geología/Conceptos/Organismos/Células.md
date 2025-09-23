@@ -1,5 +1,6 @@
 ---
 title: "Células"
+aliases: ["Celulas"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

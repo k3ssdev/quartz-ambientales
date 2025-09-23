@@ -1,5 +1,6 @@
 ---
 title: "Procesos pedogenéticos"
+aliases: ["Procesos pedogeneticos"]
 draft: false
 tags:
   - suelo

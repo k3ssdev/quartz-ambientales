@@ -1,5 +1,6 @@
 ---
 title: "Estratigrafía"
+aliases: ["Estratigrafia"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

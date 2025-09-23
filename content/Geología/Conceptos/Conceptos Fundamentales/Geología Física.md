@@ -1,5 +1,6 @@
 ---
 title: "Geología Física"
+aliases: ["Geologia Fisica"]
 draft: false
 tags:
   - geologia1-tema-00

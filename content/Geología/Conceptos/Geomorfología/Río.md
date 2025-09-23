@@ -1,5 +1,6 @@
 ---
 title: "Río"
+aliases: ["Rio"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

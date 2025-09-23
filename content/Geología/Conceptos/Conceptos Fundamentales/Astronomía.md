@@ -1,5 +1,6 @@
 ---
 title: "Astronomía"
+aliases: ["Astronomia"]
 draft: false
 tags:
   - ruta-fundamentos

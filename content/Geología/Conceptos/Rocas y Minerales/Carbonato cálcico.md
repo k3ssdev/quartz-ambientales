@@ -1,5 +1,6 @@
 ---
 title: "Carbonato cálcico"
+aliases: ["Carbonato calcico"]
 draft: false
 tags:
   - ruta-materiales

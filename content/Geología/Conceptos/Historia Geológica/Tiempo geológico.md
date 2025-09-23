@@ -1,5 +1,6 @@
 ---
 title: "Tiempo geológico"
+aliases: ["Tiempo geologico"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

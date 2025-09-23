@@ -1,5 +1,6 @@
 ---
 title: "Teoría evolutiva moderna"
+aliases: ["Teoria evolutiva moderna"]
 draft: false
 tags:
   - teor

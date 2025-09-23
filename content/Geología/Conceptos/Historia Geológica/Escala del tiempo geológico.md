@@ -1,5 +1,6 @@
 ---
 title: "Escala del tiempo geológico"
+aliases: ["Escala del tiempo geologico"]
 draft: false
 tags:
   - geologia1-tema-00

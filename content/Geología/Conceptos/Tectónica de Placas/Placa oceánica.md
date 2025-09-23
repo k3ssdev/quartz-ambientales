@@ -1,5 +1,6 @@
 ---
 title: "Placa oceánica"
+aliases: ["Placa oceanica"]
 draft: false
 tags:
   - tectonica-placas

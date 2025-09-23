@@ -1,5 +1,6 @@
 ---
 title: "Datación radiométrica"
+aliases: ["Datacion radiometrica"]
 draft: false
 tags:
   - ruta-fundamentos

@@ -1,5 +1,6 @@
 ---
 title: "Rocas metamórficas"
+aliases: ["Rocas metamorficas"]
 draft: false
 tags:
   - ruta-materiales

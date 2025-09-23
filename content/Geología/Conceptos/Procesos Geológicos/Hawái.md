@@ -1,5 +1,6 @@
 ---
 title: "Hawái"
+aliases: ["Hawai"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

@@ -1,4 +1,5 @@
 ---
+aliases: ["Geodinamica de la Tierra"]
 tags:
   - concepto-evento
   - energia

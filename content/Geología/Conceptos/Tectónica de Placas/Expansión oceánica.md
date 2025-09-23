@@ -1,5 +1,6 @@
 ---
 title: "Expansión oceánica"
+aliases: ["Expansion oceanica"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

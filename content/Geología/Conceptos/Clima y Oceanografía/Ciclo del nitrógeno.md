@@ -1,5 +1,6 @@
 ---
 title: "Ciclo del nitrógeno"
+aliases: ["Ciclo del nitrogeno"]
 draft: false
 ---
 

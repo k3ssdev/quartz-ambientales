@@ -1,5 +1,6 @@
 ---
 title: "Océano Atlántico"
+aliases: ["Oceano Atlantico"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

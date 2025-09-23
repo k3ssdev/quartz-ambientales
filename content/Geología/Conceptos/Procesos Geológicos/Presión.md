@@ -1,5 +1,6 @@
 ---
 title: "Presión"
+aliases: ["Presion"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

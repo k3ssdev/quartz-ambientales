@@ -1,5 +1,6 @@
 ---
 title: "Erosión fluvial"
+aliases: ["Erosion fluvial"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

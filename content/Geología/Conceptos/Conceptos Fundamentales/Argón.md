@@ -1,5 +1,6 @@
 ---
 title: "Argón"
+aliases: ["Argon"]
 draft: false
 tags:
   - ruta-fundamentos

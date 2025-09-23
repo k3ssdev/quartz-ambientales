@@ -1,5 +1,6 @@
 ---
 title: "Montes oceánicos"
+aliases: ["Montes oceanicos"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

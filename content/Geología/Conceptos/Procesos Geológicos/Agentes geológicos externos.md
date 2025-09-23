@@ -1,5 +1,6 @@
 ---
 title: "Agentes geológicos externos"
+aliases: ["Agentes geologicos externos"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

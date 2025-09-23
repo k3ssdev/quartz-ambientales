@@ -1,5 +1,6 @@
 ---
 title: "Registro fósil"
+aliases: ["Registro fosil"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

@@ -1,5 +1,6 @@
 ---
 title: "Plumas mantélicas"
+aliases: ["Plumas mantelicas"]
 draft: false
 tags:
   - ruta-estructura-terrestre

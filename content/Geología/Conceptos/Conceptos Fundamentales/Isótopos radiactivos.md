@@ -1,5 +1,6 @@
 ---
 title: "Isótopos radiactivos"
+aliases: ["Isotopos radiactivos"]
 draft: false
 tags:
   - ruta-fundamentos
