@@ -42,7 +42,7 @@ tags:
 - Conceptos clave: [[Tierra]], [[Vida]], [[Sol]]
 
 ### 📚 Historia Geológica (62 archivos)
-- Enlaces internos: 296 | Enlaces externos: 456
+- Enlaces internos: 297 | Enlaces externos: 456
 - Conceptos clave: [[Fósiles]], [[Evolución de la vida]], [[Estratigrafía]]
 
 ### 🪨 Rocas y Minerales (54 archivos)
@@ -80,8 +80,12 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
+**🧬 Biología I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
 **🗿 Geología I** (347 conceptos)
-- Enlaces entrantes: 2108
+- Enlaces entrantes: 2109
 - Conceptos destacados: 223
 - Principales: [[Arcillas]], [[Mármol]], [[Roca sedimentaria]]
 
@@ -89,17 +93,13 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🧬 Biología I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
 #### 2C - 2° Cuatrimestre
 
-**📐 Matemáticas II** (1 conceptos)
+**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
+**📐 Matemáticas II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -130,7 +130,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (avanzado)
+1. [[SISTEMA_ETIQUETADO]] ()
 
 ### Ruta: Materiales
 1. [[Arcillas]] (intermedio)

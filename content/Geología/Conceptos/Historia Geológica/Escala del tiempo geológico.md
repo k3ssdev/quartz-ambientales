@@ -18,7 +18,7 @@ La división del **[[tiempo geológico]]** se organiza de forma **jerárquica** 
 
 
 ![[ICS_Chart_2024-12_es.pdf]]
-## [[eones]]
+## [[Eones]]
 
 Son las divisiones más amplias.
 
