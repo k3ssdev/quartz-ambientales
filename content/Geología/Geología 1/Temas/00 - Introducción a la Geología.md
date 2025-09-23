@@ -106,13 +106,13 @@ Estas esferas funcionan a partir de **dos fuentes principales de energía**:
 ![[Formación del Sistema Solar.png]]
 *Fuente: Adaptado de [[Tarbuck-Lutgens-Completo]], Capítulo 1. Introducción a la Geología*
 
-### Capas químicas:
+### Capas químicas
 
 - [[Corteza]] (continental y oceánica).
 - [[Manto]].
-- [[Núcleo]] (externo líquido y [[núcleo interno]] sólido).
+- [[Núcleo]] ([[Núcleo externo]]] líquido y [[núcleo interno]] sólido).
 
-### Capas físicas:
+### Capas físicas
 
 - [[Litosfera]] → rígida (corteza + parte superior del [[manto]]).
 - [[Astenosfera]] → parcialmente plástica, permite el movimiento de placas.
