@@ -14,7 +14,6 @@ tags:
   - proceso-dinamico
   - primero-1-geologia-1
 ---
-
 ## Definición
 
 La **[[Geología]]** es la ciencia que estudia la [[Tierra]], sus materiales (rocas, minerales, fluidos), los procesos **internos** (tectónica, magmatismo, formación de montañas) y **externos** (erosión, sedimentación, clima) que la modelan, así como su [[Historia geológica]] a lo largo del [[Tiempo profundo]] (≈ 4.600 millones de años).

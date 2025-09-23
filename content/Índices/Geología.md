@@ -81,11 +81,11 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
-**🧬 Biología I** (1 conceptos)
+**🔢 Matemáticas I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🔢 Matemáticas I** (1 conceptos)
+**🧬 Biología I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (basico)
+1. [[SISTEMA_ETIQUETADO]] (avanzado)
 
 ### Ruta: Materiales
 1. [[Arcillas]] (intermedio)
