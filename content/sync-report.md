@@ -1,7 +1,7 @@
 # 📋 Content Sync Report
 
-**Fecha:** Tue Sep 23 12:54:04 UTC 2025
-**Commit:** 3fe0ec24e3f8ab14f21285bc417b66069fce0fe2
+**Fecha:** Tue Sep 23 13:03:33 UTC 2025
+**Commit:** 40929fff8aa20852425629c3e62057dc5f192bbd
 
 ## 📁 Archivos sincronizados:
 
@@ -26,10 +26,11 @@
 │       ├── Ejercicios
 │       ├── Fichas
 │       ├── Recursos
+│       │   └── Documentos
 │       └── Temas
 ├── copilot
 │   └── copilot-custom-prompts
 ├── scripts
 └── Índices
 
-23 directories
+24 directories
