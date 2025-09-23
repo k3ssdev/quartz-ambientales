@@ -19,4 +19,6 @@ Modelo que describe la relación entre los tres tipos de rocas:
 Es un ciclo dinámico impulsado por la [[Tectónica de placas]], la [[Atmósfera]] y la [[Hidrosfera]].
 
 ![[Ciclo de las rocas.png]]
+*Fuente: Adaptado de [[Tarbuck-Lutgens-Completo]], Capítulo 1. Introducción a la Geología*
+
 Relacionado con → [[Combustibles fósiles]].

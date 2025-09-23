@@ -24,5 +24,6 @@ El **ciclo del agua** describe la circulación continua del agua en la [[Hidrosf
 5. **Infiltración** en el suelo → acuíferos
 
 ![[Ciclo de las rocas y Ciclo del agua.png]]
+*Fuente: Adaptado de [[Tarbuck-Lutgens-Completo]], Capítulo 1. Introducción a la Geología*
 
 Conectado al [[Ciclo del carbono]], la [[Geosfera]] y la [[Biosfera]]

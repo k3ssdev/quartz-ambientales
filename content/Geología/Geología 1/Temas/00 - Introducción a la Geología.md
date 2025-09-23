@@ -62,7 +62,7 @@ La noción de [[tiempo geológico]] es fundamental en Geología, ya que los proc
 
 ➡️ Resultado: la construcción de la [[Escala del tiempo geológico]], con los principales intervalos → [[Precámbrico]], [[Paleozoico]], [[Mesozoico]] y [[Cenozoico]].
 
-![[ICS_Chart_2024-12_es.pdf]]
+![[Escala de tiempo geológico.png]]
 ## La Tierra como sistema
 
 El planeta se entiende como un **sistema dinámico e interconectado** compuesto por cuatro [[Esferas terrestres]]:
@@ -105,6 +105,8 @@ Estas esferas funcionan a partir de **dos fuentes principales de energía**:
   - **Exteriores** → gigantes gaseosos y helados.
 
 ![[Formación del Sistema Solar.png]]
+*Fuente: Adaptado de [[Tarbuck-Lutgens-Completo]], Capítulo 1. Introducción a la Geología*
+
 ### Capas químicas:
 
 - [[Corteza]] (continental y oceánica).
@@ -122,6 +124,8 @@ Estas esferas funcionan a partir de **dos fuentes principales de energía**:
 
 
 ![[Estructura interna de la Tierra.png]]
+*Fuente: Adaptado de [[Tarbuck-Lutgens-Completo]], Capítulo 1. Introducción a la Geología*
+
 ## Superficie terrestre
 
 - **[[Continentes]]**: incluyen [[Cordilleras]] jóvenes (Alpes, Andes, Himalaya) y cratones antiguos ([[Escudo canadiense]]).
@@ -133,8 +137,10 @@ Estas esferas funcionan a partir de **dos fuentes principales de energía**:
   - [[Llanuras abisales]] → vastas zonas planas y profundas cubiertas de sedimentos.
 
 ![[Topografía de la Tierra.png]]
+*Fuente: Adaptado de [[Tarbuck-Lutgens-Completo]], Capítulo 1. Introducción a la Geología*
 
 ![[Montañas, plataformas y escudos.png]]
+*Fuente: Adaptado de [[Tarbuck-Lutgens-Completo]], Capítulo 1. Introducción a la Geología*
 ## Rocas y su ciclo
 
 Las [[rocas]] se clasifican según su origen:

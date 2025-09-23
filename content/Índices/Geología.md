@@ -14,17 +14,17 @@ tags:
 
 ### Conceptos Centrales
 - [[Tierra]] - Concepto más enlazado (86 enlaces entrantes)
-- [[Tectónica de placas]] - Concepto más enlazado (46 enlaces entrantes)
-- [[Rocas sedimentarias]] - Concepto más enlazado (37 enlaces entrantes)
+- [[Tectónica de placas]] - Concepto más enlazado (47 enlaces entrantes)
+- [[Rocas sedimentarias]] - Concepto más enlazado (38 enlaces entrantes)
 - [[agua]] - Concepto más enlazado (33 enlaces entrantes)
-- [[Fósiles]] - Concepto más enlazado (31 enlaces entrantes)
+- [[Terremotos]] - Concepto más enlazado (31 enlaces entrantes)
 
 ### Procesos Fundamentales
 - [[Terremotos]] - Proceso dinámico central
 - [[Vulcanismo]] - Proceso dinámico central
 - [[Orogenia]] - Proceso dinámico central
+- [[Erosión]] - Proceso dinámico central
 - [[Atmósfera]] - Proceso dinámico central
-- [[Agua]] - Proceso dinámico central
 
 ### Estructura Terrestre
 - [[Geosfera]] - Elemento estructural
@@ -38,19 +38,19 @@ tags:
 ## 📁 Navegación por Categorías
 
 ### 🎯 Conceptos Fundamentales (75 archivos)
-- Enlaces internos: 150 | Enlaces externos: 493
+- Enlaces internos: 150 | Enlaces externos: 496
 - Conceptos clave: [[Tierra]], [[Vida]], [[Sol]]
 
 ### 📚 Historia Geológica (62 archivos)
-- Enlaces internos: 297 | Enlaces externos: 456
+- Enlaces internos: 297 | Enlaces externos: 458
 - Conceptos clave: [[Fósiles]], [[Evolución de la vida]], [[Estratigrafía]]
 
 ### 🪨 Rocas y Minerales (54 archivos)
-- Enlaces internos: 155 | Enlaces externos: 456
+- Enlaces internos: 155 | Enlaces externos: 457
 - Conceptos clave: [[Rocas sedimentarias]], [[Rocas metamórficas]], [[Ciclo de las rocas]]
 
 ### 🌊 Clima y Oceanografía (53 archivos)
-- Enlaces internos: 115 | Enlaces externos: 470
+- Enlaces internos: 115 | Enlaces externos: 471
 - Conceptos clave: [[Océanos]], [[Agua]], [[Cambio climático]]
 
 ### ⚡ Procesos Geológicos (28 archivos)
@@ -69,8 +69,9 @@ tags:
 - Enlaces internos: 62 | Enlaces externos: 162
 - Conceptos clave: [[Geosfera]], [[Manto]], [[Litosfera]]
 
-### ⚠️ Recursos y Riesgos (1 archivos)
-- Enlaces internos: 0 | Enlaces externos: 3
+### ⚠️ Recursos y Riesgos (3 archivos)
+- Enlaces internos: 12 | Enlaces externos: 54
+- Conceptos clave: [[Tarbuck-Lutgens-Completo]], [[Tarbuck-Lutgens-Volumen-I]]
 
 
 
@@ -84,26 +85,26 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🗿 Geología I** (347 conceptos)
-- Enlaces entrantes: 2109
-- Conceptos destacados: 223
-- Principales: [[Arcillas]], [[Mármol]], [[Roca sedimentaria]]
-
 **🔢 Matemáticas I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-#### 2C - 2° Cuatrimestre
+**🗿 Geología I** (349 conceptos)
+- Enlaces entrantes: 2146
+- Conceptos destacados: 225
+- Principales: [[Arcillas]], [[Mármol]], [[Roca sedimentaria]]
 
-**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
+#### 2C - 2° Cuatrimestre
 
 **📐 Matemáticas II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
 **🦠 Biología II** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
+**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -130,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] ()
+1. [[SISTEMA_ETIQUETADO]] (basico)
 
 ### Ruta: Materiales
 1. [[Arcillas]] (intermedio)
@@ -181,15 +182,15 @@ tags:
 ## 🏷️ Tags Más Utilizados
 
 ### Top Tags del Vault
-- `#primero-1-geologia-1` (347 archivos)
-- `#concepto-central` (216 archivos)
-- `#nivel-intermedio` (216 archivos)
-- `#importancia-5` (158 archivos)
+- `#primero-1-geologia-1` (349 archivos)
+- `#concepto-central` (218 archivos)
+- `#nivel-intermedio` (217 archivos)
+- `#importancia-5` (159 archivos)
 - `#proceso-dinamico` (133 archivos)
 - `#ruta-procesos-dinamicos` (130 archivos)
-- `#nivel-basico` (118 archivos)
+- `#nivel-basico` (119 archivos)
 - `#importancia-3` (99 archivos)
-- `#importancia-4` (87 archivos)
+- `#importancia-4` (88 archivos)
 - `#concepto-evento` (86 archivos)
 - `#geologia1-tema-00` (72 archivos)
 - `#ruta-tiempo-evolucion` (68 archivos)

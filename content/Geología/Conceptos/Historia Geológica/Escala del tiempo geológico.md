@@ -16,6 +16,8 @@ tags:
 
 La división del **[[tiempo geológico]]** se organiza de forma **jerárquica** en intervalos que permiten ubicar los principales acontecimientos de la [[Historia geológica]] y de la [[Evolución de la vida]].
 
+![[Escala de tiempo geológico.png]]
+*Fuente: Adaptado de [[Tarbuck-Lutgens-Completo]], Capítulo 1. Introducción a la Geología*
 
 ![[ICS_Chart_2024-12_es.pdf]]
 ## [[Eones]]

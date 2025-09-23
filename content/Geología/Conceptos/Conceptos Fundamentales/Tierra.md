@@ -19,6 +19,8 @@ La **Tierra** es el tercer planeta desde el [[Sol]], con una antigüedad de 4.60
 - Dinámicamente activa con [[Tectónica de placas]] 
 
 ![[Topografía de la Tierra.png]]
+*Fuente: Adaptado de [[Tarbuck-Lutgens-Completo]], Capítulo 1. Introducción a la Geología*
+
 ## Estructura interna
 
 - [[Corteza terrestre]] - Capa externa sólida
@@ -34,3 +36,4 @@ La **Tierra** es el tercer planeta desde el [[Sol]], con una antigüedad de 4.60
 - [[Luna]] - Satélite natural
 
 ![[Estructura interna de la Tierra.png]]
+*Fuente: Adaptado de [[Tarbuck-Lutgens-Completo]], Capítulo 1. Introducción a la Geología*

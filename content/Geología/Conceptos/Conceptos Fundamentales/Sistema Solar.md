@@ -21,6 +21,7 @@ Proceso:
 4. Diferenciación terrestre → [[Corteza]], [[Manto]], [[Núcleo]].
 
 ![[Formación del Sistema Solar.png]]
+*Fuente: Adaptado de [[Tarbuck-Lutgens-Completo]], Capítulo 1. Introducción a la Geología*
 
 El [[Sistema Solar]] incluye:
 

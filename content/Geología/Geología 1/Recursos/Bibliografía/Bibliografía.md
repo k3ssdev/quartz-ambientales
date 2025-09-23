@@ -18,31 +18,41 @@ tags:
 ## 📚 Bibliografía Básica Obligatoria
 
 ### 📖 Libro Principal - Volumen I (Geología I)
-**Título:** CIENCIAS DE LA TIERRA. UNA INTRODUCCIÓN A LA GEOLOGÍA FÍSICA. VOLUMEN I. 10ª EDICIÓN  
-**Autores:** Tarbuck, E.J.; Lutgens, F.K.  
+Ver: [[Tarbuck-Lutgens-Volumen-I]]
+
+**Resumen:** Libro de texto oficial específico para Geología I  
 **Editorial:** PEARSON-UNED  
 **ISBN:** 978-84-90352-81-6  
-**Tipo:** Libro de texto oficial para Geología I  
+**Uso:** Texto base para todos los temas del curso  
 
 ### 📖 Libro Completo - Referencia Ampliada (Geología I y II)
-**Título:** Ciencias de la Tierra. Una introducción a la geología física  
-**Edición:** Décima edición  
-**Autores:** Edward J. Tarbuck, Frederick K. Lutgens, Dennis Tasa  
-**Editorial:** PEARSON EDUCACIÓN, S.A., Madrid, 2013  
+Ver: [[Tarbuck-Lutgens-Completo]]
+
+**Resumen:** Referencia completa de geología física (880 páginas)  
+**Editorial:** PEARSON EDUCACIÓN  
 **ISBN:** 978-84-9035-383-7  
-**Materia:** Geología y ciencias afines, 55  
-**Formato:** 215 × 270 mm  
-**Páginas:** 880  
-**Tipo:** Referencia completa para Geología I y II  
+**Uso:** Consulta ampliada y preparación para Geología II  
 
 ## 📋 Correspondencia de Contenidos
 
 ### 🎯 Para Geología I (Temas 00-10)
-- **Volumen I**: Contiene todos los temas oficiales del programa
-- **Libro completo**: Capítulos 1-11 (incluye geología planetaria opcional)
+- **[[Tarbuck-Lutgens-Volumen-I]]**: Contiene todos los temas oficiales del programa
+- **[[Tarbuck-Lutgens-Completo]]**: Capítulos 1-11 (incluye geología planetaria opcional)
 
 ### 🔍 Para Geología II (Continuación)
-- **Libro completo**: Capítulos restantes sobre geología histórica y procesos superficiales
+- **[[Tarbuck-Lutgens-Completo]]**: Capítulos restantes sobre geología histórica y procesos superficiales
+
+## 📖 Notas Detalladas por Libro
+
+### 📚 Análisis Individual
+- **[[Tarbuck-Lutgens-Volumen-I]]** - Análisis detallado del libro oficial
+- **[[Tarbuck-Lutgens-Completo]]** - Análisis de la edición completa
+
+### 🎯 Comparativa de Enfoques
+Ver las notas individuales para:
+- **Ventajas específicas** de cada edición
+- **Estrategias de uso** recomendadas
+- **Integración curricular** optimizada
 
 ## 📖 Estructura del Libro Completo
 
@@ -78,6 +88,11 @@ tags:
 
 ## 🔗 Enlaces Relacionados
 
+### 📚 Notas Bibliográficas Detalladas
+- [[Tarbuck-Lutgens-Volumen-I]] - Libro oficial de Geología I
+- [[Tarbuck-Lutgens-Completo]] - Edición completa de referencia
+
+### 📋 Recursos Curriculares
 - [[Planning Geología I - Curso 2025-26]] - Cronograma de estudio
 - [[00 - Introducción a la Geología]] - Primer tema
 - [[DISCLAIMER]] - Uso académico de imágenes
