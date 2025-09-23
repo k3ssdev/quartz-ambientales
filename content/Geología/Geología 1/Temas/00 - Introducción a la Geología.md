@@ -154,4 +154,6 @@ Las [[rocas]] se clasifican según su origen:
 - Su **textura** (tamaño, forma y disposición de cristales) refleja el proceso de formación.
 - El [[Ciclo de las rocas]] ilustra las interrelaciones de la [[geodinámica interna]] y [[geodinámica externa]].
 
+![[Ciclo de las rocas.png]]
+
 ![[Ciclo de las rocas y Ciclo del agua.png]]
