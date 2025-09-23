@@ -19,4 +19,4 @@ Las **rocas volcánicas** son un tipo de [[rocas ígneas]] formadas por el enfri
 
 - Aportan material para [[datación radiométrica]] (ej. método K–Ar).
 - Dan pistas sobre la composición del [[manto]].
-- Están asociadas a [[volcanismo]] y [[tectónica de placas]].
+- Están asociadas a [[vulcanismo]] y [[tectónica de placas]].

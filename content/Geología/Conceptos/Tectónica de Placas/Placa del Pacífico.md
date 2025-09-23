@@ -19,7 +19,7 @@ Características principales:
 
 - **Tamaño:** ≈ 103 millones de km² (la más grande del planeta).
 - **Límites:** - Oeste y norte → colisión con [[Placa Euroasiática]] y placas menores (Filipinas, Juan de Fuca). - Este → se subduce bajo la [[Placa Sudamericana]] (forma la cordillera de los [[Andes]]) y bajo la [[Placa de Nazca]]. - Sur → contacto con [[Placa Antártica]].
-- **Cinturón de Fuego del Pacífico**: asociado a gran actividad de [[Terremotos]] y [[Volcanismo]] debido a la subducción en casi todo su borde.
+- **Cinturón de Fuego del Pacífico**: asociado a gran actividad de [[Terremotos]] y [[Vulcanismo]] debido a la subducción en casi todo su borde.
 - Dorsales oceánicas en su interior generan nueva [[Corteza oceánica]].
 
 Importancia:

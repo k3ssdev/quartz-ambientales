@@ -12,4 +12,4 @@ tags:
   - geodinamica-interna
 ---
 
-Los **montes oceánicos** son montañas submarinas aisladas, originadas por [[Volcanismo]] en el fondo de los [[Océanos]]. Algunos sobresalen y forman islas volcánicas (ej: Hawái). Relacionados con **puntos calientes**.
+Los **montes oceánicos** son montañas submarinas aisladas, originadas por [[Vulcanismo]] en el fondo de los [[Océanos]]. Algunos sobresalen y forman islas volcánicas (ej: Hawái). Relacionados con **puntos calientes**.

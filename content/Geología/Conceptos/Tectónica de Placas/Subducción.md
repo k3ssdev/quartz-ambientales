@@ -19,7 +19,7 @@ La **subducción** es un proceso de la [[Tectónica de placas]] por el cual una 
 **Características:**
 
 - Se produce en los márgenes convergentes.
-- Genera [[Fosas oceánicas]], [[Terremotos]] y [[Volcanismo]] asociado.
+- Genera [[Fosas oceánicas]], [[Terremotos]] y [[Vulcanismo]] asociado.
 - Responsable de la formación de [[Cordilleras]] como los [[Andes]].
 
 Ejemplo: la [[Placa de Nazca]] subduce bajo la [[Placa Sudamericana]].

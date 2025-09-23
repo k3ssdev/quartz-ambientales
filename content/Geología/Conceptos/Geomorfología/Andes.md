@@ -12,6 +12,6 @@ tags:
 
 Los **Andes** son una de las cadenas montañosas más largas del planeta, situada en la costa occidental de Sudamérica. Origen: resultado de la **subducción** de la [[Placa oceánica]] de Nazca bajo la [[placa tectónica]] Sudamericana. Características:
 
-- Actividad sísmica y [[Volcanismo]] abundante.
+- Actividad sísmica y [[Vulcanismo]] abundante.
 - Altiplanos y volcanes activos.
 - Ejemplo de [[Cordillera joven]].

@@ -15,7 +15,7 @@ El **relieve** es el conjunto de formas que presenta la [[Superficie terrestre]]
 
 **Agentes formadores:**
 
-- **[[Geodinámica interna]]** → [[Orogenia]], [[Volcanismo]], [[Tectónica de placas]].
+- **[[Geodinámica interna]]** → [[Orogenia]], [[Vulcanismo]], [[Tectónica de placas]].
 - **[[Geodinámica externa]]** → [[Erosión]], [[Meteorización]], [[Transporte]], [[Sedimentación]].
 
 **Tipos:**

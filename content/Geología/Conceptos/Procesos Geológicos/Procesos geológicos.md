@@ -17,7 +17,7 @@ tags:
 
 Los **procesos geológicos** son los fenómenos naturales que modifican la estructura, forma y dinámica de la [[Tierra]], tanto en su interior como en la superficie.
 
-- **Geodinámica interna** (energía interna de la Tierra): - [[Tectónica de placas]], [[magmatismo]], [[orogenia]], [[terremotos]], [[volcanismo]].
+- **Geodinámica interna** (energía interna de la Tierra): - [[Tectónica de placas]], [[magmatismo]], [[orogenia]], [[terremotos]], [[vulcanismo]].
 - **Geodinámica externa** (energía solar y gravedad): - [[Meteorización]], [[erosión]], [[transporte]], [[sedimentación]], [[glaciares]], [[rios]], [[viento]].
 
 - Explican la evolución de la [[superficie terrestre]].

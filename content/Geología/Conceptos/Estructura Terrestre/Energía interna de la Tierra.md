@@ -20,6 +20,6 @@ La **energía interna** proviene principalmente de:
 - [[Convección mantélica]].
 - [[Plumas mantélicas]].
 - [[Tectónica de placas]].
-- [[Magmatismo]], [[orogenia]], [[terremotos]], [[volcanismo]].
+- [[Magmatismo]], [[orogenia]], [[terremotos]], [[vulcanismo]].
 
 ía-interna #geodinámica-interna #manto

@@ -23,7 +23,7 @@ tags:
 
 ### Procesos Fundamentales
 - [[Terremotos]] - Proceso dinámico central
-- [[Volcanismo]] - Proceso dinámico central
+- [[Vulcanismo]] - Proceso dinámico central
 - [[Orogenia]] - Proceso dinámico central
 - [[Atmósfera]] - Proceso dinámico central
 - [[Agua]] - Proceso dinámico central
@@ -57,7 +57,7 @@ tags:
 
 ### ⚡ Procesos Geológicos (31 archivos)
 - Enlaces internos: 62 | Enlaces externos: 274
-- Conceptos clave: [[Volcanismo]], [[Erosión]], [[Magma]]
+- Conceptos clave: [[Vulcanismo]], [[Erosión]], [[Magma]]
 
 ### 🏗️ Estructura Terrestre (29 archivos)
 - Enlaces internos: 63 | Enlaces externos: 244
@@ -149,7 +149,7 @@ tags:
 1. [[Planning Geología I - Curso 2025-26]] → [[Zona de transición]] → [[Corteza]]
 
 ### Ruta 2: Procesos Dinámicos
-1. [[Agua]] → [[Volcanismo]] → [[Orogenia]]
+1. [[Agua]] → [[Vulcanismo]] → [[Orogenia]]
 
 ### Ruta 3: Materiales
 1. [[Rocas sedimentarias]]

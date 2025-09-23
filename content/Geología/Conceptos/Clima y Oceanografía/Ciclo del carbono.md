@@ -20,6 +20,6 @@ El **ciclo del carbono** es el intercambio constante de carbono entre la [[Atmó
 - Respiración y descomposición → atmósfera
 - Fotosíntesis → absorción de CO₂
 - Disolución y liberación en [[Océanos]]
-- Volcanismo y subducción → aporte desde la [[Geosfera]]
+- Vulcanismo y subducción → aporte desde la [[Geosfera]]
 
 Influye en el [[Cambio climático]]

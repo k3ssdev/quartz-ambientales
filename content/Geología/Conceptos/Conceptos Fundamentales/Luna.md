@@ -21,7 +21,7 @@ La **Luna** es el satélite natural de la [[Tierra]].
 
 - Sin [[Atmósfera]] significativa ni agua líquida.
 - Influye en las [[Mareas]] junto con el [[Sol]].
-- Presenta cráteres originados por impactos y mares basálticos debidos a antiguos episodios de [[Volcanismo]].
+- Presenta cráteres originados por impactos y mares basálticos debidos a antiguos episodios de [[Vulcanismo]].
 
 **Importancia geológica:**
 

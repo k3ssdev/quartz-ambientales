@@ -30,4 +30,4 @@ Las **rocas ígneas** son aquellas formadas por la **solidificación y cristaliz
 
 - Registra procesos internos de la [[Geodinámica interna]].
 - Fuente de materiales industriales y [[Recursos naturales]] (granito, pórfido, pumita).
-- Relacionadas con fenómenos de [[Volcanismo]] y [[Tectónica de placas]].
+- Relacionadas con fenómenos de [[Vulcanismo]] y [[Tectónica de placas]].

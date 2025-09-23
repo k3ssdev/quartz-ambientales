@@ -19,7 +19,7 @@ La **geodinámica de la Tierra** comprende todos los procesos que modifican la [
 
 Impulsada por la **[[Geología/Conceptos/Procesos Geológicos/Energía interna de la Tierra]]**.
 
-- Procesos: [[tectónica de placas]], [[volcanismo]], [[orogenia]], [[terremotos]], [[magmatismo]].
+- Procesos: [[tectónica de placas]], [[vulcanismo]], [[orogenia]], [[terremotos]], [[magmatismo]].
 - Agentes: calor residual, radiactividad, [[presión]] y [[temperatura]] internas.
 
 ## Geodinámica externa

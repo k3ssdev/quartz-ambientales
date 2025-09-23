@@ -14,7 +14,7 @@ Es la ciencia que estudia la [[Tierra]], sus materiales ([[Minerales]], [[Rocas]
 
 ## 2. ¿Cuáles son las dos ramas principales de la Geología?
 
-- **[[Geología física]]:** estudia los materiales que componen la [[Tierra]] y los procesos que actúan en su superficie e interior, como el [[Volcanismo]], la [[Erosión]], la [[Sedimentación]] o los [[Terremotos]].
+- **[[Geología física]]:** estudia los materiales que componen la [[Tierra]] y los procesos que actúan en su superficie e interior, como el [[Vulcanismo]], la [[Erosión]], la [[Sedimentación]] o los [[Terremotos]].
 
 - **[[Geología histórica]]:** analiza el origen de la [[Tierra]] y el desarrollo de los seres vivos a lo largo del tiempo, ayudando a reconstruir la [[Historia geológica]] del planeta.
 
@@ -34,7 +34,7 @@ Principio formulado por James Hutton en el siglo XVIII:
 
 > **"el presente es la clave del pasado"**
 
-El **[[Uniformismo]]** defiende que los procesos geológicos que actúan hoy ([[Erosión]], deposición, [[Volcanismo]], [[Tectónica de placas]]) son los mismos que modelaron la [[Tierra]] a lo largo de millones de años. Este principio es la base de la [[Geología]] moderna.
+El **[[Uniformismo]]** defiende que los procesos geológicos que actúan hoy ([[Erosión]], deposición, [[Vulcanismo]], [[Tectónica de placas]]) son los mismos que modelaron la [[Tierra]] a lo largo de millones de años. Este principio es la base de la [[Geología]] moderna.
 
 ---
 
@@ -166,7 +166,7 @@ Sustancias naturales, inorgánicas y sólidas, con composición química definid
 [[Rocas ígneas]] • [[Rocas sedimentarias]] • [[Rocas metamórficas]] • [[Minerales]] • [[Ciclo de las rocas]]
 
 ### ⚡ Procesos y Energía
-[[Tectónica de placas]] • [[Volcanismo]] • [[Erosión]] • [[Sedimentación]] • [[Energía solar]]
+[[Tectónica de placas]] • [[Vulcanismo]] • [[Erosión]] • [[Sedimentación]] • [[Energía solar]]
 
 ---
 

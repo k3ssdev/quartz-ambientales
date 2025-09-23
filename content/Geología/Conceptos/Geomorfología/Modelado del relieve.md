@@ -15,7 +15,7 @@ El **modelado del relieve** es el conjunto de procesos que dan forma a la [[Supe
 
 **Dos factores principales:**
 
-- **Geodinámica interna** → [[Orogenia]], [[Volcanismo]], [[Tectónica de placas]].
+- **Geodinámica interna** → [[Orogenia]], [[Vulcanismo]], [[Tectónica de placas]].
 - **Geodinámica externa** → [[Erosión]], [[Meteorización]], [[Transporte]], [[Sedimentación]].
 
 Ejemplos: [[Valles]], [[Deltas]], [[Llanuras de inundación]], [[Cordilleras]], [[Montes oceánicos]].

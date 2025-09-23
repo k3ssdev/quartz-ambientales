@@ -20,4 +20,4 @@ Características:
 - Al sur → contacto con la [[Placa Antártica]].
 - Ocupa el océano Índico.
 
-Importancia: clave para la [[Tectónica de placas]] en Asia y Oceanía, y generación de [[Terremotos]] y [[Volcanismo]].
+Importancia: clave para la [[Tectónica de placas]] en Asia y Oceanía, y generación de [[Terremotos]] y [[Vulcanismo]].

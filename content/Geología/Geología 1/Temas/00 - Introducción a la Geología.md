@@ -75,7 +75,7 @@ El planeta se entiende como un **sistema dinámico e interconectado** compuesto 
 Estas esferas funcionan a partir de **dos fuentes principales de energía**:
 
 - **[[Energía solar]]** → impulsa la [[geodinámica externa]]: clima, [[viento]], [[ciclo del agua]], [[erosión]] y [[sedimentación]].
-- **[[Geología/Conceptos/Procesos Geológicos/Energía interna de la Tierra]]** → impulsa la [[geodinámica interna]]: [[tectónica de placas]], [[volcanismo]], [[orogenia]], [[terremotos]].
+- **[[Geología/Conceptos/Procesos Geológicos/Energía interna de la Tierra]]** → impulsa la [[geodinámica interna]]: [[tectónica de placas]], [[vulcanismo]], [[orogenia]], [[terremotos]].
 
 **Ciclos fundamentales que interconectan ambas energías:**
 

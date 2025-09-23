@@ -1,8 +1,8 @@
 ---
-title: "Volcanismo"
+title: "Vulcanismo"
 draft: false
 tags:
-  - volcanismo
+  - vulcanismo
   - ruta-procesos-dinamicos
   - procesos-geologicos
   - proceso-dinamico

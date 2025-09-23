@@ -17,4 +17,4 @@ Características:
 
 - Es una capa **plástica**, parcialmente fundida, donde las rocas pueden fluir lentamente.
 - Permite el movimiento de las [[Placas tectónicas]].
-- Fundamental en procesos como [[Volcanismo]] y [[Tectónica de placas]].
+- Fundamental en procesos como [[Vulcanismo]] y [[Tectónica de placas]].

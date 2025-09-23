@@ -2,7 +2,7 @@
 title: "Puntos calientes"
 draft: false
 tags:
-  - volcanismo
+  - vulcanismo
   - tectonica-placas
   - ruta-procesos-dinamicos
   - puntos-calientes

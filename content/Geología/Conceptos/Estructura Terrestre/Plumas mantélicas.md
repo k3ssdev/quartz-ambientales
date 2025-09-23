@@ -17,6 +17,6 @@ Las **plumas mantélicas** son columnas ascendentes de rocas calientes que se or
 - Produce **puntos calientes** en la [[litosfera]] → [[Hawái]], Islandia, Yellowstone.
 
 - Mecanismo de transporte de calor del [[manto]].
-- Explican volcanismo intraplaca (no en límites de placas).
+- Explican vulcanismo intraplaca (no en límites de placas).
 
 élicas #manto #geodinámica-interna #litosfera

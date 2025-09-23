@@ -103,7 +103,7 @@ tags:
 - **Procesos**: diferenciacion ###⚡ Procesos Geológicos
 - **Clave**: `procesos-geologicos`
 - **Conceptos centrales**: geodinamica-interna, geodinamica-externa
-- **Procesos**: volcanismo, terremotos ###🎯 Conceptos Fundamentales
+- **Procesos**: vulcanismo, terremotos ###🎯 Conceptos Fundamentales
 - **Clave**: `conceptos-fundamentales`
 - **Conceptos centrales**: uniformismo, catastrofismo
 - **Procesos**: metodo-cientifico ###⚠️ Recursos y Riesgos
@@ -112,13 +112,13 @@ tags:
 - **Procesos**: prevencion, mitigacion ##Niveles de Importancia
 
 1. **Nivel 5**: Conceptos fundamentales más enlazados (Tierra, Tectónica de placas)
-2. **Nivel 4**: Procesos centrales (Volcanismo, Terremotos, Fósiles)
+2. **Nivel 4**: Procesos centrales (Vulcanismo, Terremotos, Fósiles)
 3. **Nivel 3**: Estructuras importantes (Corteza, Manto, Núcleo)
 4. **Nivel 2**: Conceptos especializados
 5. **Nivel 1**: Detalles específicos ##Tipos de Proceso
 
 - **fundamental**: Conceptos base (Tierra, Geología)
-- **dinamico**: Procesos activos (Volcanismo, Erosión)
+- **dinamico**: Procesos activos (Vulcanismo, Erosión)
 - **estructural**: Elementos de estructura (Capas, Placas)
 - **historico**: Eventos temporales (Eras, Períodos) ##Tipos de Concepto
 

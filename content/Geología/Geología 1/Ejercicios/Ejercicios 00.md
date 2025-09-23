@@ -110,7 +110,7 @@ Las dos fuentes de energía del [[Sistema]] Tierra son:
 
 - **El Sol (energía externa):** Proporciona la **[[Energía solar]]** para procesos superficiales como el [[Clima]], la [[Erosión]], los [[Viento]]s y la circulación oceánica.
 
-- **El [[Calor]] interno de la Tierra (energía interna):** Generado por la desintegración radiactiva, impulsa los procesos internos como el movimiento de las placas tectónicas, los [[Terremotos]] y el [[Volcanismo]].
+- **El [[Calor]] interno de la Tierra (energía interna):** Generado por la desintegración radiactiva, impulsa los procesos internos como el movimiento de las placas tectónicas, los [[Terremotos]] y el [[Vulcanismo]].
 
 ---
 

@@ -22,7 +22,7 @@ La **energía interna de la Tierra** es el calor almacenado en el interior del p
 - Cristalización del [[Núcleo interno]] (liberación de calor latente). ####Manifestaciones
 
 - Impulsa la [[Geodinámica interna]].
-- Responsable de procesos como: - [[Tectónica de placas]]. - [[Volcanismo]]. - [[Terremotos]]. - [[Orogenia]] y [[Formación de montañas]]. ####importancia-3
+- Responsable de procesos como: - [[Tectónica de placas]]. - [[Vulcanismo]]. - [[Terremotos]]. - [[Orogenia]] y [[Formación de montañas]]. ####importancia-3
 
 - Complementa a la [[Energía solar]], que gobierna la [[Geodinámica externa]].
 - Juntos explican el [[Modelado del relieve]] y la [[Historia geológica]].

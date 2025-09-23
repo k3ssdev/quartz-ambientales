@@ -22,7 +22,7 @@ concept_type: "central"
 learning_level: "intermedio"
 prerequisites: ["Litosfera", "Astenosfera", "Deriva continental"]
 related_concepts: ["Placas tectónicas", "Subducción", "Dorsales oceánicas"]
-bidirectional_links: ["Placas tectónicas", "Orogenia", "Volcanismo"]
+bidirectional_links: ["Placas tectónicas", "Orogenia", "Vulcanismo"]
 learning_routes: ["fundamentos", "procesos-dinamicos"]
 
 La **tectónica de placas** es la teoría científica moderna que explica la dinámica de la [[Litosfera]]. ##Ideas clave
@@ -33,7 +33,7 @@ La **tectónica de placas** es la teoría científica moderna que explica la din
 
 - [[Subducción]] - Hundimiento de placas oceánicas
 - [[Orogenia]] - Formación de montañas
-- [[Volcanismo]] - Actividad volcánica en bordes de placa
+- [[Vulcanismo]] - Actividad volcánica en bordes de placa
 - [[Terremotos]] - Liberación de energía en fallas ##Evidencias
 
 - Distribución global de [[Terremotos]] y [[Volcanes]]

@@ -11,7 +11,7 @@ tags:
   - clima-oceanografia
 ---
 
-Los **montes oceánicos** son elevaciones submarinas aisladas, generadas por [[Volcanismo]] en el fondo de los [[Océanos]].
+Los **montes oceánicos** son elevaciones submarinas aisladas, generadas por [[Vulcanismo]] en el fondo de los [[Océanos]].
 
 - Asociados a [[Puntos calientes]].
 - A veces emergen y forman islas volcánicas (ej. Hawái).

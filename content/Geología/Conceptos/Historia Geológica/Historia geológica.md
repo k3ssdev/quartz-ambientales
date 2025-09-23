@@ -32,5 +32,5 @@ La **historia geológica** es la reconstrucción del pasado de la [[Tierra]], ba
 
 **Importancia:**
 
-- Permite comprender cómo procesos como la [[Formación de montañas]], [[Volcanismo]], [[Cambio climático]] y [[Tectónica de placas]] han modelado la superficie terrestre.
+- Permite comprender cómo procesos como la [[Formación de montañas]], [[Vulcanismo]], [[Cambio climático]] y [[Tectónica de placas]] han modelado la superficie terrestre.
 - Es la base de la [[Geología Histórica]].

@@ -20,4 +20,4 @@ La **energía solar** es la radiación procedente del [[Sol]] que llega a la [[T
 - **Fotosíntesis**: base de la [[Biosfera]] y del [[Ciclo del carbono]]. ####concepto-central con otros procesos
 
 - Su interacción con la [[Gravedad]] (especialmente la [[Luna]]) regula fenómenos como las [[Mareas]].
-- Contrasta con la [[Geología/Conceptos/Procesos Geológicos/Energía interna de la Tierra]], que impulsa la [[Geodinámica interna]] ([[Tectónica de placas]], [[Volcanismo]], [[Orogenia]]).
+- Contrasta con la [[Geología/Conceptos/Procesos Geológicos/Energía interna de la Tierra]], que impulsa la [[Geodinámica interna]] ([[Tectónica de placas]], [[Vulcanismo]], [[Orogenia]]).
