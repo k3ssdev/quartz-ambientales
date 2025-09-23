@@ -1,11 +1,11 @@
 # 📋 Content Sync Report
 
-**Fecha:** Tue Sep 23 09:50:33 UTC 2025
-**Commit:** cbc101458a2901819f6538215a387b24c9cbaed9
+**Fecha:** Tue Sep 23 09:51:55 UTC 2025
+**Commit:** 9ac5c57e056151af7b6d3c4317de5e2b88be784a
 
 ## 📁 Archivos sincronizados:
 
-**Total:** 369 archivos markdown
+**Total:** 356 archivos markdown
 
 ### 📂 Estructura:
 .
