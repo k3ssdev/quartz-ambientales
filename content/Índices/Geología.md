@@ -1,7 +1,5 @@
 ---
 title: "Índice Temático - Geología"
-aliases: ["Geologia"]
-weight: 10
 tags:
   - navegacion
   - sistema-enlaces
@@ -25,55 +23,54 @@ tags:
 - [[Terremotos]] - Proceso dinámico central
 - [[Vulcanismo]] - Proceso dinámico central
 - [[Orogenia]] - Proceso dinámico central
-- [[Atmósfera]] - Proceso dinámico central
 - [[Agua]] - Proceso dinámico central
+- [[Atmósfera]] - Proceso dinámico central
 
 ### Estructura Terrestre
 - [[Geosfera]] - Elemento estructural
-- [[Manto]] - Elemento estructural
 - [[Atmósfera]] - Elemento estructural
+- [[Litosfera]] - Elemento estructural
+- [[Manto]] - Elemento estructural
 - [[Biosfera]] - Elemento estructural
-- [[Hidrosfera]] - Elemento estructural
 
 
 
 ## 📁 Navegación por Categorías
 
-### 📚 Historia Geológica (70 archivos)
-- Enlaces internos: 326 | Enlaces externos: 519
-- Conceptos clave: [[Fósiles]], [[Evolución de la vida]], [[Estratigrafía]]
-
-### 🎯 Conceptos Fundamentales (64 archivos)
-- Enlaces internos: 117 | Enlaces externos: 428
+### 🎯 Conceptos Fundamentales (75 archivos)
+- Enlaces internos: 150 | Enlaces externos: 493
 - Conceptos clave: [[Tierra]], [[Vida]], [[Sol]]
 
-### 🪨 Rocas y Minerales (47 archivos)
-- Enlaces internos: 141 | Enlaces externos: 358
+### 📚 Historia Geológica (62 archivos)
+- Enlaces internos: 296 | Enlaces externos: 456
+- Conceptos clave: [[Fósiles]], [[Estratigrafía]], [[Evolución de la vida]]
+
+### 🪨 Rocas y Minerales (54 archivos)
+- Enlaces internos: 155 | Enlaces externos: 456
 - Conceptos clave: [[Rocas sedimentarias]], [[Rocas metamórficas]], [[Ciclo de las rocas]]
 
-### 🌊 Clima y Oceanografía (46 archivos)
-- Enlaces internos: 107 | Enlaces externos: 397
+### 🌊 Clima y Oceanografía (53 archivos)
+- Enlaces internos: 115 | Enlaces externos: 470
 - Conceptos clave: [[Océanos]], [[Agua]], [[Cambio climático]]
 
-### ⚡ Procesos Geológicos (31 archivos)
-- Enlaces internos: 62 | Enlaces externos: 274
+### ⚡ Procesos Geológicos (28 archivos)
+- Enlaces internos: 55 | Enlaces externos: 242
 - Conceptos clave: [[Vulcanismo]], [[Erosión]], [[Magma]]
 
-### 🏗️ Estructura Terrestre (29 archivos)
-- Enlaces internos: 63 | Enlaces externos: 244
-- Conceptos clave: [[Geosfera]], [[Manto]], [[Atmósfera]]
-
-### 🌍 Tectónica de Placas (27 archivos)
-- Enlaces internos: 105 | Enlaces externos: 195
+### 🌍 Tectónica de Placas (26 archivos)
+- Enlaces internos: 103 | Enlaces externos: 188
 - Conceptos clave: [[Tectónica de placas]], [[Terremotos]], [[Orogenia]]
 
 ### 🏔️ Geomorfología (24 archivos)
 - Enlaces internos: 46 | Enlaces externos: 121
 - Conceptos clave: [[Glaciares]], [[Cordilleras]], [[Llanuras de inundación]]
 
-### ⚠️ Recursos y Riesgos (8 archivos)
-- Enlaces internos: 8 | Enlaces externos: 39
-- Conceptos clave: [[Recursos naturales]], [[Riesgos naturales]], [[Tsunamis]]
+### 🏗️ Estructura Terrestre (23 archivos)
+- Enlaces internos: 60 | Enlaces externos: 162
+- Conceptos clave: [[Geosfera]], [[Atmósfera]], [[Litosfera]]
+
+### ⚠️ Recursos y Riesgos (1 archivos)
+- Enlaces internos: 0 | Enlaces externos: 3
 
 
 
@@ -83,70 +80,95 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
+**🔢 Matemáticas I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
 **🗿 Geología I** (347 conceptos)
-- Enlaces entrantes: 2092
-- Conceptos destacados: 221
-- Principales: [[Zona de transición]], [[Corteza]], [[Núcleo externo]]
+- Enlaces entrantes: 2108
+- Conceptos destacados: 223
+- Principales: [[Planning Geología I - Curso 2025-26]], [[Agua]], [[Cambio climático]]
+
+**🧬 Biología I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
+#### 2C - 2° Cuatrimestre
+
+**🦠 Biología II** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
+**📐 Matemáticas II** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
+**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
 
 
 
 ## 🔄 Enlaces Bidireccionales Recomendados
 
 ### Conexiones Temáticas Fuertes
-- [[Corteza]] ↔ [[Geosfera]]
-- [[Corteza]] ↔ [[Litosfera]]
-- [[Núcleo externo]] ↔ [[Núcleo interno]]
-- [[Corteza continental]] ↔ [[Corteza oceánica]]
-- [[Astenosfera]] ↔ [[Manto]]
+- [[Agua]] ↔ [[Lago]]
+- [[Arrecifes de coral]] ↔ [[Pesca]]
+- [[Cambio climático]] ↔ [[Costas]]
+- [[Cambio climático]] ↔ [[Clima]]
+- [[Clima global]] ↔ [[Corrientes marinas]]
 
 ### Conexiones Procesales
-- [[Campo magnético]] ↔ [[Núcleo externo]]
-- [[Basalto]] ↔ [[Corteza oceánica]]
-- [[Corteza oceánica]] ↔ [[Gabro]]
-- [[Corteza oceánica]] ↔ [[Dorsales oceánicas]]
-- [[Astenosfera]] ↔ [[Placas tectónicas]]
+- [[Agua]] ↔ [[Erosión fluvial]]
+- [[Agua]] ↔ [[Valles]]
+- [[Agua]] ↔ [[Transporte]]
+- [[Bosques]] ↔ [[Carbonífero]]
+- [[Bosques]] ↔ [[Carbón]]
 
 
 
 ## 🎯 Rutas de Aprendizaje
 
-### Ruta: Estructura Terrestre
-1. [[Zona de transición]] (basico)
-2. [[Corteza]] (basico)
-3. [[Núcleo externo]] (basico)
-4. [[Corteza oceánica]] (basico)
-5. [[Manto inferior]] (basico)
+### Ruta: 
+1. [[SISTEMA_ETIQUETADO]] (intermedio)
 
 ### Ruta: Procesos Dinamicos
-1. [[Océano]] (basico)
-2. [[Mar]] (basico)
-3. [[Placa de Nazca]] (basico)
-4. [[Placa del Pacífico]] (basico)
-5. [[Placa oceánica]] (basico)
-
-### Ruta: Tiempo Evolucion
-1. [[Mioceno]] (basico)
-2. [[Escala del tiempo geológico]] (basico)
-3. [[Cretácico]] (basico)
-4. [[Jurásico]] (basico)
-5. [[Holoceno]] (basico)
+1. [[Agricultura]] (basico)
+2. [[Agua]] (basico)
+3. [[Alimentos]] (basico)
+4. [[Arrecifes de coral]] (intermedio)
+5. [[Atmósfera primitiva]] (basico)
 
 ### Ruta: Fundamentos
-1. [[Torio]] (basico)
-2. [[Planetas]] (basico)
-3. [[Cometas]] (basico)
-4. [[Nebulosas]] (basico)
-5. [[Isótopos radiactivos]] (basico)
+1. [[Agujeros negros]] (basico)
+2. [[Argón-40]] (basico)
+3. [[Argón]] (basico)
+4. [[Aristóteles]] (intermedio)
+5. [[Asteroides]] (intermedio)
+
+### Ruta: Estructura Terrestre
+1. [[Astenosfera]] (intermedio)
+2. [[Atmósfera]] (intermedio)
+3. [[Biosfera]] (intermedio)
+4. [[Capa D”]] (intermedio)
+5. [[Convección mantélica]] (intermedio)
+
+### Ruta: Tiempo Evolucion
+1. [[Arcaico]] (basico)
+2. [[Aves]] (intermedio)
+3. [[Carbonífero]] (basico)
+4. [[Cenozoico]] (basico)
+5. [[Charles Darwin]] (basico)
 
 ### Ruta: Materiales
-1. [[Meteoritos]] (basico)
-2. [[Hierro]] (basico)
-3. [[Níquel]] (basico)
-4. [[Andesita]] (basico)
-5. [[Gabro]] (basico)
+1. [[Andesita]] (basico)
+2. [[Arcilla]] (basico)
+3. [[Arcillas]] (intermedio)
+4. [[arenisca]] (basico)
+5. [[Basalto]] (basico)
 
 ### Ruta 1: Fundamentos
-1. [[Planning Geología I - Curso 2025-26]] → [[Zona de transición]] → [[Corteza]]
+1. [[index]] → [[SISTEMA_ETIQUETADO]] → [[Planning Geología I - Curso 2025-26]]
 
 ### Ruta 2: Procesos Dinámicos
 1. [[Agua]] → [[Vulcanismo]] → [[Orogenia]]
@@ -160,15 +182,15 @@ tags:
 
 ### Top Tags del Vault
 - `#primero-1-geologia-1` (347 archivos)
-- `#concepto-central` (215 archivos)
-- `#nivel-intermedio` (214 archivos)
-- `#importancia-5` (157 archivos)
-- `#proceso-dinamico` (132 archivos)
+- `#nivel-intermedio` (216 archivos)
+- `#concepto-central` (216 archivos)
+- `#importancia-5` (158 archivos)
+- `#proceso-dinamico` (133 archivos)
 - `#ruta-procesos-dinamicos` (131 archivos)
-- `#nivel-basico` (117 archivos)
+- `#nivel-basico` (118 archivos)
 - `#importancia-3` (100 archivos)
+- `#importancia-4` (87 archivos)
 - `#concepto-evento` (86 archivos)
-- `#importancia-4` (86 archivos)
 - `#geologia1-tema-00` (72 archivos)
 - `#ruta-tiempo-evolucion` (68 archivos)
 - `#conceptos-fundamentales` (63 archivos)
@@ -180,4 +202,4 @@ tags:
 ---
 
 *Sistema generado automáticamente basado en análisis de tags de Obsidian*
-*Última actualización: 2025-09-22*
+*Última actualización: 23/09/2025*
