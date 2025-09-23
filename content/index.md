@@ -45,19 +45,19 @@ tags:
 
 ### 🗿 Geología
 - [[Geología]] - Índice detallado de conceptos geológicos
-- **Estado**: ✅ Completo (349 conceptos)
+- **Estado**: 🚧 Completo (349 conceptos)
 - **Tags**: `#primero-1-geologia-1`
 
 ### 🧬 Biología *(próximamente)*
-- **Estado**: 🚧 Pendiente
+- **Estado**: 🛑 Pendiente
 - **Tags**: `#primero-1-biologia-1`, `#primero-2-biologia-2`
 
 ### 🔢 Matemáticas *(próximamente)*
-- **Estado**: 🚧 Pendiente
+- **Estado**: 🛑 Pendiente
 - **Tags**: `#primero-1-matematicas-1`, `#primero-2-matematicas-2`
 
 ### 🧪 Química Ambiental *(próximamente)*
-- **Estado**: 🚧 Pendiente
+- **Estado**: 🛑 Pendiente
 - **Tags**: `#primero-2-quimica-ambiental`
 
 ## 🔧 Sistema de Etiquetado
@@ -83,7 +83,6 @@ tags:
 ## 📂 Repositorio
 - **GitHub**: [AmbientalesVault](https://github.com/k3ssdev/AmbientalesVault)
 - **Licencia**: MIT License - Alberto Pérez del Río
-- **Contribuciones**: Issues y PRs bienvenidas
 
 ---
 
