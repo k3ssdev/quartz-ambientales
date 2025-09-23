@@ -1,6 +1,6 @@
 ---
-title: "Atmosfera primitiva"
-aliases: ["Atmosfera primitiva", "Atmósfera primitiva"]
+title: "Atmósfera primitiva"
+aliases: ["Atmosfera primitiva"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

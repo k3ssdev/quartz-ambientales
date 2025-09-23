@@ -1,6 +1,6 @@
 ---
-title: "Canones submarinos"
-aliases: ["Canones submarinos", "Cánones submarinos"]
+title: "Cánones submarinos"
+aliases: ["Canones submarinos"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

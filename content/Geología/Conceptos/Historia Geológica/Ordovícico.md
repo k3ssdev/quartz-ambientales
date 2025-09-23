@@ -1,6 +1,6 @@
 ---
-title: "Ordovicico"
-aliases: ["Ordovicico", "Ordovícico"]
+title: "Ordovícico"
+aliases: ["Ordovicico"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

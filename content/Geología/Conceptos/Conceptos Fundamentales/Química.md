@@ -1,6 +1,6 @@
 ---
-title: "Quimica"
-aliases: ["Quimica", "Química"]
+title: "Química"
+aliases: ["Quimica"]
 draft: false
 tags:
   - ruta-fundamentos

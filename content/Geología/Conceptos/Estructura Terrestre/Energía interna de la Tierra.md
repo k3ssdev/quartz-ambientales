@@ -1,6 +1,6 @@
 ---
-title: "Energia interna de la Tierra"
-aliases: ["Energia interna de la Tierra", "Energía interna de la Tierra"]
+title: "Energía interna de la Tierra"
+aliases: ["Energia interna de la Tierra"]
 draft: false
 tags:
   - ruta-estructura-terrestre

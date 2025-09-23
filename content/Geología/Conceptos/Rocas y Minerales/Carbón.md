@@ -1,6 +1,6 @@
 ---
-title: "Carbon"
-aliases: ["Carbon", "Carbón"]
+title: "Carbón"
+aliases: ["Carbon"]
 draft: false
 tags:
   - ruta-materiales

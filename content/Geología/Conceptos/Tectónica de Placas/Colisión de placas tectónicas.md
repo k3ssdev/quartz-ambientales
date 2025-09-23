@@ -1,6 +1,6 @@
 ---
-title: "Colision de placas tectonicas"
-aliases: ["Colision de placas tectonicas", "Colisión de placas tectónicas"]
+title: "Colisión de placas tectónicas"
+aliases: ["Colision de placas tectonicas"]
 draft: false
 tags:
   - tectonica-placas

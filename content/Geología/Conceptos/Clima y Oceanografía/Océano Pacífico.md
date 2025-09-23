@@ -1,6 +1,6 @@
 ---
-title: "Oceano Pacifico"
-aliases: ["Oceano Pacifico", "Océano Pacífico"]
+title: "Océano Pacífico"
+aliases: ["Oceano Pacifico"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

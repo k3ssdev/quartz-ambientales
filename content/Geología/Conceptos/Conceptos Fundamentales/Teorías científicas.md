@@ -1,6 +1,6 @@
 ---
-title: "Teorias cientificas"
-aliases: ["Teorias cientificas", "Teorías científicas"]
+title: "Teorías científicas"
+aliases: ["Teorias cientificas"]
 draft: false
 tags:
   - teor

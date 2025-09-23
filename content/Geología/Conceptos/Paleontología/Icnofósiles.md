@@ -1,6 +1,6 @@
 ---
-title: "Icnofosiles"
-aliases: ["Icnofosiles", "Icnofósiles"]
+title: "Icnofósiles"
+aliases: ["Icnofosiles"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

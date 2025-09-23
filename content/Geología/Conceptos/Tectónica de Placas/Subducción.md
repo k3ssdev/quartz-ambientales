@@ -1,6 +1,6 @@
 ---
-title: "Subduccion"
-aliases: ["Subduccion", "Subducción"]
+title: "Subducción"
+aliases: ["Subduccion"]
 draft: false
 tags:
   - tectonica-placas

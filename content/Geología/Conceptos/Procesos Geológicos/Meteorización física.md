@@ -1,6 +1,6 @@
 ---
-title: "Meteorizacion fisica"
-aliases: ["Meteorizacion fisica", "Meteorización física"]
+title: "Meteorización física"
+aliases: ["Meteorizacion fisica"]
 draft: false
 tags:
   - suelo

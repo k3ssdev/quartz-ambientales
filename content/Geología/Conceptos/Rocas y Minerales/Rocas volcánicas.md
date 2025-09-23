@@ -1,6 +1,6 @@
 ---
-title: "Rocas volcanicas"
-aliases: ["Rocas volcanicas", "Rocas volcánicas"]
+title: "Rocas volcánicas"
+aliases: ["Rocas volcanicas"]
 draft: false
 tags:
   - ruta-materiales

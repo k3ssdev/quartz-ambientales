@@ -1,6 +1,6 @@
 ---
-title: "Evolucion biologica"
-aliases: ["Evolucion biologica", "Evolución biológica"]
+title: "Evolución biológica"
+aliases: ["Evolucion biologica"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

@@ -1,6 +1,6 @@
 ---
-title: "Argon"
-aliases: ["Argon", "Argón"]
+title: "Argón"
+aliases: ["Argon"]
 draft: false
 tags:
   - ruta-fundamentos

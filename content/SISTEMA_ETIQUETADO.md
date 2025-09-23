@@ -1,6 +1,5 @@
 ---
-title: "Sistema de Etiquetado Semantico"
-aliases: ["Sistema de Etiquetado Semántico"]
+title: "Sistema de Etiquetado Semántico"
 weight: 3
 tags:
   - documentacion

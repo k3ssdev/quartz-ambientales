@@ -1,6 +1,6 @@
 ---
-title: "Moleculas"
-aliases: ["Moleculas", "Moléculas"]
+title: "Moléculas"
+aliases: ["Moleculas"]
 draft: false
 tags:
   - ruta-materiales

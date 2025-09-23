@@ -1,6 +1,6 @@
 ---
-title: "Triasico"
-aliases: ["Triasico", "Triásico"]
+title: "Triásico"
+aliases: ["Triasico"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

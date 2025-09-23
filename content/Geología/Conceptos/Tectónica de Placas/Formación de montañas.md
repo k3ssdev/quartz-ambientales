@@ -1,6 +1,6 @@
 ---
-title: "Formacion de montanas"
-aliases: ["Formacion de montanas", "Formación de montañas"]
+title: "Formación de montañas"
+aliases: ["Formacion de montanas"]
 draft: false
 tags:
   - tectonica-placas

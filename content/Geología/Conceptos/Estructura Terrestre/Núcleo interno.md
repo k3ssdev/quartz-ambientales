@@ -1,6 +1,6 @@
 ---
-title: "Nucleo interno"
-aliases: ["Nucleo interno", "Núcleo interno"]
+title: "Núcleo interno"
+aliases: ["Nucleo interno"]
 draft: false
 tags:
   - geologia1-tema-00

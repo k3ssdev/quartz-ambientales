@@ -1,6 +1,6 @@
 ---
-title: "Cinturon de Fuego del Pacifico"
-aliases: ["Cinturon de Fuego del Pacifico", "Cinturón de Fuego del Pacífico"]
+title: "Cinturón de Fuego del Pacífico"
+aliases: ["Cinturon de Fuego del Pacifico"]
 draft: false
 tags:
   - vulcanismo

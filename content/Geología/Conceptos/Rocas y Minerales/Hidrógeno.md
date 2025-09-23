@@ -1,6 +1,6 @@
 ---
-title: "Hidrogeno"
-aliases: ["Hidrogeno", "Hidrógeno"]
+title: "Hidrógeno"
+aliases: ["Hidrogeno"]
 draft: false
 tags:
   - universo

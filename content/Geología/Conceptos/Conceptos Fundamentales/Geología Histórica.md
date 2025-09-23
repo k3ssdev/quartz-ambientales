@@ -1,6 +1,6 @@
 ---
-title: "Geologia Historica"
-aliases: ["Geologia Historica", "Geología Histórica"]
+title: "Geología Histórica"
+aliases: ["Geologia Historica"]
 draft: false
 tags:
   - geologia1-tema-00

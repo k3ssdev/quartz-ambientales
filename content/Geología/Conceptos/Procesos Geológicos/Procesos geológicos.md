@@ -1,6 +1,6 @@
 ---
-title: "Procesos geologicos"
-aliases: ["Procesos geologicos", "Procesos geológicos"]
+title: "Procesos geológicos"
+aliases: ["Procesos geologicos"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

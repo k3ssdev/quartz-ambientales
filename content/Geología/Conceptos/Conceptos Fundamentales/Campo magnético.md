@@ -1,6 +1,6 @@
 ---
-title: "Campo magnetico"
-aliases: ["Campo magnetico", "Campo magnético"]
+title: "Campo magnético"
+aliases: ["Campo magnetico"]
 draft: false
 tags:
   - ruta-fundamentos

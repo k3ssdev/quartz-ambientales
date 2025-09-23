@@ -1,6 +1,6 @@
 ---
-title: "Explosion del Cambrico"
-aliases: ["Explosion del Cambrico", "Explosión del Cámbrico"]
+title: "Explosión del Cámbrico"
+aliases: ["Explosion del Cambrico"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

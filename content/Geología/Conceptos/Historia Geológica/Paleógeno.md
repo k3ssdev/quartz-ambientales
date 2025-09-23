@@ -1,6 +1,6 @@
 ---
-title: "Paleogeno"
-aliases: ["Paleogeno", "Paleógeno"]
+title: "Paleógeno"
+aliases: ["Paleogeno"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

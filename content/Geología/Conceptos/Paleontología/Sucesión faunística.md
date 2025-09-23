@@ -1,6 +1,6 @@
 ---
-title: "Sucesion faunistica"
-aliases: ["Sucesion faunistica", "Sucesión faunística"]
+title: "Sucesión faunística"
+aliases: ["Sucesion faunistica"]
 draft: false
 tags:
   - geologia1-tema-00

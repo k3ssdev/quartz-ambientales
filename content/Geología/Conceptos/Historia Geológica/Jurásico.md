@@ -1,6 +1,6 @@
 ---
-title: "Jurasico"
-aliases: ["Jurasico", "Jurásico"]
+title: "Jurásico"
+aliases: ["Jurasico"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

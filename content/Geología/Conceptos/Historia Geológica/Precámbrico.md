@@ -1,6 +1,6 @@
 ---
-title: "Precambrico"
-aliases: ["Precambrico", "Precámbrico"]
+title: "Precámbrico"
+aliases: ["Precambrico"]
 draft: false
 tags:
   - geologia1-tema-00

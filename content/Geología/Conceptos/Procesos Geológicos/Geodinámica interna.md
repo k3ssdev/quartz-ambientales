@@ -1,6 +1,6 @@
 ---
-title: "Geodinamica interna"
-aliases: ["Geodinamica interna", "Geodinámica interna"]
+title: "Geodinámica interna"
+aliases: ["Geodinamica interna"]
 draft: false
 tags:
   - teoria

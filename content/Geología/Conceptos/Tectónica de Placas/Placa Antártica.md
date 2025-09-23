@@ -1,6 +1,6 @@
 ---
-title: "Placa Antartica"
-aliases: ["Placa Antartica", "Placa Antártica"]
+title: "Placa Antártica"
+aliases: ["Placa Antartica"]
 draft: false
 tags:
   - tectonica-placas

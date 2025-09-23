@@ -1,6 +1,6 @@
 ---
-title: "Placa del Pacifico"
-aliases: ["Placa del Pacifico", "Placa del Pacífico"]
+title: "Placa del Pacífico"
+aliases: ["Placa del Pacifico"]
 draft: false
 tags:
   - tectonica-placas

@@ -1,6 +1,6 @@
 ---
-title: "Tectonica de placas - ejemplo"
-aliases: ["Tectonica de placas - ejemplo", "Tectónica de placas - ejemplo"]
+title: "Tectónica de placas - ejemplo"
+aliases: ["Tectonica de placas - ejemplo"]
 draft: false
 tags:
   - teoria

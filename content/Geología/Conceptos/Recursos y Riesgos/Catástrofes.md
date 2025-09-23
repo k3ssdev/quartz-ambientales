@@ -1,6 +1,6 @@
 ---
-title: "Catastrofes"
-aliases: ["Catastrofes", "Catástrofes"]
+title: "Catástrofes"
+aliases: ["Catastrofes"]
 draft: false
 tags:
   - proceso-dinamico

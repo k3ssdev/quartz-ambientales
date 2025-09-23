@@ -1,6 +1,6 @@
 ---
-title: "Formacion del sistema solar"
-aliases: ["Formacion del sistema solar", "Formación del sistema solar"]
+title: "Formación del sistema solar"
+aliases: ["Formacion del sistema solar"]
 draft: false
 tags:
   - universo

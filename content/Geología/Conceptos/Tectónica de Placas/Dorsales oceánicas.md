@@ -1,6 +1,6 @@
 ---
-title: "Dorsales oceanicas"
-aliases: ["Dorsales oceanicas", "Dorsales oceánicas"]
+title: "Dorsales oceánicas"
+aliases: ["Dorsales oceanicas"]
 draft: false
 tags:
   - geologia1-tema-00

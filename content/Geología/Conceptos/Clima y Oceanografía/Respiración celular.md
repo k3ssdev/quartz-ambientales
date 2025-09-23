@@ -1,6 +1,6 @@
 ---
-title: "Respiracion celular"
-aliases: ["Respiracion celular", "Respiración celular"]
+title: "Respiración celular"
+aliases: ["Respiracion celular"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

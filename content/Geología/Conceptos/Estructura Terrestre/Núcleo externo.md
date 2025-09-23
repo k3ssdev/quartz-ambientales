@@ -1,6 +1,6 @@
 ---
-title: "Nucleo externo"
-aliases: ["Nucleo externo", "Núcleo externo"]
+title: "Núcleo externo"
+aliases: ["Nucleo externo"]
 draft: false
 tags:
   - geologia1-tema-00

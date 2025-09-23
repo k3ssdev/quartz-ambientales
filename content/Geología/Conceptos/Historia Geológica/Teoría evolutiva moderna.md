@@ -1,6 +1,6 @@
 ---
-title: "Teoria evolutiva moderna"
-aliases: ["Teoria evolutiva moderna", "Teoría evolutiva moderna"]
+title: "Teoría evolutiva moderna"
+aliases: ["Teoria evolutiva moderna"]
 draft: false
 tags:
   - teor

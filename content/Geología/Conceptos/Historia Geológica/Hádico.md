@@ -1,6 +1,6 @@
 ---
-title: "Hadico"
-aliases: ["Hadico", "Hádico"]
+title: "Hádico"
+aliases: ["Hadico"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

@@ -1,6 +1,6 @@
 ---
-title: "Paleontologia estratigrafica"
-aliases: ["Paleontologia estratigrafica", "Paleontología estratigráfica"]
+title: "Paleontología estratigráfica"
+aliases: ["Paleontologia estratigrafica"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

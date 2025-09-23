@@ -1,6 +1,6 @@
 ---
-title: "Meteorizacion"
-aliases: ["Meteorizacion", "Meteorización"]
+title: "Meteorización"
+aliases: ["Meteorizacion"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

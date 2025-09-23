@@ -1,6 +1,6 @@
 ---
-title: "Roca metamorfica"
-aliases: ["Roca metamorfica", "Roca metamórfica"]
+title: "Roca metamórfica"
+aliases: ["Roca metamorfica"]
 draft: false
 tags:
   - ruta-materiales

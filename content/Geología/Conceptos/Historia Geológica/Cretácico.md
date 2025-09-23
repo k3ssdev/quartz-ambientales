@@ -1,6 +1,6 @@
 ---
-title: "Cretacico"
-aliases: ["Cretacico", "Cretácico"]
+title: "Cretácico"
+aliases: ["Cretacico"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

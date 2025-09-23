@@ -1,6 +1,6 @@
 ---
-title: "Fosas oceanicas"
-aliases: ["Fosas oceanicas", "Fosas oceánicas"]
+title: "Fosas oceánicas"
+aliases: ["Fosas oceanicas"]
 draft: false
 tags:
   - geologia1-tema-00

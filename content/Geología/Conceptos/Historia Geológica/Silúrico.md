@@ -1,6 +1,6 @@
 ---
-title: "Silurico"
-aliases: ["Silurico", "Silúrico"]
+title: "Silúrico"
+aliases: ["Silurico"]
 draft: false
 tags:
   - ruta-tiempo-evolucion

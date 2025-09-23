@@ -1,6 +1,6 @@
 ---
-title: "Oceano"
-aliases: ["Oceano", "Océano"]
+title: "Océano"
+aliases: ["Oceano"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

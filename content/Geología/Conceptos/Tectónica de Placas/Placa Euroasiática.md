@@ -1,6 +1,6 @@
 ---
-title: "Placa Euroasiatica"
-aliases: ["Placa Euroasiatica", "Placa Euroasiática"]
+title: "Placa Euroasiática"
+aliases: ["Placa Euroasiatica"]
 draft: false
 tags:
   - tectonica-placas

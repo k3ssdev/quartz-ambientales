@@ -1,6 +1,6 @@
 ---
-title: "Zona fotica"
-aliases: ["Zona fotica", "Zona fótica"]
+title: "Zona fótica"
+aliases: ["Zona fotica"]
 draft: false
 tags:
   - ruta-procesos-dinamicos

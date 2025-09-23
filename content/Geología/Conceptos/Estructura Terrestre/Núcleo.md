@@ -1,6 +1,6 @@
 ---
-title: "Nucleo"
-aliases: ["Nucleo", "Núcleo"]
+title: "Núcleo"
+aliases: ["Nucleo"]
 draft: false
 tags:
   - geologia1-tema-00
