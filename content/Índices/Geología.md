@@ -13,11 +13,11 @@ tags:
 ## 🔗 Enlaces Más Importantes
 
 ### Conceptos Centrales
-- [[Tierra]] - Concepto más enlazado (86 enlaces entrantes)
+- [[Tierra]] - Concepto más enlazado (87 enlaces entrantes)
 - [[Tectónica de placas]] - Concepto más enlazado (47 enlaces entrantes)
 - [[Rocas sedimentarias]] - Concepto más enlazado (38 enlaces entrantes)
 - [[agua]] - Concepto más enlazado (33 enlaces entrantes)
-- [[Terremotos]] - Concepto más enlazado (31 enlaces entrantes)
+- [[Fósiles]] - Concepto más enlazado (30 enlaces entrantes)
 
 ### Procesos Fundamentales
 - [[Terremotos]] - Proceso dinámico central
@@ -29,9 +29,9 @@ tags:
 ### Estructura Terrestre
 - [[Geosfera]] - Elemento estructural
 - [[Manto]] - Elemento estructural
-- [[Litosfera]] - Elemento estructural
 - [[Atmósfera]] - Elemento estructural
 - [[Hidrosfera]] - Elemento estructural
+- [[Biosfera]] - Elemento estructural
 
 
 
@@ -57,8 +57,8 @@ tags:
 - Enlaces internos: 52 | Enlaces externos: 242
 - Conceptos clave: [[Vulcanismo]], [[Erosión]], [[Magma]]
 
-### 🌍 Tectónica de Placas (26 archivos)
-- Enlaces internos: 103 | Enlaces externos: 188
+### 🌍 Tectónica de Placas (25 archivos)
+- Enlaces internos: 94 | Enlaces externos: 183
 - Conceptos clave: [[Tectónica de placas]], [[Terremotos]], [[Orogenia]]
 
 ### 🏔️ Geomorfología (24 archivos)
@@ -67,7 +67,7 @@ tags:
 
 ### 🏗️ Estructura Terrestre (23 archivos)
 - Enlaces internos: 62 | Enlaces externos: 162
-- Conceptos clave: [[Geosfera]], [[Manto]], [[Litosfera]]
+- Conceptos clave: [[Geosfera]], [[Manto]], [[Atmósfera]]
 
 ### ⚠️ Recursos y Riesgos (3 archivos)
 - Enlaces internos: 12 | Enlaces externos: 54
@@ -81,14 +81,14 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
+**🗿 Geología I** (348 conceptos)
+- Enlaces entrantes: 2131
+- Conceptos destacados: 225
+- Principales: [[Arcillas]], [[Mármol]], [[Roca sedimentaria]]
+
 **🔢 Matemáticas I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
-
-**🗿 Geología I** (349 conceptos)
-- Enlaces entrantes: 2147
-- Conceptos destacados: 225
-- Principales: [[Arcillas]], [[Mármol]], [[Roca sedimentaria]]
 
 **🧬 Biología I** (1 conceptos)
 - Enlaces entrantes: 0
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (avanzado)
+1. [[SISTEMA_ETIQUETADO]] ()
 
 ### Ruta: Materiales
 1. [[Arcillas]] (intermedio)
@@ -144,7 +144,7 @@ tags:
 1. [[Placa Filipina]] (basico)
 2. [[Terremotos]] (intermedio)
 3. [[Placa de Nazca]] (basico)
-4. [[Tectónica de placas]] (basico)
+4. [[Tectónica de placas]] (intermedio)
 5. [[Dorsales oceánicas]] (intermedio)
 
 ### Ruta: Tiempo Evolucion
@@ -172,7 +172,7 @@ tags:
 1. [[index]] → [[SISTEMA_ETIQUETADO]] → [[Níquel]]
 
 ### Ruta 2: Procesos Dinámicos
-1. [[Terremotos]] → [[Orogenia]] → [[Vulcanismo]]
+1. [[Terremotos]] → [[Orogenia]] → [[Erosión]]
 
 ### Ruta 3: Materiales
 1. [[Rocas sedimentarias]]
@@ -182,16 +182,16 @@ tags:
 ## 🏷️ Tags Más Utilizados
 
 ### Top Tags del Vault
-- `#primero-1-geologia-1` (349 archivos)
-- `#concepto-central` (218 archivos)
-- `#nivel-intermedio` (217 archivos)
-- `#importancia-5` (159 archivos)
+- `#primero-1-geologia-1` (348 archivos)
+- `#concepto-central` (217 archivos)
+- `#nivel-intermedio` (216 archivos)
+- `#importancia-5` (158 archivos)
 - `#proceso-dinamico` (133 archivos)
-- `#ruta-procesos-dinamicos` (130 archivos)
-- `#nivel-basico` (119 archivos)
+- `#ruta-procesos-dinamicos` (129 archivos)
+- `#nivel-basico` (118 archivos)
 - `#importancia-3` (99 archivos)
 - `#importancia-4` (88 archivos)
-- `#concepto-evento` (86 archivos)
+- `#concepto-evento` (85 archivos)
 - `#geologia1-tema-00` (72 archivos)
 - `#ruta-tiempo-evolucion` (68 archivos)
 - `#conceptos-fundamentales` (63 archivos)
