@@ -8,9 +8,6 @@ tags:
   - tags
   - organizacion
 ---
-
-# 🏷️ Sistema de Etiquetado Semántico Compatible con Quartz
-
 ## Estructura de Frontmatter
 
 ```yaml

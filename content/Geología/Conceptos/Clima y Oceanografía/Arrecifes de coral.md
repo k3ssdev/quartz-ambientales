@@ -10,7 +10,6 @@ tags:
   - concepto-estructura
   - clima-oceanografia
 ---
-
 # Arrecifes de coral
 
 Los **arrecifes de coral** son ecosistemas marinos formados por la acumulación de esqueletos de corales (organismos cnidarios) de carbonato cálcico (**[[Carbonato cálcico]]**).

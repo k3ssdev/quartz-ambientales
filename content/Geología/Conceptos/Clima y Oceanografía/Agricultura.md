@@ -13,7 +13,6 @@ tags:
   - concepto-evento
   - clima-oceanografia
 ---
-
 La **agricultura** es la actividad humana destinada al cultivo de plantas y la producción de [[alimentos]], fibras y materias primas a partir del aprovechamiento del [[Suelo]], el [[agua]] y la energía solar (a través de la [[fotosíntesis]]).
 
 ## Origen histórico

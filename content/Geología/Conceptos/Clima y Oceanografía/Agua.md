@@ -12,7 +12,6 @@ tags:
   - clima-oceanografia
   - ciclos
 ---
-
 El **agua** es el agente geológico externo más poderoso.
 
 **Procesos:**

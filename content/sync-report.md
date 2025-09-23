@@ -1,11 +1,11 @@
 # 📋 Content Sync Report
 
-**Fecha:** Mon Sep 22 22:12:01 UTC 2025
-**Commit:** 0d4994026591221662b6424d28d5e403849d9cbe
+**Fecha:** Tue Sep 23 08:40:33 UTC 2025
+**Commit:** 1548a835ac63219635a562f2d01ac2dccf1db3d6
 
 ## 📁 Archivos sincronizados:
 
-**Total:** 356 archivos markdown
+**Total:** 369 archivos markdown
 
 ### 📂 Estructura:
 .
@@ -27,7 +27,9 @@
 │       ├── Fichas
 │       ├── Recursos
 │       └── Temas
+├── copilot
+│   └── copilot-custom-prompts
 ├── scripts
 └── Índices
 
-21 directories
+23 directories
