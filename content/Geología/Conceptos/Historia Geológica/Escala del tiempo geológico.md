@@ -38,6 +38,21 @@ Aunque no siempre se divide formalmente como las otras eras, dentro del Precámb
 
 ## Eras del [[fanerozoico]]
 
-- **[[Paleozoico]]** (542–251 Ma): - [[Cámbrico]] → “Edad de los invertebrados” → aparición de [[Trilobites]]. - [[Ordovícico]] → cefalópodos dominantes. - [[Silúrico]] → primeras plantas terrestres, peces dominantes. - [[Devónico]] → “Edad de los peces”, primeros insectos y anfibios. - [[Carbonífero]] → “Edad de los anfibios”, grandes pantanos carboníferos → origen de [[carbón]]. - [[Pérmico]] → extinción masiva, desaparición de trilobites.
-- **[[Mesozoico]]** (251–65,5 Ma): “Edad de los reptiles”. - [[Triásico]] → primeros dinosaurios, primeros mamíferos. - [[Jurásico]] → dinosaurios dominantes, primeras [[Aves]]. - [[Cretácico]] → primeras plantas con flor, extinción de dinosaurios.
-- **[[Cenozoico]]** (65,5 Ma – presente): - [[Paleógeno]] → extinción de dinosaurios, radiación de mamíferos. - [[Paleoceno]], [[Eoceno]], [[Oligoceno]]. - [[Neógeno]] → consolidación de la “Edad de los mamíferos”. - [[Mioceno]], [[Plioceno]]. - [[Cuaternario]] → glaciaciones, aparición y expansión de [[Homo sapiens]]. - [[Pleistoceno]] → edad de hielo, megafauna. - [[Holoceno]] → época actual, desarrollo de civilizaciones humanas.
+- **[[Paleozoico]]** (542–251 Ma): 
+	- [[Cámbrico]] → “Edad de los invertebrados” → aparición de [[Trilobites]]. 
+	- [[Ordovícico]] → cefalópodos dominantes. - [[Silúrico]] → primeras plantas terrestres, peces dominantes. 
+	- [[Devónico]] → “Edad de los peces”, primeros insectos y anfibios. 
+	- [[Carbonífero]] → “Edad de los anfibios”, grandes pantanos carboníferos → origen de [[carbón]]. 
+	- [[Pérmico]] → extinción masiva, desaparición de trilobites.
+
+- **[[Mesozoico]]** (251–65,5 Ma): “Edad de los reptiles”. 
+	- [[Triásico]] → primeros dinosaurios, primeros mamíferos. 
+	- [[Jurásico]] → dinosaurios dominantes, primeras [[Aves]]. 
+	- [[Cretácico]] → primeras plantas con flor, extinción de dinosaurios.
+
+- **[[Cenozoico]]** (65,5 Ma – presente): 
+	- [[Paleógeno]] → extinción de dinosaurios, radiación de mamíferos. 
+	- [[Paleoceno]], [[Eoceno]], [[Oligoceno]]. - [[Neógeno]] → consolidación de la “Edad de los mamíferos”.
+	- [[Mioceno]], [[Plioceno]]. - [[Cuaternario]] → glaciaciones, aparición y expansión de [[Homo sapiens]].
+	- [[Pleistoceno]] → edad de hielo, megafauna. 
+	- [[Holoceno]] → época actual, desarrollo de civilizaciones humanas.

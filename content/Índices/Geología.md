@@ -80,30 +80,30 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
-**🗿 Geología I** (347 conceptos)
-- Enlaces entrantes: 2108
-- Conceptos destacados: 223
-- Principales: [[Arcillas]], [[Mármol]], [[Roca sedimentaria]]
+**🧬 Biología I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
 
 **🔢 Matemáticas I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🧬 Biología I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
+**🗿 Geología I** (347 conceptos)
+- Enlaces entrantes: 2108
+- Conceptos destacados: 223
+- Principales: [[Arcillas]], [[Mármol]], [[Roca sedimentaria]]
 
 #### 2C - 2° Cuatrimestre
+
+**🦠 Biología II** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
 
 **🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
 **📐 Matemáticas II** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
-**🦠 Biología II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -130,7 +130,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (intermedio)
+1. [[SISTEMA_ETIQUETADO]] ()
 
 ### Ruta: Materiales
 1. [[Arcillas]] (intermedio)
@@ -182,8 +182,8 @@ tags:
 
 ### Top Tags del Vault
 - `#primero-1-geologia-1` (347 archivos)
-- `#nivel-intermedio` (216 archivos)
 - `#concepto-central` (216 archivos)
+- `#nivel-intermedio` (216 archivos)
 - `#importancia-5` (158 archivos)
 - `#proceso-dinamico` (133 archivos)
 - `#ruta-procesos-dinamicos` (130 archivos)
