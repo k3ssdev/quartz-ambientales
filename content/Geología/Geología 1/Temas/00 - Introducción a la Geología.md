@@ -62,7 +62,7 @@ La noción de [[tiempo geológico]] es fundamental en Geología, ya que los proc
 
 ➡️ Resultado: la construcción de la [[Escala del tiempo geológico]], con los principales intervalos → [[Precámbrico]], [[Paleozoico]], [[Mesozoico]] y [[Cenozoico]].
 
-![[Escala de tiempo geológico.png]]
+![[ChronostratChart2023-09Spanish.pdf]]
 ## La Tierra como sistema
 
 El planeta se entiende como un **sistema dinámico e interconectado** compuesto por cuatro [[Esferas terrestres]]:
