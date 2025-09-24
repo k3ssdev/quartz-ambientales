@@ -58,7 +58,7 @@ tags:
 - Conceptos clave: [[Vulcanismo]], [[Erosión]], [[Magma]]
 
 ### 🌍 Tectónica de Placas (25 archivos)
-- Enlaces internos: 94 | Enlaces externos: 183
+- Enlaces internos: 94 | Enlaces externos: 188
 - Conceptos clave: [[Tectónica de placas]], [[Terremotos]], [[Orogenia]]
 
 ### 🏔️ Geomorfología (24 archivos)
@@ -81,6 +81,10 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
+**🔢 Matemáticas I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
 **🗿 Geología I** (348 conceptos)
 - Enlaces entrantes: 2131
 - Conceptos destacados: 225
@@ -90,21 +94,17 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🔢 Matemáticas I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
 #### 2C - 2° Cuatrimestre
 
 **📐 Matemáticas II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
+**🦠 Biología II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🦠 Biología II** (1 conceptos)
+**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] ()
+1. [[SISTEMA_ETIQUETADO]] (avanzado)
 
 ### Ruta: Materiales
 1. [[Arcillas]] (intermedio)
