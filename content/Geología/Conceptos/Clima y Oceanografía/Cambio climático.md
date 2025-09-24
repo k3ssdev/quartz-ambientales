@@ -3,7 +3,7 @@ title: "Cambio climático"
 aliases: ["Cambio climatico"]
 draft: false
 tags:
-  - geologia1-tema-00
+  - geologia1-tema-01
   - ruta-procesos-dinamicos
   - primero-1-geologia-1
   - nivel-intermedio

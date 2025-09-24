@@ -176,4 +176,4 @@ Sustancias naturales, inorgánicas y sólidas, con composición química definid
 
 ---
 
-**Tags:** #fichas-estudio #geologia1-tema-00 #introduccion-geologia #repaso #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #concepto-evento
+**Tags:** #fichas-estudio #geologia1-tema-01 #introduccion-geologia #repaso #importancia-5 #nivel-intermedio #primero-1-geologia-1 #proceso-dinamico #concepto-evento

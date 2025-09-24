@@ -2,7 +2,7 @@
 title: "CO₂"
 draft: false
 tags:
-  - geologia1-tema-00
+  - geologia1-tema-01
   - ruta-materiales
   - quimica
   - proceso-dinamico

@@ -3,7 +3,7 @@ title: "Hipótesis de la nebulosa"
 aliases: ["Hipotesis de la nebulosa"]
 draft: false
 tags:
-  - geologia1-tema-00
+  - geologia1-tema-01
   - ruta-fundamentos
   - proceso-dinamico
   - primero-1-geologia-1

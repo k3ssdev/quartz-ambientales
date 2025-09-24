@@ -3,7 +3,7 @@ title: "Dorsales oceánicas"
 aliases: ["Dorsales oceanicas"]
 draft: false
 tags:
-  - geologia1-tema-00
+  - geologia1-tema-01
   - tectonica-placas
   - ruta-procesos-dinamicos
   - proceso-dinamico

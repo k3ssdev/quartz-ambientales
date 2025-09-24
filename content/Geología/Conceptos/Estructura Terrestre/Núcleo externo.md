@@ -3,7 +3,7 @@ title: "Núcleo externo"
 aliases: ["Nucleo externo"]
 draft: false
 tags:
-  - geologia1-tema-00
+  - geologia1-tema-01
   - ruta-estructura-terrestre
   - primero-1-geologia-1
   - nivel-basico

@@ -2,7 +2,7 @@
 title: "Recursos naturales"
 draft: false
 tags:
-  - geologia1-tema-00
+  - geologia1-tema-01
   - recursos-riesgos
   - primero-1-geologia-1
   - nivel-basico

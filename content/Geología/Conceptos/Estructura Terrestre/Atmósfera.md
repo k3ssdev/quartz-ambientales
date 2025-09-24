@@ -3,7 +3,7 @@ title: "Atmósfera"
 aliases: ["Atmosfera"]
 draft: false
 tags:
-  - geologia1-tema-00
+  - geologia1-tema-01
   - ruta-estructura-terrestre
   - proceso-fundamental
   - primero-1-geologia-1

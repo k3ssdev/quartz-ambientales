@@ -2,7 +2,7 @@
 title: "Protosol"
 draft: false
 tags:
-  - geologia1-tema-00
+  - geologia1-tema-01
   - ruta-tiempo-evolucion
   - protosol
   - proceso-fundamental

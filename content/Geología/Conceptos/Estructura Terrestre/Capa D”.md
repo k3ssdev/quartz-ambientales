@@ -2,7 +2,7 @@
 title: "Capa D”"
 draft: false
 tags:
-  - geologia1-tema-00
+  - geologia1-tema-01
   - tierra-interna
   - ruta-estructura-terrestre
   - proceso-dinamico

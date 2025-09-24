@@ -1,13 +1,13 @@
 ---
-title: "00 - Introducción a la Geología"
-aliases: ["00 - Introduccion a la Geologia"]
+title: "01 - Introducción a la Geología"
+aliases: ["01 - Introduccion a la Geologia"]
 draft: false
 weight: 1
 tags:
   - temas
   - introduccion
   - geologia-1
-  - geologia1-tema-00
+  - geologia1-tema-01
   - concepto-evento
   - importancia-5
   - nivel-intermedio

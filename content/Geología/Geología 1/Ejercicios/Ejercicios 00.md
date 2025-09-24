@@ -239,4 +239,4 @@ Este ciclo demuestra que las [[Rocas]] están en un proceso constante de transfo
 
 ---
 
-**Tags:** #ejercicios #geologia1-tema-00 #introduccion-geologia #fichas-estudio #repaso #importancia-5 #nivel-intermedio #primero-1-geologia-1
+**Tags:** #ejercicios #geologia1-tema-01 #introduccion-geologia #fichas-estudio #repaso #importancia-5 #nivel-intermedio #primero-1-geologia-1
