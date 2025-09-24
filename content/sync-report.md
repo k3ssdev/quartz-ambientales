@@ -1,7 +1,7 @@
 # 📋 Content Sync Report
 
-**Fecha:** Wed Sep 24 08:29:59 UTC 2025
-**Commit:** 11959473148c350b09fa7d3ba5daf484fc63b198
+**Fecha:** Wed Sep 24 08:31:52 UTC 2025
+**Commit:** c0481b46b361b579f19ac74772844886daac2124
 
 ## 📁 Archivos sincronizados:
 
@@ -9,7 +9,6 @@
 
 ### 📂 Estructura:
 .
-├── Excalidraw
 ├── Geología
 │   ├── Conceptos
 │   │   ├── Clima y Oceanografía
@@ -30,9 +29,7 @@
 │       │   ├── Bibliografía
 │       │   └── Documentos
 │       └── Temas
-├── copilot
-│   └── copilot-custom-prompts
 ├── scripts
 └── Índices
 
-26 directories
+23 directories
