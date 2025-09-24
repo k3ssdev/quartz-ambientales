@@ -13,7 +13,6 @@ tags:
   - geologia1-tema-01
   - primero-1-geologia-1
 ---
-
 La **teoría de la tectónica de placas** es el modelo científico que explica cómo la capa externa de la Tierra, la litosfera, está dividida en grandes segmentos o placas que se mueven continuamente, interactuando entre sí. Es el concepto unificador de la geología moderna, ya que explica la mayoría de los fenómenos geológicos a gran escala.
 
 ### Componentes Clave
