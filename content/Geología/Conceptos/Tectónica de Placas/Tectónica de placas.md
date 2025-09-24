@@ -10,14 +10,13 @@ tags:
   - importancia-5
   - concepto-evento
   - concepto-central
-  - geologia1-tema-01
+  - geologia1-tema-02
   - primero-1-geologia-1
 ---
 La **teoría de la tectónica de placas** es el modelo científico que explica cómo la capa externa de la Tierra, la litosfera, está dividida en grandes segmentos o placas que se mueven continuamente, interactuando entre sí. Es el concepto unificador de la geología moderna, ya que explica la mayoría de los fenómenos geológicos a gran escala.
 
 
 ### Componentes Clave
-
 
 La teoría se basa en dos capas principales de la [[Tierra]]:
 
@@ -30,12 +29,10 @@ El movimiento de estas placas es impulsado por las **[[corrientes de convección
 
 ### Tipos de Límites de Placas
 
-
 Las interacciones en los límites entre las placas son las que causan la mayor parte de los fenómenos geológicos. Hay tres tipos principales:
 
 
 #### **[[Límites Divergentes]]**
-
 
 ![[Límite divergente de placas.png]]
 *Fuente: Adaptado de [Límites de placas tectónicas - GeologiaWeb](https://geologiaweb.com/planeta-tierra/limites-placas-tectonicas/)*

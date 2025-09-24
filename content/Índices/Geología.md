@@ -13,7 +13,7 @@ tags:
 ## 🔗 Enlaces Más Importantes
 
 ### Conceptos Centrales
-- [[Tierra]] - Concepto más enlazado (87 enlaces entrantes)
+- [[Tierra]] - Concepto más enlazado (88 enlaces entrantes)
 - [[Tectónica de placas]] - Concepto más enlazado (47 enlaces entrantes)
 - [[Rocas sedimentarias]] - Concepto más enlazado (38 enlaces entrantes)
 - [[agua]] - Concepto más enlazado (33 enlaces entrantes)
@@ -57,13 +57,13 @@ tags:
 - Enlaces internos: 52 | Enlaces externos: 242
 - Conceptos clave: [[Vulcanismo]], [[Erosión]], [[Magma]]
 
-### 🌍 Tectónica de Placas (25 archivos)
-- Enlaces internos: 94 | Enlaces externos: 188
+### 🌍 Tectónica de Placas (26 archivos)
+- Enlaces internos: 104 | Enlaces externos: 279
 - Conceptos clave: [[Tectónica de placas]], [[Terremotos]], [[Orogenia]]
 
 ### 🏔️ Geomorfología (24 archivos)
 - Enlaces internos: 46 | Enlaces externos: 121
-- Conceptos clave: [[Glaciares]], [[Cordilleras]], [[Llanuras de inundación]]
+- Conceptos clave: [[Glaciares]], [[Cordilleras]], [[Andes]]
 
 ### 🏗️ Estructura Terrestre (23 archivos)
 - Enlaces internos: 62 | Enlaces externos: 162
@@ -81,12 +81,8 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
-**🔢 Matemáticas I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
-**🗿 Geología I** (348 conceptos)
-- Enlaces entrantes: 2125
+**🗿 Geología I** (349 conceptos)
+- Enlaces entrantes: 2149
 - Conceptos destacados: 224
 - Principales: [[Arcillas]], [[Mármol]], [[Roca sedimentaria]]
 
@@ -94,17 +90,21 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
+**🔢 Matemáticas I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
 #### 2C - 2° Cuatrimestre
+
+**📐 Matemáticas II** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
 
 **🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
 **🦠 Biología II** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
-**📐 Matemáticas II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (basico)
+1. [[SISTEMA_ETIQUETADO]] ()
 
 ### Ruta: Materiales
 1. [[Arcillas]] (intermedio)
@@ -182,17 +182,17 @@ tags:
 ## 🏷️ Tags Más Utilizados
 
 ### Top Tags del Vault
-- `#primero-1-geologia-1` (348 archivos)
-- `#concepto-central` (217 archivos)
-- `#nivel-intermedio` (216 archivos)
-- `#importancia-5` (158 archivos)
-- `#proceso-dinamico` (133 archivos)
+- `#primero-1-geologia-1` (349 archivos)
+- `#concepto-central` (218 archivos)
+- `#nivel-intermedio` (217 archivos)
+- `#importancia-5` (159 archivos)
+- `#proceso-dinamico` (134 archivos)
 - `#ruta-procesos-dinamicos` (129 archivos)
 - `#nivel-basico` (118 archivos)
 - `#importancia-3` (99 archivos)
 - `#importancia-4` (88 archivos)
 - `#concepto-evento` (85 archivos)
-- `#geologia1-tema-01` (73 archivos)
+- `#geologia1-tema-01` (72 archivos)
 - `#ruta-tiempo-evolucion` (68 archivos)
 - `#conceptos-fundamentales` (63 archivos)
 - `#ruta-fundamentos` (62 archivos)
