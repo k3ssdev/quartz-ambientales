@@ -96,11 +96,11 @@ tags:
 
 #### 2C - 2° Cuatrimestre
 
-**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
+**🦠 Biología II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🦠 Biología II** (1 conceptos)
+**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (basico)
+1. [[SISTEMA_ETIQUETADO]] ()
 
 ### Ruta: Materiales
 1. [[Arcillas]] (intermedio)

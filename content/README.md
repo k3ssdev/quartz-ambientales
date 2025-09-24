@@ -11,7 +11,7 @@ tags:
 
 # 🌿 Base de Conocimientos - Ciencias Ambientales UNED
 
-Sistema automatizado de gestión de conocimientos para el Grado en Ciencias Ambientales, con etiquetado semántico compatible con Quartz.
+Sistema automatizado de gestión de conocimientos para el Grado en Ciencias Ambientales, con etiquetado semántico compatible con Obsidian y Quartz.
 
 ## 🧠 Metodología de Generación de Contenido
 
