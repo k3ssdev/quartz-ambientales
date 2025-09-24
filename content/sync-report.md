@@ -1,14 +1,15 @@
 # 📋 Content Sync Report
 
-**Fecha:** Wed Sep 24 08:10:49 UTC 2025
-**Commit:** 2787ac3c0349571f4e8a84f6690be9b32a9bbae2
+**Fecha:** Wed Sep 24 08:28:10 UTC 2025
+**Commit:** 549aa74d6cfe3823f88f3deb748c4dcdfcb646a1
 
 ## 📁 Archivos sincronizados:
 
-**Total:** 370 archivos markdown
+**Total:** 371 archivos markdown
 
 ### 📂 Estructura:
 .
+├── Excalidraw
 ├── Geología
 │   ├── Conceptos
 │   │   ├── Clima y Oceanografía
@@ -34,4 +35,4 @@
 ├── scripts
 └── Índices
 
-25 directories
+26 directories
