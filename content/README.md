@@ -157,7 +157,8 @@ Usa el explorador de etiquetas para filtrar por:
 4. **Generar índice**:
    ```bash
    python3 generar_indice_obsidian.py
-   ``` ##📊 Output del Sistema
+   ``` 
+   ## 📊 Output del Sistema
 
 El sistema genera automáticamente:
 
@@ -173,11 +174,7 @@ El sistema genera automáticamente:
 
 📄 **[Ver Disclaimer Completo](DISCLAIMER.md)**
 
-Esta base de conocimientos utiliza imágenes y contenido de los libros oficiales de la asignatura bajo las excepciones de **uso académico** establecidas en la legislación española sobre propiedad intelectual.
-
-**Fuentes principales:**
-- Tarbuck, E.J.; Lutgens, F.K. - *Ciencias de la Tierra* (PEARSON-UNED)
-- **Uso exclusivamente educativo** - Sin fines comerciales
+- **Uso exclusivamente personal y educativo** - Sin fines comerciales
 
 ---
 
