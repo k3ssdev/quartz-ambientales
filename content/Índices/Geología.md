@@ -81,11 +81,6 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
-**🗿 Geología I** (349 conceptos)
-- Enlaces entrantes: 2149
-- Conceptos destacados: 224
-- Principales: [[Arcillas]], [[Mármol]], [[Roca sedimentaria]]
-
 **🧬 Biología I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
@@ -93,6 +88,11 @@ tags:
 **🔢 Matemáticas I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
+
+**🗿 Geología I** (349 conceptos)
+- Enlaces entrantes: 2149
+- Conceptos destacados: 224
+- Principales: [[Arcillas]], [[Mármol]], [[Roca sedimentaria]]
 
 #### 2C - 2° Cuatrimestre
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] ()
+1. [[SISTEMA_ETIQUETADO]] (intermedio)
 
 ### Ruta: Materiales
 1. [[Arcillas]] (intermedio)

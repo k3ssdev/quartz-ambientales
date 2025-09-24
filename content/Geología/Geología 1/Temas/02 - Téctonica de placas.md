@@ -14,7 +14,6 @@ tags:
   - concepto-central
   - primero-1-geologia-1
 ---
-
 ## 1. Deriva Continental: La idea precursora
 
 A principios del siglo XX, **Alfred Wegener**, meteorólogo y geofísico, propuso la [[deriva continental]]. Su hipótesis central era la existencia de un [[supercontinente]] llamado [[Pangea]] que comenzó a fragmentarse hace unos 200 millones de años, durante el [[Mesozoico]].
