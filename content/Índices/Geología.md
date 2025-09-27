@@ -53,11 +53,11 @@ tags:
 - Enlaces internos: 115 | Enlaces externos: 471
 - Conceptos clave: [[Océanos]], [[Agua]], [[Cambio climático]]
 
-### 🌍 Tectónica de Placas (42 archivos)
-- Enlaces internos: 104 | Enlaces externos: 279
+### 🌍 Tectónica de Placas (50 archivos)
+- Enlaces internos: 107 | Enlaces externos: 279
 - Conceptos clave: [[Tectónica de placas]], [[Terremotos]], [[Orogenia]]
 
-### ⚡ Procesos Geológicos (28 archivos)
+### ⚡ Procesos Geológicos (29 archivos)
 - Enlaces internos: 52 | Enlaces externos: 242
 - Conceptos clave: [[Vulcanismo]], [[Erosión]], [[Magma]]
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (basico)
+1. [[SISTEMA_ETIQUETADO]] (intermedio)
 
 ### Ruta: Procesos Dinamicos
 1. [[Geodinámica de la Tierra]] (intermedio)
