@@ -20,18 +20,18 @@ tags:
 - [[Fósiles]] - Concepto más enlazado (30 enlaces entrantes)
 
 ### Procesos Fundamentales
-- [[Terremotos]] - Proceso dinámico central
 - [[Vulcanismo]] - Proceso dinámico central
+- [[Terremotos]] - Proceso dinámico central
 - [[Orogenia]] - Proceso dinámico central
 - [[Erosión]] - Proceso dinámico central
-- [[Atmósfera]] - Proceso dinámico central
+- [[Agua]] - Proceso dinámico central
 
 ### Estructura Terrestre
 - [[Geosfera]] - Elemento estructural
-- [[Manto]] - Elemento estructural
 - [[Atmósfera]] - Elemento estructural
+- [[Manto]] - Elemento estructural
 - [[Hidrosfera]] - Elemento estructural
-- [[Biosfera]] - Elemento estructural
+- [[Litosfera]] - Elemento estructural
 
 
 
@@ -53,21 +53,21 @@ tags:
 - Enlaces internos: 115 | Enlaces externos: 471
 - Conceptos clave: [[Océanos]], [[Agua]], [[Cambio climático]]
 
+### 🌍 Tectónica de Placas (42 archivos)
+- Enlaces internos: 104 | Enlaces externos: 279
+- Conceptos clave: [[Tectónica de placas]], [[Terremotos]], [[Orogenia]]
+
 ### ⚡ Procesos Geológicos (28 archivos)
 - Enlaces internos: 52 | Enlaces externos: 242
 - Conceptos clave: [[Vulcanismo]], [[Erosión]], [[Magma]]
 
-### 🌍 Tectónica de Placas (26 archivos)
-- Enlaces internos: 104 | Enlaces externos: 279
-- Conceptos clave: [[Tectónica de placas]], [[Terremotos]], [[Orogenia]]
-
-### 🏔️ Geomorfología (24 archivos)
+### 🏔️ Geomorfología (28 archivos)
 - Enlaces internos: 46 | Enlaces externos: 121
 - Conceptos clave: [[Glaciares]], [[Cordilleras]], [[Andes]]
 
 ### 🏗️ Estructura Terrestre (23 archivos)
 - Enlaces internos: 62 | Enlaces externos: 162
-- Conceptos clave: [[Geosfera]], [[Manto]], [[Atmósfera]]
+- Conceptos clave: [[Geosfera]], [[Atmósfera]], [[Manto]]
 
 ### ⚠️ Recursos y Riesgos (3 archivos)
 - Enlaces internos: 12 | Enlaces externos: 54
@@ -81,20 +81,24 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
-**🧬 Biología I** (1 conceptos)
+**🔢 Matemáticas I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🔢 Matemáticas I** (1 conceptos)
+**🧬 Biología I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
 **🗿 Geología I** (349 conceptos)
 - Enlaces entrantes: 2149
 - Conceptos destacados: 224
-- Principales: [[Arcillas]], [[Mármol]], [[Roca sedimentaria]]
+- Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
 
 #### 2C - 2° Cuatrimestre
+
+**🦠 Biología II** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
 
 **📐 Matemáticas II** (1 conceptos)
 - Enlaces entrantes: 0
@@ -104,75 +108,71 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🦠 Biología II** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
 
 
 ## 🔄 Enlaces Bidireccionales Recomendados
 
 ### Conexiones Temáticas Fuertes
-- [[Arcillas]] ↔ [[Feldespato]]
-- [[Arcillas]] ↔ [[Lutitas]]
-- [[Caliza]] ↔ [[Roca sedimentaria]]
-- [[CH₄]] ↔ [[Hidrógeno]]
-- [[Gas natural]] ↔ [[Petróleo]]
+- [[Erosión]] ↔ [[Meteorización]]
+- [[Lava]] ↔ [[Volcanes]]
+- [[Volcanes]] ↔ [[Vulcanismo]]
+- [[Suelo]] ↔ [[Suelo]]
+- [[Metamorfismo]] ↔ [[Temperatura]]
 
 ### Conexiones Procesales
-- [[Fósiles]] ↔ [[Rocas sedimentarias]]
-- [[Petróleo]] ↔ [[Plancton]]
-- [[Corteza continental]] ↔ [[Granito]]
-- [[Esquisto]] ↔ [[Metamorfismo regional]]
-- [[Carbonato cálcico]] ↔ [[Creta]]
+- [[Erosión]] ↔ [[Viento]]
+- [[Erosión]] ↔ [[Gravedad]]
+- [[Derrumbes]] ↔ [[Erosión]]
+- [[Erosión]] ↔ [[Valles]]
+- [[Agentes geológicos externos]] ↔ [[Superficie terrestre]]
 
 
 
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (intermedio)
-
-### Ruta: Materiales
-1. [[Arcillas]] (intermedio)
-2. [[Mármol]] (intermedio)
-3. [[Roca sedimentaria]] (intermedio)
-4. [[Hidrógeno]] (intermedio)
-5. [[Gas natural]] (intermedio)
+1. [[SISTEMA_ETIQUETADO]] (basico)
 
 ### Ruta: Procesos Dinamicos
-1. [[Placa Filipina]] (basico)
-2. [[Terremotos]] (intermedio)
-3. [[Placa de Nazca]] (basico)
-4. [[Tectónica de placas]] (intermedio)
-5. [[Dorsales oceánicas]] (intermedio)
-
-### Ruta: Tiempo Evolucion
-1. [[Sucesión faunística]] (intermedio)
-2. [[Trilobites]] (basico)
-3. [[Icnofósiles]] (basico)
-4. [[Fósiles guía]] (intermedio)
-5. [[Fósiles]] (basico)
+1. [[Geodinámica de la Tierra]] (intermedio)
+2. [[Erosión]] (intermedio)
+3. [[Volcanes]] (intermedio)
+4. [[Meteorización física]] (intermedio)
+5. [[Suelo]] (intermedio)
 
 ### Ruta: Estructura Terrestre
 1. [[Energía interna de la Tierra]] (intermedio)
-2. [[Núcleo interno]] (basico)
-3. [[Astenosfera]] (intermedio)
-4. [[Geosfera]] (intermedio)
-5. [[Corteza oceánica]] (basico)
+2. [[Atmósfera]] (intermedio)
+3. [[Esferas terrestres]] (intermedio)
+4. [[Hidrosfera]] (intermedio)
+5. [[Manto]] (basico)
+
+### Ruta: Tiempo Evolucion
+1. [[Evolución de la vida]] (intermedio)
+2. [[Paleógeno]] (basico)
+3. [[Ordovícico]] (basico)
+4. [[Proterozoico]] (basico)
+5. [[Glaciaciones]] (intermedio)
+
+### Ruta: Materiales
+1. [[Meteoritos]] (basico)
+2. [[Granito]] (basico)
+3. [[Neutrones]] (basico)
+4. [[Petróleo]] (intermedio)
+5. [[Pumita]] (intermedio)
 
 ### Ruta: Fundamentos
-1. [[Uranio-235]] (intermedio)
-2. [[Geología Física]] (intermedio)
-3. [[Formación de la Tierra]] (intermedio)
-4. [[Teorías científicas]] (basico)
-5. [[Planetas]] (basico)
+1. [[Sol]] (intermedio)
+2. [[Datación radiométrica]] (basico)
+3. [[Sistema solar primitivo]] (intermedio)
+4. [[Hipótesis]] (intermedio)
+5. [[Química]] (intermedio)
 
 ### Ruta 1: Fundamentos
-1. [[index]] → [[SISTEMA_ETIQUETADO]] → [[Níquel]]
+1. [[SISTEMA_ETIQUETADO]] → [[index]] → [[Hawái]]
 
 ### Ruta 2: Procesos Dinámicos
-1. [[Terremotos]] → [[Orogenia]] → [[Erosión]]
+1. [[Erosión]] → [[Vulcanismo]] → [[Agua]]
 
 ### Ruta 3: Materiales
 1. [[Rocas sedimentarias]]
@@ -195,12 +195,12 @@ tags:
 - `#geologia1-tema-01` (72 archivos)
 - `#ruta-tiempo-evolucion` (68 archivos)
 - `#conceptos-fundamentales` (63 archivos)
+- `#historia-geologica` (62 archivos)
 - `#ruta-fundamentos` (62 archivos)
-- `#historia-geologica` (60 archivos)
 
 
 
 ---
 
 *Sistema generado automáticamente basado en análisis de tags de Obsidian*
-*Última actualización: 24/09/2025*
+*Última actualización: 27/09/2025*
