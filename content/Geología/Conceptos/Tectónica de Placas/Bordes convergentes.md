@@ -1,8 +1,10 @@
 ---
 title: Bordes convergentes
 tags:
-  - geologia
-  - tectonica
+  - tectonica-placas
+  - importancia-4
+  - nivel-intermedio
+  - concepto-estructura
 ---
 
 # Bordes convergentes

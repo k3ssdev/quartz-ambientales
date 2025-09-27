@@ -1,9 +1,11 @@
 ---
 title: Sistema de elevadas dorsales oceánicas
 tags:
-  - geologia
-  - tectonica
-  - geomorfologia-marina
+  - tectonica-placas
+  - geomorfologia
+  - importancia-5
+  - nivel-intermedio
+  - concepto-estructura
 ---
 
 # Sistema de elevadas dorsales oceánicas

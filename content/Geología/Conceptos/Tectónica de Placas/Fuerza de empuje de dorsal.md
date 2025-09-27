@@ -1,9 +1,10 @@
 ---
 title: Fuerza de empuje de dorsal
 tags:
-  - geologia
-  - tectonica
-  - geofisica
+  - tectonica-placas
+  - importancia-4
+  - nivel-avanzado
+  - concepto-proceso
 ---
 
 # Fuerza de empuje de dorsal

@@ -1,9 +1,12 @@
 ---
 title: Arco de islas volcánicas o arco de islas
 tags:
-  - geologia
-  - tectonica
-  - vulcanismo
+  - tectonica-placas
+  - geomorfologia
+  - procesos-geologicos
+  - importancia-3
+  - nivel-intermedio
+  - concepto-estructura
 ---
 
 # Arco de islas volcánicas o arco de islas

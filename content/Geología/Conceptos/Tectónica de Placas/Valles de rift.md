@@ -1,9 +1,11 @@
 ---
 title: Valles de rift
 tags:
-  - geologia
-  - tectonica
+  - tectonica-placas
   - geomorfologia
+  - importancia-3
+  - nivel-intermedio
+  - concepto-estructura
 ---
 
 # Valles de rift

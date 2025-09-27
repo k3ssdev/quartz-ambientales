@@ -1,9 +1,12 @@
 ---
 title: Arco volcánico
 tags:
-  - geologia
-  - tectonica
-  - vulcanismo
+  - tectonica-placas
+  - geomorfologia
+  - procesos-geologicos
+  - importancia-3
+  - nivel-intermedio
+  - concepto-estructura
 ---
 
 # Arco volcánico

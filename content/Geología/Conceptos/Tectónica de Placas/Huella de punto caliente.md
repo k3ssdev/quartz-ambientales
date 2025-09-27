@@ -1,9 +1,11 @@
 ---
 title: Huella de punto caliente
 tags:
-  - geologia
-  - tectonica
-  - vulcanismo
+  - tectonica-placas
+  - geomorfologia
+  - importancia-2
+  - nivel-intermedio
+  - concepto-estructura
 ---
 
 # Huella de punto caliente

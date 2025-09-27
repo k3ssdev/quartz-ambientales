@@ -1,8 +1,11 @@
 ---
 title: Expansión del fondo oceánico
 tags:
-  - geologia
-  - tectonica
+  - tectonica-placas
+  - importancia-5
+  - nivel-intermedio
+  - concepto-proceso
+  - proceso-dinamico
 ---
 
 # Expansión del fondo oceánico

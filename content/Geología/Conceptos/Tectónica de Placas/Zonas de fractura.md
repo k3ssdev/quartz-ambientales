@@ -1,9 +1,11 @@
 ---
 title: Zonas de fractura
 tags:
-  - geologia
-  - tectonica
-  - geomorfologia-marina
+  - tectonica-placas
+  - geomorfologia
+  - importancia-2
+  - nivel-intermedio
+  - concepto-estructura
 ---
 
 # Zonas de fractura

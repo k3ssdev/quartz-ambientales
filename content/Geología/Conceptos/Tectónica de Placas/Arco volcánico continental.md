@@ -1,9 +1,12 @@
 ---
 title: Arco volcánico continental
 tags:
-  - geologia
-  - tectonica
-  - vulcanismo
+  - tectonica-placas
+  - geomorfologia
+  - procesos-geologicos
+  - importancia-3
+  - nivel-intermedio
+  - concepto-estructura
 ---
 
 # Arco volcánico continental

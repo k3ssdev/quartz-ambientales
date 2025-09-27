@@ -1,9 +1,11 @@
 ---
 title: Punto caliente
 tags:
-  - geologia
-  - tectonica
-  - vulcanismo
+  - tectonica-placas
+  - procesos-geologicos
+  - importancia-3
+  - nivel-intermedio
+  - concepto-proceso
 ---
 
 # Punto caliente

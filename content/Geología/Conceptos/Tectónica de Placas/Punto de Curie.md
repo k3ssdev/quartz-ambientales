@@ -1,9 +1,11 @@
 ---
 title: Punto de Curie
 tags:
-  - geologia
-  - geofisica
   - rocas-minerales
+  - tectonica-placas
+  - importancia-2
+  - nivel-avanzado
+  - concepto-herramienta
 ---
 
 # Punto de Curie

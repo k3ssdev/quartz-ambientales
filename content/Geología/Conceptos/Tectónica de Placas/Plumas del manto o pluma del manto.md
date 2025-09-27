@@ -1,9 +1,11 @@
 ---
 title: Plumas del manto o pluma del manto
 tags:
-  - geologia
-  - tectonica
-  - geofisica
+  - tectonica-placas
+  - estructura-terrestre
+  - importancia-3
+  - nivel-avanzado
+  - concepto-proceso
 ---
 
 # Plumas del manto o pluma del manto

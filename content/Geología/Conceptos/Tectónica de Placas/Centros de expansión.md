@@ -1,8 +1,10 @@
 ---
 title: Centros de expansión
 tags:
-  - geologia
-  - tectonica
+  - tectonica-placas
+  - importancia-4
+  - nivel-intermedio
+  - concepto-estructura
 ---
 
 # Centros de expansión

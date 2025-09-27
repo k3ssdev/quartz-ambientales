@@ -1,9 +1,11 @@
 ---
 title: Paleomagnetismo
 tags:
-  - geologia
-  - tectonica
-  - geofisica
+  - tectonica-placas
+  - historia-geologica
+  - importancia-4
+  - nivel-avanzado
+  - concepto-herramienta
 ---
 
 # Paleomagnetismo

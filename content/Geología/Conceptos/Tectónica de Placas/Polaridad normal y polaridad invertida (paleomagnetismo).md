@@ -1,9 +1,11 @@
 ---
 title: Polaridad normal y polaridad invertida (paleomagnetismo)
 tags:
-  - geologia
-  - tectonica
-  - geofisica
+  - tectonica-placas
+  - historia-geologica
+  - importancia-3
+  - nivel-avanzado
+  - concepto-herramienta
 ---
 
 # Polaridad normal y polaridad invertida (paleomagnetismo)

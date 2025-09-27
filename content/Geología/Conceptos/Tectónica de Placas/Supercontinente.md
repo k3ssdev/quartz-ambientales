@@ -1,9 +1,11 @@
 ---
 title: Supercontinente
 tags:
-  - geologia
-  - tectonica
+  - tectonica-placas
   - historia-geologica
+  - importancia-3
+  - nivel-intermedio
+  - concepto-estructura
 ---
 
 # Supercontinente

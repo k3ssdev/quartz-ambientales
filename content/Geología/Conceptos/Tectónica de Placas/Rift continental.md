@@ -1,8 +1,11 @@
 ---
 title: Rift continental
 tags:
-  - geologia
-  - tectonica
+  - tectonica-placas
+  - procesos-geologicos
+  - importancia-4
+  - nivel-intermedio
+  - concepto-proceso
 ---
 
 # Rift continental

@@ -1,9 +1,12 @@
 ---
 title: Deriva continental
 tags:
-  - geologia
-  - tectonica
+  - tectonica-placas
   - historia-geologica
+  - importancia-5
+  - nivel-basico
+  - concepto-central
+  - ruta-fundamentos
 ---
 
 # Deriva continental

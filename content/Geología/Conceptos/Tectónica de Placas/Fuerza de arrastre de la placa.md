@@ -1,9 +1,10 @@
 ---
 title: Fuerza de arrastre de la placa
 tags:
-  - geologia
-  - tectonica
-  - geofisica
+  - tectonica-placas
+  - importancia-4
+  - nivel-avanzado
+  - concepto-proceso
 ---
 
 # Fuerza de arrastre de la placa

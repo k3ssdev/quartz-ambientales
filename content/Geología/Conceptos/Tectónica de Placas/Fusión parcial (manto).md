@@ -1,9 +1,12 @@
 ---
 title: Fusión parcial (manto)
 tags:
-  - geologia
-  - tectonica
-  - petrologia
+  - procesos-geologicos
+  - rocas-minerales
+  - tectonica-placas
+  - importancia-3
+  - nivel-avanzado
+  - concepto-proceso
 ---
 
 # Fusión parcial (manto)
