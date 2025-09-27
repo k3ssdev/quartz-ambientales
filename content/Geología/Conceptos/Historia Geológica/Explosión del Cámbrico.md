@@ -13,7 +13,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 La **explosión del Cámbrico** (~541 Ma) fue un evento de rápida diversificación biológica al inicio del [[Cámbrico]].
 
 **Características:**

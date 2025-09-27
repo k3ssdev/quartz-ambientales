@@ -10,7 +10,6 @@ tags:
   - importancia-4
   - clima-oceanografia
 ---
-
 La **zona fótica** es la capa superficial de océanos, mares y lagos donde penetra la **[[Luz solar]]** suficiente para permitir la [[fotosíntesis]].
 
 - Profundidad variable: entre ~0–200 m, dependiendo de la claridad del [[agua]].

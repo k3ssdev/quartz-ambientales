@@ -13,7 +13,6 @@ tags:
   - importancia-5
   - conceptos-fundamentales
 ---
-
 La **formación de la [[Tierra]]** ocurrió hace unos **4.600 millones de años** a partir del colapso de una [[nebulosa]] solar. ##Procesos clave
 
 - Aglomeración de [[Polvo cósmico]] y [[minerales]].

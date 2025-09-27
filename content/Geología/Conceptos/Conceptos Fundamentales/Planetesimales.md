@@ -11,7 +11,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 Un **planetesimal** es un cuerpo sólido en el [[sistema solar primitivo]], formado por la aglomeración de [[polvo cósmico]], [[silicatos]], [[hielo]] y metales.
 
 - Tamaño → de milímetros a cientos de kilómetros.

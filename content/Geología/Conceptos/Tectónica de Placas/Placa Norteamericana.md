@@ -10,7 +10,6 @@ tags:
   - importancia-5
   - concepto-central
 ---
-
 La **placa Norteamericana** es una de las mayores [[Placas tectónicas]], que cubre Norteamérica, parte del Atlántico y llega hasta Siberia.
 
 Características:

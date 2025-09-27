@@ -12,7 +12,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 En ciencia, una **hipótesis** es una proposición planteada como explicación de un fenómeno natural, basada en observaciones previas, que debe ser **verificable y falsable** mediante el [[Método científico]].
 
 - Punto de partida para investigaciones.

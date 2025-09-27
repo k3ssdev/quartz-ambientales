@@ -10,7 +10,6 @@ tags:
   - geomorfologia
   - concepto-central
 ---
-
 Las **llanuras de inundación** son superficies planas formadas a los lados de un [[Río]] debido a los depósitos de [[Sedimentos]] en periodos de crecida.
 
 Importancia:

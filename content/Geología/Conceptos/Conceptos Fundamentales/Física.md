@@ -12,7 +12,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 La **física** es la ciencia que estudia las leyes fundamentales de la energía, la materia y sus interacciones.
 
 - Gravedad → movimientos de [[planetas]], [[tectónica de placas]].

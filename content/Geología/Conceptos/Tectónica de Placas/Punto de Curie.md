@@ -7,7 +7,6 @@ tags:
   - nivel-avanzado
   - concepto-herramienta
 ---
-
 # Punto de Curie
 
 El punto de Curie es la temperatura por encima de la cual los materiales magnéticos pierden su magnetismo permanente. Para la magnetita, un mineral común en las rocas ígneas, el punto de Curie es de aproximadamente 585 °C.

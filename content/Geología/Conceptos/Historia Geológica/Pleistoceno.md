@@ -10,7 +10,6 @@ tags:
   - historia-geologica
   - concepto-central
 ---
-
 El **Pleistoceno** es la primera época del [[Cuaternario]], dentro del [[Cenozoico]], que transcurrió entre **2,58 Ma y 11.700 años**.
 
 **Características:**

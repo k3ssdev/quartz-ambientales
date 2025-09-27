@@ -12,7 +12,6 @@ tags:
   - importancia-4
   - concepto-evento
 ---
-
 Los **terremotos** son movimientos bruscos de la [[Litosfera]] producidos por liberación de energía acumulada en fallas. Características:
 
 - Ocurren principalmente en bordes de [[Placas tectónicas]].

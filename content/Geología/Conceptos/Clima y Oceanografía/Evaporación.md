@@ -13,7 +13,6 @@ tags:
   - clima-oceanografia
   - ciclo-agua
 ---
-
 La **evaporación** es el paso del [[agua]] líquida a estado gaseoso por efecto del [[Calor]]. ##Procesos
 
 - Parte del [[ciclo del agua]].

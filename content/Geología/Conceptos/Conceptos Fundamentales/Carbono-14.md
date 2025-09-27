@@ -14,7 +14,6 @@ tags:
   - carbono14
   - arqueologia
 ---
-
 El **carbono-14** (¹⁴C) es un [[Isótopos radiactivos|isótopo radiactivo]] del [[carbono]] utilizado en [[datación radiométrica]] de materiales orgánicos.
 
 - **Vida media**: 5,730 años.

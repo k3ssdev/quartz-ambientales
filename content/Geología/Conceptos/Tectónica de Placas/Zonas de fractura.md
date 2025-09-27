@@ -7,7 +7,6 @@ tags:
   - nivel-intermedio
   - concepto-estructura
 ---
-
 # Zonas de fractura
 
 Las zonas de fractura son largas y estrechas cicatrices en el fondo marino que se extienden desde las fallas transformantes. Representan la continuación inactiva de una falla transformante.

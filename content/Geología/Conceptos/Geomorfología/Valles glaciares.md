@@ -10,7 +10,6 @@ tags:
   - concepto-proceso
   - concepto-central
 ---
-
 Los **valles glaciares** son valles en forma de “U” formados por la erosión de [[Glaciares]] que arrastran roca y sedimentos.
 
 - Característicos de zonas montañosas frías.

@@ -10,7 +10,6 @@ tags:
   - concepto-proceso
   - concepto-central
 ---
-
 Las **lutitas** son [[Rocas sedimentarias]] detríticas de grano fino, compuestas principalmente por [[Arcillas]] y limos.
 
 **Características:**

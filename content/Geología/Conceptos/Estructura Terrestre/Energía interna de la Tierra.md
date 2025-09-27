@@ -11,7 +11,6 @@ tags:
   - energ
   - concepto-evento
 ---
-
 La **energía interna** proviene principalmente de:
 
 - Calor remanente de la [[formación de la Tierra]].

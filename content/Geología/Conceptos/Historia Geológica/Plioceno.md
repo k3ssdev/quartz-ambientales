@@ -11,7 +11,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El **Plioceno** es la segunda **época del [[Neógeno]]**, que abarca desde **5,3 Ma hasta 2,6 Ma**.
 Marca el enfriamiento hacia las glaciaciones cuaternarias y la evolución de homínidos avanzados.
 

@@ -9,7 +9,6 @@ tags:
   - importancia-4
   - historia-geologica
 ---
-
 El **Cuaternario** es la última era del [[Cenozoico]], iniciada hace ~2,58 Ma y que continúa hasta hoy.
 
 **Épocas:**

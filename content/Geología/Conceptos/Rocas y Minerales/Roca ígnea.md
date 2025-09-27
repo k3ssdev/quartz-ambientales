@@ -12,7 +12,6 @@ tags:
   - concepto-proceso
   - concepto-central
 ---
-
 Las **rocas ígneas** son aquellas formadas por la **solidificación y cristalización del [[Magma]]**.
 
 **Clasificación principal:**

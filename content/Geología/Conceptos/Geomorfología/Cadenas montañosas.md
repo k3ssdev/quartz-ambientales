@@ -5,7 +5,6 @@ tags:
   - geomorfologia
   - tectonica
 ---
-
 # Cadenas montañosas
 
 Las cadenas montañosas son grandes sistemas de montañas que se extienden a lo largo de cientos o miles de kilómetros. Se forman principalmente como resultado de procesos de tectónica de placas.

@@ -9,7 +9,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 El **mar** es una subdivisión del [[Océano]], normalmente de menor tamaño y en contacto con los [[Continentes]].
 
 - Ejemplo: Mediterráneo, Caribe.

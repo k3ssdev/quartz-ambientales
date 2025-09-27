@@ -11,9 +11,6 @@ tags:
   - nivel-basico
   - primero-1-geologia-1
 ---
-
-# 📖 Ciencias de la Tierra - Volumen I
-
 ## 📋 Información Bibliográfica
 
 **Título completo:** CIENCIAS DE LA TIERRA. UNA INTRODUCCIÓN A LA GEOLOGÍA FÍSICA. VOLUMEN I. 10ª EDICIÓN  
@@ -76,5 +73,4 @@ tags:
 - **Diciembre:** Temas 09-10 (recursos y tiempo)
 
 ---
-
 *Referencia bibliográfica principal para Geología I - Curso 2025-26*

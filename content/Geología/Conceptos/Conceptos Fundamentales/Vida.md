@@ -13,7 +13,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 La **vida** es el conjunto de organismos que habitan la [[Biosfera]]. Historia en la [[Evolución de la vida]]:
 
 - Origen hace ~3.800 Ma.

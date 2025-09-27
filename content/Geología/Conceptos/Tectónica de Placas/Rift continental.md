@@ -7,7 +7,6 @@ tags:
   - nivel-intermedio
   - concepto-proceso
 ---
-
 # Rift continental
 
 Un rift continental es una región donde la corteza continental se está separando. Este proceso está asociado con la formación de valles de rift, vulcanismo y actividad sísmica.

@@ -10,7 +10,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 El **océano Atlántico** es el segundo más grande del planeta, con ≈ 106 millones de km².
 
 **Características:**

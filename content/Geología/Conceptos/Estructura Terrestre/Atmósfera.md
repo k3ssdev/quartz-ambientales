@@ -13,7 +13,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 Capa gaseosa que envuelve la [[Tierra]]. El 90 % de su masa está en los primeros 16 km. 
 ## Composición
 - Nitrógeno (78 %)

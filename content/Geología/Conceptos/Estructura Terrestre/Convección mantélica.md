@@ -10,7 +10,6 @@ tags:
   - importancia-5
   - convecci
 ---
-
 La **convección mantélica** es el movimiento lento pero constante del [[manto]] sólido debido a la transferencia de [[calor]] desde el [[núcleo]] hacia la superficie.
 
 - Produce corrientes ascendentes (material caliente, menos denso) y descendentes (material frío, más denso).

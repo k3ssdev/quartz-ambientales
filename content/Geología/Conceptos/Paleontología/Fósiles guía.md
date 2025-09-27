@@ -12,7 +12,6 @@ tags:
   - historia-geologica
   - concepto-central
 ---
-
 Los **fósiles guía** son aquellos [[Fósiles]] que permiten identificar y correlacionar [[Estratos]] en diferentes regiones.
 
 **Características ideales:**

@@ -13,7 +13,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 El **polvo cósmico** está formado por diminutas partículas sólidas de [[minerales]] y compuestos químicos en el espacio interestelar.
 
 - Componente esencial de [[nebulosas]].

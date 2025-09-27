@@ -10,7 +10,6 @@ tags:
   - geomorfologia
   - concepto-evento
 ---
-
 Los **Alpes** son una cordillera del sur de Europa, formada mayoritariamente durante la **orogenia alpina** hace unos 65 Ma. Características:
 
 - Ejemplo de [[Cordillera joven]].

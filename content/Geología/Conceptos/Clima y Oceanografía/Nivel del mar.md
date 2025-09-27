@@ -10,7 +10,6 @@ tags:
   - concepto-proceso
   - clima-oceanografia
 ---
-
 El **nivel del mar** es la altura media de los [[Océanos]] respecto a un punto de referencia en la [[Superficie terrestre]].
 
 **Factores que lo modifican:**

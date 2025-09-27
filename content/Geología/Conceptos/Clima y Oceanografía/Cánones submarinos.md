@@ -10,7 +10,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 Los **cánones submarinos** son valles profundos excavados en el [[Talud continental]], parecidos a cañones terrestres.
 
 **Características:**

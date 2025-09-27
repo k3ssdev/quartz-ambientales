@@ -9,7 +9,6 @@ tags:
   - importancia-3
   - concepto-central
 ---
-
 La **caliza** es una [[Roca sedimentaria]] de origen químico o bioquímico, compuesta principalmente por **carbonato cálcico** (CaCO₃). ####Formación
 
 - **Bioquímica**: acumulación de restos de organismos marinos (conchas, esqueletos, corales) ricos en carbonato cálcico.

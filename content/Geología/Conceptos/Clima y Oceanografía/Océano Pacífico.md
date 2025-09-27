@@ -10,7 +10,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 El **océano Pacífico** es el de mayor tamaño del planeta, cubriendo más de un tercio de la superficie de la [[Tierra]].
 
 Características:

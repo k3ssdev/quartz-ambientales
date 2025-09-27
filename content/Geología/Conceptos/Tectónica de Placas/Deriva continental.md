@@ -4,8 +4,7 @@ tags:
   - tectonica-placas
   - historia-geologica
   - importancia-5
-  - nivel-basico
-  - concepto-central
+---
   - ruta-fundamentos
 ---
 

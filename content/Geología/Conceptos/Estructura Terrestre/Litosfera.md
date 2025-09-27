@@ -10,7 +10,6 @@ tags:
   - estructura-terrestre
   - concepto-central
 ---
-
 La **Litosfera** comprende la [[Corteza]] y la parte superior rígida del [[Manto]].
 
 Características:

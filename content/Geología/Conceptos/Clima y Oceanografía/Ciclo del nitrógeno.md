@@ -3,7 +3,6 @@ title: "Ciclo del nitrógeno"
 aliases: ["Ciclo del nitrogeno"]
 draft: false
 ---
-
 El **ciclo del nitrógeno** regula la transformación de compuestos nitrogenados entre la [[atmósfera]], [[suelo]], [[agua]] y [[biosfera]].
 
 ## Procesos clave

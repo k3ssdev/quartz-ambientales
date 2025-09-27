@@ -9,7 +9,6 @@ tags:
   - importancia-5
   - concepto-central
 ---
-
 Los **cometas** son cuerpos helados formados por [[agua]], [[CO₂]], [[NH₂]] y polvo.
 
 ## Estructura

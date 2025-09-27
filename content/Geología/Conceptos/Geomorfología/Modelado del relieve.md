@@ -10,7 +10,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El **modelado del relieve** es el conjunto de procesos que dan forma a la [[Superficie terrestre]].
 
 **Dos factores principales:**

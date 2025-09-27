@@ -12,7 +12,6 @@ tags:
   - fenomenos
   - conceptos-fundamentales
 ---
-
 El **campo magnético** terrestre se origina en el [[Núcleo externo]], donde el movimiento de hierro fundido genera corrientes eléctricas (efecto dinamo). Funciones:
 
 - Protege de la radiación cósmica y del viento solar.

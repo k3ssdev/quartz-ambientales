@@ -13,7 +13,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 Las **enanas blancas** son el estado final de estrellas de masa baja o media (como el [[Sol]]) tras agotar su combustible nuclear.
 
 - Restos estelares muy densos y calientes.

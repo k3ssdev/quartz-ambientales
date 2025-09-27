@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El **Hádico** es el primer **eón de la [[Escala del tiempo geológico]]**, que abarca desde **4.600 Ma hasta 4.000 Ma**.
 Representa los primeros momentos de la historia de la Tierra, caracterizado por condiciones extremas y la formación del planeta.
 

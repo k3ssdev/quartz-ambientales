@@ -12,7 +12,6 @@ tags:
   - historia-geologica
   - concepto-central
 ---
-
 La **paleontología** estudia los [[Fósiles]] y la [[Evolución de la vida]]. Utilidad:
 
 - Reconstruir ecosistemas antiguos.

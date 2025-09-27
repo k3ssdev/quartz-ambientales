@@ -11,7 +11,6 @@ tags:
   - geodin
   - astenosfera
 ---
-
 El **manto superior** es la capa del [[manto]] situada entre la [[corteza]] y ~660 km de profundidad.
 
 - Contiene la [[litosfera]] rígida y la [[astenosfera]] plástica.

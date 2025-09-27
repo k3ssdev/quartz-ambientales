@@ -10,7 +10,6 @@ tags:
   - importancia-4
   - historia-geologica
 ---
-
 El **plancton** son organismos microscópicos que flotan libremente en el [[Agua]], especialmente en [[Océanos]] y [[Mar]]es.
 
 **Tipos:**

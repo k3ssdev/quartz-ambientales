@@ -12,7 +12,6 @@ tags:
   - conceptos-fundamentales
   - concepto-evento
 ---
-
 Aristóteles (384–322 a.C.) fue uno de los primeros en intentar explicar fenómenos de la [[Tierra]], aunque desde un enfoque filosófico más que científico. Ejemplos de sus ideas:
 
 - Los [[Terremotos]] eran movimientos producidos por aire atrapado en la tierra.

@@ -13,7 +13,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 La **genética** es la ciencia que estudia la herencia y la variación en los organismos.
 
 - Explica las bases moleculares de la [[evolución biológica]].

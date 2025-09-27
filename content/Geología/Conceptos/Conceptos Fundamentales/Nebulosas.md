@@ -6,7 +6,6 @@ tags:
   - ruta-fundamentos
   - conceptos-fundamentales
 ---
-
 Las **nebulosas** son grandes nubes de gas y polvo interestelar, restos de [[supernovas]] o regiones de formación estelar.
 
 - Nebulosas de emisión, de absorción y de reflexión.

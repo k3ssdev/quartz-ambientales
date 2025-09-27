@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 Los **Trilobites** fueron un grupo de artrópodos marinos que vivieron desde el [[Cámbrico]] hasta el final del [[Paleozoico]].
 
 **Características:**

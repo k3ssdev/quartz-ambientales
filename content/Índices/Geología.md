@@ -81,22 +81,22 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
-**🗿 Geología I** (349 conceptos)
-- Enlaces entrantes: 2149
-- Conceptos destacados: 224
-- Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
+**🔢 Matemáticas I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
 
 **🧬 Biología I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🔢 Matemáticas I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
+**🗿 Geología I** (349 conceptos)
+- Enlaces entrantes: 2149
+- Conceptos destacados: 224
+- Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
 
 #### 2C - 2° Cuatrimestre
 
-**🦠 Biología II** (1 conceptos)
+**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -104,7 +104,7 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
+**🦠 Biología II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] ()
+1. [[SISTEMA_ETIQUETADO]] (intermedio)
 
 ### Ruta: Procesos Dinamicos
 1. [[Geodinámica de la Tierra]] (intermedio)
@@ -183,18 +183,18 @@ tags:
 
 ### Top Tags del Vault
 - `#primero-1-geologia-1` (349 archivos)
-- `#nivel-intermedio` (233 archivos)
-- `#concepto-central` (219 archivos)
+- `#nivel-intermedio` (231 archivos)
+- `#concepto-central` (218 archivos)
 - `#importancia-5` (162 archivos)
-- `#proceso-dinamico` (136 archivos)
+- `#proceso-dinamico` (135 archivos)
 - `#ruta-procesos-dinamicos` (129 archivos)
-- `#nivel-basico` (119 archivos)
+- `#nivel-basico` (118 archivos)
 - `#importancia-3` (108 archivos)
 - `#importancia-4` (97 archivos)
 - `#concepto-evento` (85 archivos)
 - `#geologia1-tema-01` (72 archivos)
 - `#ruta-tiempo-evolucion` (68 archivos)
-- `#concepto-proceso` (65 archivos)
+- `#concepto-proceso` (64 archivos)
 - `#historia-geologica` (64 archivos)
 - `#conceptos-fundamentales` (63 archivos)
 

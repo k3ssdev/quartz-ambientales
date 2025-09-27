@@ -12,7 +12,6 @@ tags:
   - erosion
   - concepto-proceso
 ---
-
 La **erosión fluvial** es la acción del [[Agua]] de los [[ríos]] desgastando y excavando el relieve.
 
 **Procesos:**

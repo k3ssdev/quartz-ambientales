@@ -10,7 +10,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 Procesos naturales que, al interactuar con sociedades humanas, causan daños.
 
 Tipos principales:

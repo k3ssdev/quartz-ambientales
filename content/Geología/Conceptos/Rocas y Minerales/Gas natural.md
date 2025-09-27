@@ -10,7 +10,6 @@ tags:
   - importancia-4
   - concepto-proceso
 ---
-
 El **gas natural** es un **combustible fósil** formado principalmente por **metano (CH₄)** y pequeñas cantidades de otros hidrocarburos.
 
 **Origen:**

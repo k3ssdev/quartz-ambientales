@@ -10,7 +10,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 Un **océano** es una vasta masa de [[Agua]] salada que cubre más del 70 % de la [[Superficie terrestre]].
 
 - Los mayores: [[Océano Pacífico]], [[Océano Atlántico]], Índico, Ártico, Antártico.

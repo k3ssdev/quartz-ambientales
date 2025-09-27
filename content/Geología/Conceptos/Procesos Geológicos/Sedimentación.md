@@ -12,7 +12,6 @@ tags:
   - importancia-3
   - concepto-proceso
 ---
-
 La **sedimentación** es el proceso por el cual los [[Sedimentos]] transportados por [[Agua]], [[Viento]], [[Glaciares]] o [[Gravedad]] se depositan en una cuenca.
 
 **Ambientes de sedimentación:**

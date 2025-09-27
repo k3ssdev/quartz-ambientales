@@ -9,7 +9,6 @@ tags:
   - geomorfologia
   - concepto-central
 ---
-
 El **hielo** es agua en estado sólido que desempeña un papel clave como agente geológico.
 
 **Formas:**

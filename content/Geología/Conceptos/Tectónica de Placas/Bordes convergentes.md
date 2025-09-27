@@ -6,7 +6,6 @@ tags:
   - nivel-intermedio
   - concepto-estructura
 ---
-
 # Bordes convergentes
 
 Los bordes convergentes, o bordes destructivos, son lugares donde dos placas tectónicas chocan. El resultado de la colisión depende del tipo de litosfera de las placas implicadas.

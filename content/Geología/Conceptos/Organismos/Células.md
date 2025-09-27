@@ -11,7 +11,6 @@ tags:
   - concepto-central
   - c
 ---
-
 Las **células** son las unidades estructurales y funcionales básicas de todos los [[Organismos]] vivos, desde [[Bacterias]] hasta [[Animales]] complejos.###Propiedades fundamentales
 - **Membrana plasmática**: barrera selectiva.
 - **Material genético**: ADN como información hereditaria.

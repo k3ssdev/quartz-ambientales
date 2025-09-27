@@ -10,7 +10,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El **relieve** es el conjunto de formas que presenta la [[Superficie terrestre]], resultante de la interacción entre procesos internos y externos.
 
 **Agentes formadores:**

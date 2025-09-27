@@ -13,7 +13,6 @@ tags:
   - concepto-proceso
   - concepto-central
 ---
-
 La **geodinámica externa** estudia los procesos que modelan la [[Superficie terrestre]] a partir de la acción de los [[Agentes geológicos externos]].
 
 **Procesos clave:**

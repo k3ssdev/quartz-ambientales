@@ -11,7 +11,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 La **placa Sudamericana** es una [[Placas tectónicas]] que cubre toda Sudamérica y parte del océano Atlántico.
 
 Características:

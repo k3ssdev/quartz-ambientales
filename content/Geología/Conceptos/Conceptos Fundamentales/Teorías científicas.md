@@ -13,7 +13,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 Una **teoría científica** es una explicación fundamentada de fenómenos naturales, basada en observaciones, experimentación y validación repetida.
 
 - Se construyen a partir de [[hipótesis]] contrastadas.

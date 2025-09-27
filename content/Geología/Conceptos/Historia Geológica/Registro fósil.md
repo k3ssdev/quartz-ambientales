@@ -12,7 +12,6 @@ tags:
   - concepto-herramienta
   - concepto-central
 ---
-
 El **registro fósil** es el conjunto de restos o huellas de [[vida]] preservados en el [[sedimentos]] y rocas de la [[corteza terrestre]].
 
 - Fósiles corporales (huesos, conchas, hojas).

@@ -13,7 +13,6 @@ tags:
   - concepto-herramienta
   - concepto-central
 ---
-
 La **estratigrafía** es la rama de la [[Geología/Conceptos/Conceptos Fundamentales/Geología]] que estudia los [[Estratos]] de [[Rocas sedimentarias]] y la disposición temporal de los materiales de la [[Tierra]].
 
 **Objetivos principales:**

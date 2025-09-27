@@ -12,7 +12,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 Conjunto de la vida que habita la [[Tierra]]. Se distribuye en atmósfera, [[Hidrosfera]] y [[Geosfera]]. 
 
 ## Componentes principales

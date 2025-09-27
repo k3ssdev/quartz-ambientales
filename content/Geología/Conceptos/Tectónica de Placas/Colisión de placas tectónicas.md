@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - colision
 ---
-
 La **colisión de placas tectónicas** es el encuentro de dos [[Placas tectónicas]] continentales que convergen a baja velocidad pero con gran energía.
 
 **Características:**

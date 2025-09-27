@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El **Paleógeno** es el primer **período del [[Cenozoico]]**, que abarca desde **66 Ma hasta 23 Ma**.
 Marca la recuperación y diversificación de la vida tras la extinción K-Pg.
 

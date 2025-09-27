@@ -6,7 +6,6 @@ tags:
   - ruta-materiales
   - nitr
 ---
-
 El **nitrógeno** es un elemento químico gaseoso, incoloro e inodoro, que constituye el **78 % de la [[atmósfera]] actual**.
 
 - Elemento fundamental en aminoácidos y ácidos nucleicos.

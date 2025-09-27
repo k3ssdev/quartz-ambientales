@@ -7,7 +7,6 @@ tags:
   - nivel-intermedio
   - concepto-estructura
 ---
-
 # Sistema de elevadas dorsales oceánicas
 
 El sistema de dorsales oceánicas es una cadena montañosa submarina continua que se extiende a lo largo de unos 65,000 km a través de todos los océanos. Es la característica topográfica más larga de la Tierra.

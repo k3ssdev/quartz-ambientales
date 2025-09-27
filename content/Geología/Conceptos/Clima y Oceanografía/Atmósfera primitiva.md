@@ -11,7 +11,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 La **atmósfera primitiva** de la [[Tierra]] se originó tras la [[formación de la Tierra]] (~4.600 Ma).
 
 ## Composición inicial

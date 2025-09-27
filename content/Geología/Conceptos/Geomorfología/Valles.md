@@ -10,7 +10,6 @@ tags:
   - geomorfologia
   - concepto-proceso
 ---
-
 Un **valle** es una **depresión alargada** modelada por la acción de la [[Erosión]].
 
 **Tipos según agente:**

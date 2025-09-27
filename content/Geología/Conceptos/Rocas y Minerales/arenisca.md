@@ -8,7 +8,6 @@ tags:
   - rocas-minerales
   - ruta-materiales
 ---
-
 # Arenisca
 
 *[Contenido pendiente de desarrollo]*

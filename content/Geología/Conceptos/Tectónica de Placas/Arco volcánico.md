@@ -8,7 +8,6 @@ tags:
   - nivel-intermedio
   - concepto-estructura
 ---
-
 # Arco volcánico
 
 Un arco volcánico es una cadena de volcanes formada en la placa superior de una zona de subducción, paralela a la fosa oceánica. Se produce por la fusión parcial del manto por encima de la placa que subduce.

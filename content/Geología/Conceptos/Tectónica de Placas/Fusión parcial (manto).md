@@ -8,7 +8,6 @@ tags:
   - nivel-avanzado
   - concepto-proceso
 ---
-
 # Fusión parcial (manto)
 
 La fusión parcial en el manto es el proceso por el cual solo una parte de la roca del manto se funde para generar magma. Esto ocurre porque los diferentes minerales que componen la roca tienen diferentes puntos de fusión.

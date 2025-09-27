@@ -11,7 +11,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 La **batimetría** es la ciencia que estudia la **profundidad de los océanos** y el relieve del fondo marino.
 
 ## Métodos

@@ -8,7 +8,6 @@ tags:
   - proceso-dinamico
   - ruta-procesos-dinamicos
 ---
-
 # Avalanchas
 
 *[Contenido pendiente de desarrollo]*

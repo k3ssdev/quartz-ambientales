@@ -11,7 +11,6 @@ tags:
   - concepto-proceso
   - concepto-central
 ---
-
 Las **rocas sedimentarias** se forman a partir de la acumulación, compactación y cementación de **sedimentos** procedentes de la meteorización y erosión de otras rocas.
 
 **Formación:**

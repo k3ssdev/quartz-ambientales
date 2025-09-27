@@ -12,7 +12,6 @@ tags:
   - erosion
   - concepto-proceso
 ---
-
 La **erosión** es el proceso geológico mediante el cual los materiales de la [[Superficie terrestre]] son **desgastados, transportados y removidos** por agentes externos. ####Agentes principales:
 
 - **[[Agua]]** → ríos, lluvias torrenciales, oleaje y [[Mareas]].

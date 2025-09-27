@@ -11,7 +11,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 El **clima** es el promedio de las condiciones atmosféricas de una región durante largos periodos (≥30 años).
 
 **Componentes:** temperatura, precipitación, vientos, humedad.

@@ -9,7 +9,6 @@ tags:
   - importancia-3
   - concepto-central
 ---
-
 **Charles Darwin** (1809–1882) fue un naturalista británico. 
 
 ## Aportación principal

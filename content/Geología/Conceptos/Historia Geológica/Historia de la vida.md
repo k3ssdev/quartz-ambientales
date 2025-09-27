@@ -9,7 +9,6 @@ tags:
   - importancia-3
   - concepto-central
 ---
-
 La **historia de la vida** describe la evolución de los [[Organismos]] desde sus orígenes en el [[precámbrico]] hasta la actualidad. ##Principales etapas
 
 - **Origen de la vida** (~3.800 Ma, procariotas).

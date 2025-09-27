@@ -10,7 +10,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 La **plataforma continental** es la franja de [[Corteza continental]] sumergida bajo el mar, que se extiende desde la costa hasta el [[Talud continental]]. Características:
 
 - Poco profunda (<200 m).

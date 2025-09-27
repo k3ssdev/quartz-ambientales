@@ -14,7 +14,6 @@ tags:
   - fosas-oceanicas
   - concepto-evento
 ---
-
 Las **fosas oceánicas** son depresiones alargadas y profundas en el fondo del océano, asociadas a procesos de **subducción**.
 
 Características:

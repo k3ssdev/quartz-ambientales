@@ -7,7 +7,6 @@ tags:
   - nivel-intermedio
   - concepto-proceso
 ---
-
 # Punto caliente
 
 Un punto caliente es un área de vulcanismo persistente y de alto flujo térmico que se cree que es causada por una pluma del manto subyacente. Los puntos calientes pueden encontrarse tanto en el interior de las placas tectónicas como en sus bordes.

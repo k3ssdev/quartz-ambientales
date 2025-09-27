@@ -9,7 +9,6 @@ tags:
   - importancia-4
   - clima-oceanografia
 ---
-
 Un **lago** es una depresión de la [[Superficie terrestre]] rellena de [[Agua]] dulce o salobre.
 
 - Puede ser de origen glaciar, tectónico, volcánico o fluvial.

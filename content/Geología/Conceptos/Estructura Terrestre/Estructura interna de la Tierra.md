@@ -8,7 +8,6 @@ tags:
   - importancia-5
   - concepto-central
 ---
-
 La [[Tierra]] está diferenciada en capas según: ###Capas químicas
 
 - [[Corteza]] (oceánica y continental).

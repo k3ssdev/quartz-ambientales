@@ -13,7 +13,6 @@ tags:
   - geosfera
   - concepto-central
 ---
-
 Los **silicatos** son el grupo de [[minerales]] más abundante de la [[corteza terrestre]], formados por **silicio (Si) y oxígeno (O₂)**, a menudo con otros cationes (Al, Mg, Ca, Fe, K, Na).
 
 - Nesosilicatos (ej. olivino).

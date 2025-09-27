@@ -10,7 +10,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 La **Luna** es el satélite natural de la [[Tierra]].
 
 **Origen:**

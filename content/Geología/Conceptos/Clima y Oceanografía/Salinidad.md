@@ -10,7 +10,6 @@ tags:
   - nivel-intermedio
   - importancia-4
 ---
-
 La **salinidad** es la concentración de sales disueltas, principalmente cloruros, en el [[agua]] de [[océanos]] y [[Mar]]es.
 
 - Promedio en océanos: 35 g de sal por litro (35 ‰).

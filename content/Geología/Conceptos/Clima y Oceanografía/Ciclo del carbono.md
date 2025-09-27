@@ -12,7 +12,6 @@ tags:
   - ciclos-biogeoquimicos
   - carbono
 ---
-
 El **ciclo del carbono** es el intercambio constante de carbono entre la [[Atmósfera]], la [[Hidrosfera]], la [[Biosfera]] y la [[Geosfera]].
 
 **Flujos principales:**

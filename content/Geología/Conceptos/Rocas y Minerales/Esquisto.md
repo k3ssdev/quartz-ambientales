@@ -10,7 +10,6 @@ tags:
   - concepto-proceso
   - concepto-central
 ---
-
 El **esquisto** es una [[Roca metamórfica]] foliada de grado medio, formada por la metamorfosis de [[Arcillas]] o [[Lutitas]].
 
 **Características:**

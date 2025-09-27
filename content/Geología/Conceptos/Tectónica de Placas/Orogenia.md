@@ -12,7 +12,6 @@ tags:
   - formacion-montanas
   - concepto-evento
 ---
-
 La **orogenia** es el conjunto de procesos geológicos que originan [[Cordilleras]]. Causas:
 
 - Colisión de [[Placas tectónicas]].

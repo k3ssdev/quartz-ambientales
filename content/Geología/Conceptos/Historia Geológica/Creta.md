@@ -9,7 +9,6 @@ tags:
   - historia-geologica
   - concepto-central
 ---
-
 La **creta** es una variedad de [[Caliza]] muy porosa, blanda y blanca, compuesta casi enteramente por restos microscópicos de [[Plancton]] calcáreo (cocolitos hechos de [[Carbonato cálcico]]).
 
 **Características:**

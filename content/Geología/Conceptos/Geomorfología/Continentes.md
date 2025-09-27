@@ -10,7 +10,6 @@ tags:
   - geomorfologia
   - concepto-central
 ---
-
 Los **continentes** son las grandes masas de tierra emergida de la [[Tierra]].
 
 Características:

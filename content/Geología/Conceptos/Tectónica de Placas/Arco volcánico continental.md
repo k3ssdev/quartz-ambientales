@@ -8,7 +8,6 @@ tags:
   - nivel-intermedio
   - concepto-estructura
 ---
-
 # Arco volcánico continental
 
 Un arco volcánico continental es una cadena de volcanes que se forma en un continente en un borde convergente de tipo oceánico-continental. El magma generado por la subducción asciende a través de la corteza continental.

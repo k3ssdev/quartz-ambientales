@@ -10,7 +10,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 Los **Apalaches** son una [[Cordilleras]] situada en el este de Norteamérica.
 
 Características:

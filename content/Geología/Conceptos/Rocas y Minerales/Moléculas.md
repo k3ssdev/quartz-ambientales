@@ -15,7 +15,6 @@ tags:
   - importancia-4
   - ciclos-biogeoquimicos
 ---
-
 Las **moléculas** son estructuras químicas formadas por la unión de **[[átomos]]** mediante enlaces químicos (iónicos, covalentes, metálicos).
 
 - Unidad mínima de un compuesto químico.

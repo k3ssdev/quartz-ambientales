@@ -10,7 +10,6 @@ tags:
   - efecto-invernadero
   - atm
 ---
-
 El **efecto invernadero** es un fenómeno natural en el que ciertos gases de la [[atmósfera]] absorben radiación infrarroja y retienen calor, manteniendo habitable la [[Tierra]]. ##Principales gases
 
 - [[CO₂]], [[CH₄]] (metano), [[H₂O]] (vapor de agua), [[N₂O]], [[Ozono]] (O₃).

@@ -4,7 +4,6 @@ tags:
   - geografia
   - continente
 ---
-
 # Sudamérica
 
 Sudamérica es un continente atravesado por la línea ecuatorial, con la mayor parte de su superficie en el hemisferio sur. Está situado entre el océano Pacífico al oeste y el océano Atlántico al este.

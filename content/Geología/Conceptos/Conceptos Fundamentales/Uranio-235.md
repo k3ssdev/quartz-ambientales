@@ -11,7 +11,6 @@ tags:
   - dataci
   - conceptos-fundamentales
 ---
-
 El **uranio-235** (²³⁵U) es un [[Isótopos radiactivos|isótopo radiactivo]] del [[Uranio]], único isótopo fisionable natural y clave en [[datación radiométrica]].
 
 - **Vida media**: 703.8 millones de años.

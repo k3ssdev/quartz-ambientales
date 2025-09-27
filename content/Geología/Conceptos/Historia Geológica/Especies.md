@@ -11,7 +11,6 @@ tags:
   - concepto-central
   - biolog
 ---
-
 Una **especie** es la unidad básica de clasificación biológica, definida como un grupo de organismos que pueden cruzarse y producir descendencia fértil.
 
 - Comparten un **genoma** común.

@@ -10,7 +10,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 Las **costas** son las zonas de contacto entre [[Continentes]] y [[Océanos]].
 
 **Procesos:** erosión marina, sedimentación, transporte de arena.

@@ -15,7 +15,6 @@ tags:
   - concepto-central
   - astronom
 ---
-
 El **protosol** fue el estadio temprano del [[Sol]] durante la [[Formación del sistema solar]].
 
 - Núcleo inicial donde comenzaron reacciones de compresión gravitatoria.

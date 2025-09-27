@@ -9,7 +9,6 @@ tags:
   - importancia-2
   - historia-geologica
 ---
-
 Las **rocas** son agregados naturales de [[minerales]] que constituyen la [[corteza terrestre]] y forman parte de la [[geosfera]].
 
 - **[[Rocas ígneas]]** → solidificación de [[magma]] (ej. [[granito]], [[basalto]]).

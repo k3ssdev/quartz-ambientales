@@ -13,7 +13,6 @@ tags:
   - concepto-herramienta
   - concepto-central
 ---
-
 El **método científico** es el procedimiento sistemático que guía la investigación en ciencia, incluida la [[Geología]]. ##Etapas fundamentales
 
 1. **Observación y recogida de datos** → trabajo de campo, laboratorio y modelado.

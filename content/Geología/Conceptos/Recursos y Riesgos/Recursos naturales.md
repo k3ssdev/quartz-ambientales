@@ -10,7 +10,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 Los **recursos naturales geológicos** incluyen:
 
 - Recursos energéticos: carbón, petróleo, gas, uranio.

@@ -11,7 +11,6 @@ tags:
   - importancia-3
   - evoluci
 ---
-
 La **evolución biológica** es el proceso de cambio de las especies a lo largo del tiempo, resultado de variación genética y selección natural.
 
 - Explicada desde [[Charles Darwin]] y confirmada con [[Genética]].

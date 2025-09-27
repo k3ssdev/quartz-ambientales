@@ -14,7 +14,6 @@ tags:
   - importancia-3
   - concepto-proceso
 ---
-
 La **meteorización física** es el proceso de fragmentación de la [[Roca madre]] en partículas más pequeñas **sin alterar su composición química**. ##Agentes principales
 
 - **Cambios de [[temperatura]]** → dilatación y contracción.

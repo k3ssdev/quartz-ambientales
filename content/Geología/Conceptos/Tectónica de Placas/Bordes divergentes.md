@@ -6,7 +6,6 @@ tags:
   - nivel-intermedio
   - concepto-estructura
 ---
-
 # Bordes divergentes
 
 Los bordes divergentes, también conocidos como bordes constructivos, son lugares donde dos placas tectónicas se separan. A medida que las placas se alejan, el material del manto asciende para crear nueva corteza.

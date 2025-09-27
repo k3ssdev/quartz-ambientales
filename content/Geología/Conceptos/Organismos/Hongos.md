@@ -12,7 +12,6 @@ tags:
   - heter
   - eucariotas
 ---
-
 Los **hongos** constituyen un reino de [[Organismos]] eucariotas, heterótrofos, que incluye levaduras, mohos y setas.###Estructura celular
 - **[[Células]] eucariotas**: núcleo definido.
 - **Pared celular**: quitina (no celulosa como [[Plantas]]).

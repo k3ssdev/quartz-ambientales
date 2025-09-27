@@ -8,7 +8,6 @@ tags:
   - importancia-3
   - concepto-central
 ---
-
 Las **inundaciones** son fenómenos naturales en los que grandes volúmenes de [[Agua]] cubren zonas normalmente secas de la [[Superficie terrestre]]. ####Causas principales
 
 - **Fluviales** → desbordamiento de [[Río]]s y formación de [[Llanuras de inundación]].

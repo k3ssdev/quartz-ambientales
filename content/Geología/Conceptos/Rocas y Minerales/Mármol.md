@@ -11,7 +11,6 @@ tags:
   - importancia-4
   - concepto-proceso
 ---
-
 El **mármol** es una [[Roca metamórfica]] que se origina a partir de la recristalización de la [[Caliza]] bajo condiciones de alta temperatura y presión.
 
 **Características:**

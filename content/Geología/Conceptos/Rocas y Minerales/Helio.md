@@ -13,7 +13,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 El **helio** es el segundo elemento más abundante del universo, formado por **fusión nuclear de [[hidrógeno]] en [[estrellas]]**.
 
 - Elemento químico con número atómico 2.

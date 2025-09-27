@@ -14,7 +14,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 Las **estrellas de neutrones** son restos ultradensos del colapso de estrellas masivas que no llegaron a formar [[agujeros negros]].
 
 - Radio pequeño (~10 km) con masa mayor que el [[Sol]].

@@ -11,5 +11,4 @@ tags:
   - importancia-5
   - concepto-central
 ---
-
 Una **placa oceánica** es una [[placa tectónica]] cubierta mayoritariamente por [[Corteza oceánica]]. Ejemplo: Placa de Nazca. Se hunden en subducción → formación de [[Fosas oceánicas]] y [[Volcanes]].

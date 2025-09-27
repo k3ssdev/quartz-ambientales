@@ -12,7 +12,6 @@ tags:
   - concepto-central
   - biolog
 ---
-
 Los **organismos** son seres vivos, constituidos por una o más [[Células]], capaces de realizar funciones vitales (nutrición, relación, reproducción).
 
 - Unicelulares → [[Bacterias]], [[Arqueas]], protozoos.

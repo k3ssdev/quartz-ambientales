@@ -10,7 +10,6 @@ tags:
   - importancia-3
   - concepto-central
 ---
-
 Las **plumas mantélicas** son columnas ascendentes de rocas calientes que se originan en profundidad, desde la [[capa D”]], atravesando el [[manto]] hasta la [[litosfera]].
 
 - Material caliente asciende por diferencia de [[densidad]].

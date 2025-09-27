@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El **Pérmico** es el último periodo del [[Paleozoico]], situado entre **299 Ma y 252 Ma**.
 
 **Características:**

@@ -13,7 +13,6 @@ tags:
   - conceptos-fundamentales
   - concepto-proceso
 ---
-
 La **hipótesis de la nebulosa** explica la [[formación del sistema solar]] y de la [[Tierra]]. ##Proceso
 
 1. Una gran **nebulosa de gas y [[polvo cósmico]]** colapsó por gravedad (~5.000 Ma).

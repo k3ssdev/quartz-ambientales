@@ -11,7 +11,6 @@ tags:
   - nivel-intermedio
   - importancia-5
 ---
-
 Los **puntos calientes** son zonas del interior de la [[Tierra]] donde columnas de magma ascienden de forma fija. Características:
 
 - Producen [[Volcanes]] en medio de placas.

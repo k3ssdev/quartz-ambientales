@@ -10,7 +10,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 Una **cordillera joven** es una cadena montañosa formada recientemente en términos de [[Tiempo geológico]]. Características:
 
 - Altas, escarpadas, con intensa erosión.

@@ -11,7 +11,6 @@ tags:
   - concepto-herramienta
   - concepto-central
 ---
-
 Los **Eones** son las **divisiones más grandes de la [[Escala del tiempo geológico]]**, que abarcan cientos o miles de millones de años.
 Representan las etapas fundamentales en la evolución de la Tierra y la vida.
 

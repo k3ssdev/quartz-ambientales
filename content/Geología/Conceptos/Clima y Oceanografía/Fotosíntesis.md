@@ -13,7 +13,6 @@ tags:
   - clima-oceanografia
   - ciclo-carbono
 ---
-
 La **fotosíntesis** es el proceso biológico mediante el cual organismos como [[fitoplancton]], algas y plantas transforman energía solar en energía química. ##Ecuación general
 
 $$ 6 \, CO_{2} + 6 \, H_{2}O + \text{energía solar} \;\longrightarrow\; C_{6}H_{12}O_{6} + 6 \, O_{2} $$ ##Ecuación respiración celular

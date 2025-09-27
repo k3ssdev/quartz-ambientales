@@ -14,7 +14,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El **Cinturón de Fuego del Pacífico** es una franja que rodea el [[Océano Pacífico]] caracterizada por intensa actividad sísmica y [[Vulcanismo]].
 
 Características:

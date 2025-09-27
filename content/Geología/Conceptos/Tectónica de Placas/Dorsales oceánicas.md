@@ -14,7 +14,6 @@ tags:
   - dorsales-oceanicas
   - concepto-evento
 ---
-
 Las **dorsales oceánicas** son largas cordilleras submarinas (más de 70.000 km de extensión) donde se forma nueva [[Corteza oceánica]].
 
 Características:

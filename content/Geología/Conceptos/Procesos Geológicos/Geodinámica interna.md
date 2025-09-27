@@ -13,7 +13,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 La **geodinámica interna** estudia los procesos que ocurren en el interior de la [[Tierra]], impulsados por el calor interno. Incluye:
 
 - [[Tectónica de placas]].

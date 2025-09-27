@@ -14,7 +14,6 @@ tags:
   - geodin
   - concepto-central
 ---
-
 La **zona de transición** es la región situada entre el [[Manto superior]] y el [[Manto inferior]], a profundidades aproximadas de 410–660 km.
 
 - Presenta cambios de fase en minerales (ej. olivino → wadsleyita → ringwoodita).

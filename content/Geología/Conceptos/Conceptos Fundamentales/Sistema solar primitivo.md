@@ -10,7 +10,6 @@ tags:
   - importancia-5
   - conceptos-fundamentales
 ---
-
 El **sistema solar primitivo** surgió hace unos **4.600 millones de años** a partir de una [[nebulosa]] de [[polvo cósmico]] y gas interestelar.
 
 - Constituía un **disco protoplanetario** alrededor del joven [[Sol]].

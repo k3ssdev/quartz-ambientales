@@ -13,7 +13,6 @@ tags:
   - concepto-herramienta
   - concepto-central
 ---
-
 Los **isótopos radiactivos** son variantes inestables de un [[elemento químico]] que se transforman emitiendo radiación y partículas. ##Ejemplos
 
 - [[Uranio-238]] → Plomo-206.

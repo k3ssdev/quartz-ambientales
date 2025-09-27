@@ -12,7 +12,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 El **potasio-40** es un isótopo radiactivo natural que se desintegra en [[Argón-40]] y [[Calcio-40]].
 
 - Vida media: ≈ 1.3 mil millones de años.

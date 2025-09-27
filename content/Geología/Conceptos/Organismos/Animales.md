@@ -13,7 +13,6 @@ tags:
   - concepto-central
   - animales
 ---
-
 Los **animales** constituyen un reino de [[Organismos]] multicelulares, eucariotas, heterótrofos y con capacidad de movimiento.###Estructura celular
 - **[[Células]] eucariotas**: núcleo definido.
 - **Multicelulares**: excepto algunos casos primitivos.

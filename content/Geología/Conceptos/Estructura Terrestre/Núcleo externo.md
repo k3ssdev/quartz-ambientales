@@ -11,7 +11,6 @@ tags:
   - estructura-terrestre
   - concepto-central
 ---
-
 El **núcleo externo** es la capa líquida de la [[Geosfera]] situada entre el manto y el [[Núcleo interno]]. Características:
 
 - Compuesto de hierro y níquel fundidos.

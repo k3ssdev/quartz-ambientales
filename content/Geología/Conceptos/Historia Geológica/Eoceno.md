@@ -11,7 +11,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El **Eoceno** es la segunda **época del [[Paleógeno]]**, que abarca desde **56 Ma hasta 34 Ma**.
 Conocido por el máximo térmico del Cenozoico y la gran diversificación mamífera.
 

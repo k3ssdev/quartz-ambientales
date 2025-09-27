@@ -11,7 +11,6 @@ tags:
   - dataci
   - conceptos-fundamentales
 ---
-
 El **torio-232** (²³²Th) es un [[Isótopos radiactivos|isótopo radiactivo]] del [[Torio]], elemento clave en [[datación radiométrica]] y fuente de [[energía interna de la Tierra]].
 
 - **Vida media**: 14.05 mil millones de años.

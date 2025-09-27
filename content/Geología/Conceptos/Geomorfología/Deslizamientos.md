@@ -10,7 +10,6 @@ tags:
   - geomorfologia
   - concepto-evento
 ---
-
 Los **deslizamientos** son movimientos de masas de suelo o rocas ladera abajo, originados por la gravedad. Factores:
 
 - Lluvias intensas.

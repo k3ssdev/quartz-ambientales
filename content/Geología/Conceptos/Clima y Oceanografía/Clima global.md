@@ -10,7 +10,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 El **clima global** es el resultado de la interacción entre [[Atmósfera]], [[Océanos]], [[Geosfera]], [[Hielo]] y [[Biosfera]].
 
 **Factores principales:**

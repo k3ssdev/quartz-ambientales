@@ -12,7 +12,6 @@ tags:
   - ciclo-carbono
   - atm
 ---
-
 El **metano (CH₄)** es un gas incoloro e inodoro, formado por un átomo de carbono y cuatro de [[Hidrógeno]]. ##Origen natural
 
 - Fermentación de materia orgánica en ambientes anóxicos (pantanos, [[océanos]]).

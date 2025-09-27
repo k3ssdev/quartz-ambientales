@@ -11,7 +11,6 @@ tags:
   - importancia-3
   - geodinamica-interna
 ---
-
 El **magmatismo** es el conjunto de procesos relacionados con la formación, ascenso y solidificación del [[Magma]]. Resultados:
 
 - [[Rocas ígneas]] intrusivas y extrusivas.

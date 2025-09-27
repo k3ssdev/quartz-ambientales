@@ -12,7 +12,6 @@ tags:
   - ciclos-biogeoquimicos
   - carbono
 ---
-
 El **carbono (C)** es un elemento químico fundamental para la [[vida]], presente en la [[atmósfera]], [[hidrosfera]], [[biosfera]] y [[geosfera]]. ##Reservorios principales
 
 - [[Atmósfera]] → como [[CO₂]].

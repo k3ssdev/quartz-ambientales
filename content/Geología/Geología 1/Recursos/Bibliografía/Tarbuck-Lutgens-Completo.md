@@ -12,9 +12,6 @@ tags:
   - primero-1-geologia-1
   - segundo-1-geologia-2
 ---
-
-# 📖 Ciencias de la Tierra - Edición Completa
-
 ## 📋 Información Bibliográfica
 
 **Título completo:** Ciencias de la Tierra. Una introducción a la geología física  
@@ -117,5 +114,4 @@ tags:
 - **Exámenes:** Como referencia de última consulta
 
 ---
-
 *Referencia bibliográfica completa para el Grado en Ciencias Ambientales - UNED*

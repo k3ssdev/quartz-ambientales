@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El **Silúrico** es el tercer **período del [[Paleozoico]]**, que abarca desde **444 Ma hasta 419 Ma**.
 Marca la recuperación tras la extinción del Ordovícico y la colonización inicial de la tierra firme.
 

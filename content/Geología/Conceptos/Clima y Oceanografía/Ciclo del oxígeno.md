@@ -3,7 +3,6 @@ title: "Ciclo del oxígeno"
 aliases: ["Ciclo del oxigeno"]
 draft: false
 ---
-
 El **ciclo del oxígeno** está estrechamente ligado al [[ciclo del carbono]] y al [[ciclo del agua]].
 
 ## Reservorios

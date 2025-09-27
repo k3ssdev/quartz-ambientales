@@ -14,7 +14,6 @@ tags:
   - concepto-proceso
   - concepto-central
 ---
-
 El **hierro** es un elemento metálico muy abundante en la [[Tierra]] y el universo. ##Origen cósmico
 
 - Se forma en la fusión de estrellas masivas y sobre todo en **[[Supernovas]]**.

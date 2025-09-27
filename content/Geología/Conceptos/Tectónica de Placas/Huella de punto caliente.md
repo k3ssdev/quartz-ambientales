@@ -7,7 +7,6 @@ tags:
   - nivel-intermedio
   - concepto-estructura
 ---
-
 # Huella de punto caliente
 
 Una huella de punto caliente es una cadena de volcanes formada por el paso de una placa litosférica sobre un punto caliente estacionario en el manto. La edad de los volcanes en la cadena aumenta con la distancia al punto caliente actual.

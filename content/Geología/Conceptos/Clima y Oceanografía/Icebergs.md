@@ -11,7 +11,6 @@ tags:
   - glaciares
   - concepto-central
 ---
-
 Los **icebergs** son **bloques de [[hielo]] flotante** que se desprenden de [[glaciares]] o plataformas heladas (calving).
 
 - Compuestos de [[agua]] dulce sólida.

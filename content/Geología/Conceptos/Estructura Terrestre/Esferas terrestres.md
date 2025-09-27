@@ -10,7 +10,6 @@ tags:
   - estructura-terrestre
   - concepto-central
 ---
-
 Las **esferas terrestres** son los grandes componentes del sistema Tierra, interconectados dinámicamente.
 
 - **[[Geosfera]]** → parte sólida: rocas, [[Minerales]], [[Relieve]].

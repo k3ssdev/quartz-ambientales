@@ -12,7 +12,6 @@ tags:
   - geologia1-tema-01
   - fosas-oceanicas
 ---
-
 La **fosa de las Marianas** es la depresión oceánica más profunda de la [[Tierra]], situada en el noroeste del [[Océano Pacífico]].
 
 Características:

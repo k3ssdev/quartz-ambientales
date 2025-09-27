@@ -7,7 +7,6 @@ tags:
   - nivel-avanzado
   - concepto-herramienta
 ---
-
 # Polaridad normal y polaridad invertida (paleomagnetismo)
 
 El campo magnético de la Tierra ha invertido su polaridad en numerosas ocasiones a lo largo de la historia geológica.

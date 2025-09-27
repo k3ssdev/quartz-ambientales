@@ -9,7 +9,6 @@ tags:
   - importancia-4
   - concepto-evento
 ---
-
 Las **catástrofes** son eventos naturales abruptos y de gran magnitud que producen cambios drásticos en el [[medio ambiente]]. ##Ejemplos
 
 - [[Impacto de meteoritos]] → cráter de Chicxulub y extinción K-Pg.

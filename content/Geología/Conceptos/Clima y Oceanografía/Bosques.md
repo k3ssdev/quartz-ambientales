@@ -12,7 +12,6 @@ tags:
   - clima-oceanografia
   - bosques
 ---
-
 Los **bosques** son ecosistemas terrestres dominados por árboles y vegetación densa.
 
 En geología e [[Historia geológica]], su aparición está muy vinculada al [[Carbonífero]], cuando se formaron selvas pantanosas extensas que dieron lugar a grandes acumulaciones de [[Carbón]].

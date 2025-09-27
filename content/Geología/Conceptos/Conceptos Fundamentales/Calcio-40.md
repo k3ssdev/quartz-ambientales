@@ -11,7 +11,6 @@ tags:
   - concepto-central
   - calcio40
 ---
-
 El **calcio-40** es un isótopo estable producto de la desintegración del [[Potasio-40]].
 
 - Representa aprox. 96% de todo el calcio en la [[corteza terrestre]].

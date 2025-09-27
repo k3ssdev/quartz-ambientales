@@ -10,7 +10,6 @@ tags:
   - importancia-3
   - concepto-central
 ---
-
 El **petróleo** es un **combustible fósil** líquido compuesto por una mezcla de hidrocarburos.
 
 **Formación:**

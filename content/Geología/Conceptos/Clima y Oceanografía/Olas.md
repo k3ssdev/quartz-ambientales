@@ -10,7 +10,6 @@ tags:
   - concepto-proceso
   - clima-oceanografia
 ---
-
 Las **olas** son ondulaciones de la superficie del mar generadas principalmente por el viento sobre los [[Océanos]]. Efectos:
 
 - Erosión en [[Costas]].

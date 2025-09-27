@@ -10,7 +10,6 @@ tags:
   - importancia-5
   - concepto-central
 ---
-
 Los **minerales** son **sólidos naturales, inorgánicos, de composición química definida y estructura cristalina ordenada**.
 
 **Características esenciales:**

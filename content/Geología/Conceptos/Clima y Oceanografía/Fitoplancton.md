@@ -13,7 +13,6 @@ tags:
   - clima-oceanografia
   - ciclo-carbono
 ---
-
 El **fitoplancton** es el conjunto de organismos microscópicos vegetales que flotan en el [[agua]] de océanos y lagos.
 
 - Son organismos fotosintéticos → producen oxígeno.

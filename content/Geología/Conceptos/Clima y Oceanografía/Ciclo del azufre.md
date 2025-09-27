@@ -10,7 +10,6 @@ tags:
   - estructura-terrestre
   - concepto-proceso
 ---
-
 El **ciclo del azufre** describe la circulación de este elemento entre [[atmósfera]], [[hidrosfera]], [[geosfera]] y [[biosfera]].
 
 ## Reservorios

@@ -11,7 +11,6 @@ tags:
   - importancia-5
   - concepto-central
 ---
-
 Las **placas tectónicas** son fragmentos rígidos de la [[Litosfera]] que flotan sobre la [[Astenosfera]]. Tipos de límites:
 
 - Divergentes → [[Dorsales oceánicas]].

@@ -11,7 +11,6 @@ tags:
   - importancia-5
   - concepto-central
 ---
-
 La **placa Antártica** es una gran [[Placas tectónicas]] que cubre el continente de la Antártida y parte del océano circundante.
 
 Características:

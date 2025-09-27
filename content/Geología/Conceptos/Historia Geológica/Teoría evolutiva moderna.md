@@ -7,7 +7,6 @@ tags:
   - ruta-tiempo-evolucion
   - proceso-historico
 ---
-
 La **teoría evolutiva moderna** (o **síntesis evolutiva moderna**) une la [[Evolución biológica]] por **selección natural** propuesta por [[Charles Darwin]] con los descubrimientos de la [[genética]] del siglo XX.
 
 - **Mutación**: origen de variabilidad genética.

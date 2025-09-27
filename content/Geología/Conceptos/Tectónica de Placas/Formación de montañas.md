@@ -13,7 +13,6 @@ tags:
   - formacion-montanas
   - concepto-evento
 ---
-
 La **formación de montañas** ocurre principalmente por procesos de [[Orogenia]] debido a la [[Tectónica de placas]]. Mecanismos:
 
 - Colisión de [[Placas tectónicas]].

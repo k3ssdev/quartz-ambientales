@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 Los **combustibles fósiles** son recursos energéticos originados por la descomposición y transformación de restos orgánicos acumulados en la [[Historia geológica]].
 
 **Tipos:**

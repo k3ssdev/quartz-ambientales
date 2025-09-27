@@ -11,7 +11,6 @@ tags:
   - f
   - concepto-central
 ---
-
 La **masa** es la magnitud física que mide la cantidad de materia en un cuerpo.
 
 - Se mide en kilogramos (kg) en el SI.

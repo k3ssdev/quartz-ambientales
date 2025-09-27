@@ -10,7 +10,6 @@ tags:
   - geomorfologia
   - concepto-evento
 ---
-
 Los **derrumbes** son movimientos de masa de bloques de roca y sedimentos que descienden por acción de la [[Gravedad]].
 
 **Características:**

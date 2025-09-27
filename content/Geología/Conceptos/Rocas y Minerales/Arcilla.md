@@ -8,7 +8,6 @@ tags:
   - rocas-minerales
   - ruta-materiales
 ---
-
 # Arcilla
 
 *[Contenido pendiente de desarrollo]*

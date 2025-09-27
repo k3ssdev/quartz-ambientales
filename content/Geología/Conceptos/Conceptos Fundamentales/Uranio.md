@@ -12,7 +12,6 @@ tags:
   - concepto-herramienta
   - concepto-central
 ---
-
 El **uranio** es un elemento radiactivo fundamental para la [[datación absoluta]]. ##Isótopos principales
 
 - ²³⁸U → se desintegra en plomo-206 (vida media: 4.47 Ga).

@@ -12,7 +12,6 @@ tags:
   - conceptos-fundamentales
   - biolog
 ---
-
 La **biología** es la ciencia que estudia la [[vida]] y sus procesos.
 
 - Base de la [[Evolución biológica]] y registro fósil.

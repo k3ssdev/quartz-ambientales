@@ -12,7 +12,6 @@ tags:
   - ciclo-agua
   - atm
 ---
-
 Las **nubes** son acumulaciones visibles de **gotas de [[agua]] líquida o cristales de [[hielo]]** suspendidos en la [[atmósfera]]. ##Formación
 
 - Por **[[evaporación]]** y posterior condensación del vapor de agua.

@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El **Triásico** es el primer **período del [[Mesozoico]]**, que abarca desde **252 Ma hasta 201 Ma**.
 Marca la recuperación de la vida tras la gran extinción del Pérmico y el inicio de la era de los reptiles.
 

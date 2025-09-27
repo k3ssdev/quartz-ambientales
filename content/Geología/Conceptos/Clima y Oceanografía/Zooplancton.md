@@ -10,7 +10,6 @@ tags:
   - importancia-4
   - clima-oceanografia
 ---
-
 El **zooplancton** está formado por organismos animales microscópicos que flotan libremente en los [[océanos]] y forman parte de la [[cadena trófica marina]].
 
 - Incluyen larvas de peces, crustáceos pequeños (copépodos), medusas diminutas, protozoos.

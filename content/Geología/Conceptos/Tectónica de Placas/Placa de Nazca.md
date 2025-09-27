@@ -11,7 +11,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 La **placa de Nazca** es una [[Placa oceánica]] situada en el sureste del [[Océano Pacífico]].
 
 Características:

@@ -9,7 +9,6 @@ tags:
   - estructura-terrestre
   - concepto-central
 ---
-
 La **corteza continental** es la parte de la [[Corteza]] que forma los [[Continentes]]. Características:
 
 - Espesor medio: 35 km (hasta 70 km en montañas).

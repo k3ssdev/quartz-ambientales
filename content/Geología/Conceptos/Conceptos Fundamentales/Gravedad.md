@@ -12,7 +12,6 @@ tags:
   - conceptos-fundamentales
   - concepto-proceso
 ---
-
 La **gravedad** es la fuerza que impulsa los **movimientos en masa** de materiales en pendientes.
 
 **Procesos asociados:**

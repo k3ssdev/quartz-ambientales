@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El **Cámbrico** es el primer periodo del [[Paleozoico]], entre **541–485 Ma**.
 
 **Eventos destacados:**

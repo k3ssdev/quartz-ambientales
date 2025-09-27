@@ -13,7 +13,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 La **Gran Oxidación** (Great Oxidation Event, GOE) fue un acontecimiento crucial en la [[historia geológica]] ocurrido hace unos **~2.400 millones de años**, en el [[Proterozoico]].
 
 ## Concepto estructura

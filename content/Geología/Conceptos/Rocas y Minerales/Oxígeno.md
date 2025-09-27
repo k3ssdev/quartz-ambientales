@@ -13,7 +13,6 @@ tags:
   - concepto-proceso
   - clima-oceanografia
 ---
-
 El **oxígeno (O₂)** es un elemento químico esencial en la [[atmósfera]], la [[vida]] y la [[Geodinámica de la Tierra]].
 
 ## Presencia en la tierra

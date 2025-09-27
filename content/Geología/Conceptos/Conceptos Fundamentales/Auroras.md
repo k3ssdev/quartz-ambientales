@@ -11,7 +11,6 @@ tags:
   - fenomenos
   - conceptos-fundamentales
 ---
-
 Las **auroras** (boreales y australes) son fenómenos luminosos en la alta [[Atmósfera]], producidos por la interacción del [[Campo magnético]] terrestre con partículas cargadas del viento solar.
 
 - Se observan en zonas polares.

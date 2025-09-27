@@ -9,7 +9,6 @@ tags:
   - nivel-intermedio
   - importancia-4
 ---
-
 El **gneis** es una [[Roca metamórfica]] de alto grado, con **bandas alternas claras y oscuras** (minerales félsicos y máficos).
 
 ## Características

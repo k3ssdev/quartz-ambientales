@@ -11,7 +11,6 @@ tags:
   - concepto-proceso
   - concepto-central
 ---
-
 La **superficie terrestre** es la capa externa de la [[Tierra]] donde interactúan los [[Agentes geológicos externos]]: [[Agua]], [[Viento]], [[Gravedad]], [[Glaciares]].
 
 - Es el resultado de la combinación entre [[Geodinámica interna]] (montañas, volcanes) y [[Geodinámica externa]] (erosión, deposición).

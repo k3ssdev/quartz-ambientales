@@ -12,7 +12,6 @@ tags:
   - importancia-3
   - concepto-proceso
 ---
-
 La **meteorización química** es un tipo de [[Meteorización]] donde los minerales de las rocas se transforman o disuelven debido a reacciones químicas.
 
 **Procesos comunes:**

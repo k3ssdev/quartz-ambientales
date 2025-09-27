@@ -10,7 +10,6 @@ tags:
   - estructura-terrestre
   - concepto-central
 ---
-
 La **corteza** es la capa más superficial de la [[Geosfera]].
 
 Tipos:

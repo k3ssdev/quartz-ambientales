@@ -12,7 +12,6 @@ tags:
   - importancia-3
   - concepto-evento
 ---
-
 El **metamorfismo regional** es un tipo de **[[Metamorfismo]]** que ocurre en amplias áreas bajo condiciones de **alta presión y temperaturas elevadas**, normalmente asociado a [[Orogenia]] y [[Colisión de placas tectónicas]].
 
 **Características:**

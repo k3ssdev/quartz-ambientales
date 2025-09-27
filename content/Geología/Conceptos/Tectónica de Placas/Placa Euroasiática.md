@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 La **placa Euroasiática** es una de las mayores [[Placas tectónicas]], que cubre Europa, gran parte de Asia y llega a los océanos Atlántico y Ártico.
 
 Características:

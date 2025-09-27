@@ -4,8 +4,7 @@ tags:
   - tectonica-placas
   - historia-geologica
   - importancia-3
-  - nivel-intermedio
-  - concepto-estructura
+---
 ---
 
 # Supercontinente

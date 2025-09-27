@@ -7,7 +7,6 @@ tags:
   - nivel-intermedio
   - concepto-estructura
 ---
-
 # Valles de rift
 
 Un valle de rift es una depresión alargada y estrecha que se forma a lo largo de un borde divergente. Está limitado por fallas normales a ambos lados.

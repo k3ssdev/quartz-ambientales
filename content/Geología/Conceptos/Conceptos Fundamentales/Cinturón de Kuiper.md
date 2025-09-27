@@ -13,7 +13,6 @@ tags:
   - concepto-central
   - cometas
 ---
-
 El **cinturón de Kuiper** es una región del [[sistema solar]] situada más allá de [[Neptuno]], entre ~30 y 50 UA del [[Sol]].
 
 - Contiene [[cometas]] de periodo corto y planetas enanos (ej. [[Plutón]], Eris, Haumea).

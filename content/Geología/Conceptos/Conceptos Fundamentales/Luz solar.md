@@ -13,7 +13,6 @@ tags:
   - energia
   - conceptos-fundamentales
 ---
-
 La **luz solar** es la energía radiante procedente del [[Sol]], fuente principal de la [[energía solar]] que impulsa los procesos de la [[geodinámica externa]].
 
 - Responsable de la [[fotosíntesis]] → producción primaria en [[zona fótica]].

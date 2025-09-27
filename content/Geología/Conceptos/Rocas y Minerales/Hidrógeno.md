@@ -14,7 +14,6 @@ tags:
   - energia
   - elemento
 ---
-
 El **hidrógeno** es el elemento químico más ligero y abundante del universo.
 
 - Número atómico: 1.

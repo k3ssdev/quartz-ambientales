@@ -6,7 +6,6 @@ tags:
   - nivel-avanzado
   - concepto-proceso
 ---
-
 # Fuerza de empuje de dorsal
 
 La fuerza de empuje de dorsal (ridge push) es otra de las fuerzas que contribuyen al movimiento de las placas. Se debe a la elevación topográfica de las dorsales oceánicas.

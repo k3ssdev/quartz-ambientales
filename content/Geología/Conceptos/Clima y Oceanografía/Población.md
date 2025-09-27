@@ -12,7 +12,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 La **población** hace referencia al conjunto de individuos de una especie que ocupan un mismo espacio en un determinado tiempo. ##En geología y medio ambiente
 
 - **Población humana** → gran influencia sobre el [[Suelo]], los [[ecosistemas terrestres]] y la [[agricultura]].

@@ -12,7 +12,6 @@ tags:
   - nh2
   - importancia-5
 ---
-
 El **NH₂** es el radical químico **amino**, derivado del [[Nitrógeno]].
 
 - Parte fundamental de los **aminoácidos**, que forman proteínas.

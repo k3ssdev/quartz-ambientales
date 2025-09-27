@@ -10,7 +10,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 Los **montes oceánicos** son elevaciones submarinas aisladas, generadas por [[Vulcanismo]] en el fondo de los [[Océanos]].
 
 - Asociados a [[Puntos calientes]].

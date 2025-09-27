@@ -14,7 +14,6 @@ tags:
   - condiciones-fisicas
   - concepto-evento
 ---
-
 La **presión** en geología actúa junto con la [[Temperatura]] como factor determinante de la transformación de las rocas.
 
 **Tipos:**

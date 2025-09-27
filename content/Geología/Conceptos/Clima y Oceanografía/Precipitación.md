@@ -12,7 +12,6 @@ tags:
   - ciclo-agua
   - atm
 ---
-
 La **precipitación** es cualquier forma de [[agua]] que cae desde la [[atmósfera]] a la superficie terrestre. ##Formas
 
 - Lluvia, [[nieve]], granizo, aguanieve.

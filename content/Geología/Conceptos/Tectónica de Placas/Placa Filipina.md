@@ -11,7 +11,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 La **placa Filipina** es una [[Placas tectónicas]] de tamaño intermedio situada al este de Filipinas y al sur de Japón.
 
 Características:

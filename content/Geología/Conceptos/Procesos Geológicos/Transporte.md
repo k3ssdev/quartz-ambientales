@@ -11,7 +11,6 @@ tags:
   - importancia-3
   - concepto-proceso
 ---
-
 En geología, el **transporte** es el desplazamiento de materiales arrancados por la [[Erosión]] desde un lugar de origen hasta una cuenca de sedimentación.
 
 **Agentes:**

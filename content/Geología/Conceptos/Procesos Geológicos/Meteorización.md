@@ -12,7 +12,6 @@ tags:
   - importancia-3
   - concepto-proceso
 ---
-
 La **meteorización** es el proceso de **descomposición y alteración de rocas in situ**, sin transporte.
 
 **Tipos:**

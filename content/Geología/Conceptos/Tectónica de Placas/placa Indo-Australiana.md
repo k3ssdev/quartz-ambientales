@@ -10,7 +10,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 La **placa Indo-Australiana** es una gran [[Placas tectónicas]] que abarca el continente australiano, el océano Índico y parte del Himalaya.
 
 Características:

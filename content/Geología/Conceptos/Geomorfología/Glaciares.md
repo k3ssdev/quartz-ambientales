@@ -10,7 +10,6 @@ tags:
   - concepto-proceso
   - concepto-central
 ---
-
 Los **glaciares** son masas de hielo en movimiento, formadas por acumulación y compactación de nieve. Acciones:
 
 - Erosión glaciar → valles en U.

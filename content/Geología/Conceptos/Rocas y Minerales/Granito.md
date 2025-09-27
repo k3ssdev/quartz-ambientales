@@ -9,7 +9,6 @@ tags:
   - importancia-3
   - concepto-central
 ---
-
 El **granito** es una roca [[Roca ígnea]] **intrusiva**, formada por solidificación lenta del [[Magma]] en profundidad. Características:
 
 - Grano grueso.

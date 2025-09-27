@@ -6,7 +6,6 @@ tags:
   - nivel-avanzado
   - concepto-proceso
 ---
-
 # Fuerza de arrastre de la placa
 
 La fuerza de arrastre de la placa (slab pull) es una de las principales fuerzas impulsoras del movimiento de las placas tectónicas. Se genera por el peso de la porción fría y densa de la litosfera oceánica que se hunde en el manto en una zona de subducción.

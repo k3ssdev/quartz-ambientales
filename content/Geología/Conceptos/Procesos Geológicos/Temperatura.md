@@ -13,7 +13,6 @@ tags:
   - condiciones-fisicas
   - concepto-proceso
 ---
-
 En geología, la **temperatura** es un factor clave que condiciona procesos internos y externos en la [[Tierra]].
 
 **En procesos geológicos:**

@@ -8,7 +8,6 @@ tags:
   - importancia-3
   - concepto-central
 ---
-
 La **hematita** es un [[Minerales]] compuesto por óxido de hierro (Fe₂O₃).
 
 - Color → negro a rojizo, brillo metálico o terroso.

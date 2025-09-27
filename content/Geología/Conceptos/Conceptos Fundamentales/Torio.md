@@ -11,7 +11,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 El **torio** es otro elemento radiactivo usado en [[datación absoluta]].
 
 - Isótopo principal: ²³²Th → se desintegra en plomo-208.

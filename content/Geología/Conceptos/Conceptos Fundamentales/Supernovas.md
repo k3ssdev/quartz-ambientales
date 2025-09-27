@@ -13,7 +13,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 Las **supernovas** son explosiones estelares que marcan el final de la vida de estrellas masivas.
 
 - Liberan elementos pesados como [[hierro]], [[carbono]], [[oxígeno]].

@@ -8,7 +8,6 @@ tags:
   - importancia-3
   - concepto-central
 ---
-
 La **andesita** es una [[Rocas volcánicas|roca volcánica]] de composición intermedia, rica en [[plagioclasa]] y minerales máficos.
 
 - **Composición**: 52-63% de sílice (SiO₂).

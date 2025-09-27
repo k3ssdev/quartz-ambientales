@@ -9,7 +9,6 @@ tags:
   - geomorfologia
   - concepto-central
 ---
-
 Los **Andes** son una de las cadenas montañosas más largas del planeta, situada en la costa occidental de Sudamérica. Origen: resultado de la **subducción** de la [[Placa oceánica]] de Nazca bajo la [[placa tectónica]] Sudamericana. Características:
 
 - Actividad sísmica y [[Vulcanismo]] abundante.

@@ -12,7 +12,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 Los **protoplanetas** son cuerpos planetarios en formación, surgidos de la fusión de [[planetesimales]] en el [[sistema solar primitivo]].
 
 - Mayor tamaño que los planetesimales (~cientos a miles de km).

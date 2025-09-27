@@ -10,7 +10,6 @@ tags:
   - concepto-proceso
   - concepto-central
 ---
-
 El **cuarzo** es un [[Minerales]] formado por **dióxido de silicio (SiO₂)**, el más abundante en la [[Corteza terrestre]].
 
 **Características:**

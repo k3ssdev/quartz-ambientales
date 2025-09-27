@@ -15,7 +15,6 @@ tags:
   - cenozoico
   - aves
 ---
-
 Las **aves** son un grupo de **vertebrados** que evolucionaron a partir de dinosaurios terópodos durante el [[Jurásico]].
 Representan uno de los grupos más exitosos y diversos de vertebrados actuales.
 

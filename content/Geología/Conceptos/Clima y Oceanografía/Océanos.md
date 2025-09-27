@@ -11,7 +11,6 @@ tags:
   - concepto-central
   - clima-oceanografia
 ---
-
 Los **océanos** cubren el 71 % de la superficie de la [[Tierra]].
 
 Características:

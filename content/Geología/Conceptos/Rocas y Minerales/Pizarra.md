@@ -9,7 +9,6 @@ tags:
   - nivel-intermedio
   - importancia-4
 ---
-
 La **pizarra** es una [[Roca metamórfica]] de bajo grado, derivada de la [[Arcilla]] o de [[Rocas sedimentarias]] lutitas.
 
 **Características:**

@@ -11,7 +11,6 @@ tags:
   - estructura-terrestre
   - concepto-central
 ---
-
 La **corteza oceánica** forma el fondo de los [[Océanos]].
 
 ## Características

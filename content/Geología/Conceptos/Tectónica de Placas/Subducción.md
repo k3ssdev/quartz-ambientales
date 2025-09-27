@@ -13,7 +13,6 @@ tags:
   - convergencia
   - concepto-evento
 ---
-
 La **subducción** es un proceso de la [[Tectónica de placas]] por el cual una [[Placa oceánica]] se introduce bajo otra placa (oceánica o continental) y desciende al [[Manto]].
 
 **Características:**

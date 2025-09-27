@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El principio de **horizontalidad original** fue formulado por **Nicolás Steno** (siglo XVII), considerado uno de los padres de la [[Estratigrafía]].
 
 **Enunciado:**

@@ -14,7 +14,6 @@ tags:
   - importancia-3
   - concepto-central
 ---
-
 Los **átomos** son las unidades básicas de la materia, compuestos por:
 
 - **Protones** (carga positiva).

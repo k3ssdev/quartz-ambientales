@@ -12,7 +12,6 @@ tags:
   - deformacion
   - concepto-evento
 ---
-
 Los **plegamientos** son deformaciones **dúctiles** de la [[Corteza terrestre]] en las que los estratos se ondulan en pliegues, sin fracturarse como en [[Fallas]].
 
 **Tipos principales:**

@@ -12,7 +12,6 @@ tags:
   - concepto-herramienta
   - concepto-central
 ---
-
 La **datación radiométrica** es un método de [[datación absoluta]] que determina la edad de rocas y restos midiendo la desintegración de [[Isótopos radiactivos]]. ##Principio
 
 - Los isótopos **inestables (radiactivos)** se transforman a una tasa conocida en isótopos **estables (productos de desintegración)**.

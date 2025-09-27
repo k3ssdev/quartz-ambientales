@@ -10,7 +10,6 @@ tags:
   - nivel-intermedio
   - importancia-3
 ---
-
 La **riolita** es una [[Rocas volcánicas|roca volcánica]] [[félsica]] de composición ácida, equivalente volcánico del [[granito]].###Composición
 - **Sílice (SiO₂)**: >70% (muy ácida).
 - **Minerales principales**: [[cuarzo]], [[feldespato potásico]], [[plagioclasa]].

@@ -12,7 +12,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 Los **neutrones** son partículas subatómicas sin carga, presentes en el núcleo de los [[átomos]].
 
 - Masa similar a un protón.

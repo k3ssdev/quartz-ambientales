@@ -10,7 +10,6 @@ tags:
   - importancia-4
   - concepto-proceso
 ---
-
 Las **arcillas** son **minerales del grupo de los filosilicatos**, formados por la meteorización de [[Feldespato]] y otros minerales.
 
 **Características:**

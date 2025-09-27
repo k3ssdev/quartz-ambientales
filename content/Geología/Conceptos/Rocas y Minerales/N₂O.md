@@ -12,7 +12,6 @@ tags:
   - ciclo-nitrogeno
   - atm
 ---
-
 El **óxido nitroso (N₂O)** es un gas con potente efecto de calentamiento atmosférico. ##Origen
 
 - Procesos microbiológicos en [[suelo]] → [[ciclo del nitrógeno]] (desnitrificación).

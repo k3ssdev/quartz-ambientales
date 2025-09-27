@@ -12,7 +12,6 @@ tags:
   - concepto-central
   - arg
 ---
-
 El **argón** es un gas noble, inerte, abundante en la [[atmósfera]] (~1%). ##Isótopos importantes
 
 - [[Argón-40]]: estable, producto de desintegración del [[Potasio-40]].

@@ -10,7 +10,6 @@ tags:
   - concepto-proceso
   - concepto-central
 ---
-
 Los **valles fluviales** son valles en forma de “V” formados por la **[[Erosión fluvial]]** de los [[Río]].
 
 - Muestran terrazas, meandros y [[Llanuras de inundación]].

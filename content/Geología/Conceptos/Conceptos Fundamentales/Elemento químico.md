@@ -11,7 +11,6 @@ tags:
   - elemento-qu
   - conceptos-fundamentales
 ---
-
 Un **elemento químico** es una sustancia pura formada por átomos que tienen el mismo número de protones en su núcleo (número atómico).###Propiedades atómicas
 - **Número atómico (Z)**: cantidad de protones.
 - **Masa atómica**: promedio ponderado de isótopos.

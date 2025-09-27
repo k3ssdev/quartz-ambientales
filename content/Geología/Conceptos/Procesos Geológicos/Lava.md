@@ -12,7 +12,6 @@ tags:
   - geodinamica-interna
   - concepto-evento
 ---
-
 La **lava** es el [[Magma]] que alcanza la superficie terrestre durante una erupción volcánica. Tipos:
 
 - Fluida (basáltica).

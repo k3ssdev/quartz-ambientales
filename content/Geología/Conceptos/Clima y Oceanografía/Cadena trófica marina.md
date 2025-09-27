@@ -12,7 +12,6 @@ tags:
   - estructura-terrestre
   - clima-oceanografia
 ---
-
 La **cadena trófica marina** es el conjunto de relaciones de alimentación que sostienen los ecosistemas oceánicos, iniciándose en la [[zona fótica]].
 
 ## Niveles tróficos

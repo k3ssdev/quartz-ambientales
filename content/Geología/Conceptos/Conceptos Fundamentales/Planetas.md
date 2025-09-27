@@ -10,7 +10,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 Los **planetas** son cuerpos celestes que orbitan una estrella(en nuestro caso, el [[Sol]]) y cumplen los siguientes criterios según la UAI:
 
 1. Orbita alrededor del Sol.

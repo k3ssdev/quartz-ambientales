@@ -9,7 +9,6 @@ tags:
   - conceptos-fundamentales
   - concepto-central
 ---
-
 El **Sol** es una estrella de tipo G2 que constituye el 99,8 % de la masa del [[Sistema Solar]]. Funciones:
 
 - Fuente principal de energía → impulsa el [[Clima]] y el [[Ciclo del agua]].

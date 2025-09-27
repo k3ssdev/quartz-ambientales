@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El **Mesozoico** es la **era intermedia del [[Fanerozoico]]**, entre **252 Ma y 66 Ma**, entre el [[Paleozoico]] y el [[Cenozoico]]. Es conocida como la **“era de los dinosaurios”**.
 
 **División en periodos:**

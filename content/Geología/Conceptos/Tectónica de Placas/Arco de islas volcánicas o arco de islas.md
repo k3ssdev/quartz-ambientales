@@ -8,7 +8,6 @@ tags:
   - nivel-intermedio
   - concepto-estructura
 ---
-
 # Arco de islas volcánicas o arco de islas
 
 Un arco de islas volcánicas (o simplemente arco de islas) es una cadena de islas de origen volcánico que se forma en un borde convergente de tipo oceánico-oceánico. Se sitúan en la placa superior, paralelos a la fosa oceánica.

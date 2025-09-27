@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El **Cenozoico** es la era más reciente del [[Fanerozoico]], desde hace 66 Ma hasta la actualidad.
 
 **División en periodos:**

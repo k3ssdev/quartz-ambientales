@@ -11,7 +11,6 @@ tags:
   - conceptos-fundamentales
   - astronom
 ---
-
 La **astronomía** es la ciencia que estudia los cuerpos celestes, su dinámica y evolución.
 
 - Origen del [[Sistema Solar]] y la [[formación de la Tierra]].

@@ -10,7 +10,6 @@ tags:
   - importancia-4
   - concepto-proceso
 ---
-
 La **cuarcita** es una [[Roca metamórfica]] de origen no foliado, formada por la **recristalización de [[arenisca]] cuarzosa**.
 
 **Características:**

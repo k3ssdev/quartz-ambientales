@@ -6,7 +6,6 @@ tags:
   - nivel-intermedio
   - concepto-estructura
 ---
-
 # Bordes de falla transformante
 
 Los bordes de falla transformante, o bordes pasivos, son lugares donde dos placas tectónicas se deslizan horizontalmente una junto a la otra. En estos bordes, la litosfera no se crea ni se destruye.

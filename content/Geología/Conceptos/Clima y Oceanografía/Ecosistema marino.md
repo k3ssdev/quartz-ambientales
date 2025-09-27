@@ -9,7 +9,6 @@ tags:
   - proceso-dinamico
   - ruta-procesos-dinamicos
 ---
-
 El **ecosistema marino** comprende todos los organismos, hábitats y procesos que ocurren en los [[océanos]], que cubren más del **70% de la superficie de la [[Tierra]]**.
 
 ## Estructura del ecosistema

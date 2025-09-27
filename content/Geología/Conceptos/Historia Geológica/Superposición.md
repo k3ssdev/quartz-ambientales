@@ -12,7 +12,6 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-
 El principio de **superposición de estratos** es uno de los principios fundamentales de la [[Estratigrafía]] y la [[Datación relativa]].
 
 **Enunciado:**

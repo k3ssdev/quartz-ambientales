@@ -13,7 +13,6 @@ tags:
   - concepto-central
   - atm
 ---
-
 El **ozono (O₃)** es una forma alotrópica del [[oxígeno]], formada por tres átomos de O. ##En la atmósfera
 
 - **Estratósfera** → forma la **capa de ozono**, que absorbe radiación ultravioleta (UV) y protege la [[vida]].

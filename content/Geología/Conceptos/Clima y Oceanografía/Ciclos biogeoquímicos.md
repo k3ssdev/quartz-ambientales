@@ -12,7 +12,6 @@ tags:
   - estructura-terrestre
   - concepto-proceso
 ---
-
 Los **ciclos biogeoquímicos** son procesos naturales mediante los cuales los elementos químicos esenciales (C, N, O, P, H, S) circulan entre la **[[geosfera]]**, la **[[atmósfera]]**, la **[[hidrosfera]]** y la **[[biosfera]]**. La materia se transforma y se recicla, mientras que la **energía fluye** de manera unidireccional (del [[Sol]] hacia los seres vivos y se pierde como calor).
 
 ## Principales ciclos

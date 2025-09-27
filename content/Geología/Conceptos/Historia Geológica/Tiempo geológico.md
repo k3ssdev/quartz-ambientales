@@ -12,7 +12,6 @@ tags:
   - concepto-herramienta
   - concepto-central
 ---
-
 Marco temporal que permite entender la evolución de la [[Tierra]]. Se caracteriza por abarcar **millones y miles de millones de años**, mucho más extensos que la escala humana. 
 
 Métodos:

@@ -12,7 +12,6 @@ tags:
   - conceptos-fundamentales
   - concepto-proceso
 ---
-
 La **química** estudia la composición, estructura y transformaciones de la [[Materia]].
 
 - Formación de [[minerales]] y [[rocas]].

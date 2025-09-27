@@ -10,7 +10,6 @@ tags:
   - historia-geologica
   - concepto-central
 ---
-
 Los **meteoritos** son fragmentos de [[Asteroides]] o [[Cometas]] que alcanzan la superficie de la [[Tierra]] tras atravesar la [[atmósfera]].
 
 - Rocosos (condritas).

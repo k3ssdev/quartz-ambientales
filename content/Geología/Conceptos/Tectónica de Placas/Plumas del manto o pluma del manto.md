@@ -7,7 +7,6 @@ tags:
   - nivel-avanzado
   - concepto-proceso
 ---
-
 # Plumas del manto o pluma del manto
 
 Una pluma del manto es una columna ascendente de material rocoso anormalmente caliente que se origina en las profundidades del manto, posiblemente en el límite entre el núcleo y el manto.

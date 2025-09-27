@@ -8,7 +8,6 @@ tags:
   - f
   - conceptos-fundamentales
 ---
-
 La **materia** es todo aquello que tiene [[masa]] y ocupa espacio. ##Niveles de organización
 
 - [[Átomos]] → forman [[moléculas]].

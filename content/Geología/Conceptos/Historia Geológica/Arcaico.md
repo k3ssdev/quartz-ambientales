@@ -10,7 +10,6 @@ tags:
   - historia-geologica
   - concepto-central
 ---
-
 El **Arcaico** es el segundo **eón del [[Precámbrico]]**, que abarca desde **4.000 Ma hasta 2.500 Ma**.
 Es el período en el que se establecieron las primeras formas de vida y se formaron las primeras masas continentales estables.
 

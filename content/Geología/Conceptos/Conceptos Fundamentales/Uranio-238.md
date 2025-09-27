@@ -11,7 +11,6 @@ tags:
   - dataci
   - conceptos-fundamentales
 ---
-
 El **uranio-238** (²³⁸U) es el [[Isótopos radiactivos|isótopo radiactivo]] más abundante del [[Uranio]] y el más importante en [[datación radiométrica]] geológica.
 
 - **Vida media**: 4.468 mil millones de años.

@@ -11,7 +11,6 @@ tags:
   - geomorfologia
   - concepto-evento
 ---
-
 Las **cordilleras** son grandes cadenas de montañas formadas por procesos de [[Orogenia]]. Tipos:
 
 - **Jóvenes**: altas y activas (ej. [[Andes]], [[Himalaya]]).

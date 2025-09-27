@@ -12,7 +12,6 @@ tags:
   - glaciares
   - ciclo-agua
 ---
-
 La **nieve** es la forma sólida del [[agua]] que se deposita en forma de cristales de hielo al precipitar desde la [[atmósfera]] cuando la [[temperatura]] es inferior a 0 °C.
 
 - Se forma a partir de la condensación y congelación de vapor de agua en nubes.
