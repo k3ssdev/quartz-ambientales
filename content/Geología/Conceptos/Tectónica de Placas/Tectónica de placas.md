@@ -1,73 +1,32 @@
 ---
-title: Tectónica de placas
-aliases:
-  - Tectonica de placas
+title: "Tectónica de placas"
 draft: false
 tags:
-  - teoria
-  - tectonica-placas
   - ruta-procesos-dinamicos
-  - importancia-5
-  - concepto-evento
-  - concepto-central
-  - geologia1-tema-02
   - primero-1-geologia-1
+  - nivel-basico
+  - importancia-5
+  - concepto-central
+  - tectonica-placas
 ---
-La **teoría de la tectónica de placas** es el modelo científico que explica cómo la capa externa de la Tierra, la litosfera, está dividida en grandes segmentos o placas que se mueven continuamente, interactuando entre sí. Es el concepto unificador de la geología moderna, ya que explica la mayoría de los fenómenos geológicos a gran escala.
+La **tectónica de placas** es la teoría unificadora de la geología que explica que la capa externa rígida de la Tierra, la [[Litosfera]], está dividida en varias "placas" que se mueven sobre una capa dúctil subyacente, la [[Astenosfera]].
 
+Esta teoría explica la distribución de terremotos, volcanes y cadenas montañosas, así como la [[Deriva continental]].
 
-### Componentes Clave
+### Tipos de Bordes de Placa
 
-La teoría se basa en dos capas principales de la [[Tierra]]:
+El movimiento e interacción de las [[Placa litosférica|placas]] ocurre en sus bordes.
 
-- **[[Litosfera]]:** La capa rígida exterior que incluye la corteza y la parte superior del manto. Esta es la capa que está dividida en placas.
+- **[[Borde divergente]]**: Las placas se separan. Se crea nueva litosfera.
+	- Ejemplo: [[Centro de expansión]] en una [[Sistema de elevadas dorsales oceánicas|dorsal oceánica]].
+- **[[Borde convergente]]**: Las placas chocan. Una placa puede deslizarse debajo de otra ([[Zona de subducción]]).
+	- Se forman [[Arco volcánico continental|arcos volcánicos continentales]], [[Arco de islas|arcos de islas]] y [[Fosa submarina|fosas submarinas]].
+- **[[Borde de falla transformante]]**: Las placas se deslizan lateralmente una junto a la otra.
 
-- **[[Astenosfera]]:** Una capa del manto superior que es semi-fluida y plástica. Las placas de la litosfera flotan y se deslizan lentamente sobre esta capa.
+### Fuerzas Motrices
 
-El movimiento de estas placas es impulsado por las **[[corrientes de convección]]** que se generan en el manto, donde el material caliente sube y el material más frío y denso se hunde, creando un ciclo continuo.
+Las principales fuerzas que mueven las placas son:
 
-
-### Tipos de Límites de Placas
-
-Las interacciones en los límites entre las placas son las que causan la mayor parte de los fenómenos geológicos. Hay tres tipos principales:
-
-
-#### **[[Límites Divergentes]]**
-
-![[Límite divergente de placas.png]]
-*Fuente: Adaptado de [Límites de placas tectónicas - GeologiaWeb](https://geologiaweb.com/planeta-tierra/limites-placas-tectonicas/)*
-
-En estos límites, las placas se **separan**. A medida que se alejan, el magma del manto asciende para llenar el espacio, solidificándose y formando nueva [[corteza oceánica]]. Este proceso da origen a:
-
-- **[[Dorsales oceánicas]]** (como la [[Dorsal del Atlántico Medio]]).
-
-- **[[Vulcanismo]] y [[fallas]]** a lo largo de la grieta.
-
-![[Expansión del fondo oceánico.png]]
-*Fuente: Adaptado de [Límites de placas tectónicas - GeologiaWeb](https://geologiaweb.com/planeta-tierra/limites-placas-tectonicas/)*
-
-
-#### **Límites Convergentes**
-
-
-![[Límite convergente de placas.png]]
-*Fuente: Adaptado de [Límites de placas tectónicas - GeologiaWeb](https://geologiaweb.com/planeta-tierra/limites-placas-tectonicas/)*
-
-En estos límites, las placas **colisionan**. La interacción depende del tipo de corteza involucrada:
-
-- **[[Convergencia Oceánica-Continental]]:** La placa oceánica más densa se subduce (se desliza debajo) de la placa continental. Esto forma **[[cadenas montañosas volcánicas]]** (como la Cordillera de los Andes) y **fosas oceánicas** (como la Fosa de Perú-Chile).
-
-- **[[Convergencia Oceánica-Oceánica]]:** Una placa oceánica se subduce debajo de la otra, creando **[[arcos de islas volcánicas]]** (como Japón) y [[fosas oceánicas]].
-
-- **[[Convergencia Continental-Continental]]:** Ambas placas se pliegan y arrugan, formando **grandes cadenas montañosas** no volcánicas (como el Himalaya).
-
-#### **Límites Transformantes**
-
-
-![[Límite transformante de placas.png]]
-*Fuente: Adaptado de [Límites de placas tectónicas - GeologiaWeb](https://geologiaweb.com/planeta-tierra/limites-placas-tectonicas/)*
-
-En estos límites, las placas **se deslizan lateralmente** una al lado de la otra. No se crea ni se destruye corteza. La fricción y la acumulación de tensión en estos límites son las principales causas de los **[[terremotos]]** (como la Falla de San Andrés).
-
-![[Fallas transformantes.png]]
-*Fuente: Adaptado de [Límites de placas tectónicas - GeologiaWeb](https://geologiaweb.com/planeta-tierra/limites-placas-tectonicas/)*
+- **[[Fuerza de empuje de dorsal]]**: Generada en los bordes divergentes.
+- **[[Fuerza de arrastre de la placa]]**: Generada en las zonas de subducción.
+- El movimiento de convección en el manto también juega un papel crucial, pudiendo manifestarse en superficie como [[Pluma de manto]] y [[Punto caliente|puntos calientes]].

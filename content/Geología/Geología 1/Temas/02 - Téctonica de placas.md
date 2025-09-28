@@ -1,91 +1,86 @@
 ---
 title: "02 - Tectónica de Placas"
-aliases: ["02 - Tectonica de Placas", "Tectónica de placas: el desarrollo de una revolución científica"]
+aliases: ["02 - Tectonica de Placas", "Tectónica de placas: el desarrollo de una revolución científica", "Tema 2 Tectónica de Placas"]
 draft: false
 weight: 1
 tags:
   - temas
   - geologia-1
   - tectonica-placas
-  - geologia1-tema-02
   - importancia-5
   - nivel-intermedio
   - proceso-dinamico
   - concepto-central
   - primero-1-geologia-1
 ---
-## 1. Deriva Continental: La idea precursora
+## 1. [[Deriva continental]]: La idea precursora
 
-A principios del siglo XX, **Alfred Wegener**, meteorólogo y geofísico, propuso la [[deriva continental]]. Su hipótesis central era la existencia de un [[supercontinente]] llamado [[Pangea]] que comenzó a fragmentarse hace unos 200 millones de años, durante el [[Mesozoico]].
+A principios del siglo XX, Alfred Wegener estableció la hipótesis de la **[[Deriva continental]]**. Su principio fundamental era que un [[Supercontinente]] denominado [[Pangaea]] empezó a fragmentarse hace unos 200 millones de años, y los continentes resultantes "migraron" a sus posiciones actuales.
 
-### Evidencias de la Deriva Continental
+### Evidencias de Wegener
 
-Wegener presentó varias pruebas para sostener su teoría:
-1.  **El rompecabezas continental**: La forma en que las costas de [[Sudamérica]] y [[África]], especialmente los bordes de sus [[plataforma continental|plataformas continentales]], encajan casi a la perfección.
-2.  **Fósiles coincidentes**: Se encontraron [[fósiles]] idénticos en continentes hoy separados por vastos [[océanos]]. El ejemplo más notable es el *Mesosaurus*, un reptil de agua dulce hallado en Sudamérica y África. Otro caso importante es el del helecho *Glossopteris*, encontrado en África, Australia, India, Sudamérica y la [[Antártida]].
-3.  **Tipos de rocas y estructuras geológicas**: Existen [[cadenas montañosas]] que parecen continuar de un continente a otro, como los [[Apalaches]] en Norteamérica, que coinciden en edad y estructura con montañas en las Islas Británicas y Escandinavia.
-4.  **Evidencias paleoclimáticas**: Se hallaron pruebas de [[glaciaciones]] del Paleozoico tardío en regiones que hoy son tropicales (Sudamérica, África, India y Australia). Al mismo tiempo, se formaron grandes depósitos de [[carbón]] en pantanos tropicales del hemisferio norte.
+Wegener presentó un conjunto de pruebas multidisciplinares para sostener su teoría:
+1.  **Ajuste de los continentes**: La forma en que las costas de [[Sudamérica]] y [[África]], especialmente los bordes de sus plataformas continentales, encajan como las piezas de un rompecabezas.
+2.  **Evidencia fósil**: Se encontraron [[Fósiles]] idénticos en continentes hoy separados por vastos [[Océanos]]. El ejemplo más notable es el *Mesosaurus*, un reptil de agua dulce, y el helecho *Glossopteris*, hallados en Sudamérica, África, India, Australia y la Antártida, lo que indicaba que estas masas de tierra estuvieron conectadas.
+3.  **Tipos y estructuras de rocas**: Existen [[Cordilleras]] que parecen continuar de un continente a otro, como los [[Apalaches]] en Norteamérica, que coinciden en edad y estructura con montañas en las Islas Británicas y Escandinavia.
+4.  **Climas antiguos (Paleoclimas)**: Se hallaron pruebas de [[Glaciaciones]] del Paleozoico tardío en regiones que hoy son tropicales (Sudamérica, África, India y Australia). Al mismo tiempo, se formaron grandes depósitos de [[Carbón]] en pantanos tropicales del hemisferio norte.
 
-## 2. El Gran Debate y el Rechazo Inicial
+### El Rechazo Inicial
 
-La hipótesis de Wegener fue ampliamente rechazada porque **no pudo proponer un mecanismo impulsor creíble**. Sugirió que las fuerzas de marea del [[Sol]] y la [[Luna]] movían los continentes, pero el físico Harold Jeffrys demostró que estas fuerzas eran insuficientes. Además, su idea de que los [[continentes]] se abrían paso a través de la [[corteza oceánica]] fue descartada.
+La principal objeción a la hipótesis de Wegener fue su incapacidad para proponer un mecanismo impulsor aceptable. Sugirió que las fuerzas de marea y la rotación de la Tierra movían los continentes, pero los físicos demostraron que estas fuerzas eran insuficientes.
 
-En 1928, **Arthur Holmes** fue el primero en sugerir un mecanismo plausible: el flujo de material caliente dentro del [[manto]].
+## 2. Nuevas Evidencias: [[Paleomagnetismo]] y [[Expansión del fondo oceánico]]
 
-## 3. Nuevas Evidencias: Paleomagnetismo y Exploración Oceánica
+A mediados del siglo XX, la exploración del fondo oceánico y el estudio del magnetismo de las rocas proporcionaron las pruebas que le faltaban a Wegener.
 
-A mediados de los años 50, surgieron dos líneas de evidencia que revitalizaron la idea:
+### [[Paleomagnetismo]]
 
-### Paleomagnetismo
+El estudio del **[[Paleomagnetismo]]** (o magnetismo fósil) fue clave. Las rocas ígneas, al enfriarse por debajo del **[[Punto de Curie]]**, registran la dirección del campo magnético terrestre, conservando un **[[Magnetismo remanente]]**.
+- **Deriva Polar Aparente**: Los estudios revelaron que la posición de los polos magnéticos parecía haber migrado a lo largo del tiempo. Al comparar las curvas de deriva de distintos continentes, no coincidían. Sin embargo, al reensamblar los continentes en la posición de [[Pangaea]], las curvas encajaban, demostrando que eran los continentes los que se habían movido, no los polos.
 
-El [[paleomagnetismo]] estudia el [[campo magnético]] de la Tierra conservado en las [[rocas]].
-* **Magnetismo Remanente**: Las [[rocas ígneas]] como el [[basalto]] contienen magnetita. Al enfriarse por debajo del [[punto de Curie]] (unos 585 °C), los granos de este mineral se alinean con el campo magnético terrestre de ese momento, conservando un registro de su dirección.
-* **Deriva Polar Aparente**: Los estudios de [[paleomagnetismo]] en rocas de distintas edades revelaron que la posición de los polos magnéticos parecía haber migrado a lo largo del tiempo. Al comparar las trayectorias de migración polar aparente de Norteamérica y Europa, se observó que eran similares pero estaban separadas. Sin embargo, al unir los continentes (como en [[Pangea]]), las curvas coincidían , lo que demostraba que eran los continentes los que se habían movido, no los polos.
+### [[Expansión del fondo oceánico]]
 
-### Expansión del Fondo Oceánico
+En 1962, Harry Hess propuso la hipótesis de la **[[Expansión del fondo oceánico]]**. Basándose en que la corteza oceánica era muy joven y los sedimentos muy delgados, sugirió que se genera continuamente nuevo fondo oceánico en las dorsales (como una "cinta transportadora") y que el fondo oceánico antiguo y denso se consume en las **[[Fosas oceánicas|fosas submarinas]]**.
 
-Tras la Segunda Guerra Mundial, la exploración del fondo oceánico reveló:
-* Un **[[sistema de elevadas dorsales oceánicas]]** que se extiende por todos los océanos.
-* Que la [[corteza oceánica]] no tenía más de **180 millones de años** de antigüedad, mucho más joven que la corteza continental.
-* Los [[sedimentos]] en el fondo oceánico eran sorprendentemente delgados.
+La prueba definitiva vino con el descubrimiento de las **[[Inversión geomagnética|inversiones geomagnéticas]]**. Usando un **[[Magnetómetro]]**, se detectaron bandas simétricas de **[[Polaridad normal y polaridad invertida (paleomagnetismo)|polaridad normal e invertida]]** a ambos lados de las crestas de las dorsales. Esto confirmó la expansión y permitió crear la **[[Escala de tiempo magnético]]**.
 
-**Harry Hess** (principios de los 60) propuso la hipótesis de la [[expansión del fondo oceánico]]. Sugirió que las [[dorsales oceánicas]] eran centros donde el material del manto ascendía, creaba nueva [[corteza oceánica]] y empujaba el fondo oceánico existente hacia los lados, como una cinta transportadora. Propuso que la corteza oceánica vieja era destruida en las [[fosas oceánicas|fosas submarinas]].
+## 3. [[Tectónica de placas]]: El nuevo paradigma
 
-La prueba definitiva vino con el descubrimiento de las **inversiones geomagnéticas**. La [[Tierra]] ha invertido su polaridad magnética periódicamente. La lava que solidifica durante estos períodos registra la polaridad del momento. Los magnetómetros revelaron bandas simétricas de [[polaridad normal]] y [[polaridad invertida]] a ambos lados de las dorsales oceánicas, confirmando la expansión.
+En 1968, la [[Deriva continental]] y la [[Expansión del fondo oceánico]] se unificaron en la teoría de la **[[Tectónica de placas]]**.
 
-## 4. Tectónica de Placas: El Nuevo Paradigma
+La teoría postula que la capa externa rígida de la Tierra, la **[[Litosfera]]**, está dividida en fragmentos denominados **[[Placas tectónicas|placas tectónicas]]** (o **[[Placas tectónicas|placas litosféricas]]**). Estas placas se mueven sobre una capa más débil y dúctil del manto, la **[[Astenosfera]]**. Las placas se deforman principalmente en sus bordes, donde se concentra la actividad geológica.
 
-En 1968, se unificaron la [[deriva continental]] y la [[expansión del fondo oceánico]] en la teoría de la [[tectónica de placas]].
-* **[[Litosfera]] y [[Astenosfera]]**: La teoría postula que la [[Litosfera]] (capa rígida externa) está fragmentada en [[placas tectónicas|placas litosféricas]]. Estas placas "flotan" y se mueven sobre la [[Astenosfera]], una capa más dúctil y débil del [[manto superior]].
-* **Placas Principales**: Se reconocen siete placas principales que cubren el 94% de la superficie terrestre: [[Placa Norteamericana]], [[Placa Sudamericana]], [[Placa del Pacífico]], [[Placa Africana]], [[Placa Euroasiática]], [[placa Indo-Australiana|Australiana-India]] y [[Placa Antártica]].
+Se reconocen siete placas principales que cubren el 94% de la superficie: la del Pacífico, Norteamericana, Sudamericana, Africana, Euroasiática, Australiana-India y Antártica.
 
 ### Bordes de Placa
 
 Las interacciones entre placas ocurren en sus bordes, donde se concentra la actividad sísmica y volcánica. Hay tres tipos principales:
-1.  **[[Bordes Divergentes]] (Constructivos)**: Dos placas se separan.
-    * **[[Dorsales oceánicas]]**: Son los principales [[centro de expansión|centros de expansión]], donde el [[magma]] asciende para formar nueva [[corteza oceánica]]. A lo largo de sus crestas se forman los [[valle de rift|valles de rift]].
-    * **[[Rift Continental]]**: Cuando la divergencia ocurre dentro de un continente, se forma un [[rift continental]] que puede evolucionar hasta crear una nueva cuenca oceánica. El Rift de África Oriental es un ejemplo actual.
+1.  **[[Borde divergente|Bordes Divergentes]] (Constructivos)**: Dos placas se separan.
+    * **Dorsales oceánicas**: El **[[Sistema de elevadas dorsales oceánicas]]** es el principal **[[Centros de expansión|centro de expansión]]**, donde se crea nueva corteza. A lo largo de su eje se forma un **[[Valles de rift|valle de rift]]**.
+    * **Rifting continental**: La fragmentación de un continente puede formar un **[[Rift continental]]** y, eventualmente, una nueva cuenca oceánica.
 
-2.  **[[Bordes Convergentes]] (Destructivos)**: Dos placas colisionan. El proceso de una placa hundiéndose bajo otra se llama [[subducción]], y ocurre en [[zona de subducción|zonas de subducción]] marcadas por [[fosas oceánicas|fosas submarinas]].
-    * **Convergencia Oceánica-Continental**: La [[placa oceánica]], más densa, subduce bajo la continental. Se produce [[fusión parcial]] del manto, generando [[magma]] que asciende y forma un **[[arco volcánico continental]]**, como los [[Andes]].
-    * **Convergencia Oceánica-Oceánica**: Una placa oceánica subduce bajo otra. Se forman volcanes en el fondo marino que pueden emerger como islas, creando un **[[arco de islas volcánicas]]** (o [[arco de islas]]), como las Islas Aleutianas o Japón.
-    * **Convergencia Continental-Continental**: Ninguna placa subduce completamente debido a su baja densidad. La colisión produce una intensa deformación y plegamiento, creando grandes [[cordilleras]] como el [[Himalaya]] (colisión de la [[placa Indo-Australiana|placa India]] con la [[Placa Euroasiática]]).
+2.  **[[Borde convergente]] (Destructivos)**: Dos placas chocan. Una placa se hunde bajo la otra en un proceso llamado **[[Zonas de subducción|subducción]]**, que ocurre en una **[[Zona de subducción]]** marcada por una **[[Fosas oceánicas|fosa submarina]]**.
+    * **Oceánica-Continental**: La placa oceánica subduce, provocando **[[Fusión parcial (manto)|fusión parcial]]** en el manto y la formación de un **[[Arco volcánico continental]]** (ej. los Andes).
+    * **Oceánica-Oceánica**: Una placa oceánica subduce bajo otra, creando un **[[Arco de islas volcánicas o arco de islas|arco de islas volcánicas]]** (o **[[Arco de islas volcánicas o arco de islas|arco de islas]]**), como Japón.
+    * **Continental-Continental**: La colisión de dos continentes provoca la formación de grandes cordilleras, como el Himalaya.
 
-3.  **[[Bordes de falla transformante]] (Pasivos)**: Dos placas se deslizan horizontalmente una junto a la otra, sin crear ni destruir [[litosfera]]. La mayoría se encuentra en el fondo oceánico, conectando segmentos de [[dorsales oceánicas]] y formando **[[zona de fractura|zonas de fractura]]**. La **[[falla transformante]]** de San Andrés en California es un ejemplo continental famoso.
+3.  **[[Borde de falla transformante]] (Pasivos)**: Dos placas se deslizan horizontalmente una junto a la otra a lo largo de una **[[Falla transformante]]**, sin crear ni destruir litosfera. La mayoría conecta segmentos de dorsales y forma **[[Zonas de fractura]]** inactivas. Un ejemplo continental es la Falla de San Andrés.
 
-## 5. Pruebas y Medición del Movimiento
+## 4. Pruebas adicionales de la Tectónica de Placas
 
-* **Sondeos Oceánicos**: El *Deep Sea Drilling Project* confirmó que la edad del fondo oceánico aumenta con la distancia a la dorsal, y que no hay rocas de más de 180 millones de años.
-* **[[Puntos Calientes]] y [[Pluma de manto|Plumas del Manto]]**: Son áreas de vulcanismo activo (como [[Hawái]]) causadas por el ascenso de material caliente desde el manto profundo ([[pluma de manto]]). A medida que una placa se mueve sobre un [[punto caliente]] fijo, se crea una cadena de volcanes (una **[[huella de punto caliente]]**) que registra la dirección y velocidad de la placa.
-* **Mediciones Modernas (GPS)**: El Sistema de Posicionamiento Global (GPS) permite medir directamente el movimiento de las placas con precisión milimétrica, confirmando las velocidades calculadas por otros métodos.
+Además de las evidencias magnéticas, la teoría se apoya en:
+1.  **Distribución de terremotos**: La actividad sísmica se concentra en los bordes de placa.
+2.  **Edad y espesor de los sedimentos oceánicos**: Sondeos oceánicos (como el *Deep Sea Drilling Project*) confirmaron que la edad de la corteza y el espesor de los sedimentos aumentan con la distancia a la dorsal. No se ha encontrado corteza oceánica de más de 180 millones de años.
+3.  **[[Puntos calientes|Puntos calientes]]**: El vulcanismo intraplaca, causado por una **[[Plumas del manto o pluma del manto|pluma de manto]]** fija, crea cadenas de islas (una **[[Huella de punto caliente]]**) que trazan el movimiento de la placa (ej. Hawái).
+4.  **Mediciones GPS**: Confirman directamente el movimiento y la velocidad de las placas.
 
-## 6. Mecanismos Impulsores del Movimiento de Placas
+## 5. Mecanismos Impulsores del Movimiento de Placas
 
-El motor subyacente es la **[[convección mantélica|convección en el manto]]**: el material caliente asciende y el frío y denso se hunde. Las placas no son pasajeras pasivas, sino una parte activa del sistema. Las principales fuerzas que actúan sobre las placas son:
-* **[[Fuerza de arrastre de la placa]] (Slab Pull)**: Es la fuerza principal. Las placas oceánicas frías y densas que subducen en el manto tiran del resto de la placa.
-* **[[Fuerza de empuje de dorsal]] (Ridge Push)**: Es una fuerza gravitacional menor. La posición elevada de las dorsales hace que las placas se "deslicen" hacia abajo por sus flancos.
-* **Arrastre del Manto**: El flujo en la [[astenosfera]] puede potenciar o resistir el movimiento de la placa.
+El motor principal es la **convección en el manto**, un proceso de transferencia de calor donde el material caliente y menos denso asciende, y el material frío y más denso se hunde. Las placas litosféricas son parte activa de este sistema. Las fuerzas clave que mueven las placas son:
+- **[[Fuerza de arrastre de la placa]] (Slab Pull)**: Es la fuerza dominante. La litosfera oceánica fría y densa que subduce en el manto es más densa que la astenosfera circundante, por lo que se hunde por gravedad y "tira" del resto de la placa.
+- **[[Fuerza de empuje de dorsal]] (Ridge Push)**: Es una fuerza gravitacional secundaria. La posición elevada de la cresta de las dorsales oceánicas hace que las placas se "deslicen" lateralmente hacia abajo por sus flancos.
+- **Arrastre del manto y succión**: El flujo convectivo en la astenosfera puede ayudar o resistir el movimiento de la placa. La "succión de la placa" es una fuerza que surge del arrastre de una placa en subducción sobre el manto adyacente.
 
-Existen diferentes modelos para la convección del manto, como la **estratificación a 660 km** o la **convección de todo el manto**, aunque ninguno explica completamente todas las observaciones.
+Existen diferentes modelos para describir cómo funciona esta [[Convección mantélica|convección]]: algunos proponen una **estratificación a 660 km**, con dos sistemas separados (manto superior e inferior), mientras que otros defienden un modelo de **convección de todo el manto**. El debate científico sobre cuál modelo es más preciso sigue abierto.
 
 ---
