@@ -14,10 +14,10 @@ tags:
 
 ### Conceptos Centrales
 - [[Tierra]] - Concepto más enlazado (91 enlaces entrantes)
-- [[Tectónica de placas]] - Concepto más enlazado (50 enlaces entrantes)
+- [[Tectónica de placas]] - Concepto más enlazado (52 enlaces entrantes)
 - [[Rocas sedimentarias]] - Concepto más enlazado (38 enlaces entrantes)
 - [[agua]] - Concepto más enlazado (33 enlaces entrantes)
-- [[Fósiles]] - Concepto más enlazado (32 enlaces entrantes)
+- [[Fósiles]] - Concepto más enlazado (33 enlaces entrantes)
 
 ### Procesos Fundamentales
 - [[Terremotos]] - Proceso dinámico central
@@ -27,10 +27,10 @@ tags:
 - [[Agua]] - Proceso dinámico central
 
 ### Estructura Terrestre
+- [[Litosfera]] - Elemento estructural
 - [[Manto]] - Elemento estructural
 - [[Geosfera]] - Elemento estructural
 - [[Placas tectónicas]] - Elemento estructural
-- [[Litosfera]] - Elemento estructural
 - [[Atmósfera]] - Elemento estructural
 
 
@@ -47,7 +47,7 @@ tags:
 
 ### 🌍 Tectónica de Placas (61 archivos)
 - Enlaces internos: 240 | Enlaces externos: 375
-- Conceptos clave: [[Tectónica de placas]], [[Terremotos]], [[Placas tectónicas]]
+- Conceptos clave: [[Tectónica de placas]], [[Terremotos]], [[Litosfera]]
 
 ### 🪨 Rocas y Minerales (54 archivos)
 - Enlaces internos: 155 | Enlaces externos: 457
@@ -63,11 +63,11 @@ tags:
 
 ### 🏔️ Geomorfología (28 archivos)
 - Enlaces internos: 46 | Enlaces externos: 121
-- Conceptos clave: [[Glaciares]], [[Cordilleras]], [[Andes]]
+- Conceptos clave: [[Cordilleras]], [[Glaciares]], [[Andes]]
 
 ### 🏗️ Estructura Terrestre (23 archivos)
 - Enlaces internos: 52 | Enlaces externos: 162
-- Conceptos clave: [[Manto]], [[Geosfera]], [[Litosfera]]
+- Conceptos clave: [[Litosfera]], [[Manto]], [[Geosfera]]
 
 ### ⚠️ Recursos y Riesgos (3 archivos)
 - Enlaces internos: 12 | Enlaces externos: 54
@@ -81,14 +81,14 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
+**🗿 Geología I** (362 conceptos)
+- Enlaces entrantes: 2314
+- Conceptos destacados: 240
+- Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
+
 **🧬 Biología I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
-
-**🗿 Geología I** (361 conceptos)
-- Enlaces entrantes: 2268
-- Conceptos destacados: 239
-- Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
 
 **🔢 Matemáticas I** (1 conceptos)
 - Enlaces entrantes: 0
@@ -96,7 +96,7 @@ tags:
 
 #### 2C - 2° Cuatrimestre
 
-**📐 Matemáticas II** (1 conceptos)
+**🦠 Biología II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -104,7 +104,7 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🦠 Biología II** (1 conceptos)
+**📐 Matemáticas II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] ()
+1. [[SISTEMA_ETIQUETADO]] (intermedio)
 
 ### Ruta: Procesos Dinamicos
 1. [[Geodinámica de la Tierra]] (intermedio)
@@ -182,10 +182,10 @@ tags:
 ## 🏷️ Tags Más Utilizados
 
 ### Top Tags del Vault
-- `#primero-1-geologia-1` (361 archivos)
-- `#nivel-intermedio` (235 archivos)
+- `#primero-1-geologia-1` (362 archivos)
+- `#nivel-intermedio` (236 archivos)
 - `#concepto-central` (218 archivos)
-- `#importancia-5` (164 archivos)
+- `#importancia-5` (165 archivos)
 - `#proceso-dinamico` (136 archivos)
 - `#ruta-procesos-dinamicos` (136 archivos)
 - `#nivel-basico` (125 archivos)

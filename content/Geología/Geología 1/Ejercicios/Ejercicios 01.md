@@ -1,10 +1,9 @@
 ---
-title: "Ejercicios 00"
+title: "Ejercicios 01"
 draft: false
 weight: 30
 ---
-
-# Ejercicios Tema 0 - Introducción a la Geología
+# Ejercicios Tema 01 - Introducción a la Geología
 *Respuestas completas con enlaces internos*
 
 ## 1. La Geología se divide tradicionalmente en dos amplias áreas. Nombre y describa esas dos subdivisiones.
@@ -211,7 +210,7 @@ Este ciclo demuestra que las [[Rocas]] están en un proceso constante de transfo
 
 ---
 
-## 📚 Conceptos Clave del Tema 0
+## 📚 Conceptos Clave del Tema 1
 
 ### 🌍 Esferas Terrestres
 - [[Atmósfera]] • [[Hidrosfera]] • [[Geosfera]] • [[Biosfera]]
@@ -235,7 +234,7 @@ Este ciclo demuestra que las [[Rocas]] están en un proceso constante de transfo
 
 ## 🔗 Enlaces de Navegación
 
-← [[Planning Geología I - Curso 2025-26]] | [[00 - Introducción a la Geología]] | [[Ejercicios 02]] →
+← [[Planning Geología I - Curso 2025-26]] | [[01 - Introducción a la Geología]] | [[Ejercicios 02]] →
 
 ---
 
