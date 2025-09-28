@@ -2,6 +2,14 @@
 title: "Ejercicios 02"
 draft: false
 weight: 31
+tags:
+  - ejercicios
+  - geologia1-tema-02
+  - tectonica-placas
+  - repaso
+  - importancia-5
+  - nivel-intermedio
+  - primero-1-geologia-1
 ---
 # Ejercicios Tema 02 - Tectónica de Placas
 *Respuestas completas con enlaces internos*
@@ -206,7 +214,3 @@ A ambos modelos les falta explicar completamente todas las características obse
 ## 🔗 Enlaces de Navegación
 
 ← [[Ejercicios 01]] | [[02 - Téctonica de placas]] | [[Ejercicios 03]] →
-
----
-
-**Tags:** #ejercicios #geologia1-tema-02 #tectonica-placas #fichas-estudio #repaso #importancia-5 #nivel-intermedio #primero-1-geologia-1

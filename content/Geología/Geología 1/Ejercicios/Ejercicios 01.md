@@ -2,6 +2,14 @@
 title: "Ejercicios 01"
 draft: false
 weight: 30
+tags:
+  - ejercicios
+  - geologia1-tema-01
+  - introduccion-geologia
+  - repaso
+  - importancia-5
+  - nivel-intermedio
+  - primero-1-geologia-1
 ---
 # Ejercicios Tema 01 - Introducción a la Geología
 *Respuestas completas con enlaces internos*
@@ -235,7 +243,3 @@ Este ciclo demuestra que las [[Rocas]] están en un proceso constante de transfo
 ## 🔗 Enlaces de Navegación
 
 ← [[Planning Geología I - Curso 2025-26]] | [[01 - Introducción a la Geología]] | [[Ejercicios 02]] →
-
----
-
-**Tags:** #ejercicios #geologia1-tema-01 #introduccion-geologia #fichas-estudio #repaso #importancia-5 #nivel-intermedio #primero-1-geologia-1

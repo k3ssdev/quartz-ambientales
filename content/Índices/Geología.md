@@ -14,24 +14,24 @@ tags:
 
 ### Conceptos Centrales
 - [[Tierra]] - Concepto más enlazado (91 enlaces entrantes)
-- [[Tectónica de placas]] - Concepto más enlazado (52 enlaces entrantes)
+- [[Tectónica de placas]] - Concepto más enlazado (54 enlaces entrantes)
 - [[Rocas sedimentarias]] - Concepto más enlazado (38 enlaces entrantes)
+- [[Fósiles]] - Concepto más enlazado (34 enlaces entrantes)
 - [[agua]] - Concepto más enlazado (33 enlaces entrantes)
-- [[Fósiles]] - Concepto más enlazado (33 enlaces entrantes)
 
 ### Procesos Fundamentales
 - [[Terremotos]] - Proceso dinámico central
 - [[Vulcanismo]] - Proceso dinámico central
 - [[Orogenia]] - Proceso dinámico central
 - [[Erosión]] - Proceso dinámico central
-- [[Agua]] - Proceso dinámico central
+- [[Magma]] - Proceso dinámico central
 
 ### Estructura Terrestre
 - [[Litosfera]] - Elemento estructural
+- [[Placas tectónicas]] - Elemento estructural
 - [[Manto]] - Elemento estructural
 - [[Geosfera]] - Elemento estructural
-- [[Placas tectónicas]] - Elemento estructural
-- [[Atmósfera]] - Elemento estructural
+- [[Astenosfera]] - Elemento estructural
 
 
 
@@ -47,7 +47,7 @@ tags:
 
 ### 🌍 Tectónica de Placas (61 archivos)
 - Enlaces internos: 240 | Enlaces externos: 375
-- Conceptos clave: [[Tectónica de placas]], [[Terremotos]], [[Litosfera]]
+- Conceptos clave: [[Tectónica de placas]], [[Litosfera]], [[Terremotos]]
 
 ### 🪨 Rocas y Minerales (54 archivos)
 - Enlaces internos: 155 | Enlaces externos: 457
@@ -81,14 +81,14 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
-**🗿 Geología I** (362 conceptos)
-- Enlaces entrantes: 2314
-- Conceptos destacados: 240
-- Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
-
 **🧬 Biología I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
+
+**🗿 Geología I** (363 conceptos)
+- Enlaces entrantes: 2346
+- Conceptos destacados: 242
+- Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
 
 **🔢 Matemáticas I** (1 conceptos)
 - Enlaces entrantes: 0
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (intermedio)
+1. [[SISTEMA_ETIQUETADO]] ()
 
 ### Ruta: Procesos Dinamicos
 1. [[Geodinámica de la Tierra]] (intermedio)
@@ -172,7 +172,7 @@ tags:
 1. [[SISTEMA_ETIQUETADO]] → [[index]] → [[Hawái]]
 
 ### Ruta 2: Procesos Dinámicos
-1. [[Vulcanismo]] → [[Agua]] → [[Orogenia]]
+1. [[Vulcanismo]] → [[Orogenia]] → [[Terremotos]]
 
 ### Ruta 3: Materiales
 1. [[Rocas sedimentarias]]
@@ -182,16 +182,16 @@ tags:
 ## 🏷️ Tags Más Utilizados
 
 ### Top Tags del Vault
-- `#primero-1-geologia-1` (362 archivos)
-- `#nivel-intermedio` (236 archivos)
+- `#primero-1-geologia-1` (363 archivos)
+- `#nivel-intermedio` (237 archivos)
 - `#concepto-central` (218 archivos)
-- `#importancia-5` (165 archivos)
-- `#proceso-dinamico` (136 archivos)
+- `#importancia-5` (166 archivos)
 - `#ruta-procesos-dinamicos` (136 archivos)
+- `#proceso-dinamico` (135 archivos)
 - `#nivel-basico` (125 archivos)
 - `#importancia-3` (111 archivos)
 - `#importancia-4` (101 archivos)
-- `#concepto-evento` (84 archivos)
+- `#concepto-evento` (83 archivos)
 - `#ruta-tiempo-evolucion` (70 archivos)
 - `#geologia1-tema-01` (70 archivos)
 - `#ruta-fundamentos` (67 archivos)
