@@ -85,14 +85,14 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🔢 Matemáticas I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
 **🗿 Geología I** (363 conceptos)
 - Enlaces entrantes: 2346
 - Conceptos destacados: 242
 - Principales: [[Células]], [[Hongos]], [[Animales]]
+
+**🔢 Matemáticas I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
 
 #### 2C - 2° Cuatrimestre
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] ()
+1. [[SISTEMA_ETIQUETADO]] (intermedio)
 
 ### Ruta: Tiempo Evolucion
 1. [[Células]] (avanzado)
