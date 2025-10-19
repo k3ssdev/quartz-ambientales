@@ -92,4 +92,4 @@ tags:
 - **Tags únicos**: 30
 - **Sistema de tags**: 99.7% cumplimiento
 
-*Última actualización: 28/09/2025*
+*Última actualización: 19/10/2025*
