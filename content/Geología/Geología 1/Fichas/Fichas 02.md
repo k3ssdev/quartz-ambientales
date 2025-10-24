@@ -95,7 +95,7 @@ Las placas se deslizan horizontalmente una junto a la otra. No se crea ni se des
 ## 12. ¿Cómo se forma un arco volcánico continental y un arco de islas?
 
 - **[[Arco volcánico continental]]**: Se forma cuando una placa oceánica subduce bajo una continental (ej. los Andes).
-- **[[Arco de islas volcánicas o arco de islas|Arco de islas volcánicas]]**: Se forma cuando una placa oceánica subduce bajo otra oceánica (ej. Japón).
+- **[[Arco de islas volcánicas|Arco de islas volcánicas]]**: Se forma cuando una placa oceánica subduce bajo otra oceánica (ej. Japón).
 
 ---
 
@@ -121,7 +121,7 @@ Un **[[Puntos calientes|punto caliente]]** es un área de vulcanismo persistente
 - [[Borde divergente]] • [[Borde convergente]] • [[Borde de falla transformante]] • [[Zona de subducción]]
 
 ### 🌋 Fenómenos Asociados
-- [[Expansión del fondo oceánico]] • [[Arco volcánico continental]] • [[Arco de islas volcánicas o arco de islas|Arco de islas]] • [[Punto caliente]]
+- [[Expansión del fondo oceánico]] • [[Arco volcánico continental]] • [[Arco de islas volcánicas|Arco de islas]] • [[Punto caliente]]
 
 ### 🔬 Evidencias
 - [[Paleomagnetismo]] • [[Inversión geomagnética]] • [[Magnetismo remanente]] • [[Escala de tiempo magnético]]

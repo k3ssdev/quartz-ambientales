@@ -61,7 +61,7 @@ Las interacciones entre placas ocurren en sus bordes, donde se concentra la acti
 
 2.  **[[Borde convergente]] (Destructivos)**: Dos placas chocan. Una placa se hunde bajo la otra en un proceso llamado **[[Zonas de subducción|subducción]]**, que ocurre en una **[[Zona de subducción]]** marcada por una **[[Fosas oceánicas|fosa submarina]]**.
     * **Oceánica-Continental**: La placa oceánica subduce, provocando **[[Fusión parcial (manto)|fusión parcial]]** en el manto y la formación de un **[[Arco volcánico continental]]** (ej. los Andes).
-    * **Oceánica-Oceánica**: Una placa oceánica subduce bajo otra, creando un **[[Arco de islas volcánicas o arco de islas|arco de islas volcánicas]]** (o **[[Arco de islas volcánicas o arco de islas|arco de islas]]**), como Japón.
+    * **Oceánica-Oceánica**: Una placa oceánica subduce bajo otra, creando un **[[Arco de islas volcánicas|arco de islas volcánicas]]** (o **[[Arco de islas volcánicas|arco de islas]]**), como Japón.
     * **Continental-Continental**: La colisión de dos continentes provoca la formación de grandes cordilleras, como el Himalaya.
 
 3.  **[[Borde de falla transformante]] (Pasivos)**: Dos placas se deslizan horizontalmente una junto a la otra a lo largo de una **[[Falla transformante]]**, sin crear ni destruir litosfera. La mayoría conecta segmentos de dorsales y forma **[[Zonas de fractura]]** inactivas. Un ejemplo continental es la Falla de San Andrés.

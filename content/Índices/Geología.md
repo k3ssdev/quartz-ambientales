@@ -46,7 +46,7 @@ tags:
 - Conceptos clave: [[Fósiles]], [[Historia geológica]], [[Evolución de la vida]]
 
 ### 🌍 Tectónica de Placas (61 archivos)
-- Enlaces internos: 240 | Enlaces externos: 375
+- Enlaces internos: 241 | Enlaces externos: 375
 - Conceptos clave: [[Tectónica de placas]], [[Litosfera]], [[Terremotos]]
 
 ### 🪨 Rocas y Minerales (54 archivos)
@@ -81,14 +81,14 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
+**🧬 Biología I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
 **🗿 Geología I** (363 conceptos)
 - Enlaces entrantes: 2346
 - Conceptos destacados: 242
 - Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
-
-**🧬 Biología I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
 
 **🔢 Matemáticas I** (1 conceptos)
 - Enlaces entrantes: 0
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (intermedio)
+1. [[SISTEMA_ETIQUETADO]] (avanzado)
 
 ### Ruta: Procesos Dinamicos
 1. [[Geodinámica de la Tierra]] (intermedio)

@@ -114,7 +114,7 @@ El proceso de deriva continental (hoy entendido como [[Tectónica de placas]]) i
 ## 15. Compare un arco volcánico continental y un arco de islas volcánicas.
 
 - **[[Arco volcánico continental]]**: Se forma en un continente cuando una placa oceánica subduce bajo una continental. El magma asciende y crea una cadena de volcanes en tierra (ej. los Andes).
-- **[[Arco de islas volcánicas o arco de islas|Arco de islas volcánicas]]**: Se forma cuando una placa oceánica subduce bajo otra. Los volcanes crecen desde el fondo marino y emergen como una cadena de islas (ej. Japón).
+- **[[Arco de islas volcánicas|Arco de islas volcánicas]]**: Se forma cuando una placa oceánica subduce bajo otra. Los volcanes crecen desde el fondo marino y emergen como una cadena de islas (ej. Japón).
 
 ---
 
@@ -201,7 +201,7 @@ A ambos modelos les falta explicar completamente todas las características obse
 - [[Borde divergente]] • [[Borde convergente]] • [[Borde de falla transformante]] • [[Zona de subducción]]
 
 ### 🌋 Fenómenos Asociados
-- [[Expansión del fondo oceánico]] • [[Arco volcánico continental]] • [[Arco de islas volcánicas o arco de islas|Arco de islas]] • [[Punto caliente]]
+- [[Expansión del fondo oceánico]] • [[Arco volcánico continental]] • [[Arco de islas volcánicas|Arco de islas]] • [[Punto caliente]]
 
 ### 🔬 Evidencias
 - [[Paleomagnetismo]] • [[Inversión geomagnética]] • [[Magnetismo remanente]] • [[Escala de tiempo magnético]]

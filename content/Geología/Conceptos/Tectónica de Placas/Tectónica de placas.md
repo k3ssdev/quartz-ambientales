@@ -20,7 +20,7 @@ El movimiento e interacción de las [[Placa litosférica|placas]] ocurre en sus 
 - **[[Borde divergente]]**: Las placas se separan. Se crea nueva litosfera.
 	- Ejemplo: [[Centro de expansión]] en una [[Sistema de elevadas dorsales oceánicas|dorsal oceánica]].
 - **[[Borde convergente]]**: Las placas chocan. Una placa puede deslizarse debajo de otra ([[Zona de subducción]]).
-	- Se forman [[Arco volcánico continental|arcos volcánicos continentales]], [[Arco de islas|arcos de islas]] y [[Fosa submarina|fosas submarinas]].
+	- Se forman [[Arco volcánico continental|arcos volcánicos continentales]], [[Arco de islas volcánicas]] y [[Fosa submarina|fosas submarinas]].
 - **[[Borde de falla transformante]]**: Las placas se deslizan lateralmente una junto a la otra.
 
 ### Fuerzas Motrices
