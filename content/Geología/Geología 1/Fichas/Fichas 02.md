@@ -101,7 +101,7 @@ Las placas se deslizan horizontalmente una junto a la otra. No se crea ni se des
 
 ## 13. ¿Qué es un punto caliente?
 
-Un **[[Puntos calientes|punto caliente]]** es un área de vulcanismo persistente causada por una **[[Plumas del manto o pluma del manto|pluma de manto]]** ascendente y fija. A medida que una placa se mueve sobre él, se forma una cadena de volcanes, como las islas de Hawái.
+Un **[[Puntos calientes|punto caliente]]** es un área de vulcanismo persistente causada por una **[[Plumas del manto|pluma de manto]]** ascendente y fija. A medida que una placa se mueve sobre él, se forma una cadena de volcanes, como las islas de Hawái.
 
 ---
 

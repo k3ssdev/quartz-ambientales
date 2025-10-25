@@ -46,7 +46,7 @@ tags:
 - Conceptos clave: [[Fósiles]], [[Historia geológica]], [[Evolución de la vida]]
 
 ### 🌍 Tectónica de Placas (61 archivos)
-- Enlaces internos: 241 | Enlaces externos: 375
+- Enlaces internos: 246 | Enlaces externos: 382
 - Conceptos clave: [[Tectónica de placas]], [[Litosfera]], [[Terremotos]]
 
 ### 🪨 Rocas y Minerales (54 archivos)
@@ -65,8 +65,8 @@ tags:
 - Enlaces internos: 46 | Enlaces externos: 121
 - Conceptos clave: [[Cordilleras]], [[Glaciares]], [[Andes]]
 
-### 🏗️ Estructura Terrestre (23 archivos)
-- Enlaces internos: 52 | Enlaces externos: 162
+### 🏗️ Estructura Terrestre (22 archivos)
+- Enlaces internos: 52 | Enlaces externos: 155
 - Conceptos clave: [[Litosfera]], [[Manto]], [[Geosfera]]
 
 ### ⚠️ Recursos y Riesgos (3 archivos)
@@ -81,12 +81,8 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
-**🧬 Biología I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
 **🗿 Geología I** (363 conceptos)
-- Enlaces entrantes: 2346
+- Enlaces entrantes: 2360
 - Conceptos destacados: 242
 - Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
 
@@ -94,17 +90,21 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
+**🧬 Biología I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
 #### 2C - 2° Cuatrimestre
+
+**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
 
 **🦠 Biología II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
 **📐 Matemáticas II** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
-**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (avanzado)
+1. [[SISTEMA_ETIQUETADO]] (basico)
 
 ### Ruta: Procesos Dinamicos
 1. [[Geodinámica de la Tierra]] (intermedio)
@@ -144,8 +144,8 @@ tags:
 1. [[Energía interna de la Tierra]] (intermedio)
 2. [[Atmósfera]] (intermedio)
 3. [[Esferas terrestres]] (intermedio)
-4. [[Hidrosfera]] (intermedio)
-5. [[Manto]] (basico)
+4. [[Convección del manto]] (intermedio)
+5. [[Hidrosfera]] (intermedio)
 
 ### Ruta: Tiempo Evolucion
 1. [[Evolución de la vida]] (intermedio)
@@ -189,13 +189,13 @@ tags:
 - `#ruta-procesos-dinamicos` (136 archivos)
 - `#proceso-dinamico` (135 archivos)
 - `#nivel-basico` (125 archivos)
-- `#importancia-3` (111 archivos)
+- `#importancia-3` (110 archivos)
 - `#importancia-4` (101 archivos)
 - `#concepto-evento` (83 archivos)
 - `#ruta-tiempo-evolucion` (70 archivos)
 - `#geologia1-tema-01` (70 archivos)
 - `#ruta-fundamentos` (67 archivos)
-- `#concepto-proceso` (66 archivos)
+- `#concepto-proceso` (65 archivos)
 - `#historia-geologica` (65 archivos)
 
 
@@ -203,4 +203,4 @@ tags:
 ---
 
 *Sistema generado automáticamente basado en análisis de tags de Obsidian*
-*Última actualización: 24/10/2025*
+*Última actualización: 25/10/2025*

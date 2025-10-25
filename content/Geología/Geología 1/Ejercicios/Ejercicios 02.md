@@ -179,7 +179,7 @@ La **fuerza de arrastre de la placa (Slab Pull)** se considera la fuerza dominan
 
 ## 24. ¿Qué papel se piensa que desempeñan las plumas del manto en el flujo convectivo del manto?
 
-Se piensa que las **[[Plumas del manto o pluma del manto|plumas del manto]]** son columnas de material caliente que ascienden desde las profundidades del manto (posiblemente desde el límite con el núcleo). Son una manifestación de la convección y se cree que transportan calor hacia la superficie, contribuyendo al flujo general del manto.
+Se piensa que las **[[Plumas del manto|plumas del manto]]** son columnas de material caliente que ascienden desde las profundidades del manto (posiblemente desde el límite con el núcleo). Son una manifestación de la convección y se cree que transportan calor hacia la superficie, contribuyendo al flujo general del manto.
 
 ---
 
@@ -207,7 +207,7 @@ A ambos modelos les falta explicar completamente todas las características obse
 - [[Paleomagnetismo]] • [[Inversión geomagnética]] • [[Magnetismo remanente]] • [[Escala de tiempo magnético]]
 
 ### 💪 Fuerzas Motrices
-- [[Fuerza de arrastre de la placa]] • [[Fuerza de empuje de dorsal]] • [[Convección mantélica]]
+- [[Fuerza de arrastre de la placa]] • [[Fuerza de empuje de dorsal]] • [[Convección del manto]]
 
 ---
 

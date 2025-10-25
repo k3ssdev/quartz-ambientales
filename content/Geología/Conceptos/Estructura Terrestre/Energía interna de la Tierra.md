@@ -16,9 +16,7 @@ La **energía interna** proviene principalmente de:
 - Calor remanente de la [[formación de la Tierra]].
 - Desintegración de isótopos radiactivos ([[Uranio]], [[Torio]], [[Potasio-40]]). ##Procesos que alimenta
 
-- [[Convección mantélica]].
-- [[Plumas mantélicas]].
+- [[Convección del manto]].
+- [[Plumas del manto]].
 - [[Tectónica de placas]].
 - [[Magmatismo]], [[orogenia]], [[terremotos]], [[vulcanismo]].
-
-ía-interna #geodinámica-interna #manto

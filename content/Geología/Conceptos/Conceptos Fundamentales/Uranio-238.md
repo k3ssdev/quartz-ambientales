@@ -34,7 +34,7 @@ El **uranio-238** (²³⁸U) es el [[Isótopos radiactivos|isótopo radiactivo]]
 - **Aplicación**: termocronología, historia térmica.###Calor radiogénico
 - **Principal fuente**: de calor radiactivo terrestre.
 - **Contribución**: ~40% del calor interno actual.
-- **Procesos**: impulsa [[convección mantélica]], [[tectónica de placas]]. ###Distribución
+- **Procesos**: impulsa [[Convección del manto]], [[tectónica de placas]]. ###Distribución
 - **Corteza continental**: concentrado en granitos.
 - **Minerales accesorios**: circón, apatito, monacita.
 - **Depósitos económicos**: uraninita, coffinita. ##Aplicaciones adicionales ###Desequilibrio radiactivo

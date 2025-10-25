@@ -18,4 +18,4 @@ Las **plumas mantélicas** son columnas ascendentes de rocas calientes que se or
 - Mecanismo de transporte de calor del [[manto]].
 - Explican vulcanismo intraplaca (no en límites de placas).
 
-élicas #manto #geodinámica-interna #litosfera
+ #manto #geodinámica-interna #litosfera

@@ -11,7 +11,7 @@ tags:
   - haw
   - concepto-central
 ---
-**Hawái** es un archipiélago volcánico en el Océano Pacífico, ejemplo clásico de [[vulcanismo de punto caliente]] ([[Plumas mantélicas]]).###Formación
+**Hawái** es un archipiélago volcánico en el Océano Pacífico, ejemplo clásico de [[vulcanismo de punto caliente]] ([[Plumas del manto]]).###Formación
 - Originado por una [[pluma mantélica]] estacionaria.
 - La [[placa del Pacífico]] se mueve hacia el noroeste (~7-9 cm/año).
 - Crea una cadena de islas volcánicas de diferentes edades. ###Islas principales (de más joven a más antigua)
@@ -27,7 +27,7 @@ tags:
 - Raramente explosivas debido a la baja viscosidad.
 
 - **Modelo de punto caliente**: referencia mundial.
-- Estudio de [[convección mantélica]].
+- Estudio de [[Convección del manto]].
 - Laboratorio natural para vulcanología.
 - Evidencia de la [[deriva continental]].
 

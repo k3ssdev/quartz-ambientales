@@ -18,7 +18,7 @@ El **manto inferior** se extiende aproximadamente entre los 660 km y 2900 km de 
 - Composición: perovskita y bridgmanita (silicatos densos).
 
 - Zona clave de **almacenamiento de calor** del interior.
-- Participa en la [[convección mantélica]] a escalas muy lentas.
+- Participa en la [[Convección del manto]] a escalas muy lentas.
 - Papel en el reciclaje de [[litosfera]] subducida.
 
 ámica #silicatos #tierra-interna

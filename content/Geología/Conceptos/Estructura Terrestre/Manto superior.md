@@ -16,7 +16,7 @@ El **manto superior** es la capa del [[manto]] situada entre la [[corteza]] y ~6
 - Contiene la [[litosfera]] rígida y la [[astenosfera]] plástica.
 - Composición: [[silicatos]] (olivino, piroxenos) ricos en Mg y Fe.
 
-- Lugar donde ocurren los procesos de **[[convección mantélica]]** más activos.
+- Lugar donde ocurren los procesos de **[[Convección del manto]]** más activos.
 - Fuente de [[magma]] que alimentan [[vulcanismo]].
 
 ## Estructura

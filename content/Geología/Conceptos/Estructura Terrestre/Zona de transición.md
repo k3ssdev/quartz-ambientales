@@ -19,7 +19,7 @@ La **zona de transición** es la región situada entre el [[Manto superior]] y e
 - Presenta cambios de fase en minerales (ej. olivino → wadsleyita → ringwoodita).
 - Influye en el comportamiento sísmico y la densidad del manto.
 
-- Controla la circulación de materiales en la [[Convección mantélica]].
+- Controla la circulación de materiales en la [[Convección del manto]].
 - Reguladora del transporte de [[agua]] en el interior de la [[Tierra]].
 
 ámica #minerales

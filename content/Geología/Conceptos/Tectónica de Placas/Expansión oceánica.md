@@ -9,7 +9,7 @@ tags:
   - nivel-intermedio
   - importancia-4
 ---
-La **expansión oceánica** es el proceso por el cual se genera nueva [[corteza oceánica]] en las [[dorsales oceánicas]] debido a la [[convección mantélica]].
+La **expansión oceánica** es el proceso por el cual se genera nueva [[corteza oceánica]] en las [[dorsales oceánicas]] debido a la [[Convección del manto]].
 
 - El [[magma]] asciende en las dorsales y se solidifica → nueva litosfera oceánica.
 - A medida que la nueva corteza se separa, empuja la corteza antigua hacia los lados.

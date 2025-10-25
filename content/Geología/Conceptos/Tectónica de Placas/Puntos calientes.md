@@ -12,7 +12,7 @@ tags:
   - importancia-5
   - concepto-proceso
 ---
-Los **puntos calientes** son áreas de vulcanismo persistente y de alto flujo térmico que se cree que son causadas por una [[Plumas del manto o pluma del manto|pluma del manto]] ascendente. A diferencia del vulcanismo de bordes de placa, pueden ocurrir en el interior de las [[Placas tectónicas]].
+Los **puntos calientes** son áreas de vulcanismo persistente y de alto flujo térmico que se cree que son causadas por una [[Plumas del manto|pluma del manto]] ascendente. A diferencia del vulcanismo de bordes de placa, pueden ocurrir en el interior de las [[Placas tectónicas]].
 
 ### Características
 

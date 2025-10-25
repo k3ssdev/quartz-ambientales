@@ -31,7 +31,7 @@ El **torio-232** (²³²Th) es un [[Isótopos radiactivos|isótopo radiactivo]] 
 - **Principio**: desequilibrio en series radiactivas.###Calor radiogénico
 - Contribuye al [[calor interno terrestre]].
 - Junto con [[Uranio-238]], [[Uranio-235]] y [[Potasio-40]].
-- Impulsa la [[convección mantélica]]. ###Distribución
+- Impulsa la [[Convección del manto]]. ###Distribución
 - **Corteza continental**: concentrado en granitos.
 - **Minerales accesorios**: circón, apatito, monacita.
 - **Rocas sedimentarias**: arcillas ricas en torio.

@@ -16,6 +16,6 @@ La **física** es la ciencia que estudia las leyes fundamentales de la energía,
 
 - Gravedad → movimientos de [[planetas]], [[tectónica de placas]].
 - Ondas sísmicas → conocimiento de la [[Estructura interna de la Tierra]].
-- [[Calor]], [[Energía interna de la Tierra]], [[convección mantélica]].
+- [[Calor]], [[Energía interna de la Tierra]], [[Convección del manto]].
 
 ísica #ciencia #geología #energía

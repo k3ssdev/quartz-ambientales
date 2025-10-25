@@ -71,7 +71,7 @@ Las interacciones entre placas ocurren en sus bordes, donde se concentra la acti
 Además de las evidencias magnéticas, la teoría se apoya en:
 1.  **Distribución de terremotos**: La actividad sísmica se concentra en los bordes de placa.
 2.  **Edad y espesor de los sedimentos oceánicos**: Sondeos oceánicos (como el *Deep Sea Drilling Project*) confirmaron que la edad de la corteza y el espesor de los sedimentos aumentan con la distancia a la dorsal. No se ha encontrado corteza oceánica de más de 180 millones de años.
-3.  **[[Puntos calientes|Puntos calientes]]**: El vulcanismo intraplaca, causado por una **[[Plumas del manto o pluma del manto|pluma de manto]]** fija, crea cadenas de islas (una **[[Huella de punto caliente]]**) que trazan el movimiento de la placa (ej. Hawái).
+3.  **[[Puntos calientes|Puntos calientes]]**: El vulcanismo intraplaca, causado por una **[[Plumas del manto|pluma de manto]]** fija, crea cadenas de islas (una **[[Huella de punto caliente]]**) que trazan el movimiento de la placa (ej. Hawái).
 4.  **Mediciones GPS**: Confirman directamente el movimiento y la velocidad de las placas.
 
 ## 5. Mecanismos Impulsores del Movimiento de Placas
@@ -81,6 +81,6 @@ El motor principal es la **convección en el manto**, un proceso de transferenci
 - **[[Fuerza de empuje de dorsal]] (Ridge Push)**: Es una fuerza gravitacional secundaria. La posición elevada de la cresta de las dorsales oceánicas hace que las placas se "deslicen" lateralmente hacia abajo por sus flancos.
 - **Arrastre del manto y succión**: El flujo convectivo en la astenosfera puede ayudar o resistir el movimiento de la placa. La "succión de la placa" es una fuerza que surge del arrastre de una placa en subducción sobre el manto adyacente.
 
-Existen diferentes modelos para describir cómo funciona esta [[Convección mantélica|convección]]: algunos proponen una **estratificación a 660 km**, con dos sistemas separados (manto superior e inferior), mientras que otros defienden un modelo de **convección de todo el manto**. El debate científico sobre cuál modelo es más preciso sigue abierto.
+Existen diferentes modelos para describir cómo funciona esta [[Convección del manto|convección]]: algunos proponen una **estratificación a 660 km**, con dos sistemas separados (manto superior e inferior), mientras que otros defienden un modelo de **convección de todo el manto**. El debate científico sobre cuál modelo es más preciso sigue abierto.
 
 ---

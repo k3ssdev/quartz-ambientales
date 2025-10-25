@@ -15,12 +15,12 @@ Esta teoría explica la distribución de terremotos, volcanes y cadenas montaño
 
 ### Tipos de Bordes de Placa
 
-El movimiento e interacción de las [[Placa litosférica|placas]] ocurre en sus bordes.
+El movimiento e interacción de las [[Placas tectónicas|Placa litosférica]] ocurre en sus bordes.
 
 - **[[Borde divergente]]**: Las placas se separan. Se crea nueva litosfera.
-	- Ejemplo: [[Centro de expansión]] en una [[Sistema de elevadas dorsales oceánicas|dorsal oceánica]].
-- **[[Borde convergente]]**: Las placas chocan. Una placa puede deslizarse debajo de otra ([[Zona de subducción]]).
-	- Se forman [[Arco volcánico continental|arcos volcánicos continentales]], [[Arco de islas volcánicas]] y [[Fosa submarina|fosas submarinas]].
+	- Ejemplo: [[Centros de expansión]] en una [[Sistema de elevadas dorsales oceánicas|dorsal oceánica]].
+- **[[Borde convergente]]**: Las placas chocan. Una placa puede deslizarse debajo de otra ([[Zonas de subducción|zona de subducción]]).
+	- Se forman [[Arco volcánico continental|arcos volcánicos continentales]], [[Arco de islas volcánicas]] y [[Fosas oceánicas]].
 - **[[Borde de falla transformante]]**: Las placas se deslizan lateralmente una junto a la otra.
 
 ### Fuerzas Motrices
@@ -29,4 +29,4 @@ Las principales fuerzas que mueven las placas son:
 
 - **[[Fuerza de empuje de dorsal]]**: Generada en los bordes divergentes.
 - **[[Fuerza de arrastre de la placa]]**: Generada en las zonas de subducción.
-- El movimiento de convección en el manto también juega un papel crucial, pudiendo manifestarse en superficie como [[Pluma de manto]] y [[Punto caliente|puntos calientes]].
+- El movimiento de convección en el manto también juega un papel crucial, pudiendo manifestarse en superficie como [[Plumas del manto]] y [[Punto caliente|puntos calientes]].
