@@ -21,7 +21,7 @@ A principios del siglo XX, Alfred Wegener estableció la hipótesis de la **[[De
 
 Wegener presentó un conjunto de pruebas multidisciplinares para sostener su teoría:
 1.  **Ajuste de los continentes**: La forma en que las costas de [[Sudamérica]] y [[África]], especialmente los bordes de sus plataformas continentales, encajan como las piezas de un rompecabezas.
-2.  **Evidencia fósil**: Se encontraron [[Fósiles]] idénticos en continentes hoy separados por vastos [[Océanos]]. El ejemplo más notable es el *Mesosaurus*, un reptil de agua dulce, y el helecho *Glossopteris*, hallados en Sudamérica, África, India, Australia y la Antártida, lo que indicaba que estas masas de tierra estuvieron conectadas.
+2.  **Evidencia fósil**: Se encontraron [[Fósiles]] idénticos en continentes hoy separados por vastos [[Océanos]]. El ejemplo más notable es el *Mesosaurus*, un reptil de agua dulce, y el helecho *Glossopteris*, hallados en Sudamérica, África, India, Australia y la [[Antártida]], lo que indicaba que estas masas de tierra estuvieron conectadas.
 3.  **Tipos y estructuras de rocas**: Existen [[Cordilleras]] que parecen continuar de un continente a otro, como los [[Apalaches]] en Norteamérica, que coinciden en edad y estructura con montañas en las Islas Británicas y Escandinavia.
 4.  **Climas antiguos (Paleoclimas)**: Se hallaron pruebas de [[Glaciaciones]] del Paleozoico tardío en regiones que hoy son tropicales (Sudamérica, África, India y Australia). Al mismo tiempo, se formaron grandes depósitos de [[Carbón]] en pantanos tropicales del hemisferio norte.
 

@@ -198,7 +198,7 @@ A ambos modelos les falta explicar completamente todas las características obse
 - [[Tectónica de placas]] • [[Deriva continental]] • [[Pangaea]] • [[Litosfera]] • [[Astenosfera]]
 
 ### ↔️ Bordes de Placa
-- [[Borde divergente]] • [[Borde convergente]] • [[Borde de falla transformante]] • [[Zona de subducción]]
+- [[Borde divergente]] • [[Borde convergente]] • [[Borde de falla transformante]] • [[Zonas de subducción]]
 
 ### 🌋 Fenómenos Asociados
 - [[Expansión del fondo oceánico]] • [[Arco volcánico continental]] • [[Arco de islas volcánicas|Arco de islas]] • [[Punto caliente]]
