@@ -12,7 +12,7 @@ tags:
 ---
 Un **borde divergente** o **borde constructivo** es un límite entre dos [[Placas tectónicas]] que se separan. En estas zonas se genera nueva [[Litosfera]] a partir de [[Magma]] que asciende desde la [[Astenosfera]].
 
-Son los llamados **[[Centro de expansión|centros de expansión]]**.
+Son los llamados **[[Centros de expansión]]**.
 
 ### Tipos de Bordes Divergentes
 

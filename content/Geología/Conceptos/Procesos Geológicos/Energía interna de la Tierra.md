@@ -14,7 +14,9 @@ tags:
   - energia
   - concepto-evento
 ---
-La **energía interna de la Tierra** es el calor almacenado en el interior del planeta, heredado de su formación y mantenido por la **desintegración radiactiva** de elementos. ####Origen
+La **[[energía interna de la Tierra]]** es el calor almacenado en el interior del planeta, heredado de su formación y mantenido por la **desintegración radiactiva** de elementos. 
+
+#### Origen
 
 - **Calor residual** de la acreción y diferenciación inicial (~4.600 Ma).
 - **Desintegración de isótopos radiactivos** → uranio, torio, potasio-40.

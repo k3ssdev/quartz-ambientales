@@ -181,7 +181,7 @@ Las tres principales unidades topográficas del fondo oceánico son:
 
 2. **[[Cuenca oceánica profunda]]s:** Grandes áreas planas y extensas del fondo marino, que incluyen [[Llanuras abisales]] y [[Fosa submarina]]s.
 
-3. **[[Dorsal oceánica]]s:** Grandes cadenas montañosas submarinas formadas por la actividad volcánica en los límites de placas divergentes.
+3. **[[Dorsal oceánica]]s:** Grandes [[cadenas montañosas]] submarinas formadas por la actividad volcánica en los límites de placas divergentes.
 
 ---
 

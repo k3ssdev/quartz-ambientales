@@ -11,7 +11,7 @@ tags:
 ---
 La **tectónica de placas** es la teoría unificadora de la geología que explica que la capa externa rígida de la Tierra, la [[Litosfera]], está dividida en varias "placas" que se mueven sobre una capa dúctil subyacente, la [[Astenosfera]].
 
-Esta teoría explica la distribución de terremotos, volcanes y cadenas montañosas, así como la [[Deriva continental]].
+Esta teoría explica la distribución de terremotos, volcanes y [[cadenas montañosas]], así como la [[Deriva continental]].
 
 ### Tipos de Bordes de Placa
 
