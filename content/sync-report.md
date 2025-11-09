@@ -1,11 +1,11 @@
 # 📋 Content Sync Report
 
-**Fecha:** Sat Oct 25 17:51:10 UTC 2025
-**Commit:** bacc6ae6b554951cd7e1c3c4a8d2fe977ed0fd13
+**Fecha:** Sun Nov  9 18:45:08 UTC 2025
+**Commit:** 36a7478d814a04d5c925631d830cb88d8a689427
 
 ## 📁 Archivos sincronizados:
 
-**Total:** 411 archivos markdown
+**Total:** 455 archivos markdown
 
 ### 📂 Estructura:
 .
@@ -20,6 +20,7 @@
 │   │   ├── Organismos
 │   │   ├── Paleontología
 │   │   ├── Procesos Geológicos
+│   │   │   └── Sismología
 │   │   ├── Recursos y Riesgos
 │   │   ├── Rocas y Minerales
 │   │   └── Tectónica de Placas
@@ -33,4 +34,4 @@
 ├── scripts
 └── Índices
 
-24 directories
+25 directories

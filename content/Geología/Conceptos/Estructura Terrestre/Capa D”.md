@@ -20,5 +20,3 @@ La **capa D”** es una delgada zona de transición en la base del [[manto]], ju
 
 - Posible acumulación de [[Plumas del manto]] → origen de puntos calientes ([[Hawai]], Islandia).
 - Juega un papel en el **ciclo térmico interno** → intercambio de calor entre [[núcleo]] y [[manto]].
-
-úcleo #geodinámica
