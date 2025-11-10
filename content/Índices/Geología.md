@@ -41,8 +41,8 @@ tags:
 - Enlaces internos: 192 | Enlaces externos: 571
 - Conceptos clave: [[Tierra]], [[Vida]], [[Sol]]
 
-### 🪨 Rocas y Minerales (77 archivos)
-- Enlaces internos: 240 | Enlaces externos: 595
+### 🪨 Rocas y Minerales (78 archivos)
+- Enlaces internos: 240 | Enlaces externos: 626
 - Conceptos clave: [[Rocas sedimentarias]], [[Rocas]], [[Minerales]]
 
 ### 🌍 Tectónica de Placas (65 archivos)
@@ -81,12 +81,8 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
-**🧬 Biología I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
 **🗿 Geología I** (361 conceptos)
-- Enlaces entrantes: 2496
+- Enlaces entrantes: 2498
 - Conceptos destacados: 251
 - Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
 
@@ -94,17 +90,21 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
+**🧬 Biología I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
 #### 2C - 2° Cuatrimestre
+
+**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
 
 **🦠 Biología II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
 **📐 Matemáticas II** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
-**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -172,7 +172,7 @@ tags:
 1. [[SISTEMA_ETIQUETADO]] → [[index]] → [[Hawái]]
 
 ### Ruta 2: Procesos Dinámicos
-1. [[Vulcanismo]] → [[Orogenia]] → [[Terremotos]]
+1. [[Magma]] → [[Vulcanismo]] → [[Orogenia]]
 
 ### Ruta 3: Materiales
 1. [[Rocas sedimentarias]]
@@ -183,20 +183,20 @@ tags:
 
 ### Top Tags del Vault
 - `#primero-1-geologia-1` (361 archivos)
-- `#nivel-intermedio` (271 archivos)
-- `#concepto-central` (221 archivos)
+- `#nivel-intermedio` (272 archivos)
+- `#concepto-central` (222 archivos)
 - `#importancia-5` (187 archivos)
 - `#ruta-procesos-dinamicos` (137 archivos)
 - `#proceso-dinamico` (136 archivos)
 - `#nivel-basico` (128 archivos)
-- `#importancia-4` (121 archivos)
+- `#importancia-4` (122 archivos)
 - `#importancia-3` (111 archivos)
 - `#concepto-evento` (89 archivos)
 - `#concepto-proceso` (84 archivos)
 - `#conceptos-fundamentales` (76 archivos)
 - `#ruta-tiempo-evolucion` (70 archivos)
 - `#geologia1-tema-01` (70 archivos)
-- `#ruta-fundamentos` (69 archivos)
+- `#ruta-fundamentos` (70 archivos)
 
 
 
