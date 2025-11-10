@@ -49,8 +49,8 @@ tags:
 - Enlaces internos: 297 | Enlaces externos: 458
 - Conceptos clave: [[Fósiles]], [[Historia geológica]], [[Evolución de la vida]]
 
-### 🪨 Rocas y Minerales (54 archivos)
-- Enlaces internos: 155 | Enlaces externos: 457
+### 🪨 Rocas y Minerales (55 archivos)
+- Enlaces internos: 157 | Enlaces externos: 490
 - Conceptos clave: [[Rocas sedimentarias]], [[Rocas metamórficas]], [[Rocas ígneas]]
 
 ### 🌊 Clima y Oceanografía (53 archivos)
@@ -81,30 +81,30 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
+**🧬 Biología I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
 **🔢 Matemáticas I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
 **🗿 Geología I** (363 conceptos)
-- Enlaces entrantes: 2464
-- Conceptos destacados: 245
+- Enlaces entrantes: 2467
+- Conceptos destacados: 247
 - Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
 
-**🧬 Biología I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
 #### 2C - 2° Cuatrimestre
-
-**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
 
 **📐 Matemáticas II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
 **🦠 Biología II** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
+**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -183,9 +183,9 @@ tags:
 
 ### Top Tags del Vault
 - `#primero-1-geologia-1` (363 archivos)
-- `#nivel-intermedio` (270 archivos)
-- `#concepto-central` (222 archivos)
-- `#importancia-5` (186 archivos)
+- `#nivel-intermedio` (271 archivos)
+- `#concepto-central` (223 archivos)
+- `#importancia-5` (187 archivos)
 - `#ruta-procesos-dinamicos` (137 archivos)
 - `#proceso-dinamico` (136 archivos)
 - `#nivel-basico` (129 archivos)
@@ -195,8 +195,8 @@ tags:
 - `#concepto-proceso` (85 archivos)
 - `#ruta-tiempo-evolucion` (70 archivos)
 - `#geologia1-tema-01` (70 archivos)
+- `#ruta-fundamentos` (69 archivos)
 - `#tectonica-placas` (68 archivos)
-- `#ruta-fundamentos` (68 archivos)
 
 
 
