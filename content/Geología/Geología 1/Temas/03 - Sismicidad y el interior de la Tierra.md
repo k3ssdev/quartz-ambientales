@@ -1,5 +1,5 @@
 ---
-title: "öö"
+title: "03 - Sismicidad y el interior de la Tierra"
 aliases: ["Sismicidad", "Interior de la Tierra", "Ondas Sísmicas", "Terremotos y Fallas"]
 draft: false
 weight: 3

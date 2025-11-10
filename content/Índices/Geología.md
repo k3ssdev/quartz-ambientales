@@ -85,14 +85,14 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🧬 Biología I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
 **🗿 Geología I** (363 conceptos)
 - Enlaces entrantes: 2464
 - Conceptos destacados: 245
 - Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
+
+**🧬 Biología I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
 
 #### 2C - 2° Cuatrimestre
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (intermedio)
+1. [[SISTEMA_ETIQUETADO]] (avanzado)
 
 ### Ruta: Procesos Dinamicos
 1. [[Geodinámica de la Tierra]] (intermedio)
@@ -203,4 +203,4 @@ tags:
 ---
 
 *Sistema generado automáticamente basado en análisis de tags de Obsidian*
-*Última actualización: 09/11/2025*
+*Última actualización: 10/11/2025*
