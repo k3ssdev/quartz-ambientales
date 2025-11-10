@@ -37,13 +37,13 @@ tags:
 
 ## 📁 Navegación por Categorías
 
+### 🪨 Rocas y Minerales (104 archivos)
+- Enlaces internos: 264 | Enlaces externos: 626
+- Conceptos clave: [[Rocas sedimentarias]], [[Rocas]], [[Minerales]]
+
 ### 🎯 Conceptos Fundamentales (92 archivos)
 - Enlaces internos: 192 | Enlaces externos: 571
 - Conceptos clave: [[Tierra]], [[Vida]], [[Sol]]
-
-### 🪨 Rocas y Minerales (78 archivos)
-- Enlaces internos: 240 | Enlaces externos: 626
-- Conceptos clave: [[Rocas sedimentarias]], [[Rocas]], [[Minerales]]
 
 ### 🌍 Tectónica de Placas (65 archivos)
 - Enlaces internos: 266 | Enlaces externos: 407
@@ -53,13 +53,13 @@ tags:
 - Enlaces internos: 297 | Enlaces externos: 458
 - Conceptos clave: [[Fósiles]], [[Historia geológica]], [[Evolución de la vida]]
 
+### ⚡ Procesos Geológicos (58 archivos)
+- Enlaces internos: 99 | Enlaces externos: 320
+- Conceptos clave: [[Vulcanismo]], [[Magma]], [[Erosión]]
+
 ### 🌊 Clima y Oceanografía (53 archivos)
 - Enlaces internos: 115 | Enlaces externos: 472
 - Conceptos clave: [[Océanos]], [[Agua]], [[Cambio climático]]
-
-### ⚡ Procesos Geológicos (52 archivos)
-- Enlaces internos: 99 | Enlaces externos: 320
-- Conceptos clave: [[Vulcanismo]], [[Magma]], [[Erosión]]
 
 ### 🏔️ Geomorfología (28 archivos)
 - Enlaces internos: 46 | Enlaces externos: 122
@@ -86,11 +86,11 @@ tags:
 - Conceptos destacados: 251
 - Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
 
-**🔢 Matemáticas I** (1 conceptos)
+**🧬 Biología I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🧬 Biología I** (1 conceptos)
+**🔢 Matemáticas I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (avanzado)
+1. [[SISTEMA_ETIQUETADO]] ()
 
 ### Ruta: Procesos Dinamicos
 1. [[Geodinámica de la Tierra]] (intermedio)
