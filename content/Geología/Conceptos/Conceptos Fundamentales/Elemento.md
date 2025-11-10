@@ -1,13 +1,13 @@
 ---
 title: "Elemento"
+aliases: ["Elemento químico", "Elementos"]
 draft: false
 tags:
   - conceptos
-  - geologia
-  - quimica
+  - geologia-1
+  - geologia1-tema-04
   - conceptos-fundamentales
 ---
+Un **elemento químico** es una sustancia pura que consiste únicamente en [[Átomos]] que tienen el mismo [[Número Atómico]] (el mismo número de [[Protones]] en su [[Núcleo]]).
 
-# Elemento
-
-Un **elemento químico** es una sustancia pura que no puede descomponerse en otras sustancias más simples por medios químicos. Cada elemento está formado por átomos que tienen el mismo número de protones en su núcleo (el mismo número atómico). Los elementos se organizan en la tabla periódica según su número atómico y propiedades químicas. Ejemplos de elementos son el oxígeno (O), el silicio (Si), el hierro (Fe) y el oro (Au).
+No puede ser descompuesto en sustancias más simples por medios químicos. Los elementos son los componentes básicos de toda la materia, incluyendo los [[Minerales]] y las [[Rocas]].

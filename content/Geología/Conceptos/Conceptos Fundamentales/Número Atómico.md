@@ -1,14 +1,13 @@
 ---
 title: "Número Atómico"
+aliases: ["Numero Atomico"]
 draft: false
 tags:
   - conceptos
-  - geologia
-  - fisica
-  - quimica
+  - geologia-1
+  - geologia1-tema-04
   - conceptos-fundamentales
 ---
+El **número atómico** (representado por la letra **Z**) es el número de [[Protones]] en el [[Núcleo]] de un [[Átomos|átomo]].
 
-# Número Atómico
-
-El **número atómico** (representado por la letra Z) es el número de protones que se encuentran en el núcleo de un átomo. Este número es único para cada elemento químico y determina sus propiedades químicas. En un átomo eléctricamente neutro, el número atómico también es igual al número de electrones.
+Este número define la identidad de un [[Elemento químico|elemento químico]] y su posición en la tabla periódica. En un átomo neutro, el número atómico también es igual al número de [[Electrones]].

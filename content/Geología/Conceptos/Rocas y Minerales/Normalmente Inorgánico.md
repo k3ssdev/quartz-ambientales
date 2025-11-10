@@ -1,14 +1,13 @@
 ---
 title: "Normalmente Inorgánico"
+aliases: ["Inorgánico"]
 draft: false
 tags:
   - conceptos
-  - geologia
-  - rocas-y-minerales
+  - geologia-1
+  - geologia1-tema-04
+  - rocas-minerales
 ---
+El criterio de **normalmente inorgánico** establece que los [[Minerales]] son, por lo general, de origen inorgánico.
 
-# Normalmente Inorgánico
-
-El criterio de **normalmente inorgánico** es uno de los requisitos para que una sustancia sea clasificada como un [[Mineral]]. Esto significa que la mayoría de los minerales no son compuestos orgánicos complejos, es decir, no están formados por los procesos vitales de los organismos.
-
-Aunque la mayoría de los minerales son inorgánicos, existen algunas excepciones históricas o casos límite, como el ámbar (que es resina fósil) o el carbón (formado por materia orgánica), que a veces se estudian en geología pero no cumplen estrictamente con todos los criterios de un mineral. Sin embargo, la gran mayoría de los minerales que componen la corteza terrestre son de naturaleza inorgánica.
+Esto significa que no están compuestos principalmente de carbono e hidrógeno de la manera en que lo están los organismos vivos. Sin embargo, hay algunas excepciones, como los carbonatos (que son inorgánicos pero contienen carbono) y algunos minerales que pueden ser producidos por organismos, como la [[Aragonita]] en las conchas de los moluscos, que también se considera un mineral.

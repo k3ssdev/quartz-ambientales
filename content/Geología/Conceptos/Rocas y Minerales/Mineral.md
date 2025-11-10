@@ -1,19 +1,18 @@
 ---
 title: "Mineral"
+aliases: ["Minerales"]
 draft: false
 tags:
   - conceptos
-  - geologia
-  - rocas-y-minerales
+  - geologia-1
+  - geologia1-tema-04
+  - rocas-minerales
 ---
+Un **mineral** es un compuesto químico que cumple con cinco criterios:
+1.  Es de **[[Aparición Natural]]**.
+2.  Es una **[[Sustancia Sólida]]** a temperaturas superficiales.
+3.  Posee una **[[Estructura Cristalina Ordenada]]**.
+4.  Tiene una **[[Composición Química Definida]]** o que varía dentro de límites específicos.
+5.  Es **[[Normalmente Inorgánico]]**.
 
-# Mineral
-
-Un **mineral** es una sustancia sólida, inorgánica y de origen natural, que presenta una composición química definida (o que varía dentro de unos límites) y una estructura interna ordenada (cristalina).
-
-Para que una sustancia sea considerada un mineral, debe cumplir con los siguientes cinco criterios:
-1.  **Origen natural**: No puede ser producido por el ser humano.
-2.  **Inorgánico**: No está formado por organismos vivos.
-3.  **Sólido**: Se encuentra en estado sólido a la temperatura de la superficie terrestre.
-4.  **Composición química definida**: Se puede expresar mediante una fórmula química.
-5.  **Estructura cristalina**: Sus átomos están dispuestos de forma ordenada.
+Los minerales son los componentes básicos de las [[Rocas]].

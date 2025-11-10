@@ -1,13 +1,14 @@
 ---
 title: "Enlace iónico"
+aliases: ["Enlace ionico"]
 draft: false
 tags:
   - conceptos
-  - geologia
-  - quimica
+  - geologia-1
+  - geologia1-tema-04
   - conceptos-fundamentales
 ---
 
-# Enlace iónico
+El **enlace iónico** es un tipo de [[Enlaces químicos|enlace químico]] que implica la **transferencia** de uno o más electrones de un [[Átomos|átomo]] a otro.
 
-El **enlace iónico** es un tipo de enlace químico que se forma por la atracción electrostática entre iones con cargas opuestas. Se origina cuando un átomo cede uno o más electrones (convirtiéndose en un catión de carga positiva) a otro átomo que los acepta (convirtiéndose en un anión de carga negativa). Este tipo de enlace es común en la formación de sales y minerales, como la halita (NaCl), que está formada por iones de sodio (Na+) y cloruro (Cl-).
+Esto crea iones con cargas opuestas (un catión positivo y un anión negativo) que se atraen electrostáticamente. Este tipo de enlace es muy común en los [[Minerales]], como en la [[Halita]] ($\text{NaCl}$).

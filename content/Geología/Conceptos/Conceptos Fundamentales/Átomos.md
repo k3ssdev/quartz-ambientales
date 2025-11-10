@@ -1,13 +1,13 @@
 ---
 title: "Átomos"
+aliases: ["Átomo"]
 draft: false
 tags:
   - conceptos
-  - stub
-  - átomos
+  - geologia-1
+  - geologia1-tema-04
   - conceptos-fundamentales
 ---
+Un **átomo** es la unidad más pequeña de la materia que tiene las propiedades de un [[Elemento químico|elemento químico]].
 
-# Átomos
-
-*Esta es una nota stub. Por favor, añade aquí una definición para este concepto.*
+Está compuesto por un **[[Núcleo]]** central, que contiene **[[Protones]]** y **[[Neutrones]]**, y una nube de **[[Electrones]]** que orbitan alrededor del núcleo.

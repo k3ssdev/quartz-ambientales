@@ -1,14 +1,13 @@
 ---
 title: "Protones"
+aliases: ["Protón"]
 draft: false
 tags:
   - conceptos
-  - geologia
-  - fisica
-  - quimica
+  - geologia-1
+  - geologia1-tema-04
   - conceptos-fundamentales
 ---
+Un **protón** es una partícula subatómica con una carga eléctrica positiva (+1).
 
-# Protones
-
-Un **protón** es una partícula subatómica con una carga eléctrica positiva de +1e (carga elemental) y una masa ligeramente inferior a la de un neutrón. Los protones se encuentran en el núcleo de los átomos, junto con los neutrones. El número de protones en el núcleo de un átomo es lo que determina el número atómico de un elemento, y por lo tanto su identidad química.
+Se encuentra en el **[[Núcleo]]** de un [[Átomos|átomo]] y su número determina el [[Número Atómico]] de un [[Elemento químico|elemento]].

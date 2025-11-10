@@ -1,14 +1,13 @@
 ---
 title: "Sustancia Sólida"
+aliases: ["Sólido"]
 draft: false
 tags:
   - conceptos
-  - geologia
-  - rocas-y-minerales
+  - geologia-1
+  - geologia1-tema-04
+  - rocas-minerales
 ---
+El criterio de **sustancia sólida** establece que, para ser clasificado como un [[Mineral]], un material debe estar en estado sólido a las temperaturas y presiones normales de la superficie terrestre.
 
-# Sustancia Sólida
-
-El criterio de **sustancia sólida** es una de las condiciones para que un material sea considerado un [[Mineral]]. Esto significa que la sustancia debe encontrarse en estado sólido en las condiciones de presión y temperatura de la superficie terrestre.
-
-Por ejemplo, el hielo que se forma de manera natural en los glaciares es un mineral (cumple los 5 criterios), pero el agua en estado líquido no lo es, ya que no es sólida. De manera similar, el mercurio, que es líquido a temperatura ambiente, no se considera un mineral, aunque puede formar parte de la composición de otros minerales.
+Por ejemplo, el [[Hielo]] es un mineral porque es sólido, pero el agua líquida no lo es. El mercurio, que es líquido a temperatura ambiente, no se considera un mineral, aunque a veces se encuentra en su forma nativa.

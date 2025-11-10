@@ -1,26 +1,16 @@
 ---
 title: "Cuarzo"
+aliases: []
 draft: false
 tags:
-  - ruta-materiales
+  - conceptos
+  - geologia-1
+  - geologia1-tema-04
   - rocas-minerales
-  - primero-1-geologia-1
-  - nivel-avanzado
-  - importancia-3
-  - concepto-proceso
-  - concepto-central
+  - silicatos
 ---
-El **cuarzo** es un [[Minerales]] formado por **dióxido de silicio (SiO₂)**, el más abundante en la [[Corteza terrestre]].
+El **cuarzo** ($\text{SiO}_2$) es el segundo [[Mineral]] más abundante en la corteza terrestre, después de los [[Feldespatos]].
 
-**Características:**
+Es un [[Silicatos|silicato]] con una estructura tridimensional de [[Tetraedro de Silicato|tetraedros de silicato]] en la que todos los oxígenos están compartidos. Esta estructura lo hace muy duro ([[Dureza]] 7 en la [[Escala de Mohs]]) y resistente a la meteorización.
 
-- Alta dureza (7 en la escala de Mohs).
-- Muy resistente a la meteorización y erosión.
-- Color → transparente, blanco, rosa, ahumado.
-
-**Importancia:**
-
-- Componente fundamental de [[Rocas ígneas]] (granito), [[Rocas metamórficas]] (cuarcita, gneis) y [[Rocas sedimentarias]] (arenisca).
-- Usado en industria del vidrio, electrónica y joyería.
-
-**Relaciones:** [[Minerales]], [[Cuarcita]], [[arenisca]], [[Gneis]], [[Granito]].
+No tiene [[Exfoliación]], sino que presenta [[Fractura]] concoidea. Debido a su durabilidad, es un componente común de las arenas de playa y de muchas [[Rocas]] sedimentarias.

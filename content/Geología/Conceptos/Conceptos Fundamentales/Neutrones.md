@@ -1,14 +1,13 @@
 ---
 title: "Neutrones"
+aliases: ["Neutrón"]
 draft: false
 tags:
   - conceptos
-  - geologia
-  - fisica
-  - quimica
+  - geologia-1
+  - geologia1-tema-04
   - conceptos-fundamentales
 ---
+Un **neutrón** es una partícula subatómica sin carga eléctrica.
 
-# Neutrones
-
-Un **neutrón** es una partícula subatómica que se encuentra en el núcleo de los átomos, junto con los protones. No tiene carga eléctrica neta (es neutro) y su masa es ligeramente superior a la de un protón. Los neutrones son fundamentales para la estabilidad de los núcleos atómicos, ya que ayudan a contrarrestar la repulsión electrostática entre los protones. El número de neutrones en un átomo puede variar, dando lugar a diferentes isótopos de un mismo elemento.
+Se encuentra en el **[[Núcleo]]** de un [[Átomos|átomo]]. El número de neutrones puede variar en un mismo [[Elemento químico|elemento]], dando lugar a los [[Isótopos]].

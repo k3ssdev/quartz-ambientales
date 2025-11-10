@@ -1,14 +1,13 @@
 ---
 title: "Estructura Cristalina Ordenada"
+aliases: ["Estructura cristalina"]
 draft: false
 tags:
   - conceptos
-  - geologia
-  - rocas-y-minerales
+  - geologia-1
+  - geologia1-tema-04
+  - rocas-minerales
 ---
+El criterio de **estructura cristalina ordenada** significa que los [[Átomos]] en un [[Mineral]] están dispuestos en un patrón tridimensional ordenado y repetitivo.
 
-# Estructura Cristalina Ordenada
-
-El criterio de **estructura cristalina ordenada** es una de las características que definen a un [[Mineral]]. Se refiere a que los átomos, iones o moléculas que componen el mineral no se encuentran dispuestos al azar, sino que siguen un patrón geométrico tridimensional que se repite en todo el material. Esta disposición interna ordenada es lo que da lugar a la forma externa de los cristales.
-
-Las sustancias que no tienen una estructura interna ordenada se denominan **amorfas**, como el vidrio volcánico (obsidiana), y no se consideran minerales.
+Esta estructura interna es única para cada mineral y es responsable de muchas de sus propiedades físicas, como la [[Exfoliación]] y la forma del cristal. Los sólidos que carecen de esta estructura interna ordenada, como el vidrio volcánico ([[Obsidiana]]), se conocen como amorfos y no son considerados minerales.
