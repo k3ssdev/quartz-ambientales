@@ -37,8 +37,8 @@ tags:
 
 ## 📁 Navegación por Categorías
 
-### 🎯 Conceptos Fundamentales (82 archivos)
-- Enlaces internos: 164 | Enlaces externos: 527
+### 🎯 Conceptos Fundamentales (92 archivos)
+- Enlaces internos: 169 | Enlaces externos: 530
 - Conceptos clave: [[Tierra]], [[Vida]], [[Sol]]
 
 ### 🌍 Tectónica de Placas (65 archivos)
@@ -49,8 +49,8 @@ tags:
 - Enlaces internos: 297 | Enlaces externos: 458
 - Conceptos clave: [[Fósiles]], [[Historia geológica]], [[Evolución de la vida]]
 
-### 🪨 Rocas y Minerales (55 archivos)
-- Enlaces internos: 157 | Enlaces externos: 490
+### 🪨 Rocas y Minerales (61 archivos)
+- Enlaces internos: 166 | Enlaces externos: 495
 - Conceptos clave: [[Rocas sedimentarias]], [[Rocas metamórficas]], [[Rocas ígneas]]
 
 ### 🌊 Clima y Oceanografía (53 archivos)
@@ -81,18 +81,18 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
-**🧬 Biología I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
+**🗿 Geología I** (362 conceptos)
+- Enlaces entrantes: 2465
+- Conceptos destacados: 247
+- Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
 
 **🔢 Matemáticas I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🗿 Geología I** (363 conceptos)
-- Enlaces entrantes: 2467
-- Conceptos destacados: 247
-- Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
+**🧬 Biología I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
 
 #### 2C - 2° Cuatrimestre
 
@@ -150,9 +150,9 @@ tags:
 ### Ruta: Materiales
 1. [[Meteoritos]] (basico)
 2. [[Granito]] (basico)
-3. [[Neutrones]] (basico)
-4. [[Petróleo]] (intermedio)
-5. [[Pumita]] (intermedio)
+3. [[Petróleo]] (intermedio)
+4. [[Pumita]] (intermedio)
+5. [[Rocas sedimentarias]] (intermedio)
 
 ### Ruta: Estructura Terrestre
 1. [[Atmósfera]] (intermedio)
@@ -182,21 +182,21 @@ tags:
 ## 🏷️ Tags Más Utilizados
 
 ### Top Tags del Vault
-- `#primero-1-geologia-1` (363 archivos)
+- `#primero-1-geologia-1` (362 archivos)
 - `#nivel-intermedio` (271 archivos)
-- `#concepto-central` (223 archivos)
+- `#concepto-central` (222 archivos)
 - `#importancia-5` (187 archivos)
 - `#ruta-procesos-dinamicos` (137 archivos)
 - `#proceso-dinamico` (136 archivos)
-- `#nivel-basico` (129 archivos)
+- `#nivel-basico` (128 archivos)
 - `#importancia-4` (121 archivos)
-- `#importancia-3` (113 archivos)
+- `#importancia-3` (112 archivos)
 - `#concepto-evento` (89 archivos)
 - `#concepto-proceso` (85 archivos)
+- `#conceptos-fundamentales` (76 archivos)
 - `#ruta-tiempo-evolucion` (70 archivos)
 - `#geologia1-tema-01` (70 archivos)
 - `#ruta-fundamentos` (69 archivos)
-- `#tectonica-placas` (68 archivos)
 
 
 
