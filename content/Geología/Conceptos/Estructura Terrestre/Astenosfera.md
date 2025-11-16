@@ -11,9 +11,10 @@ tags:
   - concepto-central
 ---
 La **Astenosfera** es la capa del [[Manto]] situada bajo la [[Litosfera]], aproximadamente desde los 100 hasta los 700 km de profundidad.
-
-Características:
-
-- Es una capa **plástica**, parcialmente fundida, donde las rocas pueden fluir lentamente.
-- Permite el movimiento de las [[Placas tectónicas]].
-- Fundamental en procesos como [[Vulcanismo]] y [[Tectónica de placas]].
+ 
+### Características
+- **Comportamiento mecánico**: Es una capa **plástica** y dúctil. Las rocas están cerca de su punto de fusión y pueden fluir muy lentamente a lo largo del tiempo geológico.
+- **Movimiento de placas**: Su naturaleza plástica permite que las [[Placas tectónicas]] rígidas de la litosfera se deslicen sobre ella.
+- **Generación de magma**: Es una zona donde se puede producir [[Fusión parcial (manto)|fusión parcial]], generando [[Magma]] que puede ascender a la superficie y causar [[Vulcanismo]].
+ 
+La astenosfera es, por tanto, fundamental para entender la [[Tectónica de placas]].
