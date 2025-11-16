@@ -27,7 +27,7 @@ Los **minerales** son **sólidos naturales, inorgánicos, de composición quími
 
 **Relaciones:**
 
-- Son los constituyentes básicos de las [[Roca ígnea]], [[Rocas sedimentarias]] y [[Geología/Conceptos/Rocas y Minerales/Rocas metamórficas]].
+- Son los constituyentes básicos de las [[Rocas ígneas]], [[Rocas sedimentarias]] y [[Geología/Conceptos/Rocas y Minerales/Rocas metamórficas]].
 - Fuente de [[Recursos naturales]] y explotaciones mineras.
 
 Relacionado con → [[Combustibles fósiles]]., [[Roca metamórfica]], [[Rocas metamórficas]]

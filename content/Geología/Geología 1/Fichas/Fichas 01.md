@@ -145,7 +145,7 @@ Sustancias naturales, inorgánicas y sólidas, con composición química definid
 
 ## 16. ¿Cuáles son los tres tipos básicos de rocas?
 
-- **[[Roca ígnea]]:** solidificadas a partir de [[Magma]] o [[Lava]]
+- **[[Rocas ígneas]]:** solidificadas a partir de [[Magma]] o [[Lava]]
 - **[[Rocas sedimentarias]]:** formadas por compactación y cementación de sedimentos depositados en capas
 - **[[Rocas metamórficas]]:** resultan de la transformación de otras rocas bajo condiciones de alta presión y [[Temperatura]], sin fundirse
 
@@ -155,7 +155,7 @@ Sustancias naturales, inorgánicas y sólidas, con composición química definid
 
 **[[Ciclo de las rocas]]** - Modelo que explica cómo los tres tipos de rocas se transforman unas en otras:
 
-- [[Magma]] → [[Roca ígnea]]
+- [[Magma]] → [[Rocas ígneas]]
 - [[Meteorización]] y [[Erosión]] → sedimentos → [[Rocas sedimentarias]]
 - Presión y [[Temperatura]] → [[Rocas metamórficas]]
 - Fusión otra vez → [[Magma]] → reinicio del ciclo
@@ -165,7 +165,7 @@ Sustancias naturales, inorgánicas y sólidas, con composición química definid
 ## 🔗 Conceptos Relacionados
 
 ### 🪨 Materiales Terrestres
-[[Roca ígnea]] • [[Rocas sedimentarias]] • [[Rocas metamórficas]] • [[Minerales]] • [[Ciclo de las rocas]]
+[[Rocas ígneas]] • [[Rocas sedimentarias]] • [[Rocas metamórficas]] • [[Minerales]] • [[Ciclo de las rocas]]
 
 ### ⚡ Procesos y Energía
 [[Tectónica de placas]] • [[Vulcanismo]] • [[Erosión]] • [[Sedimentación]] • [[Energía solar]]

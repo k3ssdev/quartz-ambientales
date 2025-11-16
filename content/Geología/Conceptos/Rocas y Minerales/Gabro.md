@@ -9,7 +9,7 @@ tags:
   - importancia-3
   - concepto-central
 ---
-El **gabro** es una [[Roca ígnea]] **intrusiva**, equivalente al [[Basalto]] pero formado en profundidad.
+El **gabro** es una [[Rocas ígneas]] **intrusiva**, equivalente al [[Basalto]] pero formado en profundidad.
 
 ## Características
 

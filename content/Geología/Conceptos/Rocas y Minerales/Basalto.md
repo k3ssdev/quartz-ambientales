@@ -9,7 +9,7 @@ tags:
   - importancia-3
   - concepto-central
 ---
-El **basalto** es una roca [[Roca ígnea]] **extrusiva**, formada en la superficie por enfriamiento rápido del [[Magma]]. Características:
+El **basalto** es una roca [[Rocas ígneas]] **extrusiva**, formada en la superficie por enfriamiento rápido del [[Magma]]. Características:
 
 - Textura de grano fino.
 - Color oscuro, rica en hierro y magnesio.

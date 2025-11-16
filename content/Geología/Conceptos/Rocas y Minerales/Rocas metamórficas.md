@@ -41,8 +41,8 @@ Este proceso se denomina **[[Metamorfismo]]**.
 
 ## Relaciones en el ciclo
 
-- Derivan de **[[Roca ígnea]]** y **[[Rocas sedimentarias]]** mediante metamorfismo.
-- Pueden volver a fundirse → [[Magma]] → dan origen a **[[Roca ígnea]]**.
+- Derivan de **[[Rocas ígneas]]** y **[[Rocas sedimentarias]]** mediante metamorfismo.
+- Pueden volver a fundirse → [[Magma]] → dan origen a **[[Rocas ígneas]]**.
 - Integradas en el **[[Ciclo de las rocas]]** como una fase de transformación.
 
 Relacionado con → [[Roca metamórfica]].

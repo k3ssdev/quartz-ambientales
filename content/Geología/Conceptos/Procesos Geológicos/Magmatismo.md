@@ -13,5 +13,5 @@ tags:
 ---
 El **magmatismo** es el conjunto de procesos relacionados con la formación, ascenso y solidificación del [[Magma]]. Resultados:
 
-- [[Roca ígnea]] intrusivas y extrusivas.
+- [[Rocas ígneas]] intrusivas y extrusivas.
 - Relacionado con [[Vulcanismo]] y [[Tectónica de placas]].

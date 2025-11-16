@@ -32,7 +32,7 @@ tags:
 - **Capítulo 2:** [[Terremotos]] y riesgos sísmicos
 - **Capítulo 3:** [[El interior de la Tierra]] - Estructura
 - **Capítulo 4:** [[Minerales]] - Materiales básicos
-- **Capítulo 5:** [[Magma]] y [[Roca ígnea]] - Actividad intrusiva
+- **Capítulo 5:** [[Magma]] y [[Rocas ígneas]] - Actividad intrusiva
 - **Capítulo 6:** [[Volcanes]] y riesgos volcánicos
 - **Capítulo 7:** [[Rocas sedimentarias]] - Procesos superficiales
 - **Capítulo 8:** [[Metamorfismo]] y [[rocas metamórficas]]

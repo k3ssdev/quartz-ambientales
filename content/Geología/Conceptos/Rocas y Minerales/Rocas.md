@@ -11,7 +11,7 @@ tags:
 ---
 Las **rocas** son agregados naturales de [[minerales]] que constituyen la [[corteza terrestre]] y forman parte de la [[geosfera]].
 
-- **[[Roca ígnea]]** → solidificación de [[magma]] (ej. [[granito]], [[basalto]]).
+- **[[Rocas ígneas]]** → solidificación de [[magma]] (ej. [[granito]], [[basalto]]).
 - **[[Rocas sedimentarias]]** → acumulación y compactación de [[sedimentos]] (ej. [[caliza]], [[lutitas]]).
 - **[[Rocas metamórficas]]** → transformación de rocas preexistentes por [[metamorfismo]] (ej. [[gneis]], [[mármol]]).
 

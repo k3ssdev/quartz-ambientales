@@ -11,7 +11,7 @@ tags:
   - primero-1-geologia-1
   - ruta-fundamentos
 ---
-El **paleomagnetismo** o **magnetismo fósil** es el estudio del [[Campo magnético]] de la [[Tierra]] conservado en las [[Rocas]]. Ciertos minerales ferromagnéticos (como la magnetita) presentes en las rocas, especialmente en las [[Roca ígnea]], actúan como "brújulas fósiles".
+El **paleomagnetismo** o **magnetismo fósil** es el estudio del [[Campo magnético]] de la [[Tierra]] conservado en las [[Rocas]]. Ciertos minerales ferromagnéticos (como la magnetita) presentes en las rocas, especialmente en las [[Rocas ígneas]], actúan como "brújulas fósiles".
 
 ### Principio Básico
 Cuando una [[Lava]] se enfría, al pasar por debajo del **[[Punto de Curie]]** (aprox. 585 °C para la magnetita), los minerales magnéticos se alinean con el campo magnético terrestre de ese momento, conservando un registro permanente de su dirección y polaridad. Este registro se conoce como **[[Magnetismo remanente]]**.

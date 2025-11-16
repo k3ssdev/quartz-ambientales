@@ -165,7 +165,7 @@ Las montañas más jóvenes de la [[Tierra]] se distribuyen en dos cinturones pr
 
 ## 17. Distinga entre escudos y plataformas estables.
 
-- Un **[[Escudo]]** es una gran área de la [[Corteza continental]] que es geológicamente muy antigua y estable, formada por [[Roca ígnea]] y [[Rocas metamórficas]] expuestas en la superficie.
+- Un **[[Escudo]]** es una gran área de la [[Corteza continental]] que es geológicamente muy antigua y estable, formada por [[Rocas ígneas]] y [[Rocas metamórficas]] expuestas en la superficie.
 
 - Una **[[Plataforma estable]]** es similar a un escudo, pero está cubierta por una capa delgada de [[Rocas sedimentarias]] casi horizontales.
 
@@ -187,7 +187,7 @@ Las tres principales unidades topográficas del fondo oceánico son:
 
 ## 19. Diga el nombre de cada una de las rocas que se describen a continuación:
 
-- **[[Roca ígnea]] intrusiva de grano grueso y color claro:** [[Granito]].
+- **[[Rocas ígneas]] intrusiva de grano grueso y color claro:** [[Granito]].
 - **[[Roca sedimentaria]] detrítica rica en partículas del tamaño limo:** [[Lutita]].
 - **Roca negra de grano fino que compone la [[Corteza oceánica]]:** [[Basalto]].
 - **[[Roca metamórfica]] no foliada cuya roca madre es la [[Caliza]]:** [[Mármol]].
@@ -196,7 +196,7 @@ Las tres principales unidades topográficas del fondo oceánico son:
 
 ## 20. Para cada una de las siguientes características, indique si está asociada con las Roca ígnea, sedimentarias o metamórficas:
 
-- **Puede ser intrusiva o extrusiva:** [[Roca ígnea]].
+- **Puede ser intrusiva o extrusiva:** [[Rocas ígneas]].
 - **Litificada por compactación y cementación:** [[Rocas sedimentarias]].
 - **La arenisca es un ejemplo:** [[Rocas sedimentarias]].
 - **Algunos miembros de este grupo son foliados:** [[Rocas metamórficas]].
@@ -209,10 +209,10 @@ Las tres principales unidades topográficas del fondo oceánico son:
 
 La afirmación es el principio central del **[[Ciclo de las rocas]]**. Por ejemplo:
 
-1. Una **[[Roca ígnea]]** puede ser erosionada para formar sedimentos.
+1. Una **[[Rocas ígneas]]** puede ser erosionada para formar sedimentos.
 2. Estos sedimentos se compactan y cementan para formar una **[[Roca sedimentaria]]**.
 3. Si esa roca sedimentaria se somete a [[Calor]] y presión, se transforma en una **[[Roca metamórfica]]**.
-4. Y si esta última se funde, el [[Magma]] resultante se enfría y solidifica, creando una nueva **[[Roca ígnea]]**.
+4. Y si esta última se funde, el [[Magma]] resultante se enfría y solidifica, creando una nueva **[[Rocas ígneas]]**.
 
 Este ciclo demuestra que las [[Rocas]] están en un proceso constante de transformación, donde cada tipo puede convertirse en cualquiera de los otros dos tipos.
 
@@ -230,7 +230,7 @@ Este ciclo demuestra que las [[Rocas]] están en un proceso constante de transfo
 - [[Uniformismo]] • [[Catastrofismo]] • [[Superposición]] • [[Datación relativa]]
 
 ### 🪨 Tipos de Rocas
-- [[Roca ígnea]] • [[Rocas sedimentarias]] • [[Rocas metamórficas]] • [[Ciclo de las rocas]]
+- [[Rocas ígneas]] • [[Rocas sedimentarias]] • [[Rocas metamórficas]] • [[Ciclo de las rocas]]
 
 ### 🔬 Método Científico
 - [[Hipótesis]] • [[Teoría]] • [[Observación]] • [[Experimentación]]
