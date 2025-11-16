@@ -76,6 +76,44 @@ Las propiedades físicas de un mineral son el resultado directo de su composici�
 | **[[Color]]** | Color visible. | Menos fiable, ya que la mayoría de los minerales tienen variaciones por impurezas (ej. el cuarzo puede ser blanco, rosa, púrpura). |
 | **Otras** | Magnetismo (Magnetita), Sabor (Halita), Efervescencia (Calcita con $\text{HCl}$). | |
 
+---
+## Cristalografía: El Orden Interno
+
+La **[[Cristalografía]]** es el estudio de la forma y la estructura interna de los cristales. La propiedad que define a un cristal es su **periodicidad**: la repetición ordenada de átomos, iones o moléculas en una red tridimensional.
+
+*   **[[Celda unidad]]**: Es la unidad repetitiva más pequeña de la red cristalina que define la estructura completa del cristal. Se caracteriza por 6 parámetros: las longitudes de sus ejes (a, b, c) y los ángulos entre ellos (α, β, γ).
+*   **[[Anisotropía]]**: Es una consecuencia directa del orden interno. Las propiedades físicas de un cristal (como la dureza o la velocidad de la luz) varían según la dirección en que se miden.
+
+### Elementos y Sistemas de Simetría
+La disposición de las caras, aristas y vértices de un cristal obedece a operaciones de simetría:
+*   **[[Elementos de simetría]]**:
+    *   **Plano de simetría**: Divide el cristal en dos mitades que son imágenes especulares.
+    *   **Eje de simetría**: Una línea alrededor de la cual el cristal puede girar y repetir su apariencia varias veces en 360°. Pueden ser binarios (2), ternarios (3), cuaternarios (4) o senarios (6).
+    *   **Centro de simetría**: Un punto central a través del cual cada punto de la superficie del cristal tiene un punto correspondiente en el lado opuesto.
+
+La combinación de estos elementos de simetría permite agrupar todos los cristales en **7 [[Sistemas cristalinos]]**: Cúbico, Tetragonal, Hexagonal, Trigonal, Rómbico, Monoclínico y Triclínico.
+
+### Hábito, Maclas y Agregados
+*   **[[Hábito cristalino]]**: Es el aspecto externo o la forma general que presenta un cristal o un agregado de cristales (ej. prismático, acicular, tabular, hojoso).
+*   **[[Maclas]]**: Es una asociación regular de dos o más cristales de la misma especie, unidos por una operación de simetría definida (plano o eje de macla). Son muy comunes en minerales como la Ortosa (macla de Carlsbad) o la Estaurolita (macla en cruz).
+*   **[[Agregados cristalinos]]**: Son agrupaciones de cristales que crecen juntos. Pueden tener formas características como **dendríticas** (similares a plantas), **botroidales** (racimos de uvas) o formar **drusas** y **geodas** (cavidades recubiertas de cristales).
+
+---
+## Propiedades Físicas para la Identificación
+
+Las propiedades físicas de un mineral son el resultado directo de su composición química y de su estructura cristalina.
+
+| Propiedad | Descripción | Ejemplos Diagnósticos |
+| :--- | :--- | :--- |
+| **[[Raya]]** | Color del mineral pulverizado (se frota sobre placa de porcelana). | La Pirita (dorada) tiene raya negra. La Hematites (roja/negra) tiene raya rojo-parda. |
+| **[[Brillo]]** | Aspecto o calidad de la luz reflejada. | **Metálico** (como metal) o **No Metálico** (vítreo, terroso, nacarado, sedoso). |
+| **[[Dureza]]** | Resistencia a ser rayado. | Medida en la **[[Escala de Mohs]]** (1=Talco, 10=Diamante). El cuarzo (7) raya el vidrio. |
+| **[[Exfoliación]]** | Tendencia a romperse a lo largo de planos de debilidad atómica. | Mica (1 dirección), Anfíboles (2 dir. a $56^\circ$ y $124^\circ$), Halita (3 dir. a $90^\circ$). |
+| **[[Fractura]]** | Ruptura en superficies irregulares (sin planos de debilidad). | **Concoidea** (como vidrio roto, ej. Cuarzo, Turmalina). |
+| **[[Peso específico|Densidad]]** | Masa por unidad de volumen. | La Galena ($\approx 7.5$) es notablemente densa. |
+| **[[Color]]** | Color visible. | Menos fiable, ya que la mayoría de los minerales tienen variaciones por impurezas (ej. el cuarzo puede ser blanco, rosa, púrpura). |
+| **Otras** | Magnetismo (Magnetita), Sabor (Halita), Efervescencia (Calcita con $\text{HCl}$). | |
+
 ## Clasificación Química y Grupos Minerales
 
 Los minerales se agrupan en clases basadas en el anión o grupo aniónico dominante que contienen. Para una descripción más detallada, ver [[Clasificación de minerales]].
@@ -109,3 +147,97 @@ Para una guía detallada sobre el reconocimiento de minerales y el uso del micro
 - [[Minerales formadores de rocas]]
 - [[Minerales de mena]]
 - [[Minerales de interés económico]]
+
+---
+
+## Magma: El Material Parental
+
+El **[[Magma]]** es roca completa o parcialmente fundida que se forma por la fusión de roca en la corteza y el manto superior, a profundidades de hasta 250 km. Asciende hacia la superficie porque es menos denso que la roca sólida que lo rodea. Cuando el magma alcanza la superficie, se denomina **[[Lava]]**.
+
+### Componentes del Magma
+La mayoría de los magmas constan de tres partes:
+* **Líquido (Fundido)**: Es el componente principal, compuesto por iones móviles de los elementos más comunes en la corteza (principalmente silicio y oxígeno).
+* **Sólido**: Silicatos ya cristalizados desde el fundido.
+* **Gaseoso (Volátiles)**: Gases disueltos en el magma y confinados por la presión. Los más comunes son el vapor de agua ($\text{H}_2\text{O}$), el dióxido de carbono ($\text{CO}_2$) y el dióxido de azufre ($\text{SO}_2$).
+
+## Formación y Tipos de Roca ígnea
+
+Las [[Rocas ígneas]] (del latín *ignis*, "fuego") se forman cuando el magma se enfría y solidifica, un proceso llamado **[[Cristalización]]**.
+
+### Ambientes de Formación
+Las [[Rocas ígneas]] se forman en dos ambientes básicos:
+1.  **[[Roca ígnea Intrusivas]] (o Plutónicas)**: Se forman cuando el magma cristaliza *lentamente en profundidad*. El enfriamiento lento permite el crecimiento de cristales grandes (grano grueso). (Ej. Monte Rushmore, Yosemite).
+2.  **[[Roca ígnea Extrusivas]] (o Volcánicas)**: Se forman cuando la lava se solidifica *rápidamente en la superficie*. El enfriamiento rápido produce cristales muy pequeños (grano fino). (Ej. Volcanes de los Andes, Islas Hawái).
+
+---
+## Texturas Ígneas: El Ambiente de Enfriamiento
+
+La **[[Textura]]** de una roca ígnea describe su aspecto general en función del tamaño, forma y ordenamiento de sus cristales. Es una característica crucial porque revela el ambiente en el que se formó la roca, estando controlada principalmente por la **velocidad de enfriamiento**.
+
+| Textura | Descripción | Proceso de Enfriamiento |
+| :--- | :--- | :--- |
+| **[[Fanerítica]]** (Grano Grueso) | Cristales grandes, intercrecidos, visibles a simple vista. | Enfriamiento lento (Intrusivo). |
+| **[[Afanítica]]** (Grano Fino) | Cristales tan pequeños que no se distinguen a simple vista. | Enfriamiento rápido (Extrusivo). |
+| **[[Porfídica]]** | Cristales grandes (**Fenocristales**) incrustados en una matriz de cristales más pequeños (**Pasta**). | Mixto: Enfriamiento lento y luego rápido. |
+| **[[Vítrea]]** (Vidrio) | Átomos desordenados, sin estructura cristalina (ej. Obsidiana). | Enfriamiento muy rápido (instantáneo). |
+| **[[Piroclástica]]** (Fragmental) | Consolidación de fragmentos de roca (cenizas, bloques) expulsados durante una erupción. (ej. Toba). | Erupción volcánica explosiva. |
+| **[[Vesicular]]** | Contiene huecos (vesículas) dejados por burbujas de gas que escapan. | Enfriamiento rápido, común en la parte superior de coladas de lava. |
+| **[[Pegmatítica]]** | Cristales excepcionalmente grandes (todos > 1 cm de diámetro). | Etapas finales de la cristalización, en un ambiente rico en volátiles (agua). |
+
+---
+## Composición Ígnea: Los Minerales
+
+Las Roca ígnea están compuestas fundamentalmente por **[[Silicatos]]**. Estos se dividen en dos grandes grupos basados en su composición química y color:
+
+* **[[Silicatos Claros (No Ferromagnesianos)]]**: Contienen mayores cantidades de potasio (K), sodio (Na) y calcio (Ca) y son más ricos en sílice. (Ej. **[[Cuarzo]]**, **[[Feldespato]]**, **[[Moscovita]]**).
+* **[[Silicatos Oscuros (Ferromagnesianos)]]**: Ricos en hierro (Fe) y/o magnesio (Mg) y bajos en sílice. (Ej. **[[Olivino]]**, **[[Piroxeno]]**, **[[Anfíbol]]**, [[Biotita]]).
+
+### Grupos Composicionales
+El contenido de sílice ($\text{SiO}_2$) es el indicador químico más importante de la composición.
+
+| Composición | Cont. Sílice | Minerales Clave | Color / Densidad | Ambiente Tectónico |
+| :--- | :--- | :--- | :--- | :--- |
+| **[[Félsica]]** (Granítica) | Alta (~70%) | [[Cuarzo]], [[Feldespato]] potásico. | Color claro, baja densidad. | Constituyente principal de la corteza continental. |
+| **[[Intermedia]]** (Andesítica) | Intermedia | [[Anfíbol]], [[Plagioclasa]]. | Color intermedio (gris, "sal y pimienta"). | Asociada a márgenes continentales (ej. Andes). |
+| **[[Máfica]]** (Basáltica) | Baja (~50%) | [[Piroxeno]], [[Plagioclasa]] rica en Ca. | Color oscuro, alta densidad (por el Fe/Mg). | Fondo oceánico, islas volcánicas (ej. Hawái). |
+| **[[Ultramáfica]]** | Muy Baja (<40%) | [[Olivino]], [[Piroxeno]]. | Muy oscuro, muy denso. | Constituyente principal del manto superior. |
+
+---
+## Origen y Evolución de los Magmas
+
+### Generación de Magma
+El magma se origina a partir de la fusión de roca sólida en el manto y la corteza. La fusión se desencadena por tres mecanismos principales:
+
+1.  **[[Fusión por Descompresión]]**: Ocurre cuando la roca caliente del manto asciende; la reducción de la presión (sin añadir calor) baja su punto de fusión. Es común en límites divergentes (dorsales oceánicas).
+2.  **Adición de Volátiles**: El agua, expulsada de las placas oceánicas que subducen, migra al manto caliente superior y reduce drásticamente la temperatura de fusión de la roca.
+3.  **Aumento de Temperatura**: Magma basáltico caliente derivado del manto puede "embalsarse" debajo de la corteza continental, transfiriendo calor y fundiendo las rocas de la corteza.
+
+### Evolución del Magma (Cómo cambia la composición)
+Un magma primario (generalmente basáltico) puede generar magmas secundarios (andesíticos, graníticos) a través de varios procesos:
+
+* **[[Series de Reacción de Bowen]]**: Un concepto fundamental que describe el orden secuencial en que los minerales cristalizan a medida que un magma basáltico se enfría. Los minerales ferromagnesianos cristalizan en una *serie discontinua* ([[Olivino]] $\rightarrow$ [[Piroxeno]] $\rightarrow$ [[Anfíbol]] $\rightarrow$ [[Biotita]]), mientras que los feldespatos [[Plagioclasa|plagioclasa]] cristalizan en una *serie continua* (Rica en Ca $\rightarrow$ Rica en Na). El [[Cuarzo]], [[Feldespato]] K y [[Moscovita]] cristalizan al final, a las temperaturas más bajas.
+* **[[Diferenciación Magmática]]**: Procesos que separan los componentes sólidos (cristales) del líquido (fundido).
+    * **[[Sedimentación Cristalina]]**: Los primeros cristales que se forman (más densos y máficos, como el [[Olivino]]) se hunden y acumulan en el fondo de la cámara magmática. Esto separa los componentes ricos en Fe/Mg del fundido, haciendo que el magma restante se enriquezca progresivamente en sílice (volviéndose más félsico).
+* **[[Asimilación]]**: El magma altera su composición al incorporar y fundir la "roca de caja" circundante.
+* **[[Mezcla de Magmas]]**: Dos cuerpos magmáticos de diferente composición se encuentran e intruyen, mezclándose.
+
+### Fusión Parcial
+La fusión es el inverso de la cristalización.
+* Cuando una roca se calienta, los minerales con los *puntos de fusión más bajos* (los últimos en la serie de Bowen, como el [[Cuarzo]] y [[Feldespato]]) se funden *primero*.
+* El resultado es que el magma (fundido) producido es **siempre más félsico (más rico en sílice)** que la roca sólida de la que provino.
+* **Ejemplo clave**: La fusión parcial de la **peridotita** (ultramáfica) del manto genera magma **basáltico** (máfico).
+
+---
+## Actividad Ígnea Intrusiva (Plutones)
+
+Los **[[Plutones]]** (o intrusiones) son las estructuras que resultan de la solidificación del magma *en profundidad*. Se clasifican por su geometría y su orientación respecto a la roca de caja preexistente.
+
+| Tipo | Geometría | Orientación (respecto a la roca caja) |
+| :--- | :--- | :--- |
+| **[[Dique]]** | Tabular (cuerpo plano) | **Discordante** (atraviesa las capas de roca) |
+| **[[Sill]]** | Tabular (cuerpo plano) | **Concordante** (se forma paralelo a las capas) |
+| **[[Lacolito]]** | Masivo (forma de lente o hongo) | **Concordante** (intruye entre capas y arquea los estratos superiores) |
+| **[[Batolito]]** | Masivo (cuerpo irregular muy grande) | **Discordante** (el cuerpo ígneo intrusivo más grande) |
+
+* Un **[[Stock]]** es similar a un batolito pero con una exposición superficial menor a 100 km².
+* Los batolitos suelen estar compuestos por múltiples plutones individuales y forman el núcleo de las grandes cadenas montañosas (ej. Sierra Nevada).

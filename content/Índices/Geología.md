@@ -27,7 +27,7 @@ tags:
 ## 📁 Navegación por Categorías
 
 ### 🪨 Rocas y Minerales (157 archivos)
-- Enlaces internos: 4 | Enlaces externos: 937
+- Enlaces internos: 4 | Enlaces externos: 1013
 - Conceptos clave: [[Rocas metamórficas]], [[Meteoritos]], [[Granito]]
 
 ### 🎯 Conceptos Fundamentales (92 archivos)
