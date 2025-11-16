@@ -27,7 +27,7 @@ Toda la materia está compuesta por **[[Átomos]]**, que son las unidades fundam
 ### Enlaces Químicos
 Los átomos se unen para formar compuestos, buscando una configuración electrónica estable.
 * **[[Enlace iónico]]**: Transferencia de electrones entre átomos (ej. $\text{NaCl}$). Común en muchos minerales.
-* **[[Enlace covalente]]**: Compartición de electrones entre átomos (ej. Diamante, $\text{H}_2\text{O}$). Produce estructuras muy fuertes.
+* **[[Enlace covalente]]**: Compartición de electrones entre átomos (ej. [[Diamante]], $\text{H}_2\text{O}$). Produce estructuras muy fuertes.
 * **[[Enlace metálico]]**: Electrones de valencia libres para moverse (ej. Oro, Cobre). Explica la conductividad eléctrica y térmica.
 
 ## Definición y Clasificación de Minerales
@@ -46,6 +46,21 @@ Para ser un mineral, un material terrestre debe cumplir con cinco requisitos:
 Una **[[Roca]]** es un **agregado** sólido de materia mineral, o parecida a mineral, que se presenta de forma natural.
 * **Agregado**: Los minerales que componen la roca están unidos, pero conservan sus propiedades químicas y físicas individuales (ej. Granito = Cuarzo + Feldespato + Mica).
 
+## Conceptos Clave de Cristalografía y Mineralogía
+
+Para entender en profundidad los minerales, es esencial estudiar su estructura interna y cómo esta se manifiesta en sus propiedades.
+
+- **[[Estructura Cristalina Ordenada|Cristalografía]]**: El estudio de la forma y estructura de los cristales.
+    - **[[Elementos de simetría]]**: Definen la regularidad interna de los cristales.
+    - **[[Sistemas cristalinos]]**: Los 7 sistemas en los que se clasifican todos los cristales.
+    - **[[Formas cristalográficas]]**: El conjunto de caras equivalentes de un cristal.
+    - **[[Hábito cristalino]]**: El aspecto externo de un cristal.
+    - **[[Maclas]]**: Asociaciones regulares de cristales.
+- **Fenómenos Mineralógicos**:
+    - **[[Polimorfismo]]**: Misma composición, diferente estructura (ej. Diamante y Grafito).
+    - **[[Isomorfismo]]**: Misma estructura, composición variable.
+    - **[[Pseudomorfismo]]**: Un mineral adopta la forma de otro.
+
 ## Propiedades Físicas para la Identificación
 
 Las propiedades físicas de un mineral son el resultado directo de su composición química y de su estructura cristalina.
@@ -57,30 +72,40 @@ Las propiedades físicas de un mineral son el resultado directo de su composici�
 | **[[Dureza]]** | Resistencia a ser rayado. | Medida en la **[[Escala de Mohs]]** (1=Talco, 10=Diamante). El cuarzo (7) raya el vidrio. |
 | **[[Exfoliación]]** | Tendencia a romperse a lo largo de planos de debilidad atómica. | Mica (1 dirección), Anfíboles (2 dir. a $56^\circ$ y $124^\circ$), Halita (3 dir. a $90^\circ$). |
 | **[[Fractura]]** | Ruptura en superficies irregulares (sin planos de debilidad). | **Concoidea** (como vidrio roto, ej. Cuarzo, Turmalina). |
-| **[[Densidad]]** | Masa por unidad de volumen. | La Galena ($\approx 7.5$) es notablemente densa. |
+| **[[Peso específico|Densidad]]** | Masa por unidad de volumen. | La Galena ($\approx 7.5$) es notablemente densa. |
 | **[[Color]]** | Color visible. | Menos fiable, ya que la mayoría de los minerales tienen variaciones por impurezas (ej. el cuarzo puede ser blanco, rosa, púrpura). |
 | **Otras** | Magnetismo (Magnetita), Sabor (Halita), Efervescencia (Calcita con $\text{HCl}$). | |
 
 ## Clasificación Química y Grupos Minerales
 
-Los minerales se agrupan en clases basadas en el anión o grupo aniónico dominante que contienen.
+Los minerales se agrupan en clases basadas en el anión o grupo aniónico dominante que contienen. Para una descripción más detallada, ver [[Clasificación de minerales]].
 
 ### Silicatos: Los Constructores de Roca
 Constituyen más del **90% en volumen** de la corteza terrestre, ya que están compuestos por **Oxígeno** (el más abundante) y **Silicio** (el segundo más abundante).
-* **[[Tetraedro de Silicato]]** ($\mathbf{\text{SiO}_4^{4-}}$): Es la unidad estructural básica, formada por un ión de Silicio unido a cuatro iones de Oxígeno. Estas unidades se enlazan de diversas formas (cadenas, láminas, estructuras 3D) que determinan las propiedades del mineral.
+* **[[Tetraedro de Silicato]]** ($\mathbf{\text{SiO}_4^{4-}}$): Es la unidad estructural básica, formada por un ión de Silicio unido a cuatro iones de Oxígeno. Estas unidades se enlazan de diversas formas (cadenas, láminas, estructuras 3D) que determinan las propiedades del mineral. Ver [[Silicatos]] para más detalles.
 * **Grupos Principales de Silicatos:**
-    * **[[Feldespatos]]**: El grupo más abundante de la corteza ($\approx 50\%$).
+    * **[[Feldespatos]]**: El grupo más abundante de la corteza ($\approx 50\%$). Incluye [[Ortosa]] y [[Plagioclasa]].
     * **[[Cuarzo]]** ($\mathbf{\text{SiO}_2}$): Segundo mineral más abundante, muy resistente a la meteorización.
-    * **Ferromagnesianos**: Contienen hierro ($\text{Fe}$) y/o magnesio ($\text{Mg}$), son oscuros y densos (ej. **Olivino**, **Piroxenos**, **Anfíboles** como la Hornblenda).
-    * **No Ferromagnesianos**: Carecen de $\text{Fe}/\text{Mg}$, son claros y menos densos (ej. Feldespatos, Micas Blancas, Cuarzo).
+    * **Ferromagnesianos**: Contienen hierro ($\text{Fe}$) y/o magnesio ($\text{Mg}$), son oscuros y densos (ej. **[[Olivino]]**, **[[Piroxenos]]**, **[[Anfíboles]]** como la [[Hornblenda]], [[Biotita]]).
+    * **No Ferromagnesianos**: Carecen de $\text{Fe}/\text{Mg}$, son claros y menos densos (ej. Feldespatos, [[Mica|Micas Blancas]] como la [[Moscovita]], Cuarzo).
 
 ### Minerales No Silicatados
 Son cruciales por su valor económico, aunque son menos comunes en la corteza.
 
 | Clase Mineral | Anión Clave | Ejemplos Comunes | Uso Económico Principal |
 | :--- | :--- | :--- | :--- |
-| **[[Óxidos]]** | $\text{O}^{2-}$ | Hematites, Magnetita, Corindón | Menas de hierro; abrasivos (Corindón). |
-| **[[Sulfuros]]** | $\text{S}^{2-}$ | Pirita, Galena, Esfalerita | Menas de metales base (Cobre, Plomo, Cinc). |
-| **[[Carbonatos]]** | $\text{CO}_3^{2-}$ | Calcita, Dolomita | Componente principal de caliza y mármol; fabricación de cemento. |
-| **[[Elementos Nativos]]** | - | Oro, Plata, Cobre, Diamante | Joyería, conductores, abrasivos. |
-| **[[Sulfatos]]** | $\text{SO}_4^{2-}$ | Yeso | Material de construcción, fertilizantes. |
+| **[[Óxidos]]** | $\text{O}^{2-}$ | [[Oligisto|Hematites]], [[Magnetita]], [[Corindón]] | Menas de hierro; abrasivos (Corindón). |
+| **[[Sulfuros]]** | $\text{S}^{2-}$ | [[Pirita]], [[Galena]], [[Esfalerita]] | Menas de metales base (Cobre, Plomo, Cinc). |
+| **[[Carbonatos]]** | $\text{CO}_3^{2-}$ | [[Calcita]], [[Dolomita]] | Componente principal de caliza y mármol; fabricación de cemento. |
+| **[[Elementos Nativos]]** | - | Oro, Plata, Cobre, [[Diamante]] | Joyería, conductores, abrasivos. |
+| **[[Sulfatos]]** | $\text{SO}_4^{2-}$ | [[Yeso]] | Material de construcción, fertilizantes. |
+
+## Prácticas de Laboratorio
+
+Para una guía detallada sobre el reconocimiento de minerales y el uso del microscopio petrográfico, consulta la siguiente nota:
+- **[[Laboratorio - Materia y Minerales]]**
+
+### Tablas de Reconocimiento de Minerales
+- [[Minerales formadores de rocas]]
+- [[Minerales de mena]]
+- [[Minerales de interés económico]]

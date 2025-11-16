@@ -51,20 +51,20 @@ La **[[Textura]]** de una roca ígnea describe su aspecto general en función de
 ---
 ## Composición Ígnea: Los Minerales
 
-Las Roca ígnea están compuestas fundamentalmente por **silicatos**. Estos se dividen en dos grandes grupos basados en su composición química y color:
+Las Roca ígnea están compuestas fundamentalmente por **[[Silicatos]]**. Estos se dividen en dos grandes grupos basados en su composición química y color:
 
-* **[[Silicatos Claros (No Ferromagnesianos)]]**: Contienen mayores cantidades de potasio (K), sodio (Na) y calcio (Ca) y son más ricos en sílice. (Ej. **Cuarzo**, **Feldespato**, **Moscovita**).
-* **[[Silicatos Oscuros (Ferromagnesianos)]]**: Ricos en hierro (Fe) y/o magnesio (Mg) y bajos en sílice. (Ej. **Olivino**, **Piroxeno**, **Anfíbol**, Biotita).
+* **[[Silicatos Claros (No Ferromagnesianos)]]**: Contienen mayores cantidades de potasio (K), sodio (Na) y calcio (Ca) y son más ricos en sílice. (Ej. **[[Cuarzo]]**, **[[Feldespato]]**, **[[Moscovita]]**).
+* **[[Silicatos Oscuros (Ferromagnesianos)]]**: Ricos en hierro (Fe) y/o magnesio (Mg) y bajos en sílice. (Ej. **[[Olivino]]**, **[[Piroxeno]]**, **[[Anfíbol]]**, [[Biotita]]).
 
 ### Grupos Composicionales
 El contenido de sílice ($\text{SiO}_2$) es el indicador químico más importante de la composición.
 
 | Composición | Cont. Sílice | Minerales Clave | Color / Densidad | Ambiente Tectónico |
 | :--- | :--- | :--- | :--- | :--- |
-| **[[Félsica]]** (Granítica) | Alta (~70%) | Cuarzo, Feldespato potásico. | Color claro, baja densidad. | Constituyente principal de la corteza continental. |
-| **[[Intermedia]]** (Andesítica) | Intermedia | Anfíbol, Plagioclasa. | Color intermedio (gris, "sal y pimienta"). | Asociada a márgenes continentales (ej. Andes). |
-| **[[Máfica]]** (Basáltica) | Baja (~50%) | Piroxeno, Plagioclasa rica en Ca. | Color oscuro, alta densidad (por el Fe/Mg). | Fondo oceánico, islas volcánicas (ej. Hawái). |
-| **[[Ultramáfica]]** | Muy Baja (<40%) | Olivino, Piroxeno. | Muy oscuro, muy denso. | Constituyente principal del manto superior. |
+| **[[Félsica]]** (Granítica) | Alta (~70%) | [[Cuarzo]], [[Feldespato]] potásico. | Color claro, baja densidad. | Constituyente principal de la corteza continental. |
+| **[[Intermedia]]** (Andesítica) | Intermedia | [[Anfíbol]], [[Plagioclasa]]. | Color intermedio (gris, "sal y pimienta"). | Asociada a márgenes continentales (ej. Andes). |
+| **[[Máfica]]** (Basáltica) | Baja (~50%) | [[Piroxeno]], [[Plagioclasa]] rica en Ca. | Color oscuro, alta densidad (por el Fe/Mg). | Fondo oceánico, islas volcánicas (ej. Hawái). |
+| **[[Ultramáfica]]** | Muy Baja (<40%) | [[Olivino]], [[Piroxeno]]. | Muy oscuro, muy denso. | Constituyente principal del manto superior. |
 
 ---
 ## Origen y Evolución de los Magmas
@@ -79,15 +79,15 @@ El magma se origina a partir de la fusión de roca sólida en el manto y la cort
 ### Evolución del Magma (Cómo cambia la composición)
 Un magma primario (generalmente basáltico) puede generar magmas secundarios (andesíticos, graníticos) a través de varios procesos:
 
-* **[[Series de Reacción de Bowen]]**: Un concepto fundamental que describe el orden secuencial en que los minerales cristalizan a medida que un magma basáltico se enfría. Los minerales ferromagnesianos cristalizan en una *serie discontinua* (Olivino $\rightarrow$ Piroxeno $\rightarrow$ Anfíbol $\rightarrow$ Biotita), mientras que los feldespatos plagioclasa cristalizan en una *serie continua* (Rica en Ca $\rightarrow$ Rica en Na). El cuarzo, feldespato K y moscovita cristalizan al final, a las temperaturas más bajas.
+* **[[Series de Reacción de Bowen]]**: Un concepto fundamental que describe el orden secuencial en que los minerales cristalizan a medida que un magma basáltico se enfría. Los minerales ferromagnesianos cristalizan en una *serie discontinua* ([[Olivino]] $\rightarrow$ [[Piroxeno]] $\rightarrow$ [[Anfíbol]] $\rightarrow$ [[Biotita]]), mientras que los feldespatos [[Plagioclasa|plagioclasa]] cristalizan en una *serie continua* (Rica en Ca $\rightarrow$ Rica en Na). El [[Cuarzo]], [[Feldespato]] K y [[Moscovita]] cristalizan al final, a las temperaturas más bajas.
 * **[[Diferenciación Magmática]]**: Procesos que separan los componentes sólidos (cristales) del líquido (fundido).
-    * **[[Sedimentación Cristalina]]**: Los primeros cristales que se forman (más densos y máficos, como el olivino) se hunden y acumulan en el fondo de la cámara magmática. Esto separa los componentes ricos en Fe/Mg del fundido, haciendo que el magma restante se enriquezca progresivamente en sílice (volviéndose más félsico).
+    * **[[Sedimentación Cristalina]]**: Los primeros cristales que se forman (más densos y máficos, como el [[Olivino]]) se hunden y acumulan en el fondo de la cámara magmática. Esto separa los componentes ricos en Fe/Mg del fundido, haciendo que el magma restante se enriquezca progresivamente en sílice (volviéndose más félsico).
 * **[[Asimilación]]**: El magma altera su composición al incorporar y fundir la "roca de caja" circundante.
 * **[[Mezcla de Magmas]]**: Dos cuerpos magmáticos de diferente composición se encuentran e intruyen, mezclándose.
 
 ### Fusión Parcial
 La fusión es el inverso de la cristalización.
-* Cuando una roca se calienta, los minerales con los *puntos de fusión más bajos* (los últimos en la serie de Bowen, como el cuarzo y feldespato) se funden *primero*.
+* Cuando una roca se calienta, los minerales con los *puntos de fusión más bajos* (los últimos en la serie de Bowen, como el [[Cuarzo]] y [[Feldespato]]) se funden *primero*.
 * El resultado es que el magma (fundido) producido es **siempre más félsico (más rico en sílice)** que la roca sólida de la que provino.
 * **Ejemplo clave**: La fusión parcial de la **peridotita** (ultramáfica) del manto genera magma **basáltico** (máfico).
 

@@ -16,7 +16,7 @@ Los **elementos nativos** son [[Mineral|minerales]] que están compuestos por un
 - Plata (Ag)
 - Cobre (Cu)
 - Azufre (S)
-- Diamante (C)
+- [[Diamante]] (C)
 - Grafito (C)
 
 ### Figuras

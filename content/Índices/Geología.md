@@ -38,7 +38,7 @@ tags:
 ## 📁 Navegación por Categorías
 
 ### 🪨 Rocas y Minerales (159 archivos)
-- Enlaces internos: 468 | Enlaces externos: 876
+- Enlaces internos: 528 | Enlaces externos: 939
 - Conceptos clave: [[Mineral]], [[Rocas sedimentarias]], [[Rocas ígneas]]
 
 ### 🎯 Conceptos Fundamentales (92 archivos)
@@ -86,8 +86,8 @@ tags:
 - Conceptos destacados: 0
 
 **🗿 Geología I** (359 conceptos)
-- Enlaces entrantes: 2499
-- Conceptos destacados: 249
+- Enlaces entrantes: 2502
+- Conceptos destacados: 248
 - Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
 
 **🧬 Biología I** (1 conceptos)
@@ -100,11 +100,11 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
+**📐 Matemáticas II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**📐 Matemáticas II** (1 conceptos)
+**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] ()
+1. [[SISTEMA_ETIQUETADO]] (avanzado)
 
 ### Ruta: Procesos Dinamicos
 1. [[Geodinámica de la Tierra]] (intermedio)
