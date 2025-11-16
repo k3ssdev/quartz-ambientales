@@ -85,18 +85,18 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
+**🧬 Biología I** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
 **🗿 Geología I** (359 conceptos)
 - Enlaces entrantes: 2502
 - Conceptos destacados: 248
 - Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
 
-**🧬 Biología I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
 #### 2C - 2° Cuatrimestre
 
-**🦠 Biología II** (1 conceptos)
+**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -104,7 +104,7 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
+**🦠 Biología II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (avanzado)
+1. [[SISTEMA_ETIQUETADO]] (intermedio)
 
 ### Ruta: Procesos Dinamicos
 1. [[Geodinámica de la Tierra]] (intermedio)
