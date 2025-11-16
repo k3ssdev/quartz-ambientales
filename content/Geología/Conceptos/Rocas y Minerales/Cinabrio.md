@@ -12,5 +12,7 @@ tags:
 
 El **Cinabrio** es un [[Mineral|mineral]] del grupo de los [[Sulfuros]].
 
+Su composición es **HgS** (sulfuro de mercurio), y es la única mena importante de mercurio. Se caracteriza por su color rojo bermellón y su [[Raya]] roja brillante.
+
 ### Figuras
 ![[Figura - fotografia de Cinabrio.png]]

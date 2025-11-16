@@ -12,5 +12,7 @@ tags:
 
 La **Magnetita** es un [[Mineral|mineral]] del grupo de los [[Óxidos]].
 
+Es una mena importante de [[Hierro]]. Su propiedad más característica es su fuerte magnetismo natural. Es de color negro y tiene una [[Raya]] también negra.
+
 ### Figuras
 ![[Figura - fotografia de Magnetita.png]]

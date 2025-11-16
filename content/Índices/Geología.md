@@ -27,7 +27,7 @@ tags:
 ## 📁 Navegación por Categorías
 
 ### 🪨 Rocas y Minerales (157 archivos)
-- Enlaces internos: 4 | Enlaces externos: 954
+- Enlaces internos: 4 | Enlaces externos: 1166
 - Conceptos clave: [[Rocas metamórficas]], [[Meteoritos]], [[Granito]]
 
 ### 🎯 Conceptos Fundamentales (92 archivos)
@@ -43,7 +43,7 @@ tags:
 - Conceptos clave: [[Evolución de la vida]], [[Paleógeno]], [[Ordovícico]]
 
 ### ⚡ Procesos Geológicos (58 archivos)
-- Enlaces internos: 2 | Enlaces externos: 327
+- Enlaces internos: 2 | Enlaces externos: 352
 - Conceptos clave: [[Energía interna de la Tierra]], [[Geodinámica de la Tierra]], [[Volcanes]]
 
 ### 🌊 Clima y Oceanografía (53 archivos)
@@ -80,14 +80,14 @@ tags:
 - `#importancia-5` (186 archivos)
 - `#proceso-dinamico` (136 archivos)
 - `#ruta-procesos-dinamicos` (135 archivos)
+- `#rocas-minerales` (132 archivos)
 - `#nivel-basico` (126 archivos)
+- `#geologia-1` (125 archivos)
 - `#importancia-4` (122 archivos)
-- `#conceptos` (119 archivos)
+- `#conceptos` (113 archivos)
 - `#importancia-3` (110 archivos)
-- `#rocas-minerales` (108 archivos)
-- `#geologia-1` (94 archivos)
+- `#geologia1-tema-04` (92 archivos)
 - `#concepto-evento` (89 archivos)
-- `#geologia1-tema-04` (89 archivos)
 - `#concepto-proceso` (84 archivos)
 
 

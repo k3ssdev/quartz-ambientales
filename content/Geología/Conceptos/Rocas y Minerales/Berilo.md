@@ -3,7 +3,6 @@ title: "Berilo"
 aliases: []
 draft: false
 tags:
-  - conceptos
   - geologia-1
   - geologia1-tema-04
   - rocas-minerales
@@ -11,6 +10,8 @@ tags:
 ---
 
 El **Berilo** es un [[Mineral|mineral]] del grupo de los [[Ciclosilicatos]].
+
+Es conocido por sus variedades gema, como la **esmeralda** (verde) y la **aguamarina** (azul). Suele presentar un [[Hábito cristalino|hábito]] de prismas hexagonales.
 
 ### Figuras
 ![[Figura - fotografia de Berilo.png]]

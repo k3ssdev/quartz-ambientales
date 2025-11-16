@@ -1,10 +1,16 @@
 ---
 title: "Roca ígnea Extrusivas"
-aliases: []
-draft: true
+aliases: ["Rocas Volcánicas", "Roca Volcánica"]
+draft: false
 tags:
-  - geologia
   - conceptos
+  - geologia-1
+  - geologia1-tema-05
+  - rocas-minerales
 ---
 
-# Roca ígnea Extrusivas
+Las **rocas ígneas extrusivas**, también conocidas como **rocas volcánicas**, son aquellas que se forman cuando la [[Lava]] se enfría y solidifica *rápidamente en la superficie* de la Tierra.
+
+Este enfriamiento rápido impide el crecimiento de grandes cristales, resultando en una [[Textura]] de grano fino ([[Afanítica]]) o [[Vítrea]].
+
+Ejemplos comunes incluyen el [[Basalto]], la [[Riolita]] y la [[Andesita]].

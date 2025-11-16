@@ -1,10 +1,14 @@
 ---
 title: "Vítrea"
 aliases: []
-draft: true
+draft: false
 tags:
-  - geologia
   - conceptos
+  - geologia-1
+  - geologia1-tema-05
+  - rocas-minerales
 ---
 
-# Vítrea
+La **textura vítrea** es una [[Textura]] de las [[Rocas ígneas]] que se produce por un enfriamiento tan rápido (prácticamente instantáneo) que los átomos no tienen tiempo de organizarse en una estructura cristalina ordenada.
+
+El resultado es un vidrio natural, como la [[Obsidiana]].

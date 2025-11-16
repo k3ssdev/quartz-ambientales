@@ -12,5 +12,7 @@ tags:
 
 La **Magnesita** es un [[Mineral|mineral]] del grupo de los [[Carbonatos]].
 
+Suele ser de color blanco o gris y presentarse en masas microcristalinas (hábito masivo). Se utiliza principalmente para la fabricación de ladrillos refractarios.
+
 ### Figuras
 ![[Figura - fotografia de Magnesita.png]]

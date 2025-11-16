@@ -12,5 +12,7 @@ tags:
 
 La **Epidota** es un [[Mineral|mineral]] del grupo de los [[Sorosilicatos]].
 
+Es un mineral común en [[Roca metamórfica|rocas metamórficas]] de grado bajo a medio. Se caracteriza por su distintivo color verde pistacho a verde amarillento.
+
 ### Figuras
 ![[Figura - fotografia de Epidota.png]]

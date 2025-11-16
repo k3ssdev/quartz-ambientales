@@ -12,5 +12,7 @@ tags:
 
 La **Malaquita** es un [[Mineral|mineral]] del grupo de los [[Carbonatos]].
 
+Es un mineral secundario de [[Cobre]], conocido por su intenso color verde y sus bandas características. Presenta efervescencia con ácido clorhídrico (HCl).
+
 ### Figuras
 ![[Figura - fotografia de Malaquita.png]]
