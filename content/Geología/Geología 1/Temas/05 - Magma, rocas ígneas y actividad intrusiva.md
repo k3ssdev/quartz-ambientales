@@ -1,12 +1,12 @@
 ---
-title: "04b - Magma y Roca ígnea"
-aliases: ["Magma", "Lava", "Roca ígnea", "Rocas Plutónicas", "Rocas Volcánicas", "Textura Ígnea", "Composición Ígnea"]
+title: "05 - Magma, rocas ígneas y actividad intrusiva"
+aliases: ["Magma", "Lava", "Roca ígnea", "Rocas Plutónicas", "Rocas Volcánicas", "Textura Ígnea", "Composición Ígnea", "Plutones"]
 draft: false
-weight: 4
+weight: 5
 tags:
   - temas
   - geologia-1
-  - geologia1-tema-04b
+  - geologia1-tema-05
   - magma-igneo
   - importancia-4
   - nivel-intermedio
@@ -50,8 +50,6 @@ La **[[Textura]]** de una roca ígnea describe su aspecto general en función de
 
 ---
 ## Composición Ígnea: Los Minerales
-
-*Ver: [[04 - Materia y Minerales]]*
 
 Las Roca ígnea están compuestas fundamentalmente por **[[Silicatos]]**. Estos se dividen en dos grandes grupos basados en su composición química y color:
 
