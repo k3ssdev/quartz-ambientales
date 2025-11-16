@@ -1,5 +1,5 @@
 ---
-title: "Índice Temático - Geología"
+title: "Indice Geologia 1"
 tags:
   - navegacion
   - sistema-enlaces
@@ -8,71 +8,71 @@ tags:
   - obsidian
 ---
 
-# 📚 Índice Temático
+# 📚 Índice Geología I
+
+## 📖 Temas
+
+### 01 - Introducción a la Geología.md
+- [[01 - Introducción a la Geología]]
+
+### 02 - Téctonica de placas.md
+- [[02 - Téctonica de placas]]
+
+### 03 - Sismicidad y el interior de la Tierra.md
+- [[03 - Sismicidad y el interior de la Tierra]]
+
+### 04 - Materia y Minerales.md
+- [[04 - Materia y Minerales]]
+
+### 05 - Magma, rocas ígneas y actividad intrusiva.md
+- [[05 - Magma, rocas ígneas y actividad intrusiva]]
+
+
 
 ## 📁 Navegación por Categorías
 
 ### 🪨 Rocas y Minerales (157 archivos)
 - Enlaces internos: 4 | Enlaces externos: 937
-- Conceptos clave: [[Geología/Conceptos/Rocas y Minerales/Rocas metamórficas]], [[Geología/Conceptos/Rocas y Minerales/Meteoritos]], [[Geología/Conceptos/Rocas y Minerales/Granito]]
+- Conceptos clave: [[Rocas metamórficas]], [[Meteoritos]], [[Granito]]
 
 ### 🎯 Conceptos Fundamentales (92 archivos)
 - Enlaces internos: 2 | Enlaces externos: 572
-- Conceptos clave: [[Geología/Conceptos/Conceptos Fundamentales/Geología]], [[Geología/Conceptos/Recursos y Riesgos/Recursos naturales]], [[Geología/Conceptos/Recursos y Riesgos/Tsunamis]]
+- Conceptos clave: [[Geología]], [[Recursos naturales]], [[Tsunamis]]
 
 ### 🌍 Tectónica de Placas (63 archivos)
 - Enlaces internos: 0 | Enlaces externos: 396
-- Conceptos clave: [[Geología/Conceptos/Tectónica de Placas/Plegamientos]], [[Geología/Conceptos/Tectónica de Placas/Inversión geomagnética]], [[Geología/Conceptos/Tectónica de Placas/Deriva continental]]
+- Conceptos clave: [[Plegamientos]], [[Inversión geomagnética]], [[Deriva continental]]
 
 ### 📚 Historia Geológica (62 archivos)
 - Enlaces internos: 0 | Enlaces externos: 458
-- Conceptos clave: [[Geología/Conceptos/Historia Geológica/Evolución de la vida]], [[Geología/Conceptos/Historia Geológica/Paleógeno]], [[Geología/Conceptos/Historia Geológica/Ordovícico]]
+- Conceptos clave: [[Evolución de la vida]], [[Paleógeno]], [[Ordovícico]]
 
 ### ⚡ Procesos Geológicos (58 archivos)
 - Enlaces internos: 2 | Enlaces externos: 327
-- Conceptos clave: [[Geología/Conceptos/Procesos Geológicos/Energía interna de la Tierra]], [[Geología/Conceptos/Procesos Geológicos/Geodinámica de la Tierra]], [[Geología/Conceptos/Procesos Geológicos/Volcanes]]
+- Conceptos clave: [[Energía interna de la Tierra]], [[Geodinámica de la Tierra]], [[Volcanes]]
 
 ### 🌊 Clima y Oceanografía (53 archivos)
 - Enlaces internos: 0 | Enlaces externos: 472
-- Conceptos clave: [[Geología/Conceptos/Clima y Oceanografía/Icebergs]], [[Geología/Conceptos/Clima y Oceanografía/Océano]], [[Geología/Conceptos/Clima y Oceanografía/Ciclo del carbono]]
+- Conceptos clave: [[Icebergs]], [[Océano]], [[Ciclo del carbono]]
 
 ### 🏔️ Geomorfología (28 archivos)
 - Enlaces internos: 0 | Enlaces externos: 122
-- Conceptos clave: [[Geología/Conceptos/Geomorfología/Cordillera joven]], [[Geología/Conceptos/Geomorfología/Derrumbes]], [[Geología/Conceptos/Geomorfología/Valles]]
+- Conceptos clave: [[Cordillera joven]], [[Derrumbes]], [[Valles]]
 
 ### 🏗️ Estructura Terrestre (28 archivos)
 - Enlaces internos: 0 | Enlaces externos: 185
-- Conceptos clave: [[Geología/Conceptos/Estructura Terrestre/Capa D'']], [[Geología/Conceptos/Estructura Terrestre/Atmósfera]], [[Geología/Conceptos/Estructura Terrestre/Esferas terrestres]]
+- Conceptos clave: [[Capa D'']], [[Atmósfera]], [[Esferas terrestres]]
 
 ### ⚠️ Recursos y Riesgos (3 archivos)
 - Enlaces internos: 0 | Enlaces externos: 55
-- Conceptos clave: [[Geología/Geología 1/Recursos/Bibliografía/Tarbuck-Lutgens-Completo]], [[Geología/Geología 1/Recursos/Bibliografía/Tarbuck-Lutgens-Volumen-I]]
-
-
-
-## 📖 Temas
-
-### 01 - Introducción a la Geología.md
-- [[Geología/Geología 1/Temas/01 - Introducción a la Geología]]
-
-### 02 - Téctonica de placas.md
-- [[Geología/Geología 1/Temas/02 - Téctonica de placas]]
-
-### 03 - Sismicidad y el interior de la Tierra.md
-- [[Geología/Geología 1/Temas/03 - Sismicidad y el interior de la Tierra]]
-
-### 04 - Materia y Minerales.md
-- [[Geología/Geología 1/Temas/04 - Materia y Minerales]]
-
-### 05 - Magma, rocas ígneas y actividad intrusiva.md
-- [[Geología/Geología 1/Temas/05 - Magma, rocas ígneas y actividad intrusiva]]
+- Conceptos clave: [[Tarbuck-Lutgens-Completo]], [[Tarbuck-Lutgens-Volumen-I]]
 
 
 
 ## ✍️ Fichas de Ejercicios
 
-- [[Geología/Geología 1/Ejercicios/Ejercicios 01]]
-- [[Geología/Geología 1/Ejercicios/Ejercicios 02]]
+- [[Ejercicios 01]]
+- [[Ejercicios 02]]
 
 
 
