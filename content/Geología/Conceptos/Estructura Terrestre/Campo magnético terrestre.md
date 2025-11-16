@@ -12,7 +12,7 @@ tags:
 ---
 # Campo magnético terrestre
 
-El **campo magnético terrestre** es el campo magnético que se extiende desde el interior de la Tierra hacia el espacio.
+El **campo magnético terrestre** es el campo magnético que se extiende desde el [[03 - Sismicidad y el interior de la Tierra|interior de la Tierra]] hacia el espacio.
 
 ## Origen
 - Se genera en el [[Núcleo externo]] líquido a través del proceso de [[Geodinamo|geodinamo]].

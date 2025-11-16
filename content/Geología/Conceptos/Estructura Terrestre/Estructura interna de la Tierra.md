@@ -22,4 +22,4 @@ La [[Tierra]] está diferenciada en capas según: ###Capas químicas
 - [[Núcleo externo]] (líquido).
 - [[Núcleo interno]] (sólido).
 
-**Importancia**: el estudio de la **sismicidad** y la [[densidad]] revela esta estructura sin observarla directamente.
+**Importancia**: el estudio de la **[[03 - Sismicidad y el interior de la Tierra|sismicidad]]** y la [[densidad]] revela esta estructura sin observarla directamente.

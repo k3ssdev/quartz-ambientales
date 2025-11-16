@@ -18,4 +18,4 @@ La **conducción** es un mecanismo de transferencia de calor a través de un mat
 - **[[Núcleo interno]]**: El calor se transfiere a través del núcleo interno sólido por conducción.
 - **[[Capa D'']]**: La conducción también es importante en esta capa límite entre el manto y el núcleo.
 
-En general, la conducción es menos eficiente que la [[Convección]] para transferir calor a grandes distancias en el interior de la Tierra.
+En general, la conducción es menos eficiente que la [[Convección]] para transferir calor a grandes distancias en el [[03 - Sismicidad y el interior de la Tierra|interior de la Tierra]].

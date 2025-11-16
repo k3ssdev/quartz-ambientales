@@ -1,3 +1,4 @@
+*Ver también: [[04 - Materia y Minerales]]*
 ---
 title: "Clasificación de minerales"
 aliases: []

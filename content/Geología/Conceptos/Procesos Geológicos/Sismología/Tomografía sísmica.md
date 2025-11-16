@@ -12,7 +12,7 @@ tags:
 ---
 # Tomografía sísmica
 
-La **tomografía sísmica** es una técnica geofísica que utiliza los datos de las [[Onda sísmica|ondas sísmicas]] de miles de [[Terremotos|terremotos]], registradas en estaciones de todo el mundo, para crear imágenes tridimensionales del interior de la Tierra.
+La **tomografía sísmica** es una técnica geofísica que utiliza los datos de las [[Onda sísmica|ondas sísmicas]] de miles de [[Terremotos|terremotos]], registradas en estaciones de todo el mundo, para crear imágenes tridimensionales del [[03 - Sismicidad y el interior de la Tierra|interior de la Tierra]].
 
 ## Principio
 - La velocidad de las ondas sísmicas varía según la temperatura, composición y densidad de las rocas que atraviesan.

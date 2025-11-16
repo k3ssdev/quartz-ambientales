@@ -12,7 +12,7 @@ tags:
 ---
 # Foco (Sismología)
 
-El **foco** o **hipocentro** es el punto en el interior de la Tierra donde se origina la ruptura de la roca que da lugar a un [[Terremotos|terremoto]].
+El **foco** o **hipocentro** es el punto en el [[03 - Sismicidad y el interior de la Tierra|interior de la Tierra]] donde se origina la ruptura de la roca que da lugar a un [[Terremotos|terremoto]].
 
 ## Características
 - **Profundidad**: Varía entre 5 y 700 km.

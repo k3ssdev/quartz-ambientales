@@ -51,6 +51,8 @@ La **[[Textura]]** de una roca ígnea describe su aspecto general en función de
 ---
 ## Composición Ígnea: Los Minerales
 
+*Ver: [[04 - Materia y Minerales]]*
+
 Las Roca ígnea están compuestas fundamentalmente por **[[Silicatos]]**. Estos se dividen en dos grandes grupos basados en su composición química y color:
 
 * **[[Silicatos Claros (No Ferromagnesianos)]]**: Contienen mayores cantidades de potasio (K), sodio (Na) y calcio (Ca) y son más ricos en sílice. (Ej. **[[Cuarzo]]**, **[[Feldespato]]**, **[[Moscovita]]**).

@@ -19,4 +19,4 @@ Características:
 - **Sur:** contacto con la [[placa del Caribe]].
 - Contiene parte del Ártico y Groenlandia.
 
-Importancia: fundamental para entender la sismicidad en California y los procesos de la [[Tectónica de placas]] en América del Norte.
+Importancia: fundamental para entender la [[03 - Sismicidad y el interior de la Tierra|sismicidad]] en California y los procesos de la [[Tectónica de placas]] en América del Norte.

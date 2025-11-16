@@ -19,4 +19,4 @@ La **desintegración radiactiva** es el proceso espontáneo por el cual un núcl
 
 ## Importancia en Geología
 - **[[Datación radiométrica]]**: Es el fundamento de la datación absoluta. Al medir la proporción de isótopos padre e hijo en una roca y conociendo la vida media, se puede calcular la edad de la roca.
-- **Fuente de calor interno**: La desintegración de isótopos como el [[Uranio]], [[Torio]] y [[Potasio-40]] en el interior de la Tierra es la principal fuente del calor que impulsa la [[Tectónica de placas|tectónica de placas]] y otros procesos geológicos.
+- **Fuente de calor interno**: La desintegración de isótopos como el [[Uranio]], [[Torio]] y [[Potasio-40]] en el [[03 - Sismicidad y el interior de la Tierra|interior de la Tierra]] es la principal fuente del calor que impulsa la [[Tectónica de placas|tectónica de placas]] y otros procesos geológicos.

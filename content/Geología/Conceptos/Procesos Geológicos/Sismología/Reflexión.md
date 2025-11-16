@@ -15,6 +15,6 @@ En sismología, la **reflexión** es el fenómeno que ocurre cuando una [[Onda s
 
 ## Aplicaciones
 - **Sismología de reflexión**: Es una técnica geofísica fundamental utilizada para crear imágenes del subsuelo. Se generan ondas sísmicas artificiales y se registran las ondas reflejadas para mapear estructuras geológicas.
-- **Estudio del interior de la Tierra**: La reflexión de las ondas sísmicas en las discontinuidades internas (como la [[Discontinuidad de Moho]] o el límite núcleo-manto) ha sido clave para descubrir la [[Estructura interna de la Tierra|estructura en capas]] de nuestro planeta.
+- **Estudio del [[03 - Sismicidad y el interior de la Tierra|interior de la Tierra]]**: La reflexión de las ondas sísmicas en las discontinuidades internas (como la [[Discontinuidad de Moho]] o el límite núcleo-manto) ha sido clave para descubrir la [[Estructura interna de la Tierra|estructura en capas]] de nuestro planeta.
 
 La reflexión es análoga al eco de una onda de sonido. Se diferencia de la [[Refracción]], donde la onda atraviesa el límite cambiando su dirección.

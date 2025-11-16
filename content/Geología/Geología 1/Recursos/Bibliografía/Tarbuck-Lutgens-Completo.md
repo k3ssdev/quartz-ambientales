@@ -30,7 +30,7 @@ tags:
 ### 📚 Para Geología I (Capítulos 1-11)
 - **Capítulo 1:** [[Tectónica de placas]] - Base conceptual
 - **Capítulo 2:** [[Terremotos]] y riesgos sísmicos
-- **Capítulo 3:** [[El interior de la Tierra]] - Estructura
+- **Capítulo 3:** [[03 - Sismicidad y el interior de la Tierra]] - Estructura
 - **Capítulo 4:** [[Minerales]] - Materiales básicos
 - **Capítulo 5:** [[Magma]] y [[Rocas ígneas]] - Actividad intrusiva
 - **Capítulo 6:** [[Volcanes]] y riesgos volcánicos

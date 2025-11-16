@@ -11,7 +11,7 @@ tags:
 ---
 # Gradiente geotérmico
 
-El **gradiente geotérmico** (o **geoterma**) es la tasa de aumento de la [[Temperatura]] con la profundidad en el interior de la Tierra.
+El **gradiente geotérmico** (o **geoterma**) es la tasa de aumento de la [[Temperatura]] con la profundidad en el [[03 - Sismicidad y el interior de la Tierra|interior de la Tierra]].
 
 ## Características
 - **Valor promedio**: En la corteza, el gradiente geotérmico promedio es de unos 25-30 °C por kilómetro de profundidad.

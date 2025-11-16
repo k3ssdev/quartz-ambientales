@@ -38,15 +38,15 @@ tags:
 ## 📁 Navegación por Categorías
 
 ### 🪨 Rocas y Minerales (159 archivos)
-- Enlaces internos: 528 | Enlaces externos: 939
+- Enlaces internos: 531 | Enlaces externos: 942
 - Conceptos clave: [[Mineral]], [[Rocas sedimentarias]], [[Rocas ígneas]]
 
 ### 🎯 Conceptos Fundamentales (92 archivos)
-- Enlaces internos: 192 | Enlaces externos: 571
+- Enlaces internos: 192 | Enlaces externos: 572
 - Conceptos clave: [[Tierra]], [[Vida]], [[Sol]]
 
 ### 🌍 Tectónica de Placas (65 archivos)
-- Enlaces internos: 266 | Enlaces externos: 407
+- Enlaces internos: 266 | Enlaces externos: 409
 - Conceptos clave: [[Tectónica de placas]], [[Terremotos]], [[Litosfera]]
 
 ### 📚 Historia Geológica (62 archivos)
@@ -54,7 +54,7 @@ tags:
 - Conceptos clave: [[Fósiles]], [[Historia geológica]], [[Evolución de la vida]]
 
 ### ⚡ Procesos Geológicos (58 archivos)
-- Enlaces internos: 99 | Enlaces externos: 320
+- Enlaces internos: 99 | Enlaces externos: 327
 - Conceptos clave: [[Vulcanismo]], [[Magma]], [[Erosión]]
 
 ### 🌊 Clima y Oceanografía (53 archivos)
@@ -66,11 +66,11 @@ tags:
 - Conceptos clave: [[Cordilleras]], [[Glaciares]], [[Andes]]
 
 ### 🏗️ Estructura Terrestre (28 archivos)
-- Enlaces internos: 67 | Enlaces externos: 180
+- Enlaces internos: 67 | Enlaces externos: 183
 - Conceptos clave: [[Litosfera]], [[Manto]], [[Astenosfera]]
 
 ### ⚠️ Recursos y Riesgos (3 archivos)
-- Enlaces internos: 12 | Enlaces externos: 54
+- Enlaces internos: 12 | Enlaces externos: 55
 - Conceptos clave: [[Tarbuck-Lutgens-Completo]], [[Tarbuck-Lutgens-Volumen-I]]
 
 
@@ -85,26 +85,26 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
+**🗿 Geología I** (359 conceptos)
+- Enlaces entrantes: 2501
+- Conceptos destacados: 248
+- Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
+
 **🧬 Biología I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🗿 Geología I** (359 conceptos)
-- Enlaces entrantes: 2502
-- Conceptos destacados: 248
-- Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
-
 #### 2C - 2° Cuatrimestre
+
+**🦠 Biología II** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
 
 **🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
 **📐 Matemáticas II** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
-**🦠 Biología II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (intermedio)
+1. [[SISTEMA_ETIQUETADO]] (basico)
 
 ### Ruta: Procesos Dinamicos
 1. [[Geodinámica de la Tierra]] (intermedio)
@@ -175,7 +175,7 @@ tags:
 1. [[Vulcanismo]] → [[Orogenia]] → [[Terremotos]]
 
 ### Ruta 3: Materiales
-1. [[Rocas sedimentarias]] → [[Rocas ígneas]] → [[Mineral]]
+1. [[Rocas sedimentarias]] → [[Rocas ígneas]]
 
 
 
@@ -190,12 +190,12 @@ tags:
 - `#proceso-dinamico` (136 archivos)
 - `#nivel-basico` (127 archivos)
 - `#importancia-4` (122 archivos)
-- `#conceptos` (121 archivos)
+- `#conceptos` (119 archivos)
 - `#importancia-3` (110 archivos)
-- `#rocas-minerales` (110 archivos)
-- `#geologia-1` (96 archivos)
-- `#geologia1-tema-04` (91 archivos)
+- `#rocas-minerales` (108 archivos)
+- `#geologia-1` (94 archivos)
 - `#concepto-evento` (89 archivos)
+- `#geologia1-tema-04` (89 archivos)
 - `#concepto-proceso` (84 archivos)
 
 

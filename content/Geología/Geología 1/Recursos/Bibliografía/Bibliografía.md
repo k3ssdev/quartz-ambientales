@@ -60,7 +60,7 @@ Ver las notas individuales para:
 - **Introducción a la geología** (Tema 00)
 - **Capítulo 1:** Tectónica de placas (Tema 01)
 - **Capítulo 2:** Terremotos y riesgos sísmicos (Tema 02)
-- **Capítulo 3:** El interior de la Tierra (Tema 03)
+- **Capítulo 3:** [[03 - Sismicidad y el interior de la Tierra]] (Tema 03)
 - **Capítulo 4:** Materiales y minerales (Tema 04)
 - **Capítulo 5:** Magma, Roca ígnea y actividad intrusiva (Tema 05)
 - **Capítulo 6:** Volcanes y riesgos volcánicos (Tema 06)

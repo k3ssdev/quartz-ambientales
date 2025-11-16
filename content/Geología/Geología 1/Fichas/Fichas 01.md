@@ -139,7 +139,7 @@ Hace unos 5.000 millones de años una enorme nube de gas y polvo cósmico ([[Neb
 
 Sustancias naturales, inorgánicas y sólidas, con composición química definida y estructura cristalina interna ordenada. Son los componentes fundamentales de las [[Rocas]].
 
-*Ver: [[Minerales]]*
+*Ver: [[04 - Materia y Minerales]]*
 
 ---
 

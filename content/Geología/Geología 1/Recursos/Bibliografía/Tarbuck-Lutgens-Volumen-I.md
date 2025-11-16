@@ -26,7 +26,7 @@ tags:
 - **[[00 - Introducción a la Geología]]** - Conceptos fundamentales
 - **[[01 - Tectónica de Placas]]** - Teoría unificadora
 - **[[02 - Terremotos]]** - Riesgos sísmicos
-- **[[03 - El Interior de la Tierra]]** - Estructura interna
+- **[[03 - Sismicidad y el interior de la Tierra]]** - Estructura interna
 - **[[04 - Minerales]]** - Materiales básicos
 - **[[05 - Roca ígnea]]** - Magma y actividad intrusiva
 - **[[06 - Volcanes]]** - Riesgos volcánicos

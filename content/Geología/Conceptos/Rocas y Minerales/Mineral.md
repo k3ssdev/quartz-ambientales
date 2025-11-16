@@ -1,3 +1,4 @@
+*Ver también: [[04 - Materia y Minerales]]*
 ---
 title: "Mineral"
 aliases: ["Minerales"]

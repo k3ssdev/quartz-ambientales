@@ -90,6 +90,6 @@ tags:
 - **Archivos totales**: 554
 - **Asignaturas activas**: 1 (Geología)
 - **Tags únicos**: 30
-- **Sistema de tags**: 99.8% cumplimiento
+- **Sistema de tags**: 99.5% cumplimiento
 
 *Última actualización: 16/11/2025*
