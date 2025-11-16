@@ -12,20 +12,15 @@ tags:
 
 ## 📖 Temas
 
-### 01 - Introducción a la Geología.md
-- [[01 - Introducción a la Geología]]
+### [[01 - Introducción a la Geología]]
 
-### 02 - Téctonica de placas.md
-- [[02 - Téctonica de placas]]
+### [[02 - Téctonica de placas]]
 
-### 03 - Sismicidad y el interior de la Tierra.md
-- [[03 - Sismicidad y el interior de la Tierra]]
+### [[03 - Sismicidad y el interior de la Tierra]]
 
-### 04 - Materia y Minerales.md
-- [[04 - Materia y Minerales]]
+### [[04 - Materia y Minerales]]
 
-### 05 - Magma, rocas ígneas y actividad intrusiva.md
-- [[05 - Magma, rocas ígneas y actividad intrusiva]]
+### [[05 - Magma, rocas ígneas y actividad intrusiva]]
 
 
 
