@@ -19,3 +19,7 @@ Estos planos de exfoliación son superficies lisas y planas. La calidad y el nú
 - **Exfoliación en tres direcciones a 90°**: Forma cubos. Ejemplo: [[Halita]], [[Galena]].
 - **Exfoliación en tres direcciones, no a 90°**: Forma romboedros. Ejemplo: [[Calcita]].
 - **Exfoliación en cuatro direcciones**: Forma octaedros. Ejemplo: [[Fluorita]].
+
+### Figuras
+![[Fig 2.7. Planos de exfoliación en el diamante.png]]
+![[Fig 2.8. Direcciones de fisuras por exfoliación.png]]

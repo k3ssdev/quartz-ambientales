@@ -9,25 +9,25 @@ tags:
   - rocas-minerales
   - propiedades-minerales
 ---
-La **Escala de Mohs** es una escala de [[Dureza]] relativa utilizada para clasificar los [[Minerales]]. La escala va de 1 a 10, donde 1 es el mineral más blando y 10 es el más duro.
+La **escala de Mohs** es una escala relativa que mide la [[Dureza]] de los [[Mineral|minerales]]. Fue creada por el mineralogista alemán Friedrich Mohs en 1812.
 
-Un mineral en la escala puede rayar a cualquier mineral con un número más bajo.
+La escala consta de 10 minerales de referencia, ordenados del 1 (más blando) al 10 (más duro). Un mineral con una dureza determinada puede rayar a cualquier mineral con una dureza inferior.
 
-**Minerales de referencia:**
-1.  **[[Talco]]**
-2.  **[[Yeso]]**
-3.  **[[Calcita]]**
-4.  **[[Fluorita]]**
-5.  **[[Apatito]]**
-6.  **[[Ortoclasa]]** (Feldespato)
-7.  **[[Cuarzo]]**
-8.  **[[Topacio]]**
-9.  **[[Corindón]]**
-10. **[[Diamante]]**
+### La Escala
 
-**Objetos comunes para pruebas de campo:**
-- Uña (~2.5)
-- Moneda de cobre (~3.5)
-- Clavo de acero (~4.5)
-- Vidrio (~5.5)
-- Cuchillo de acero (~6.5)
+| Dureza | Mineral | Dureza Absoluta (referencia) | Objetos Comunes |
+| :--- | :--- | :--- | :--- |
+| 1 | [[Talco]] | 1 | Se raya muy fácil con la uña |
+| 2 | [[Yeso]] | 3 | Se raya con la uña (2.5) |
+| 3 | [[Calcita]] | 9 | Moneda de cobre (3.5) |
+| 4 | [[Fluorita]] | 21 | |
+| 5 | [[Apatito]] | 48 | Navaja, vidrio (5.5) |
+| 6 | [[Ortosa]] (Feldespato) | 72 | Lima de acero (6.5) |
+| 7 | [[Cuarzo]] | 100 | Raya el acero |
+| 8 | [[Topacio]] | 200 | |
+| 9 | [[Corindón]] | 400 | |
+| 10 | [[Diamante]] | 1500 | |
+
+Es importante notar que la escala no es lineal. La diferencia de dureza absoluta entre el Corindón (9) y el Diamante (10) es mucho mayor que entre el Talco (1) y el Corindón (9).
+
+![[Fig 2.6. Dureza de Mohs vs Dureza absoluta.png]]

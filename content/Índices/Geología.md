@@ -14,9 +14,9 @@ tags:
 
 ### Conceptos Centrales
 - [[Tierra]] - Concepto más enlazado (93 enlaces entrantes)
+- [[Mineral]] - Concepto más enlazado (65 enlaces entrantes)
 - [[Tectónica de placas]] - Concepto más enlazado (60 enlaces entrantes)
 - [[Terremotos]] - Concepto más enlazado (38 enlaces entrantes)
-- [[Rocas sedimentarias]] - Concepto más enlazado (37 enlaces entrantes)
 - [[Litosfera]] - Concepto más enlazado (36 enlaces entrantes)
 
 ### Procesos Fundamentales
@@ -37,9 +37,9 @@ tags:
 
 ## 📁 Navegación por Categorías
 
-### 🪨 Rocas y Minerales (103 archivos)
-- Enlaces internos: 263 | Enlaces externos: 625
-- Conceptos clave: [[Rocas sedimentarias]], [[Rocas ígneas]], [[Rocas]]
+### 🪨 Rocas y Minerales (159 archivos)
+- Enlaces internos: 468 | Enlaces externos: 876
+- Conceptos clave: [[Mineral]], [[Rocas sedimentarias]], [[Rocas ígneas]]
 
 ### 🎯 Conceptos Fundamentales (92 archivos)
 - Enlaces internos: 192 | Enlaces externos: 571
@@ -85,26 +85,26 @@ tags:
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
+**🗿 Geología I** (359 conceptos)
+- Enlaces entrantes: 2499
+- Conceptos destacados: 249
+- Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
+
 **🧬 Biología I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-**🗿 Geología I** (360 conceptos)
-- Enlaces entrantes: 2500
-- Conceptos destacados: 250
-- Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
-
 #### 2C - 2° Cuatrimestre
+
+**🦠 Biología II** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
 
 **🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
 **📐 Matemáticas II** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
-
-**🦠 Biología II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] (avanzado)
+1. [[SISTEMA_ETIQUETADO]] ()
 
 ### Ruta: Procesos Dinamicos
 1. [[Geodinámica de la Tierra]] (intermedio)
@@ -175,28 +175,28 @@ tags:
 1. [[Vulcanismo]] → [[Orogenia]] → [[Terremotos]]
 
 ### Ruta 3: Materiales
-1. [[Rocas sedimentarias]] → [[Rocas ígneas]]
+1. [[Rocas sedimentarias]] → [[Rocas ígneas]] → [[Mineral]]
 
 
 
 ## 🏷️ Tags Más Utilizados
 
 ### Top Tags del Vault
-- `#primero-1-geologia-1` (360 archivos)
+- `#primero-1-geologia-1` (359 archivos)
 - `#nivel-intermedio` (271 archivos)
-- `#concepto-central` (221 archivos)
+- `#concepto-central` (220 archivos)
 - `#importancia-5` (186 archivos)
 - `#ruta-procesos-dinamicos` (137 archivos)
 - `#proceso-dinamico` (136 archivos)
-- `#nivel-basico` (128 archivos)
+- `#nivel-basico` (127 archivos)
 - `#importancia-4` (122 archivos)
-- `#importancia-3` (111 archivos)
+- `#conceptos` (121 archivos)
+- `#importancia-3` (110 archivos)
+- `#rocas-minerales` (110 archivos)
+- `#geologia-1` (96 archivos)
+- `#geologia1-tema-04` (91 archivos)
 - `#concepto-evento` (89 archivos)
 - `#concepto-proceso` (84 archivos)
-- `#conceptos-fundamentales` (76 archivos)
-- `#ruta-tiempo-evolucion` (70 archivos)
-- `#ruta-fundamentos` (70 archivos)
-- `#geologia1-tema-01` (69 archivos)
 
 
 

@@ -26,10 +26,10 @@ La mayoría de los magmas constan de tres partes:
 
 ## Formación y Tipos de Roca ígnea
 
-Las Roca ígnea (del latín *ignis*, "fuego") se forman cuando el magma se enfría y solidifica, un proceso llamado **[[Cristalización]]**.
+Las [[Rocas ígneas]] (del latín *ignis*, "fuego") se forman cuando el magma se enfría y solidifica, un proceso llamado **[[Cristalización]]**.
 
 ### Ambientes de Formación
-Las Roca ígnea se forman en dos ambientes básicos:
+Las [[Rocas ígneas]] se forman en dos ambientes básicos:
 1.  **[[Roca ígnea Intrusivas]] (o Plutónicas)**: Se forman cuando el magma cristaliza *lentamente en profundidad*. El enfriamiento lento permite el crecimiento de cristales grandes (grano grueso). (Ej. Monte Rushmore, Yosemite).
 2.  **[[Roca ígnea Extrusivas]] (o Volcánicas)**: Se forman cuando la lava se solidifica *rápidamente en la superficie*. El enfriamiento rápido produce cristales muy pequeños (grano fino). (Ej. Volcanes de los Andes, Islas Hawái).
 
