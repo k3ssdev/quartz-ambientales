@@ -28,7 +28,7 @@ tags:
 - **[[02 - Terremotos]]** - Riesgos sísmicos
 - **[[03 - El Interior de la Tierra]]** - Estructura interna
 - **[[04 - Minerales]]** - Materiales básicos
-- **[[05 - Rocas Ígneas]]** - Magma y actividad intrusiva
+- **[[05 - Roca ígnea]]** - Magma y actividad intrusiva
 - **[[06 - Volcanes]]** - Riesgos volcánicos
 - **[[07 - Rocas Sedimentarias]]** - Procesos superficiales
 - **[[08 - Rocas Metamórficas]]** - Metamorfismo

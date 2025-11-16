@@ -17,7 +17,7 @@ El **metamorfismo regional** es un tipo de **[[Metamorfismo]]** que ocurre en am
 **Características:**
 
 - Formación de rocas foliadas como [[Pizarra]], [[Esquisto]] y [[Gneis]].
-- Relacionado con el enterramiento profundo de sedimentos y rocas ígneas.
+- Relacionado con el enterramiento profundo de sedimentos y Roca ígnea.
 
 **Importancia:**
 

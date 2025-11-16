@@ -144,7 +144,7 @@ Estas esferas funcionan a partir de **dos fuentes principales de energía**:
 
 Las [[rocas]] se clasifican según su origen:
 
-- **[[Rocas ígneas]]** → solidificación del [[magma]] o [[lava]].
+- **[[Roca ígnea]]** → solidificación del [[magma]] o [[lava]].
   - Ejemplos: [[granito]], [[basalto]], [[gabro]].
 - **[[Rocas sedimentarias]]** → acumulación, compactación y [[cementación]] de [[sedimentos]].
   - Tipos: detríticas (arenisca, arcilla), químicas (sal gema, [[caliza]]), orgánicas (carbón).

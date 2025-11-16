@@ -62,7 +62,7 @@ Ver las notas individuales para:
 - **Capítulo 2:** Terremotos y riesgos sísmicos (Tema 02)
 - **Capítulo 3:** El interior de la Tierra (Tema 03)
 - **Capítulo 4:** Materiales y minerales (Tema 04)
-- **Capítulo 5:** Magma, rocas ígneas y actividad intrusiva (Tema 05)
+- **Capítulo 5:** Magma, Roca ígnea y actividad intrusiva (Tema 05)
 - **Capítulo 6:** Volcanes y riesgos volcánicos (Tema 06)
 - **Capítulo 7:** Rocas sedimentarias (Tema 07)
 - **Capítulo 8:** Metamorfismo y rocas metamórficas (Tema 08)

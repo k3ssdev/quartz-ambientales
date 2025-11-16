@@ -1,5 +1,5 @@
 ---
-title: "Rocas Ígneas Intrusivas"
+title: "Roca ígnea Intrusivas"
 aliases: []
 draft: true
 tags:
@@ -7,4 +7,4 @@ tags:
   - conceptos
 ---
 
-# Rocas Ígneas Intrusivas
+# Roca ígnea Intrusivas

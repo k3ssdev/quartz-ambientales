@@ -9,7 +9,7 @@ tags:
   - importancia-3
   - concepto-central
 ---
-Las **rocas volcánicas** son un tipo de [[rocas ígneas]] formadas por el enfriamiento y solidificación rápida de la [[lava]] en la superficie terrestre.
+Las **rocas volcánicas** son un tipo de [[Roca ígnea]] formadas por el enfriamiento y solidificación rápida de la [[lava]] en la superficie terrestre.
 
 - Enfriamiento rápido → cristales pequeños o textura vítrea.
 - Frequentemente porosas (vesículas), debido a gases atrapados. ##Ejemplos

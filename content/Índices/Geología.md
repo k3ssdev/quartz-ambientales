@@ -37,9 +37,9 @@ tags:
 
 ## 📁 Navegación por Categorías
 
-### 🪨 Rocas y Minerales (104 archivos)
-- Enlaces internos: 264 | Enlaces externos: 626
-- Conceptos clave: [[Rocas sedimentarias]], [[Rocas]], [[Minerales]]
+### 🪨 Rocas y Minerales (103 archivos)
+- Enlaces internos: 263 | Enlaces externos: 625
+- Conceptos clave: [[Rocas sedimentarias]], [[Roca ígnea]], [[Rocas]]
 
 ### 🎯 Conceptos Fundamentales (92 archivos)
 - Enlaces internos: 192 | Enlaces externos: 571
@@ -81,30 +81,30 @@ tags:
 
 #### 1C - 1° Cuatrimestre
 
-**🗿 Geología I** (361 conceptos)
-- Enlaces entrantes: 2498
-- Conceptos destacados: 251
+**🗿 Geología I** (360 conceptos)
+- Enlaces entrantes: 2500
+- Conceptos destacados: 250
 - Principales: [[Erosión]], [[Volcanes]], [[Suelo]]
-
-**🧬 Biología I** (1 conceptos)
-- Enlaces entrantes: 0
-- Conceptos destacados: 0
 
 **🔢 Matemáticas I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
-#### 2C - 2° Cuatrimestre
-
-**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
+**🧬 Biología I** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
+
+#### 2C - 2° Cuatrimestre
 
 **🦠 Biología II** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
 **📐 Matemáticas II** (1 conceptos)
+- Enlaces entrantes: 0
+- Conceptos destacados: 0
+
+**🧪 Bases Químicas del Medio Ambiente** (1 conceptos)
 - Enlaces entrantes: 0
 - Conceptos destacados: 0
 
@@ -131,7 +131,7 @@ tags:
 ## 🎯 Rutas de Aprendizaje
 
 ### Ruta: 
-1. [[SISTEMA_ETIQUETADO]] ()
+1. [[SISTEMA_ETIQUETADO]] (intermedio)
 
 ### Ruta: Procesos Dinamicos
 1. [[Geodinámica de la Tierra]] (intermedio)
@@ -172,20 +172,20 @@ tags:
 1. [[SISTEMA_ETIQUETADO]] → [[index]] → [[Hawái]]
 
 ### Ruta 2: Procesos Dinámicos
-1. [[Magma]] → [[Vulcanismo]] → [[Orogenia]]
+1. [[Vulcanismo]] → [[Orogenia]] → [[Terremotos]]
 
 ### Ruta 3: Materiales
-1. [[Rocas sedimentarias]]
+1. [[Rocas sedimentarias]] → [[Roca ígnea]]
 
 
 
 ## 🏷️ Tags Más Utilizados
 
 ### Top Tags del Vault
-- `#primero-1-geologia-1` (361 archivos)
-- `#nivel-intermedio` (272 archivos)
-- `#concepto-central` (222 archivos)
-- `#importancia-5` (187 archivos)
+- `#primero-1-geologia-1` (360 archivos)
+- `#nivel-intermedio` (271 archivos)
+- `#concepto-central` (221 archivos)
+- `#importancia-5` (186 archivos)
 - `#ruta-procesos-dinamicos` (137 archivos)
 - `#proceso-dinamico` (136 archivos)
 - `#nivel-basico` (128 archivos)
@@ -195,12 +195,12 @@ tags:
 - `#concepto-proceso` (84 archivos)
 - `#conceptos-fundamentales` (76 archivos)
 - `#ruta-tiempo-evolucion` (70 archivos)
-- `#geologia1-tema-01` (70 archivos)
 - `#ruta-fundamentos` (70 archivos)
+- `#geologia1-tema-01` (69 archivos)
 
 
 
 ---
 
 *Sistema generado automáticamente basado en análisis de tags de Obsidian*
-*Última actualización: 10/11/2025*
+*Última actualización: 16/11/2025*

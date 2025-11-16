@@ -20,5 +20,5 @@ Los **silicatos** son el grupo de [[minerales]] más abundante de la [[corteza t
 - Tectosilicatos (ej. [[cuarzo]], feldespatos).
 - Filosilicatos (ej. [[arcillas]], micas).
 
-- Base estructural de las [[rocas ígneas]], [[Rocas metamórficas]] y [[Rocas sedimentarias]].
+- Base estructural de las [[Roca ígnea]], [[Rocas metamórficas]] y [[Rocas sedimentarias]].
 - Determinan la composición y evolución de la [[geosfera]].

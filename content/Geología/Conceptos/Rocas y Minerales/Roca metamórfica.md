@@ -12,7 +12,7 @@ tags:
   - concepto-evento
   - concepto-central
 ---
-Las **rocas metamórficas** son aquellas que se originan por transformación de [[Rocas ígneas]] o [[Rocas sedimentarias]] bajo condiciones extremas de **presión, temperatura** y acción de fluidos, sin llegar a fundirse.
+Las **rocas metamórficas** son aquellas que se originan por transformación de [[Roca ígnea]] o [[Rocas sedimentarias]] bajo condiciones extremas de **presión, temperatura** y acción de fluidos, sin llegar a fundirse.
 
 **Procesos:**
 

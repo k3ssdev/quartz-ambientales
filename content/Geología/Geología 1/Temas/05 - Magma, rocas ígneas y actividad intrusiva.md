@@ -1,6 +1,6 @@
 ---
-title: "04b - Magma y Rocas Ígneas"
-aliases: ["Magma", "Lava", "Rocas Ígneas", "Rocas Plutónicas", "Rocas Volcánicas", "Textura Ígnea", "Composición Ígnea"]
+title: "04b - Magma y Roca ígnea"
+aliases: ["Magma", "Lava", "Roca ígnea", "Rocas Plutónicas", "Rocas Volcánicas", "Textura Ígnea", "Composición Ígnea"]
 draft: false
 weight: 4
 tags:
@@ -24,14 +24,14 @@ La mayoría de los magmas constan de tres partes:
 * **Sólido**: Silicatos ya cristalizados desde el fundido.
 * **Gaseoso (Volátiles)**: Gases disueltos en el magma y confinados por la presión. Los más comunes son el vapor de agua ($\text{H}_2\text{O}$), el dióxido de carbono ($\text{CO}_2$) y el dióxido de azufre ($\text{SO}_2$).
 
-## Formación y Tipos de Rocas Ígneas
+## Formación y Tipos de Roca ígnea
 
-Las rocas ígneas (del latín *ignis*, "fuego") se forman cuando el magma se enfría y solidifica, un proceso llamado **[[Cristalización]]**.
+Las Roca ígnea (del latín *ignis*, "fuego") se forman cuando el magma se enfría y solidifica, un proceso llamado **[[Cristalización]]**.
 
 ### Ambientes de Formación
-Las rocas ígneas se forman en dos ambientes básicos:
-1.  **[[Rocas Ígneas Intrusivas]] (o Plutónicas)**: Se forman cuando el magma cristaliza *lentamente en profundidad*. El enfriamiento lento permite el crecimiento de cristales grandes (grano grueso). (Ej. Monte Rushmore, Yosemite).
-2.  **[[Rocas Ígneas Extrusivas]] (o Volcánicas)**: Se forman cuando la lava se solidifica *rápidamente en la superficie*. El enfriamiento rápido produce cristales muy pequeños (grano fino). (Ej. Volcanes de los Andes, Islas Hawái).
+Las Roca ígnea se forman en dos ambientes básicos:
+1.  **[[Roca ígnea Intrusivas]] (o Plutónicas)**: Se forman cuando el magma cristaliza *lentamente en profundidad*. El enfriamiento lento permite el crecimiento de cristales grandes (grano grueso). (Ej. Monte Rushmore, Yosemite).
+2.  **[[Roca ígnea Extrusivas]] (o Volcánicas)**: Se forman cuando la lava se solidifica *rápidamente en la superficie*. El enfriamiento rápido produce cristales muy pequeños (grano fino). (Ej. Volcanes de los Andes, Islas Hawái).
 
 ---
 ## Texturas Ígneas: El Ambiente de Enfriamiento
@@ -51,7 +51,7 @@ La **[[Textura]]** de una roca ígnea describe su aspecto general en función de
 ---
 ## Composición Ígnea: Los Minerales
 
-Las rocas ígneas están compuestas fundamentalmente por **silicatos**. Estos se dividen en dos grandes grupos basados en su composición química y color:
+Las Roca ígnea están compuestas fundamentalmente por **silicatos**. Estos se dividen en dos grandes grupos basados en su composición química y color:
 
 * **[[Silicatos Claros (No Ferromagnesianos)]]**: Contienen mayores cantidades de potasio (K), sodio (Na) y calcio (Ca) y son más ricos en sílice. (Ej. **Cuarzo**, **Feldespato**, **Moscovita**).
 * **[[Silicatos Oscuros (Ferromagnesianos)]]**: Ricos en hierro (Fe) y/o magnesio (Mg) y bajos en sílice. (Ej. **Olivino**, **Piroxeno**, **Anfíbol**, Biotita).

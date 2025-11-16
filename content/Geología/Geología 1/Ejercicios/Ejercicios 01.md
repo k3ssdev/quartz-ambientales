@@ -165,7 +165,7 @@ Las montañas más jóvenes de la [[Tierra]] se distribuyen en dos cinturones pr
 
 ## 17. Distinga entre escudos y plataformas estables.
 
-- Un **[[Escudo]]** es una gran área de la [[Corteza continental]] que es geológicamente muy antigua y estable, formada por [[Rocas ígneas]] y [[Rocas metamórficas]] expuestas en la superficie.
+- Un **[[Escudo]]** es una gran área de la [[Corteza continental]] que es geológicamente muy antigua y estable, formada por [[Roca ígnea]] y [[Rocas metamórficas]] expuestas en la superficie.
 
 - Una **[[Plataforma estable]]** es similar a un escudo, pero está cubierta por una capa delgada de [[Rocas sedimentarias]] casi horizontales.
 
@@ -194,9 +194,9 @@ Las tres principales unidades topográficas del fondo oceánico son:
 
 ---
 
-## 20. Para cada una de las siguientes características, indique si está asociada con las rocas ígneas, sedimentarias o metamórficas:
+## 20. Para cada una de las siguientes características, indique si está asociada con las Roca ígnea, sedimentarias o metamórficas:
 
-- **Puede ser intrusiva o extrusiva:** [[Rocas ígneas]].
+- **Puede ser intrusiva o extrusiva:** [[Roca ígnea]].
 - **Litificada por compactación y cementación:** [[Rocas sedimentarias]].
 - **La arenisca es un ejemplo:** [[Rocas sedimentarias]].
 - **Algunos miembros de este grupo son foliados:** [[Rocas metamórficas]].
@@ -230,7 +230,7 @@ Este ciclo demuestra que las [[Rocas]] están en un proceso constante de transfo
 - [[Uniformismo]] • [[Catastrofismo]] • [[Superposición]] • [[Datación relativa]]
 
 ### 🪨 Tipos de Rocas
-- [[Rocas ígneas]] • [[Rocas sedimentarias]] • [[Rocas metamórficas]] • [[Ciclo de las rocas]]
+- [[Roca ígnea]] • [[Rocas sedimentarias]] • [[Rocas metamórficas]] • [[Ciclo de las rocas]]
 
 ### 🔬 Método Científico
 - [[Hipótesis]] • [[Teoría]] • [[Observación]] • [[Experimentación]]

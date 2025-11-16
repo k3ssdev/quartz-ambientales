@@ -1,5 +1,5 @@
 ---
-title: "Rocas Ígneas Extrusivas"
+title: "Roca ígnea Extrusivas"
 aliases: []
 draft: true
 tags:
@@ -7,4 +7,4 @@ tags:
   - conceptos
 ---
 
-# Rocas Ígneas Extrusivas
+# Roca ígnea Extrusivas

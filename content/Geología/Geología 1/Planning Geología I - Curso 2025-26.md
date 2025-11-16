@@ -39,14 +39,14 @@ tags:
 | **3** | 29 sep – 5 oct | [[Tema 03 - Sismicidad y el interior de la Tierra]] | Nuevo contenido |
 | **4** | 6–12 oct | [[Tema 01 - Introducción a la Geología]]–[[Tema 02 - Tectónica de placas el desarrollo de una revolución científica]] | 📖 Repaso |
 | **5** | 13–19 oct | [[Tema 04 - Materia y minerales]] | Nuevo contenido |
-| **6** | 20–26 oct | [[Tema 05 - Magma, rocas ígneas y actividad intrusiva]] | Nuevo contenido |
+| **6** | 20–26 oct | [[Tema 05 - Magma, Roca ígnea y actividad intrusiva]] | Nuevo contenido |
 | **7** | 27 oct – 2 nov | [[Tema 06 - Los volcanes y los riesgos volcánicos]] | Nuevo contenido |
 
 ### 🍂 Noviembre 2025
 
 | Semana | Fechas | Contenido | Tipo |
 |--------|--------|-----------|------|
-| **8** | 3–9 nov | [[Tema 03 - Sismicidad y el interior de la Tierra]]–[[Tema 05 - Magma, rocas ígneas y actividad intrusiva]] | 📖 Repaso |
+| **8** | 3–9 nov | [[Tema 03 - Sismicidad y el interior de la Tierra]]–[[Tema 05 - Magma, Roca ígnea y actividad intrusiva]] | 📖 Repaso |
 | **9** | 10–16 nov | [[Tema 07 - Rocas sedimentarias]] | Nuevo contenido |
 | **10** | 17–23 nov | [[Tema 08 - Metamorfismo y rocas metamórficas]] | Nuevo contenido |
 | **11** | 24–30 nov | [[Tema 09 - Energía y recursos minerales]] | Nuevo contenido |

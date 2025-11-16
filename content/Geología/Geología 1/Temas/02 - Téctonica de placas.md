@@ -35,7 +35,7 @@ A mediados del siglo XX, la exploración del fondo oceánico y el estudio del ma
 
 ### [[Paleomagnetismo]]
 
-El estudio del **[[Paleomagnetismo]]** (o magnetismo fósil) fue clave. Las rocas ígneas, al enfriarse por debajo del **[[Punto de Curie]]**, registran la dirección del campo magnético terrestre, conservando un **[[Magnetismo remanente]]**.
+El estudio del **[[Paleomagnetismo]]** (o magnetismo fósil) fue clave. Las Roca ígnea, al enfriarse por debajo del **[[Punto de Curie]]**, registran la dirección del campo magnético terrestre, conservando un **[[Magnetismo remanente]]**.
 - **Deriva Polar Aparente**: Los estudios revelaron que la posición de los polos magnéticos parecía haber migrado a lo largo del tiempo. Al comparar las curvas de deriva de distintos continentes, no coincidían. Sin embargo, al reensamblar los continentes en la posición de [[Pangaea]], las curvas encajaban, demostrando que eran los continentes los que se habían movido, no los polos.
 
 ### [[Expansión del fondo oceánico]]
